@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>M&A Transactions – Enhanced</title>
+<style>
+  :root{
+    --brand:#003366;
+    --brand-2:#0a4a82;
+    --bg:#f5f7fa;
+    --text:#1a1a1a;
+    --muted:#6b7280;
+    --card:#ffffff;
+    --border:#e5e7eb;
+    --row-alt:#f9fafb;
+    --shadow:0 6px 18px rgba(0,0,0,.10);
+    --radius:14px;
+  }
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif}
+  h1{margin:0 0 .5rem 0;text-align:center;color:var(--brand);font-weight:800;letter-spacing:.2px}
+  .sub{color:var(--muted);text-align:center;margin-bottom:1rem}
+
+  .tabs{display:flex;gap:.5rem;justify-content:center;flex-wrap:wrap;margin:0 auto 1rem auto;padding:0 1rem;max-width:1200px}
+  .tab{
+    background:var(--card);border:1px solid var(--border);padding:.55rem 1rem;border-radius:999px;
+    cursor:pointer;box-shadow:var(--shadow);transition:.2s transform, .2s background;
+    user-select:none;font-weight:700
+  }
+  .tab:hover{transform:translateY(-1px)}
+  .tab.active{background:var(--brand);color:#fff;border-color:var(--brand)}
+
+  .card{
+    background:var(--card);border-radius:var(--radius);box-shadow:var(--shadow);
+    border:1px solid var(--border);padding:1rem;max-width:1200px;margin:0 auto 1rem auto;
+    animation:fadeIn .4s ease;
+  }
+
+  .filters{
+    display:grid;grid-template-columns:repeat(12,1fr);gap:.6rem;align-items:end;margin-bottom:.8rem;
+  }
+  .field{display:flex;flex-direction:column;gap:.35rem}
+  label{font-size:.85rem;color:var(--muted)}
+  input[type="date"], input[type="text"], select{
+    padding:.55rem .7rem;border:1px solid var(--border);border-radius:10px;background:#fff;outline:none;
+  }
+  .btn{
+    display:inline-flex;align-items:center;gap:.5rem;border:1px solid var(--brand);
+    background:var(--brand);color:#fff;border-radius:10px;padding:.6rem .95rem;cursor:pointer;font-weight:700
+  }
+  .btn:hover{background:var(--brand-2)}
+  .btn-ghost{
+    display:inline-flex;align-items:center;gap:.5rem;border:1px solid var(--border);
+    background:#fff;color:var(--brand);border-radius:10px;padding:.6rem .95rem;cursor:pointer;font-weight:700
+  }
+  .btn-ghost:hover{background:#eef5ff}
+
+  .table-wrap{max-height:60vh;overflow:auto;border-radius:12px}
+  table{width:100%;border-collapse:collapse;font-size:.95rem}
+  th,td{padding:.7rem;border:1px solid #ddd;text-align:left}
+  th{
+    background:var(--brand);color:#fff;position:sticky;top:0;z-index:1;cursor:pointer;
+    user-select:none
+  }
+  tr:nth-child(even){background:var(--row-alt)}
+  tbody tr{transition:background .2s}
+  tbody tr:hover{background:#e8f0fe}
+
+  .sec-link{
+    display:inline-flex;align-items:center;gap:.4rem;
+    text-decoration:none;background:#f1f6ff;border:1px solid #cfe3ff;padding:.35rem .6rem;border-radius:999px;
+    color:#0a3d73;font-weight:700;
+  }
+  .sec-link:hover{background:#e7f0ff}
+  .chip{
+    font-size:.85rem;border-radius:999px;padding:.25rem .6rem;border:1px solid var(--border);background:#fff;color:#333
+  }
+
+  .toolbar{
+    display:flex;flex-wrap:wrap;gap:.6rem;justify-content:space-between;align-items:center;
+    margin:.8rem 0 1.2rem 0; 
+  }
+  .right{margin-left:auto}
+  .muted{color:var(--muted);font-size:.9rem}
+  .pill{
+    border:1px solid var(--border);background:#fff;border-radius:999px;padding:.35rem .75rem
+  }
+
+  .pagination{
+    display:flex;gap:.4rem;align-items:center;justify-content:center;margin-top:1rem;flex-wrap:wrap
+  }
+  .page-btn{
+    background:#fff;border:1px solid var(--border);border-radius:10px;padding:.45rem .75rem;
+    cursor:pointer;box-shadow:var(--shadow);min-width:38px;text-align:center;font-weight:700;
+    transition:.2s transform,.2s background
+  }
+  .page-btn:hover{transform:translateY(-1px);background:#f3f8ff}
+  .page-btn.active{background:var(--brand);border-color:var(--brand);color:#fff;cursor:default}
+
+  .footer{
+    display:flex;flex-direction:column;align-items:center;gap:.6rem;margin:1.2rem auto 2rem auto;text-align:center;color:var(--muted)
+  }
+  .go-back{
+    display:inline-flex;align-items:center;gap:.55rem;background:var(--brand);color:#fff;border:1px solid var(--brand);
+    padding:.65rem 1.1rem;border-radius:12px;text-decoration:none;font-weight:800;box-shadow:var(--shadow)
+  }
+  .go-back:hover{background:var(--brand-2)}
+
+  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+
+  @media (max-width:900px){
+    .filters{grid-template-columns:1fr 1fr}
+  }
+</style>
+</head>
+<body>
+
+  <h1>M&A Transactions – Latest Deals</h1>
+  <div class="sub">Fast search, date filters, tabs, sorting and smooth paging.</div>
+
+  <div class="tabs">
+    <div class="tab active" data-tab="latest">Latest</div>
+    <div class="tab" data-tab="byacquirer">By Acquirer</div>
+  </div>
+
+  <div class="card">
+    <div class="filters">
+      <div class="field" style="grid-column: span 2;">
+        <label>Start date</label>
+        <input type="date" id="startDate">
+      </div>
+      <div class="field" style="grid-column: span 2;">
+        <label>End date</label>
+        <input type="date" id="endDate">
+      </div>
+      <div class="field" style="grid-column: span 4;">
+        <label>Search (Acquirer / Target / Ticker)</label>
+        <input type="text" id="searchInput" placeholder="Type to filter…">
+      </div>
+      <div class="field byacq-only" style="grid-column: span 3; display:none;">
+        <label>Acquirer</label>
+        <select id="acquirerSelect">
+          <option value="">All acquirers</option>
+        </select>
+      </div>
+      <div class="field" style="grid-column: span 1;">
+        <button class="btn" id="applyFilters">Apply Filters</button>
+      </div>
+    </div>
+
+    <div class="toolbar">
+      <div class="muted">
+        Showing <span id="shownCount">0</span> of <span id="totalCount">0</span> rows
+        <span id="activeView" class="pill" style="margin-left:.5rem;">View: Latest</span>
+      </div>
+      <div class="right muted">Last update: <span id="lastUpdate">--:--:--</span></div>
+    </div>
+
+    <div class="table-wrap">
+      <table id="ma-table">
+        <thead>
+          <tr>
+            <th data-sort="date">Date ▲▼</th>
+            <th data-sort="acquirer">Acquirer</th>
+            <th data-sort="tickerA">Acquirer Ticker</th>
+            <th data-sort="target">Target</th>
+            <th data-sort="tickerT">Target Ticker</th>
+            <th>SEC Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td colspan="6" style="text-align:center;">Loading…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+  <div class="footer">
+    <a href="../index.html" class="btn-outline">← Go Back</a>
+    <div class="muted" style="max-width:900px;">
+      Note: This dashboard uses the <b>free tier</b> of Financial Modeling Prep API.  
+      Some fields may be missing and the feed may not always reflect the very latest M&A filings.
+    </div>
+  </div>
+
+<script>
+  const API_KEY = "YwfOXlKh6wObb2vPLEsCqQfxmOzXKdan";
+  const API_URL = `https://financialmodelingprep.com/stable/mergers-acquisitions-latest?page=0&size=100&apikey=${API_KEY}`;
+  const ROWS_PER_PAGE = 15;
+
+  let RAW = [];
+  let VIEW = [];       
+  let TAB = "latest";   
+  let SORT = { key: "date", dir: "desc" };
+  let PAGE = 1;
+
+  const tbody        = document.querySelector("#ma-table tbody");
+  const shownCount   = document.getElementById("shownCount");
+  const totalCount   = document.getElementById("totalCount");
+  const lastUpdate   = document.getElementById("lastUpdate");
+  const tabs         = document.querySelectorAll(".tab");
+  const activeView   = document.getElementById("activeView");
+
+  const startDate    = document.getElementById("startDate");
+  const endDate      = document.getElementById("endDate");
+  const searchInput  = document.getElementById("searchInput");
+  const applyBtn     = document.getElementById("applyFilters");
+
+  const acqWrap      = document.querySelector(".byacq-only");
+  const acqSelect    = document.getElementById("acquirerSelect");
+
+  const paginationEl = document.getElementById("pagination");
+
+  const parseDate = (d) => {
+    if (!d) return null;
+    const iso = d.length > 10 ? d.replace(" ", "T") : d;
+    const x = new Date(iso);
+    return isNaN(+x) ? null : x;
+  };
+
+  function getItemDate(it){
+    return it.transactionDate || it.acceptedDate || "";
+  }
+
+  function updateSortIndicators(){
+    const labels = {
+      date:"Date", acquirer:"Acquirer", tickerA:"Acquirer Ticker",
+      target:"Target", tickerT:"Target Ticker"
+    };
+    document.querySelectorAll("th[data-sort]").forEach(th=>{
+      const k = th.dataset.sort;
+      const is = (SORT.key===k);
+      const arrow = is ? (SORT.dir==='asc'?' ▲':' ▼') : ' ▲▼';
+      th.textContent = labels[k] + arrow;
+    });
+  }
+
+  function baseForTab(tab, list){
+    if (tab === "byacquirer"){
+      const sel = acqSelect.value || "";
+      return sel ? list.filter(it => (it.companyName || "") === sel) : list;
+    }
+    return list; 
+  }
+
+  function applyFiltersAndSort(){
+    const search = (searchInput.value || "").toLowerCase();
+    const sd = startDate.value ? new Date(startDate.value) : null;
+    const ed = endDate.value ? new Date(endDate.value) : null;
+
+    let list = baseForTab(TAB, RAW);
+
+    if (search){
+      list = list.filter(it => {
+        const a = (it.companyName || "").toLowerCase();
+        const t = (it.targetedCompanyName || "").toLowerCase();
+        const sa = (it.symbol || "").toLowerCase();
+        const st = (it.targetedSymbol || "").toLowerCase();
+        return a.includes(search) || t.includes(search) || sa.includes(search) || st.includes(search);
+      });
+    }
+
+    if (sd || ed){
+      list = list.filter(it => {
+        const d = parseDate(getItemDate(it));
+        if (!d) return false;
+        if (sd && d < sd) return false;
+        if (ed){
+          const ed2 = new Date(ed);
+          ed2.setHours(23,59,59,999);
+          if (d > ed2) return false;
+        }
+        return true;
+      });
+    }
+
+    const k = SORT.key, dir = SORT.dir;
+    list.sort((a,b)=>{
+      let va, vb;
+      if (k === "date"){
+        va = parseDate(getItemDate(a)); vb = parseDate(getItemDate(b));
+        const res = (!va && !vb) ? 0 : (!va ? 1 : !vb ? -1 : (va - vb));
+        return dir === "asc" ? res : -res;
+      } else if (k === "acquirer"){
+        va = (a.companyName || ""); vb = (b.companyName || "");
+      } else if (k === "target"){
+        va = (a.targetedCompanyName || ""); vb = (b.targetedCompanyName || "");
+      } else if (k === "tickerA"){
+        va = (a.symbol || ""); vb = (b.symbol || "");
+      } else if (k === "tickerT"){
+        va = (a.targetedSymbol || ""); vb = (b.targetedSymbol || "");
+      } else {
+        va = ""; vb = "";
+      }
+      return dir === "asc" ? va.localeCompare(vb) : vb.localeCompare(va);
+    });
+
+    VIEW = list;
+  }
+
+  function buildPagination(totalPages){
+    paginationEl.innerHTML = "";
+    if (totalPages <= 1) return;
+
+    for(let p=1; p<=totalPages; p++){
+      const btn = document.createElement("button");
+      btn.className = "page-btn" + (p===PAGE ? " active" : "");
+      btn.textContent = p;
+      if (p !== PAGE) {
+        btn.addEventListener("click", ()=>{
+          PAGE = p;
+          render();
+        });
+      }
+      paginationEl.appendChild(btn);
+    }
+  }
+
+  function render(){
+    const total = VIEW.length;
+    const pages = Math.max(1, Math.ceil(total / ROWS_PER_PAGE));
+    if (PAGE > pages) PAGE = pages;
+
+    totalCount.textContent = RAW.length;
+    shownCount.textContent = total;
+
+    const start = (PAGE - 1) * ROWS_PER_PAGE;
+    const slice = VIEW.slice(start, start + ROWS_PER_PAGE);
+
+    if (!slice.length){
+      tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;color:#666;">No data for the current view/filters</td></tr>`;
+    } else {
+      tbody.innerHTML = slice.map(it => `
+        <tr>
+          <td>${getItemDate(it) || ""}</td>
+          <td>${it.companyName || ""}</td>
+          <td>${it.symbol || ""}</td>
+          <td>${it.targetedCompanyName || ""}</td>
+          <td>${it.targetedSymbol || ""}</td>
+          <td>${it.link ? `<a class="sec-link" href="${it.link}" target="_blank" rel="noopener" title="Open SEC filing">🔗 Open</a>` : `<span class="chip">N/A</span>`}</td>
+        </tr>
+      `).join("");
+    }
+
+    buildPagination(pages);
+    updateSortIndicators();
+  }
+
+  function update(){
+    applyFiltersAndSort();
+    render();
+  }
+
+  tabs.forEach(t => {
+    t.addEventListener("click", () => {
+      tabs.forEach(x => x.classList.remove("active"));
+      t.classList.add("active");
+      TAB = t.dataset.tab;
+      activeView.textContent = `View: ${t.textContent}`;
+      const show = TAB === "byacquirer";
+      acqWrap.style.display = show ? "" : "none";
+      PAGE = 1;
+      update();
+    });
+  });
+
+  document.querySelectorAll("th[data-sort]").forEach(th => {
+    th.addEventListener("click", () => {
+      const key = th.dataset.sort;
+      if (SORT.key === key){
+        SORT.dir = (SORT.dir === "asc") ? "desc" : "asc";
+      } else {
+        SORT.key = key; SORT.dir = "asc";
+      }
+      PAGE = 1;
+      update();
+    });
+  });
+
+  applyBtn.addEventListener("click", () => {
+    PAGE = 1;
+    update();
+  });
+
+  searchInput.addEventListener("keydown", (e)=>{
+    if (e.key === "Enter"){ PAGE = 1; update(); }
+  });
+
+  [startDate, endDate].forEach(inp=>{
+    inp.addEventListener("change", ()=>{ PAGE = 1; update(); });
+  });
+
+  acqSelect.addEventListener("change", () => {
+    PAGE = 1;
+    update();
+  });
+
+  async function load(){
+    try{
+      const res = await fetch(API_URL);
+      const data = await res.json();
+      RAW = Array.isArray(data) ? data : [];
+
+      const uniq = [...new Set(RAW.map(it => it.companyName).filter(Boolean))].sort();
+      acqSelect.innerHTML = `<option value="">All acquirers</option>` + uniq.map(n => `<option value="${n}">${n}</option>`).join("");
+
+      lastUpdate.textContent = new Date().toLocaleTimeString("en-US");
+      PAGE = 1;
+      update();
+    }catch(e){
+      tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;color:#c00;">Error loading data</td></tr>`;
+      console.error(e);
+    }
+  }
+
+  load();
+</script>
+</body>
+</html>
