@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-translate-key="contactPageTitle">Contact - Finteker.fr</title>
+  <meta name="description" data-translate-key="metaDescription" content="Plateforme d'outils financiers en temps réel : M&A Tracker, Portfolio Backtester, DCF Lab et Banking Intelligence.">
+  <link rel="stylesheet" href="../styles/style.css">
+  <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+</head>
+
+<body>
+  <header id="main-header"></header>
+
+  <main>
+    <section class="page-header reveal">
+      <h1 data-translate-key="contactH1">Nous Contacter</h1>
+      <p data-translate-key="contactSub">Une question, une proposition ou une envie de collaborer ? Envoyez-nous un message.</p>
+    </section>
+
+    <div class="contact-card-wrapper reveal">
+      <div class="contact-card">
+        <div class="contact-details">
+          <h2 data-translate-key="contactInfoTitle">Entrer en contact</h2>
+          <p data-translate-key="contactInfoDesc">Nous répondons généralement sous 24 heures ouvrées. Remplissez le formulaire et notre équipe vous recontactera.</p>
+          
+          <ul class="contact-info-list">
+            <li>
+              <svg class="contact-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path>
+              </svg>
+              <span>finteker.urca@gmail.com</span>
+            </li>
+            <li>
+              <svg class="contact-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              </svg>
+              <span data-translate-key="contactLocation">Reims, France</span>
+            </li>
+          </ul>
+        </div>
+
+        <form id="contact-form" class="contact-form" action="https://formspree.io/f/xnngrvpk" method="POST">
+          <div class="form-group">
+            <label for="name" data-translate-key="contactFormName">Nom</label>
+            <input id="name" name="name" type="text" required>
+          </div>
+          <div class="form-group">
+            <label for="email" data-translate-key="contactFormEmail">Email</label>
+            <input id="email" name="email" type="email" required>
+          </div>
+          <div class="form-group">
+            <label for="message" data-translate-key="contactFormMessage">Message</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+          </div>
+          <div class="form-footer">
+            <button class="btn" type="submit" data-translate-key="contactFormBtnSend">Envoyer le Message</button>
+            <div id="form-status" role="status" aria-live="polite"></div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </main>
+
+  <footer id="main-footer"></footer>
+
+  <script src="../js/main.js" defer></script>
+</body>
+</html>
