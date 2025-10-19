@@ -1,0 +1,5 @@
+# robots.txt pour Finteker.fr
+User-agent: *
+Allow: /
+
+Sitemap: [finteker.fr]/sitemap.xml
