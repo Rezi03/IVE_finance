@@ -1,0 +1,170 @@
+{
+  "information": {
+    "realTimeArticles": {
+      "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+    }
+  },
+  "totalArticles": 832,
+  "articles": [
+    {
+      "id": "37a92b0b241432dbd0fc5ead1607337a",
+      "title": "Morgan Stanley's profit beats estimates on boost from dealmaking, stock trading",
+      "description": "Morgan Stanley's third-quarter profit beat market expectations as investment bankers brought in more fees from advising on deals and by underwriting stock and debt sales, lifting revenue to a record.",
+      "content": "Shares of the bank rose 3.6% in premarket trading on Wednesday. They have gained 23.6% this year as of the last closing price.\nSign up here.\nA string of large deals pushed global mergers and acquisitions activity past the $3 trillion mark this year. ... [2903 chars]",
+      "url": "https://www.reuters.com/business/finance/morgan-stanley-profit-jumps-investment-banking-revival-2025-10-15/",
+      "image": "https://www.reuters.com/resizer/v2/MB5LSD4NBBMW3NYYJEKO4S5OCY.jpg?auth=27cc7c36f2e4b72e70559311c67e3e08bac8b79698e4ba45e65ee3aff36358c3&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2025-10-15T11:32:11Z",
+      "lang": "en",
+      "source": {
+        "id": "da5c26287bdd02563a2c32b55cb12051",
+        "name": "Reuters",
+        "url": "https://www.reuters.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "42cd1739358d3ab478e78d1df1ab4917",
+      "title": "Timber companies PotlatchDeltic and Rayonier announce merger",
+      "description": "PotlatchDeltic and Florida-based timberland real estate investment trust Rayonier said Tuesday they will merge in an all-stock deal valued around $8.2 billion including debt, creating the second-largest publicly traded timber company in North America.",
+      "content": "PotlatchDeltic and Florida-based timberland real estate investment trust Rayonier said Tuesday they will merge in an all-stock deal valued around $8.2 billion including debt, creating the second-largest publicly traded timber company in North America... [4000 chars]",
+      "url": "https://www.arkansasonline.com/news/2025/oct/14/timber-companies-potlatchdeltic-and-rayonier/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/img/photos/2025/10/14/AP25072805922019_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2025-10-14T18:01:00Z",
+      "lang": "en",
+      "source": {
+        "id": "69a24b80e5bce5a07f808f5ea84c434b",
+        "name": "Arkansas Online",
+        "url": "https://www.arkansasonline.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "ceb261fd67bbd9abc263dc21f1117fa9",
+      "title": "TSMC Faces Energy Threat, Trump's 'Genius Act' Sparks Hyperinflation Fears, Gold Predicted To Hit $5,000 By 2026: This Week In Economy",
+      "description": "This week's top finance, tech stories highlight Taiwan's energy risks, gold's surge, inflation warnings, and uncertainty amid the shutdown.",
+      "content": "It was an eventful weekend in the world of finance and tech. Here’s a quick rundown of the top stories that made headlines.\nTSMC’s Energy Security Threatened By China\nThe recent military exercises conducted by China near Taiwan have raised concerns a... [2768 chars]",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/25/10/48166606/tsmc-faces-energy-threat-trumps-genius-act-sparks-hyperinflation-fears-gold-predicted-to-hit-5000-by-2026-this-week-in-economy",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/12/Central-Banks-Favor-Gold-Over-Treasuries.jpeg?width=1200&height=800&fit=crop",
+      "publishedAt": "2025-10-12T10:02:06Z",
+      "lang": "en",
+      "source": {
+        "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+        "name": "Benzinga",
+        "url": "https://www.benzinga.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "52093a1f4f900bc9a2b390f703784610",
+      "title": "Vietnam Excites Investors With Dramatic Economic Reform Program",
+      "description": "Just months after Donald Trump singled out Vietnam for one of the most punitive tariff rates on a major US trading partner, the Southeast Asian nation’s stock market has soared, its GDP growth is beating almost all estimates and it’s even managed a deal of sorts with the mercurial American president.",
+      "content": "Just months after Donald Trump singled out Vietnam for one of the most punitive tariff rates on a major US trading partner, the Southeast Asian nation’s stock market has soared, its GDP growth is beating almost all estimates and it’s even managed a d... [451 chars]",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-10-11/vietnam-excites-investors-with-dramatic-economic-reform-program-new-economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_IKpk9L_5jI/v1/1200x800.jpg",
+      "publishedAt": "2025-10-11T10:45:08Z",
+      "lang": "en",
+      "source": {
+        "id": "7006f2c40c7cc01195608dbfd60259b3",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "f2b3057d365fd95d2ef0cedf7257c67c",
+      "title": "UiPath: Why I'm A Bit Cautious (Rating Downgrade)",
+      "description": "UiPath's Q2 results show robust revenue and profitability, but ARR growth and retention rates are deteriorating. Learn why PATH stock is downgraded to hold.",
+      "content": "Analyst’s Disclosure:I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I a... [719 chars]",
+      "url": "https://seekingalpha.com/article/4828747-uipath-why-im-a-bit-cautious-rating-downgrade",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2217030312/image_2217030312.jpg?io=getty-c-w1536",
+      "publishedAt": "2025-10-09T10:06:21Z",
+      "lang": "en",
+      "source": {
+        "id": "a6d401909ca644c4ffb332486c9cfaea",
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "dcd3b8b93239579f321c7a3f76d95fe8",
+      "title": "IREN Stock Dips after $875M Convertible Debt Offering to Fuel Growth",
+      "description": "IREN Limited (IREN) stock declined 4.2% in after-hours trading on Tuesday after the Bitcoin miner announced a $875 million private offering of c...",
+      "content": "IREN Limited (IREN) stock declined 4.2% in after-hours trading on Tuesday after the Bitcoin miner announced a $875 million private offering of convertible senior notes due 2031. The offer is aimed at qualified institutional buyers. With the move, IRE... [1524 chars]",
+      "url": "https://markets.businessinsider.com/news/stocks/iren-stock-dips-after-875m-convertible-debt-offering-to-fuel-growth-1035278801",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-570.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "publishedAt": "2025-10-07T22:23:06Z",
+      "lang": "en",
+      "source": {
+        "id": "bce8b9fcd331f3552e3dcf603b83b80e",
+        "name": "Markets Insider",
+        "url": "https://markets.businessinsider.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "15add158b34cd630f08cb09db18a632b",
+      "title": "Uzbekistan Mulls Islamic Finance, New ESG Bond to Diversify Debt",
+      "description": "Uzbekistan, Central Asia’s second biggest economy, is seeking to diversify its debt issuance after successful forays into the sustainable bond market.",
+      "content": "Uzbekistan, Central Asia’s second biggest economy, is seeking to diversify its debt issuance after successful forays into the sustainable bond market .\nThe Central Asian country’s dollar bonds have returned almost 14% this year, compared with the les... [318 chars]",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-06/uzbekistan-mulls-islamic-finance-new-esg-bond-to-diversify-debt",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYdV7RnBUw0A/v1/1200x800.jpg",
+      "publishedAt": "2025-10-06T07:03:25Z",
+      "lang": "en",
+      "source": {
+        "id": "7006f2c40c7cc01195608dbfd60259b3",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "e1b9c97ff390400cb8f841522031bbc3",
+      "title": "Rule of 72: What it is and how to use it",
+      "description": "You don’t need a finance degree to figure out how long it’ll take to double your money as an investor. The Rule of 72 offers a quick shortcut to estimate growth based on interest rates or, on the flip side, the erosion of buying power from inflation. It’s not perfect, but it’s useful for spotting how time and compounding work in your favor — or against you. What is the Rule of 72? Here’s how ...",
+      "content": "You don’t need a finance degree to figure out how long it’ll take to double your money as an investor. The Rule of 72 offers a quick shortcut to estimate growth based on interest rates or, on the flip side, the erosion of buying power from inflation.... [6285 chars]",
+      "url": "https://www.spokesman.com/stories/2025/oct/05/rule-of-72-what-it-is-and-how-to-use-it/",
+      "image": "https://thumb.spokesman.com/NM5Cm3m89BD-mwIZF0zvQMxs4a0=/1200x630/smart/media.spokesman.com/photos/2025/10/02/68daba12831fd.hires.jpg",
+      "publishedAt": "2025-10-05T01:15:00Z",
+      "lang": "en",
+      "source": {
+        "id": "c8c865ed042eb14694b8d596e22efe99",
+        "name": "Spokane Spokesman-Review",
+        "url": "https://www.spokesman.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "c0e62b2e7f28b9a182ee67113326f8ac",
+      "title": "Revenue Growth Remains for Equity Lifestyle's Manufactured Housing Portfolio Remains Above Inflation",
+      "description": "Morningstar is an investment research company offering mutual fund, ETF, and stock analysis, ratings, and data, and portfolio tools. Discover actionable insights today.",
+      "content": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions. Our investment management business generates asset-b... [1549 chars]",
+      "url": "https://www.morningstar.com/company-reports/1344639-revenue-growth-remains-for-equity-lifestyles-manufactured-housing-portfolio-remains-above-inflation",
+      "image": "https://www.morningstar.com/company-reports/:/[object Object]",
+      "publishedAt": "2025-10-03T00:00:00Z",
+      "lang": "en",
+      "source": {
+        "id": "d889fcdc98f3dab0a934bbe252002562",
+        "name": "Morningstar",
+        "url": "https://www.morningstar.com",
+        "country": "us"
+      }
+    },
+    {
+      "id": "317adbb8ec05dd4eab6d2693e9634362",
+      "title": "How Inflation, AI, and Budget Battles Will Shape the Stock Market in Q4",
+      "description": "Plus, a look at Nvidia’s potentially record-breaking AI investment.",
+      "content": "Plus, a look at Nvidia’s potentially record-breaking AI investment.\nThe author or authors do not own shares in any securities mentioned in this article. Find out about Morningstar’s editorial policies.\nMorningstar Investment Management LLC is a Regis... [839 chars]",
+      "url": "https://www.morningstar.com/markets/how-inflation-ai-budget-battles-will-shape-stock-market-q4-2",
+      "image": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/iMBSUAy25MLdekmOZYmDp4-_mtY=/2000x1125/d10o6nnig0wrdw.cloudfront.net/10-01-2025/t_315cfdf0f43344cb97245b8db150794b_name_file_960x540_1600_v4_.jpg",
+      "publishedAt": "2025-10-03T00:00:00Z",
+      "lang": "en",
+      "source": {
+        "id": "d889fcdc98f3dab0a934bbe252002562",
+        "name": "Morningstar",
+        "url": "https://www.morningstar.com",
+        "country": "us"
+      }
+    }
+  ]
+}
