@@ -65,7 +65,6 @@ const translations = {
       status_error_network: "Impossible d’envoyer le message (problème de réseau)."
     },
 
-
   },
   en: {
     // ---- COMMON TRANSLATIONS (NAV, FOOTER, MODAL) ----
@@ -131,8 +130,7 @@ const translations = {
       status_success: "Thanks! Your message has been sent.",
       status_error: "Something went wrong. Please check the fields and try again.",
       status_error_network: "Couldn’t send the message (network issue)."
-    },
-    
+    },    
 
   }
 };
