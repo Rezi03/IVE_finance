@@ -20,6 +20,17 @@
 
     <div class="content-wrapper reveal">
       <div class="news-content-wrapper">
+        
+        <div class="news-filters">
+            <input type="search" id="news-search" class="input-control" data-translate-key="searchPlaceholder" placeholder="Rechercher par mot-clé...">
+            
+            <label for="news-sort" data-translate-key="sortLabel">Trier par :</label>
+            <select id="news-sort" class="input-control">
+                <option value="recent" data-translate-key="sortRecent">Plus récents</option>
+                <option value="oldest" data-translate-key="sortOldest">Plus anciens</option>
+            </select>
+        </div>
+
         <div id="news-list-container">
           <p id="news-status" data-translate-key="loading">Chargement des actualités...</p>
         </div>

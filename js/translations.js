@@ -1,6 +1,6 @@
 const translations = {
   fr: {
-    // ---- TRADUCTIONS COMMUNES (NAV, FOOTER, MODAL) ----
+    // ---- TRADUCTIONS COMMUNES ----
     common: {
       navHome: "Accueil",
       navMa: "M&A Tracker",
@@ -20,8 +20,7 @@ const translations = {
       legalIpTitle: "Propriété intellectuelle",
       legalIpContent: "L'ensemble de ce site relève de la législation française et internationale sur le droit d'auteur et la propriété intellectuelle. Tous les droits de reproduction sont réservés."
     },
-
-    // ---- PAGE D'ACCUEIL (INDEX) ----
+    // ---- PAGE D'ACCUEIL ----
     home: {
       pageTitle: "Finteker.fr - Outils Financiers & Intelligence",
       metaDescription: "Plateforme d'outils financiers en temps réel : M&A Tracker, Portfolio Backtester, DCF Lab, Trading, Actualités et Banking Intelligence.",
@@ -35,18 +34,11 @@ const translations = {
       cardDcfDesc: "Modélisez des valorisations d'entreprise avec des analyses de sensibilité complètes.",
       cardTradingTitle: "Trading",
       cardTradingDesc: "Outils et analyses de trading en temps réel pour optimiser vos stratégies de marché.",
-      cardBankingTitle: "Banking Intelligence",
-      cardBankingDesc: "Un dashboard de veille concurrentielle sur le secteur bancaire (via Streamlit).",
       cardCoursesTitle: "Cours",
       cardCoursesDesc: "Ressources et modules d'apprentissage sur la finance de marché.",
-      cardContactTitle: "Contact",
-      cardContactDesc: "Pour toute question ou proposition, n'hésitez pas à nous contacter.",
       cardButtonLaunch: "Lancer l'outil",
-      cardButtonSoon: "Bientôt disponible",
-      cardButtonConsult: "Consulter",
-      cardButtonWrite: "Nous écrire"
+      cardButtonConsult: "Consulter"
     },
-
     // ---- PAGE CONTACT ----
     contact: {
       pageTitle: "Contact - Finteker.fr",
@@ -64,8 +56,7 @@ const translations = {
       status_error: "Une erreur est survenue. Vérifiez les champs et réessayez.",
       status_error_network: "Impossible d’envoyer le message (problème de réseau)."
     },
-
-    // ---- PAGE NEWS ----
+    // ---- PAGE ACTUALITÉS ----
     news: {
         pageTitle: "Actualités Financières - Finteker.fr",
         metaDescription: "Suivez les dernières actualités des marchés financiers, de la banque et de l'économie.",
@@ -73,11 +64,16 @@ const translations = {
         sub: "Les dernières informations pour rester connecté au monde de la finance.",
         loading: "Chargement des actualités...",
         error: "Impossible de charger les actualités. Veuillez réessayer plus tard.",
-        source: "Source :"
+        source: "Source :",
+        searchPlaceholder: "Rechercher (ex: Goldman Sachs...)",
+        sortLabel: "Trier par :",
+        sortRecent: "Plus récents",
+        sortOldest: "Plus anciens",
+        noResults: "Aucun article ne correspond à votre recherche."
     }
   },
   en: {
-    // ---- COMMON TRANSLATIONS (NAV, FOOTER, MODAL) ----
+    // ---- COMMON TRANSLATIONS ----
     common: {
       navHome: "Home",
       navMa: "M&A Tracker",
@@ -97,8 +93,7 @@ const translations = {
       legalIpTitle: "Intellectual Property",
       legalIpContent: "This entire site is subject to French and international legislation on copyright and intellectual property. All reproduction rights are reserved."
     },
-
-    // ---- HOME PAGE (INDEX) ----
+    // ---- HOME PAGE ----
     home: {
       pageTitle: "Finteker.fr - Financial Tools & Intelligence",
       metaDescription: "Real-time financial tools platform: M&A Tracker, Portfolio Backtester, DCF Lab, Trading, News, and Banking Intelligence.",
@@ -112,18 +107,11 @@ const translations = {
       cardDcfDesc: "Model company valuations with comprehensive sensitivity analysis.",
       cardTradingTitle: "Trading",
       cardTradingDesc: "Real-time trading tools and analysis to optimize your market strategies.",
-      cardBankingTitle: "Banking Intelligence",
-      cardBankingDesc: "A competitive intelligence dashboard for the banking sector (via Streamlit).",
       cardCoursesTitle: "Courses",
       cardCoursesDesc: "Resources and learning modules on market finance.",
-      cardContactTitle: "Contact",
-      cardContactDesc: "For any questions or proposals, do not hesitate to contact us.",
       cardButtonLaunch: "Launch Tool",
-      cardButtonSoon: "Coming Soon",
-      cardButtonConsult: "Consult",
-      cardButtonWrite: "Write to Us"
+      cardButtonConsult: "Consult"
     },
-
     // ---- CONTACT PAGE ----
     contact: {
       pageTitle: "Contact - Finteker.fr",
@@ -141,7 +129,6 @@ const translations = {
       status_error: "Something went wrong. Please check the fields and try again.",
       status_error_network: "Couldn’t send the message (network issue)."
     },
-
     // ---- NEWS PAGE ----
     news: {
         pageTitle: "Financial News - Finteker.fr",
@@ -150,7 +137,12 @@ const translations = {
         sub: "The latest information to stay connected to the world of finance.",
         loading: "Loading news...",
         error: "Could not load the news. Please try again later.",
-        source: "Source:"
+        source: "Source:",
+        searchPlaceholder: "Search (e.g., Goldman Sachs...)",
+        sortLabel: "Sort by:",
+        sortRecent: "Most recent",
+        sortOldest: "Oldest",
+        noResults: "No articles match your search."
     }
   }
 };
