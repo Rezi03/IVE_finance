@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-translate-key="pageTitle">Actualités Financières - Finteker.fr</title>
+    <meta name="description" content="Suivez les dernières actualités des marchés financiers en temps réel." data-translate-key="metaDescription">
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+</head>
+
+<body data-page="news">
+
+    <header id="main-header"></header>
+
+    <main>
+        <section class="page-header news-header reveal">
+            <h1 data-translate-key="h1">Actualités Financières</h1>
+            <p data-translate-key="sub">Veille stratégique, analyse des marchés et tendances clés.</p>
+        </section>
+
+        <div class="content-wrapper news-content-wrapper reveal">
+            
+            <div class="news-filters">
+                <label for="sector-filter" data-translate-key="labelSector">Filtrer par sujet :</label>
+                <select id="sector-filter" class="input-control">
+                    <option value="" data-translate-key="optionAll">Finance (Général)</option>
+                    <option value="Technology" data-translate-key="optionTechnology">Technologie</option>
+                    <option value="Finance" data-translate-key="optionFinance">Bourse</option>
+                    <option value="Energy" data-translate-key="optionEnergy">Énergie</option>
+                    <option value="Healthcare" data-translate-key="optionHealthcare">Santé</option>
+                    <option value="Real Estate" data-translate-key="optionRealEstate">Immobilier</option>
+                </select>
+
+                <label for="sort-filter" data-translate-key="labelSort">Trier par :</label>
+                <select id="sort-filter" class="input-control" disabled> <option value="latest" data-translate-key="sortLatest">Plus récentes</option>
+                </select>
+                
+                <button id="apply-filters" class="btn btn-small" data-translate-key="btnApply">Appliquer</button>
+            </div>
+            
+            <div id="news-list" class="news-list">
+                <p id="news-status" class="status-message" data-translate-key="loading">Chargement des actualités...</p>
+            </div>
+
+        </div>
+    </main>
+
+    <footer id="main-footer"></footer>
+
+    <div id="legal-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button id="close-legal-modal" class="modal-close-btn" title="Fermer">&times;</button>
+            <h2 data-translate-key="legalHeader">Mentions Légales</h2>
+            <div class="legal-content">
+                <h3 data-translate-key="legalEditorTitle">Éditeur du site</h3>
+                <p data-translate-key="legalEditorContent_html"></p>
+                <h3 data-translate-key="legalHostingTitle">Hébergement</h3>
+                <p data-translate-key="legalHostingContent_html"></p>
+                <h3 data-translate-key="legalIpTitle">Propriété intellectuelle</h3>
+                <p data-translate-key="legalIpContent"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/translations.js" defer></script>
+    <script src="../js/main.js" defer></script>
+    <script src="../js/pages/news.js" defer></script>
+</body>
+</html>
