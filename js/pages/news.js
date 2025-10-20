@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
   if (typeof translations === 'undefined') {
-    console.error("Le fichier translations.js doit être chargé avant news.js");
     return;
   }
 
@@ -28,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <p>${article.description}</p>
         <div class="news-meta">
           <span class="source">${t('source')} ${article.source.name}</span>
-          <span class="date">${new Date(article.publishedAt).toLocaleDateString()}</span>
+          <span class="date">${new Date(article.publishedAt).toLocaleDateString(currentLang)}</span>
         </div>
       </a>
     `).join('');
@@ -36,9 +35,13 @@ document.addEventListener('DOMContentLoaded', () => {
     newsContainer.innerHTML = newsHtml;
   };
 
+
   const loadNews = async () => {
+
+    const newsFile = `../assets/api/news_${currentLang}.json`;
+    
     try {
-      const response = await fetch('../assets/api/news.json');
+      const response = await fetch(newsFile);
 
       if (!response.ok) {
         throw new Error('Network response was not ok');
@@ -50,8 +53,6 @@ document.addEventListener('DOMContentLoaded', () => {
     } catch (error) {
       console.error('Erreur lors du chargement des actualités:', error);
       statusEl.textContent = t('error');
-      newsContainer.innerHTML = '';
-      newsContainer.appendChild(statusEl);
     }
   };
 
