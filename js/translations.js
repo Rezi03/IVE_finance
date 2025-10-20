@@ -65,6 +65,16 @@ const translations = {
       status_error_network: "Impossible d’envoyer le message (problème de réseau)."
     },
 
+    // ---- PAGE NEWS ----
+    news: {
+        pageTitle: "Actualités Financières - Finteker.fr",
+        metaDescription: "Suivez les dernières actualités des marchés financiers, de la banque et de l'économie.",
+        h1: "Actualités Financières",
+        sub: "Les dernières informations pour rester connecté au monde de la finance.",
+        loading: "Chargement des actualités...",
+        error: "Impossible de charger les actualités. Veuillez réessayer plus tard.",
+        source: "Source :"
+    }
   },
   en: {
     // ---- COMMON TRANSLATIONS (NAV, FOOTER, MODAL) ----
@@ -130,7 +140,17 @@ const translations = {
       status_success: "Thanks! Your message has been sent.",
       status_error: "Something went wrong. Please check the fields and try again.",
       status_error_network: "Couldn’t send the message (network issue)."
-    },    
+    },
 
+    // ---- NEWS PAGE ----
+    news: {
+        pageTitle: "Financial News - Finteker.fr",
+        metaDescription: "Follow the latest news from the financial markets, banking, and the economy.",
+        h1: "Financial News",
+        sub: "The latest information to stay connected to the world of finance.",
+        loading: "Loading news...",
+        error: "Could not load the news. Please try again later.",
+        source: "Source:"
+    }
   }
 };

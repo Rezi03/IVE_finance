@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-translate-key="pageTitle">Actualités Financières - Finteker.fr</title>
+  <meta name="description" data-translate-key="metaDescription" content="Suivez les dernières actualités des marchés financiers, de la banque et de l'économie.">
+  <link rel="stylesheet" href="../styles/style.css">
+  <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+</head>
+
+<body data-page="news">
+  <header id="main-header"></header>
+
+  <main>
+    <section class="page-header reveal">
+      <h1 data-translate-key="h1">Actualités Financières</h1>
+      <p data-translate-key="sub">Les dernières informations pour rester connecté au monde de la finance.</p>
+    </section>
+
+    <div class="content-wrapper reveal">
+      <div class="news-content-wrapper">
+        <div id="news-list-container">
+          <p id="news-status" data-translate-key="loading">Chargement des actualités...</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer id="main-footer"></footer>
+  
+  <div id="legal-modal" class="modal-overlay">
+      <div class="modal-content">
+          <button id="close-legal-modal" class="modal-close-btn" title="Fermer">&times;</button>
+          <h2 data-translate-key="legalHeader">Mentions Légales</h2>
+          <div class="legal-content">
+              <h3 data-translate-key="legalEditorTitle">Éditeur du site</h3>
+              <p data-translate-key="legalEditorContent_html"></p>
+              <h3 data-translate-key="legalHostingTitle">Hébergement</h3>
+              <p data-translate-key="legalHostingContent_html"></p>
+              <h3 data-translate-key="legalIpTitle">Propriété intellectuelle</h3>
+              <p data-translate-key="legalIpContent"></p>
+          </div>
+      </div>
+  </div>
+
+  <script src="../js/translations.js" defer></script>
+  <script src="../js/main.js" defer></script>
+  <script src="../js/pages/news.js" defer></script>
+</body>
+</html>
