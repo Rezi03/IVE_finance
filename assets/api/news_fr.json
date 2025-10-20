@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25166,
+  "totalArticles": 25169,
   "articles": [
+    {
+      "id": "01d0e66ee93049b228e1baddd83ae6a6",
+      "title": "Le CAC 40 résiste à la dégradation de la note de la France et tutoie ses records",
+      "description": "La Bourse de Paris débute la semaine en hausse, le CAC 40 s’approchant de ses sommets en séance malgré la récente dégradation de la note souveraine de la France par S&P Global Ratings, qui pointe l’incertitude sur les finances publiques. Les taux d’emprunt français réagissent peu, le spread avec l’Allemagne s’élargit légèrement depuis la dissolution de l’Assemblée. Les analystes soulignent que cet avertissement n’a pas perturbé la tendance du marché, même si les inquiétudes sur la situation budgétaire persistent. Parmi les valeurs, Kering bondit après l’annonce de la vente de sa division beauté à L'Oréal pour réduire sa dette, tandis que Forvia chute en raison d’un chiffre d'affaires décevant au troisième trimestre 2025.",
+      "content": "Paris - La Bourse de Paris évolue en hausse lundi, à quelques encablures de son record en séance, et faisait fi de la dégradation surprise de la notation de la France par l’agence S&P Global Ratings, mue par l’incertitude budgétaire du pays.\nL’indice... [27538 chars]",
+      "url": "https://www.lopinion.fr/economie/le-cac-40-resiste-a-la-degradation-de-la-note-de-la-france-et-tutoie-ses-records",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/f5bae58/2147483647/strip/true/crop/1024x498+0+72/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fc3ccc9c215cf6fc4429062cd2b0521f985e799e3.jpeg",
+      "publishedAt": "2025-10-20T08:13:56Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "1ffd71ea052d10c4f01bec85a4689ac9",
+      "title": "La croissance du PIB slovaque en 2024 révisée à la baisse à +1,9 % ; ralentissement au deuxième trimestre",
+      "description": "L'économie slovaque a connu une croissance inférieure aux estimations précédentes en 2024, avec une expansion de 1,9 % contre un taux de croissance initialement annoncé à 2,1 %, selon les...\n-Le 20 octobre 2025 à 09:53\n- Zonebourse",
+      "content": "Les actions sont toujours assoiffées de records\nLa Bourse aborde la dernière ligne droite d'octobre sans avoir levé son paradoxe du moment : malgré des valorisations élevées et de nombreuses tensions, l'appétit pour le risque reste intact. Le début d... [487 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-croissance-du-pib-slovaque-en-2024-revisee-a-la-baisse-a-1-9-ralentissement-au-deuxieme-trim-ce7d5ad2db80f32d",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-20T07:53:29Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "0bb05a64ac00e54684b18f0fd7d498f3",
+      "title": "Crise du logement : \"Nous vendons aujourd'hui deux fois moins de logements neufs qu'avant\", alerte Nexity",
+      "description": "La crise du logement résulte, selon Véronique Bedague, de la forte augmentation des taux d'intérêt et la question de l'investissement.",
+      "content": "\"Nous vendons aujourd'hui deux fois moins de logements neufs qu'avant la crise\" en 2019, alerte ce lundi 20 octobre sur franceinfo la PDG de Nexity, Véronique Bedague. La patronne du promoteur immobilier français alerte sur les difficultés actuelles ... [1198 chars]",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/crise-du-logement-nous-vendons-aujourd-hui-deux-fois-moins-de-logements-neufs-qu-avant-alerte-nexity_7564114.html",
+      "image": "https://www.franceinfo.fr/pictures/LLh0vRoCp-zoJsv41NV8vqAhDrY/0x0:1280x720/1500x843/2025/10/20/untitled-68f5e6744cf4b314165624.jpg",
+      "publishedAt": "2025-10-20T07:40:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "ff6fd13b5fe3aaad7b8577a8c2e82503",
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "52f3b8055fb665cc8f6e75c7c960b9c5",
       "title": "Bank Indonesia s'apprête à abaisser à nouveau ses taux, la croissance privilégiée face aux inquiétudes sur la roupie",
@@ -115,54 +163,6 @@
         "id": "a47fb175218c2249b1a205da3387cade",
         "name": "20 Minutes",
         "url": "https://www.20minutes.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "166f9e977b1e1eca0bc6800d906924c3",
-      "title": "Bruno Le Maire, l’homme de l’explosion de la dette ? \"Quelle fourberie, ils venaient tous me réclamer des aides\", se lâche l’ancien ministre de l’Économie",
-      "description": "La dette publique française a explosé sous la gestion de Bruno Le Maire, surnommé",
-      "content": "Pour beaucoup, Bruno Le Maire est le principal responsable de l’explosion de la dette publique en France. Ministre de l’Économie de tous les gouvernements d’Emmanuel Macron de 2017 à 2024, il serait même surnommé \"l’homme aux 1 000 milliards de dette... [2706 chars]",
-      "url": "https://www.lindependant.fr/2025/10/18/bruno-le-maire-lhomme-de-lexplosion-de-la-dette-quelle-fourberie-ils-venaient-tous-me-reclamer-des-aides-se-lache-lancien-ministre-de-leconomie-13000879.php",
-      "image": "https://images.lindependant.fr/api/v1/images/view/68f39d93cd197affe803bdf2/hd/image.jpg?v=1",
-      "publishedAt": "2025-10-18T14:04:29Z",
-      "lang": "fr",
-      "source": {
-        "id": "d4943b844abeee30f55a1a1cfe066a43",
-        "name": "L'Indépendant",
-        "url": "https://www.lindependant.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ad8ff5fadd8d49cf0708b4bb8b5e4e98",
-      "title": "L'inflation de la zone euro devrait rester proche de l'objectif, selon Nagel",
-      "description": "L'inflation dans la zone euro devrait se maintenir autour de l'objectif de 2 % fixé par la Banque centrale européenne pendant plusieurs années, a déclaré samedi Joachim Nagel, président de la...",
-      "content": "L'inflation dans la zone euro devrait se maintenir autour de l'objectif de 2 % fixé par la Banque centrale européenne (BCE) pendant plusieurs années, a déclaré samedi Joachim Nagel, président de la Bundesbank. Il a ainsi répondu à certains de ses col... [339 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/l-inflation-de-la-zone-euro-devrait-rester-proche-de-l-objectif-selon-nagel-ce7d5addd08cf726",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-17T122018Z_1_LYNXMPEL6G0J3_RTROPTP_4_G20-SAFRICA-GERMANY.JPG",
-      "publishedAt": "2025-10-18T12:31:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "60a639e60f956ed731b5910380831daf",
-      "title": "\"Ils venaient tous pleurer dans mon bureau\", Bruno Le Maire répond sur l'envolée de la dette lorsqu'il était ministre",
-      "description": "Dans une interview, l'ancien ministre de l'Économie, Bruno Le Maire, est revenu sur l'augmentation de la dette publique lorsqu'il était en poste.",
-      "content": "Dans une interview, l'ancien ministre de l'Économie, Bruno Le Maire, est revenu sur l'augmentation de la dette publique lorsqu'il était en poste.\nAncien ministre de l'Économie et des Finances, Bruno Le Maire était l'invité du podcast \"Pourquoi faire ... [2403 chars]",
-      "url": "https://www.linternaute.com/actualite/politique/9055075-ils-venaient-tous-pleurer-dans-mon-bureau-bruno-le-maire-repond-sur-l-envolee-de-la-dette-lorsqu-il-etait-ministre/",
-      "image": "https://img-4.linternaute.com/RQYkRwUrlAnadEwMjkS8xa-frGM=/1500x/smart/a7701b4b7b90476d8df8b3fe912e1eed/ccmcms-linternaute/81671845.jpg",
-      "publishedAt": "2025-10-18T12:27:41Z",
-      "lang": "fr",
-      "source": {
-        "id": "4efc7f74b3e55507b495ef8d2ebf5fa1",
-        "name": "Linternaute.com",
-        "url": "https://www.linternaute.com",
         "country": "fr"
       }
     }
