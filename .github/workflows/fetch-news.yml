@@ -1,0 +1,31 @@
+ name: Fetch GNews Articles Hourly
+
+on:
+  workflow_dispatch: 
+  schedule:
+    - cron: '0 * * * *' 
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Fetch news and save to file
+        run: node ./scripts/fetch-gnews.js
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name 'GNews Bot'
+          git config --global user.email 'bot@github.com'
+          git add .
+          git diff --staged --quiet || git commit -m "Mise à jour des actualités"
+          git push

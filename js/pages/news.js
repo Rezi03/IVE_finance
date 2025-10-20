@@ -1,18 +1,10 @@
-// /js/pages/news.js
-
 document.addEventListener('DOMContentLoaded', () => {
-  if (typeof translations === 'undefined') {
-    console.error("Le fichier translations.js doit être chargé avant news.js");
-    return;
-  }
+  if (typeof translations === 'undefined') return;
 
   const newsListEl = document.getElementById('news-list');
   const statusElNews = document.getElementById('news-status');
 
   if (newsListEl && statusElNews) {
-    // Votre clé API est ici
-    const GNEWS_API_KEY = 'b9772b572dc4c07e5430a0dcd1f63287'; 
-    
     const currentLang = localStorage.getItem('lang') || 'fr';
     const t = (key) => translations[currentLang]?.news?.[key] || key;
 
@@ -23,81 +15,56 @@ document.addEventListener('DOMContentLoaded', () => {
       return date.toLocaleDateString(currentLang, options);
     };
 
-    const fetchNews = async (topic) => {
+    const fetchNewsFromFile = async () => {
       statusElNews.textContent = t('loading');
-      statusElNews.className = 'status-message';
       newsListEl.innerHTML = '';
 
-      // ---- Le bloc 'if' qui posait problème a été supprimé ----
-      
-      const topicMap = {
-        'Technology': 'technologie',
-        'Finance': 'bourse',
-        'Energy': 'énergie',
-        'Healthcare': 'santé',
-        'Real Estate': 'immobilier',
-        '': 'finance' // Sujet par défaut
-      };
-      
-      const query = topicMap[topic] || 'finance';
-      
-      const langParam = (currentLang === 'fr') ? 'fr' : 'en';
-      const url = `https://gnews.io/api/v4/search?q=${encodeURIComponent(query)}&lang=${langParam}&country=fr,us&max=10&apikey=${GNEWS_API_KEY}`;
+      // On lit le fichier JSON local généré par le robot
+      const url = '../data/news.json';
 
       try {
         const response = await fetch(url);
-        if (!response.ok) {
-          throw new Error(`HTTP Error: ${response.status}`);
-        }
-        const data = await response.json();
+        if (!response.ok) throw new Error("Fichier news.json introuvable.");
+        
+        const articles = await response.json();
 
-        if (!data.articles || data.articles.length === 0) {
+        if (!articles || articles.length === 0) {
           statusElNews.textContent = t('noData');
           return;
         }
 
         statusElNews.textContent = '';
 
-        data.articles.forEach(article => {
+        articles.forEach(article => {
+          // ... (le reste du code pour afficher l'article est identique)
           const articleEl = document.createElement('a');
           articleEl.className = 'news-article';
           articleEl.href = article.url;
           articleEl.target = '_blank';
           articleEl.rel = 'noopener noreferrer';
-
           let summary = article.description || '';
-          if (summary.length > 200) {
-            summary = summary.substring(0, 200) + '...';
-          }
-
+          if (summary.length > 200) summary = summary.substring(0, 200) + '...';
           articleEl.innerHTML = `
             <h3>${article.title}</h3>
             <p>${summary}</p>
             <div class="news-meta">
               <span class="source">${article.source.name}</span>
               <span class="date">${formatTime(article.publishedAt)}</span>
-            </div>
-          `;
+            </div>`;
           newsListEl.appendChild(articleEl);
         });
       } catch (error) {
-        console.error('Erreur lors du chargement des actualités:', error);
+        console.error('Erreur:', error);
         statusElNews.textContent = t('error');
         statusElNews.classList.add('error');
       }
     };
-
-    const applyFilters = () => {
-      const topic = document.getElementById('sector-filter').value || '';
-      fetchNews(topic);
-    };
     
-    // GNews ne gère pas le tri par pertinence, donc ce filtre est désactivé.
+    // On désactive les filtres car tout est géré par le robot maintenant
+    document.getElementById('sector-filter').disabled = true;
     document.getElementById('sort-filter').disabled = true;
+    document.getElementById('apply-filters').disabled = true;
 
-    document.getElementById('apply-filters').addEventListener('click', applyFilters);
-    document.getElementById('sector-filter').addEventListener('change', applyFilters);
-
-    applyFilters();
+    fetchNewsFromFile();
   }
 });
