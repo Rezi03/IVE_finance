@@ -3,26 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title data-translate-key="contactPageTitle">Contact - Finteker.fr</title>
-  <meta name="description" data-translate-key="metaDescription" content="Plateforme d'outils financiers en temps réel : M&A Tracker, Portfolio Backtester, DCF Lab et Banking Intelligence.">
+  <title data-translate-key="pageTitle">Contact - Finteker.fr</title> 
+  <meta name="description" data-translate-key="metaDescription" content="Une question ou une proposition ? Contactez l'équipe de Finteker.fr.">
   <link rel="stylesheet" href="../styles/style.css">
   <link rel="icon" type="image/png" href="../assets/img/favicon.png">
 </head>
 
-<body>
+<body data-page="contact">
   <header id="main-header"></header>
 
   <main>
     <section class="page-header reveal">
-      <h1 data-translate-key="contactH1">Nous Contacter</h1>
-      <p data-translate-key="contactSub">Une question, une proposition ou une envie de collaborer ? Envoyez-nous un message.</p>
+      <h1 data-translate-key="h1">Nous Contacter</h1>
+      <p data-translate-key="sub">Une question, une proposition ou une envie de collaborer ? Envoyez-nous un message.</p>
     </section>
 
     <div class="contact-card-wrapper reveal">
       <div class="contact-card">
         <div class="contact-details">
-          <h2 data-translate-key="contactInfoTitle">Entrer en contact</h2>
-          <p data-translate-key="contactInfoDesc">Nous répondons généralement sous 24 heures ouvrées. Remplissez le formulaire et notre équipe vous recontactera.</p>
+          <h2 data-translate-key="infoTitle">Entrer en contact</h2>
+          <p data-translate-key="infoDesc">Nous répondons généralement sous 24 heures ouvrées. Remplissez le formulaire et notre équipe vous recontactera.</p>
           
           <ul class="contact-info-list">
             <li>
@@ -36,26 +36,26 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
               </svg>
-              <span data-translate-key="contactLocation">Reims, France</span>
+              <span data-translate-key="location">Reims, France</span>
             </li>
           </ul>
         </div>
 
         <form id="contact-form" class="contact-form" action="https://formspree.io/f/xnngrvpk" method="POST">
           <div class="form-group">
-            <label for="name" data-translate-key="contactFormName">Nom</label>
+            <label for="name" data-translate-key="formName">Nom</label>
             <input id="name" name="name" type="text" required>
           </div>
           <div class="form-group">
-            <label for="email" data-translate-key="contactFormEmail">Email</label>
+            <label for="email" data-translate-key="formEmail">Email</label>
             <input id="email" name="email" type="email" required>
           </div>
           <div class="form-group">
-            <label for="message" data-translate-key="contactFormMessage">Message</label>
+            <label for="message" data-translate-key="formMessage">Message</label>
             <textarea id="message" name="message" rows="5" required></textarea>
           </div>
           <div class="form-footer">
-            <button class="btn" type="submit" data-translate-key="contactFormBtnSend">Envoyer le Message</button>
+            <button class="btn" type="submit" data-translate-key="formBtnSend">Envoyer le Message</button>
             <div id="form-status" role="status" aria-live="polite"></div>
           </div>
         </form>
@@ -64,7 +64,24 @@
   </main>
 
   <footer id="main-footer"></footer>
+  
+  <div id="legal-modal" class="modal-overlay">
+      <div class="modal-content">
+          <button id="close-legal-modal" class="modal-close-btn" title="Fermer">&times;</button>
+          <h2 data-translate-key="legalHeader">Mentions Légales</h2>
+          <div class="legal-content">
+              <h3 data-translate-key="legalEditorTitle">Éditeur du site</h3>
+              <p data-translate-key="legalEditorContent_html"></p>
+              <h3 data-translate-key="legalHostingTitle">Hébergement</h3>
+              <p data-translate-key="legalHostingContent_html"></p>
+              <h3 data-translate-key="legalIpTitle">Propriété intellectuelle</h3>
+              <p data-translate-key="legalIpContent"></p>
+          </div>
+      </div>
+  </div>
 
+  <script src="../js/translations.js" defer></script>
   <script src="../js/main.js" defer></script>
+  <script src="../js/pages/contact.js" defer></script>
 </body>
 </html>
