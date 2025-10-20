@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
       newsSortRelevance: "Pertinence",
       newsBtnApply: "Appliquer",
       newsLoading: "Chargement des actualités...",
-      newsError: "Erreur lors du chargement des actualités. (Limite API Alpha Vantage atteinte ou clé invalide.)",
+      newsError: "Erreur lors du chargement des actualités. (Clé API invalide ou problème de connexion)",
       newsNoData: "Aucune actualité trouvée pour ces filtres.",
       newsOptionTechnology: "Technologie",
       newsOptionFinance: "Finance",
@@ -162,7 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
       newsSortRelevance: "Relevance",
       newsBtnApply: "Apply",
       newsLoading: "Loading news...",
-      newsError: "Error loading news. (Alpha Vantage API limit reached or invalid key.)",
+      newsError: "Error loading news. (Invalid API key or connection issue)",
       newsNoData: "No news found for these filters.",
       newsOptionTechnology: "Technology",
       newsOptionFinance: "Finance",
@@ -337,73 +337,58 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // --- Logic for News Page (news.html) ---
   const newsListEl = document.getElementById('news-list');
   const statusElNews = document.getElementById('news-status');
 
   if (newsListEl && statusElNews) {
-    const API_KEY = '75O243WCTQ424P1O';
+    const API_KEY = '16e1e643b2cc411d95ae1133f92b7aaa';
     const t = (key) => translations[currentLang][key] || key;
 
-    const formatTime = (time) => {
-      if (!time) return '';
-      const year = time.substring(0, 4);
-      const month = time.substring(4, 6) - 1;
-      const day = time.substring(6, 8);
-      const hour = time.substring(9, 11);
-      const minute = time.substring(11, 13);
-      const date = new Date(Date.UTC(year, month, day, hour, minute));
+    const formatTime = (isoString) => {
+      if (!isoString) return '';
+      const date = new Date(isoString);
       const options = { year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' };
       return date.toLocaleDateString(currentLang, options);
     };
 
-    const topicMap = {
-      'Technology': 'technology',
-      'Finance': 'financial_markets',
-      'Energy': 'energy',
-      'Healthcare': 'life_sciences',
-      'Real Estate': 'real_estate_and_construction',
-      '': 'financial_markets' // Fallback pour "Tous les secteurs"
-    };
-
-    const fetchNews = async (topicKey, sort) => {
+    const fetchNews = async (topic, sort) => {
       statusElNews.textContent = t('newsLoading');
       statusElNews.className = 'status-message';
       newsListEl.innerHTML = '';
 
-      const apiTopic = topicMap[topicKey] || 'financial_markets';
-      const sortValue = sort === 'latest' ? 'LATEST' : 'RELEVANCE';
-      const url = `https://taupe-puffpuff-a81143.netlify.app/.netlify/functions/getNews`;
+      if (!API_KEY || API_KEY === '16e1e643b2cc411d95ae1133f92b7aaa') {
+        statusElNews.textContent = "Clé NewsAPI manquante.";
+        statusElNews.classList.add('error');
+        return;
+      }
+
+      const query = topic || 'finance';
+      const sortValue = sort === 'latest' ? 'publishedAt' : 'relevance';
+      const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&sortBy=${sortValue}&language=fr&pageSize=20&apiKey=${API_KEY}`;
 
       try {
         const response = await fetch(url);
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
         const data = await response.json();
 
-        if (data.Note || data["Error Message"]) {
-          console.error("Alpha Vantage API Error:", data);
-          statusElNews.textContent = t('newsError');
-          statusElNews.classList.add('error');
-          return;
+        if (data.status !== 'ok') {
+          throw new Error(data.message || 'Erreur API');
         }
 
-        if (!data.feed || data.feed.length === 0) {
+        if (!data.articles || data.articles.length === 0) {
           statusElNews.textContent = t('newsNoData');
           return;
         }
 
-        statusElNews.textContent = ''; // Succès, on efface le message
+        statusElNews.textContent = '';
 
-        data.feed.forEach(article => {
+        data.articles.forEach(article => {
           const articleEl = document.createElement('a');
           articleEl.className = 'news-article';
           articleEl.href = article.url;
           articleEl.target = '_blank';
           articleEl.rel = 'noopener noreferrer';
 
-          let summary = article.summary || '';
+          let summary = article.description || '';
           if (summary.length > 200) {
             summary = summary.substring(0, 200) + '...';
           }
@@ -412,15 +397,15 @@ document.addEventListener('DOMContentLoaded', () => {
             <h3>${article.title}</h3>
             <p>${summary}</p>
             <div class="news-meta">
-              <span class="source">${article.source}</span>
-              <span class="date">${formatTime(article.time_published)}</span>
+              <span class="source">${article.source.name}</span>
+              <span class="date">${formatTime(article.publishedAt)}</span>
             </div>
           `;
           newsListEl.appendChild(articleEl);
         });
       } catch (error) {
         console.error('Error fetching news:', error);
-        statusElNews.textContent = t('newsError') + ' (Network or fetch failed)';
+        statusElNews.textContent = t('newsError');
         statusElNews.classList.add('error');
       }
     };
@@ -439,7 +424,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (sectorFilter) sectorFilter.addEventListener('change', applyFilters);
     if (sortFilter) sortFilter.addEventListener('change', applyFilters);
 
-    // Lancement initial au chargement de la page
     applyFilters();
   }
 });
