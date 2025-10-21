@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25185,
+  "totalArticles": 25187,
   "articles": [
+    {
+      "id": "a252cc72466b8dbff8af66b213854a6d",
+      "title": "Dette : \" Le Royaume-Uni n’est pas encore dans la situation de la France, mais il s’en rapproche \"",
+      "description": "À un mois d’un budget décisif, le Royaume-Uni voit son déficit public déraper de nouveau, mettant la chancelière de l'Échiquier Rachel Reeves sous une pression croissante entre rigueur budgétaire et croissance vacillante.",
+      "content": "Le gouvernement britannique fait face à un nouvel avertissement budgétaire. Selon des chiffres publiés mardi par l’Office national des statistiques (ONS), le déficit public du Royaume-Uni s’est encore creusé en septembre, accentuant la pression sur l... [2931 chars]",
+      "url": "https://www.latribune.fr/article/economie/29016472588932/dette-le-royaume-uni-n-est-pas-encore-dans-la-situation-de-la-france-mais-il-s-en-rapproche",
+      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/21/british-prime-minister-keir-starmer-and-chancellor-of-the-exchequer-rachel-reeves-attend-britain-s-l-1761041641_64924d1c57f8668924d1c57f84c924v_.jpg",
+      "publishedAt": "2025-10-21T10:14:02Z",
+      "lang": "fr",
+      "source": {
+        "id": "a475e4eb8a88f44bec788830464aef42",
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "0d7507a6b60630c0976047ce8df827ea",
+      "title": "Les contrats à terme du TSX reculent alors que les prix des matières premières fléchissent ; l'attention portée sur l'inflation",
+      "description": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto, fortement axé sur les ressources, étaient en baisse mardi, les prix des matières premières s'affaiblissant, tandis que...",
+      "content": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto, fortement axé sur les ressources, étaient en baisse mardi, les prix des matières premières s'affaiblissant, tandis que les investisseurs attendaient les données sur l'inflation a... [2449 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-contrats-a-terme-du-tsx-reculent-alors-que-les-prix-des-matieres-premieres-flechissent-l-atten-ce7d5ad3dd89f422",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-13T103102Z_1_LYNXMPEL5C0HP_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2025-10-21T09:58:14Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "a9d4569ac43ac94d32113da2839ee34f",
       "title": "Interparfums souffre des taux de change au 3e trimestre",
@@ -131,38 +163,6 @@
         "id": "d72db178501ee94d88ea59fe10ef8079",
         "name": "Le Monde.fr",
         "url": "https://www.lemonde.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7320bf912fdd80b74a3bfeee0614474c",
-      "title": "L'économie égyptienne devrait croître de 4,6% en 2025/26 alors que l'inflation ralentit",
-      "description": "Selon un sondage réalisé par Reuters lundi, l'économie égyptienne devrait enregistrer une croissance de 4,6% au cours de l'exercice se terminant en juin prochain, portée par le recul de...\n-Le 20 octobre 2025 à 17:33\n- Zonebourse",
-      "content": "Selon un sondage réalisé par Reuters lundi, l'économie égyptienne devrait enregistrer une croissance de 4,6% au cours de l'exercice se terminant en juin prochain, portée par le recul de l'inflation et des taux d'intérêt, ainsi que par une monnaie aff... [2520 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/l-economie-egyptienne-devrait-croitre-de-4-6-en-2025-26-alors-que-l-inflation-ralentit-ce7d5ad2de8df127",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-20T153303Z_1_LYNXMPEL9J0NR_RTROPTP_4_EGYPT-ECONOMY-IMF.JPG",
-      "publishedAt": "2025-10-20T15:33:41Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "a771df24848e83595cc474894bfa83cf",
-      "title": "À partir du 10 novembre, les femmes travailleront gratuitement",
-      "description": "Le 10 novembre à 11 h 31, les femmes travailleront gratuitement jusqu’à la fin de l’année 2025, révèle la newsletter féministe Les Glorieuses, ce lundi 20 octobre.\nDeux jours de rémunération supplémentaires par rapport à 2024. Les Glorieuses, newsletter féministe et culturelle, publie chaque année – depuis neuf ans – la date et l’heure auxquelles les femmes devraient théoriquement arrêter de travailler. Si elles conservaient leur revenu annuel moyen jusqu'au 31 décembre 2025, elles ne seraient plus payées à partir du 10 novembre à 11h31. En cause ? Les inégalités salariales qui perdurent, les femmes n’étant pas rémunérées au même taux horaire que les hommes.\nSelon les dernières données de l’Insee, elles gagnent en moyenne 14,2 % de moins que les hommes à temps de travail égal. Cette date \"est une façon extrêmement maligne, presque ludique, de sensibiliser aux inégalités salariales entre hommes et femmes\", explique Sophie, bibliothécaire à Paris (XIIIe) au Parisien. Avant d’ajouter : \"C’est une réalité que vous vous prenez en pleine face, l’air de rien, et elle ne tient pas en compte le travail gratuit à la maison\".\nInégalités persistantes\nMais ces deux jours de rémunération supplémentaires ne sont pas réellement une avancée. \"Je fais les calculs uniquement sur les jours ouvrés, du lundi au vendredi. Cette année, la date tombe un lundi, car je ne compte pas les week-ends et, en plus, l’année dernière était une année bissextile. En fait, ça stagne sans avancées majeures\", explique la docteure en économie et chercheuse Rebecca Amsellem, autrice de la newsletter.\nDe fortes disparités persistent entre les hommes et les femmes : les métiers exercés majoritairement par des femmes sont moins valorisés, la sous-représentation des femmes dans les postes de direction, la charge parentale inégalement répartie… Début 2026, il sera possible de connaître, de manière légale, le salaire des employés de l’entreprise dans laquelle une personne travaille. Une transparence nécessaire pour lutter contre les inégalités.",
-      "content": "Le 10 novembre à 11 h 31, les femmes travailleront gratuitement jusqu’à la fin de l’année 2025, révèle la newsletter féministe Les Glorieuses, ce lundi 20 octobre.\nDeux jours de rémunération supplémentaires par rapport à 2024. Les Glorieuses, newslet... [1782 chars]",
-      "url": "https://actu.orange.fr/france/a-partir-du-10-novembre-les-femmes-travailleront-gratuitement-magic-CNT000002liyaM.html",
-      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fefb%2F35f%2Ff025af9b11517ccd44d12dfeb8%2Fefb35ff025af9b11517ccd44d12dfeb8.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-20T15:10:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
         "country": "fr"
       }
     }
