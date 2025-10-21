@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25176,
+  "totalArticles": 25177,
   "articles": [
+    {
+      "id": "7320bf912fdd80b74a3bfeee0614474c",
+      "title": "L'économie égyptienne devrait croître de 4,6% en 2025/26 alors que l'inflation ralentit",
+      "description": "Selon un sondage réalisé par Reuters lundi, l'économie égyptienne devrait enregistrer une croissance de 4,6% au cours de l'exercice se terminant en juin prochain, portée par le recul de...\n-Le 20 octobre 2025 à 17:33\n- Zonebourse",
+      "content": "Selon un sondage réalisé par Reuters lundi, l'économie égyptienne devrait enregistrer une croissance de 4,6% au cours de l'exercice se terminant en juin prochain, portée par le recul de l'inflation et des taux d'intérêt, ainsi que par une monnaie aff... [2520 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/l-economie-egyptienne-devrait-croitre-de-4-6-en-2025-26-alors-que-l-inflation-ralentit-ce7d5ad2de8df127",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-20T153303Z_1_LYNXMPEL9J0NR_RTROPTP_4_EGYPT-ECONOMY-IMF.JPG",
+      "publishedAt": "2025-10-20T15:33:41Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "a771df24848e83595cc474894bfa83cf",
       "title": "À partir du 10 novembre, les femmes travailleront gratuitement",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0bb05a64ac00e54684b18f0fd7d498f3",
-      "title": "Crise du logement : \"Nous vendons aujourd'hui deux fois moins de logements neufs qu'avant\", alerte Nexity",
-      "description": "La crise du logement résulte, selon Véronique Bedague, de la forte augmentation des taux d'intérêt et la question de l'investissement.",
-      "content": "\"Nous vendons aujourd'hui deux fois moins de logements neufs qu'avant la crise\" en 2019, alerte ce lundi 20 octobre sur franceinfo la PDG de Nexity, Véronique Bedague. La patronne du promoteur immobilier français alerte sur les difficultés actuelles ... [1198 chars]",
-      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/crise-du-logement-nous-vendons-aujourd-hui-deux-fois-moins-de-logements-neufs-qu-avant-alerte-nexity_7564114.html",
-      "image": "https://www.franceinfo.fr/pictures/LLh0vRoCp-zoJsv41NV8vqAhDrY/0x0:1280x720/1500x843/2025/10/20/untitled-68f5e6744cf4b314165624.jpg",
-      "publishedAt": "2025-10-20T07:40:03Z",
-      "lang": "fr",
-      "source": {
-        "id": "ff6fd13b5fe3aaad7b8577a8c2e82503",
-        "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr",
         "country": "fr"
       }
     }
