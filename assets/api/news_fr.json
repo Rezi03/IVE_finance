@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25183,
+  "totalArticles": 25185,
   "articles": [
+    {
+      "id": "a9d4569ac43ac94d32113da2839ee34f",
+      "title": "Interparfums souffre des taux de change au 3e trimestre",
+      "description": "Le groupe Interparfums a pâti des variations de taux de change au troisième trimestre, et vu son chiffre d'affaires reculer malgré la croissance des parfums de la marque Jimmy Choo et la bonne...",
+      "content": "Paris (awp/afp) - Le groupe Interparfums a pâti des variations de taux de change au troisième trimestre, et vu son chiffre d'affaires reculer malgré la croissance des parfums de la marque Jimmy Choo et la bonne dynamique des ventes en France et en Am... [2120 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/interparfums-souffre-des-taux-de-change-au-3e-trimestre-ce7d5ad3db8ff421",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-21T07:03:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "011a2edcb129619f8b4e568342827ddc",
+      "title": "Au Japon, une admiratrice de Margaret Tatcher devient la première femme à prendre les rênes du gouvernement",
+      "description": "Élue présidente du parti libéral-démocrate (PLD) début octobre, Sanae Takaichi a réussi à bâtir une coalition pour devenir la première femme à occuper le poste de Première ministre au Japon. Connue pour ses positions ultraconservatrices, celle qui a grandi dans l'ombre de Shinzo Abe a promis de s'attaquer à l'inflation et à la relance de la 4e économie mondiale.",
+      "content": "Pour la première fois de son histoire, le Japon sera donc désormais dirigé par une femme, Sanae Takaichi, qui a obtenu le feu vert du Parlement après avoir signé lundi 20 octobre un accord de coalition avec le parti de centre droit Ishin. Un évènemen... [2545 chars]",
+      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-japon-une-admiratrice-de-margaret-tatcher-devient-la-premiere-femme-a-prendre-les-renes-du-gouvernement_7536919.html",
+      "image": "https://www.franceinfo.fr/pictures/ZdCmVxzkKWNzYl0BsIaCmLLBXQ8/0x0:1024x575/1500x843/2025/10/21/000-79fz2xc-68f72d43df186810215733.jpg",
+      "publishedAt": "2025-10-21T07:01:25Z",
+      "lang": "fr",
+      "source": {
+        "id": "ff6fd13b5fe3aaad7b8577a8c2e82503",
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "9130c8ab84e2e6e0d3f1b995c910f0ad",
       "title": "Chiffre d'affaires du T3 2025 : 49,6 millions d’euros +9,0% à taux de change constants",
@@ -131,38 +163,6 @@
         "id": "3cf85c8714154abe13a5cdac30752179",
         "name": "Actualités - Orange",
         "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "76bdddbf7cce0a3800000313ae47d479",
-      "title": "L'éco du monde : La Chine définit cette semaine son cap économique des 5 prochaines années - 20/10",
-      "description": "Ce lundi 20 octobre, Claire Dissaux, responsable des études macroéconomiques du Groupe AXA, a abordé la dégradation de la note de la France à cause de sa dette par l'agence S&P, l'ouverture d'un plénum lourd d'enjeux pour la Chine et le ralentissement de l'économie chinoise au T3, dans l'émission...",
-      "content": "Ce lundi 20 octobre, Eric Lewin, stratégiste actions chez Bourse Direct, s'est penché sur la baisse de BNP Paribas après sa condamnation pour complice d'exactions au Soudan, le partenariat de Kering et L'Oréal, et l'attente sur les publications de ce... [2729 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-la-chine-definit-cette-semaine-son-cap-economique-des-5-prochaines-annees-20-10_EN-202510200587.html",
-      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
-      "publishedAt": "2025-10-20T14:42:36Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f77a597ddbaaadda61a5739988fb79a9",
-      "title": "La Bourse de Toronto portée par le secteur minier ; l'inflation et les résultats d'entreprises au centre de l'attention",
-      "description": "L'indice principal de la Bourse de Toronto a rebondi lundi, les actions minières menant la hausse, alors que les investisseurs attendent des rapports économiques cruciaux et la publication des...",
-      "content": "L'indice principal de la Bourse de Toronto a rebondi lundi, les actions minières menant la hausse, alors que les investisseurs attendent des rapports économiques cruciaux et la publication des résultats d'entreprises tout au long de la semaine.\nÀ 10h... [2405 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-bourse-de-toronto-portee-par-le-secteur-minier-l-inflation-et-les-resultats-d-entreprises-au-ce-ce7d5ad2de88f627",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T105833Z_1_LYNXMPEL3E0EW_RTROPTP_4_CANADA-STOCKS.JPG",
-      "publishedAt": "2025-10-20T14:38:24Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
