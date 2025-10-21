@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 832,
+  "totalArticles": 833,
   "articles": [
+    {
+      "id": "eb9dff5b33d969771a6a933343f0862b",
+      "title": "Can LVMUY Stock Sustain Gains Amid Tariffs and Inflation?",
+      "description": "Affluent households continue to do the bulk of the spending in the U.S. economy, which is boosting the profits of premier luxury brands like Louis Vuitton.",
+      "content": "The market’s infatuation with all that shimmers continued in earnest last week, with gold and silver making new all-time highs. But precious metals aren’t the only shiny assets spurring investors into action. High-end luxury brands have also been rac... [5356 chars]",
+      "url": "https://www.marketbeat.com/originals/louis-vuitton-earnings-show-luxury-bull-market-isnt-done-yet/",
+      "image": "https://www.marketbeat.com/logos/articles/med_20251020162939_louis-vuitton-earnings-show-luxury-bull-market-isn.png",
+      "publishedAt": "2025-10-20T21:37:00Z",
+      "lang": "en",
+      "source": {
+        "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
+        "name": "MarketBeat",
+        "url": "https://www.marketbeat.com",
+        "country": "us"
+      }
+    },
     {
       "id": "37a92b0b241432dbd0fc5ead1607337a",
       "title": "Morgan Stanley's profit beats estimates on boost from dealmaking, stock trading",
@@ -141,22 +157,6 @@
       "content": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions. Our investment management business generates asset-b... [1549 chars]",
       "url": "https://www.morningstar.com/company-reports/1344639-revenue-growth-remains-for-equity-lifestyles-manufactured-housing-portfolio-remains-above-inflation",
       "image": "https://www.morningstar.com/company-reports/:/[object Object]",
-      "publishedAt": "2025-10-03T00:00:00Z",
-      "lang": "en",
-      "source": {
-        "id": "d889fcdc98f3dab0a934bbe252002562",
-        "name": "Morningstar",
-        "url": "https://www.morningstar.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "317adbb8ec05dd4eab6d2693e9634362",
-      "title": "How Inflation, AI, and Budget Battles Will Shape the Stock Market in Q4",
-      "description": "Plus, a look at Nvidia’s potentially record-breaking AI investment.",
-      "content": "Plus, a look at Nvidia’s potentially record-breaking AI investment.\nThe author or authors do not own shares in any securities mentioned in this article. Find out about Morningstar’s editorial policies.\nMorningstar Investment Management LLC is a Regis... [839 chars]",
-      "url": "https://www.morningstar.com/markets/how-inflation-ai-budget-battles-will-shape-stock-market-q4-2",
-      "image": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/iMBSUAy25MLdekmOZYmDp4-_mtY=/2000x1125/d10o6nnig0wrdw.cloudfront.net/10-01-2025/t_315cfdf0f43344cb97245b8db150794b_name_file_960x540_1600_v4_.jpg",
       "publishedAt": "2025-10-03T00:00:00Z",
       "lang": "en",
       "source": {
