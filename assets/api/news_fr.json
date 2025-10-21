@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25181,
+  "totalArticles": 25183,
   "articles": [
+    {
+      "id": "9130c8ab84e2e6e0d3f1b995c910f0ad",
+      "title": "Chiffre d'affaires du T3 2025 : 49,6 millions d’euros +9,0% à taux de change constants",
+      "description": "Croissance du chiffre d'affaires à taux de change constants de +10,3% sur les 9 premiers mois de l'année\nPremiers signes d'amélioration de la...",
+      "content": "Croissance du chiffre d'affaires à taux de change constants de +10,3% sur les 9 premiers mois de l'année\nPremiers signes d'amélioration de la situation macroéconomique ayant pesé sur la croissance du chiffre d'affaires au cours des derniers trimestre... [14894 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/chiffre-d-affaires-du-t3-2025-49-6-millions-da-euros-9-0-a-taux-de-change-constants-ce7d5ad3db8af722",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-21T06:28:06Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "34e8565b77696fb6ab758c0b62b78234",
+      "title": "Interparfums confirme son objectif de chiffre d'affaires 2025 malgré un ralentissement de sa croissance",
+      "description": "Le fabricant de parfums sous licence Interparfums a confirmé mardi son objectif de chiffre d'affaires 2025 malgré le ralentissement de la croissance de ses ventes au troisième trimestre à taux de...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/interparfums-confirme-son-objectif-de-chiffre-d-affaires-2025-malgre-un-ralentissement-de-sa-croissa-ce7d5ad3d88afe20",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-21T05:57:12Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "58614432296be2fad77132af43814e0a",
       "title": "Planisware anticipe une reprise après un CA du T3 en croissance de 9%",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "39bd2b61ae01007cbdacd99cc3aa029d",
-      "title": "Wall Street ouvre en hausse avant l'inflation et une nouvelle série de résultats",
-      "description": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et ... - 20/10/2025 à 16:24 - Boursorama",
-      "content": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et les données sur l'inflation américaine plus tard c... [1600 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-avant-l-inflation-et-une-nouvelle-serie-de-resultats-ef3ccb5f335b9d93f808ee6d63ee608a",
-      "image": "https://www.boursorama.com/static/i/content/images/8/b/5/8b58a8533d3807726f4eb315046cd15b-1200x800.jpg",
-      "publishedAt": "2025-10-20T14:24:30Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "d7017fbdccc3bfcfd281efd9d992eea8",
-      "title": "Wall Street ouvre en hausse avant l'inflation et une nouvelle série de résultats",
-      "description": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et ... - 20/10/2025 à 15:52 - Boursorama",
-      "content": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et les données sur l'inflation américaine plus tard c... [1715 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-avant-l-inflation-et-une-nouvelle-serie-de-resultats-cac38556dfc76e4d33e1b822bb9225d0",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-0.jpg",
-      "publishedAt": "2025-10-20T13:52:46Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
