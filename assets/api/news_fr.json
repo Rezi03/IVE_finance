@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25172,
+  "totalArticles": 25176,
   "articles": [
+    {
+      "id": "a771df24848e83595cc474894bfa83cf",
+      "title": "À partir du 10 novembre, les femmes travailleront gratuitement",
+      "description": "Le 10 novembre à 11 h 31, les femmes travailleront gratuitement jusqu’à la fin de l’année 2025, révèle la newsletter féministe Les Glorieuses, ce lundi 20 octobre.\nDeux jours de rémunération supplémentaires par rapport à 2024. Les Glorieuses, newsletter féministe et culturelle, publie chaque année – depuis neuf ans – la date et l’heure auxquelles les femmes devraient théoriquement arrêter de travailler. Si elles conservaient leur revenu annuel moyen jusqu'au 31 décembre 2025, elles ne seraient plus payées à partir du 10 novembre à 11h31. En cause ? Les inégalités salariales qui perdurent, les femmes n’étant pas rémunérées au même taux horaire que les hommes.\nSelon les dernières données de l’Insee, elles gagnent en moyenne 14,2 % de moins que les hommes à temps de travail égal. Cette date \"est une façon extrêmement maligne, presque ludique, de sensibiliser aux inégalités salariales entre hommes et femmes\", explique Sophie, bibliothécaire à Paris (XIIIe) au Parisien. Avant d’ajouter : \"C’est une réalité que vous vous prenez en pleine face, l’air de rien, et elle ne tient pas en compte le travail gratuit à la maison\".\nInégalités persistantes\nMais ces deux jours de rémunération supplémentaires ne sont pas réellement une avancée. \"Je fais les calculs uniquement sur les jours ouvrés, du lundi au vendredi. Cette année, la date tombe un lundi, car je ne compte pas les week-ends et, en plus, l’année dernière était une année bissextile. En fait, ça stagne sans avancées majeures\", explique la docteure en économie et chercheuse Rebecca Amsellem, autrice de la newsletter.\nDe fortes disparités persistent entre les hommes et les femmes : les métiers exercés majoritairement par des femmes sont moins valorisés, la sous-représentation des femmes dans les postes de direction, la charge parentale inégalement répartie… Début 2026, il sera possible de connaître, de manière légale, le salaire des employés de l’entreprise dans laquelle une personne travaille. Une transparence nécessaire pour lutter contre les inégalités.",
+      "content": "Le 10 novembre à 11 h 31, les femmes travailleront gratuitement jusqu’à la fin de l’année 2025, révèle la newsletter féministe Les Glorieuses, ce lundi 20 octobre.\nDeux jours de rémunération supplémentaires par rapport à 2024. Les Glorieuses, newslet... [1782 chars]",
+      "url": "https://actu.orange.fr/france/a-partir-du-10-novembre-les-femmes-travailleront-gratuitement-magic-CNT000002liyaM.html",
+      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fefb%2F35f%2Ff025af9b11517ccd44d12dfeb8%2Fefb35ff025af9b11517ccd44d12dfeb8.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-20T15:10:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "76bdddbf7cce0a3800000313ae47d479",
+      "title": "L'éco du monde : La Chine définit cette semaine son cap économique des 5 prochaines années - 20/10",
+      "description": "Ce lundi 20 octobre, Claire Dissaux, responsable des études macroéconomiques du Groupe AXA, a abordé la dégradation de la note de la France à cause de sa dette par l'agence S&P, l'ouverture d'un plénum lourd d'enjeux pour la Chine et le ralentissement de l'économie chinoise au T3, dans l'émission...",
+      "content": "Ce lundi 20 octobre, Eric Lewin, stratégiste actions chez Bourse Direct, s'est penché sur la baisse de BNP Paribas après sa condamnation pour complice d'exactions au Soudan, le partenariat de Kering et L'Oréal, et l'attente sur les publications de ce... [2729 chars]",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-la-chine-definit-cette-semaine-son-cap-economique-des-5-prochaines-annees-20-10_EN-202510200587.html",
+      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
+      "publishedAt": "2025-10-20T14:42:36Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f77a597ddbaaadda61a5739988fb79a9",
+      "title": "La Bourse de Toronto portée par le secteur minier ; l'inflation et les résultats d'entreprises au centre de l'attention",
+      "description": "L'indice principal de la Bourse de Toronto a rebondi lundi, les actions minières menant la hausse, alors que les investisseurs attendent des rapports économiques cruciaux et la publication des...",
+      "content": "L'indice principal de la Bourse de Toronto a rebondi lundi, les actions minières menant la hausse, alors que les investisseurs attendent des rapports économiques cruciaux et la publication des résultats d'entreprises tout au long de la semaine.\nÀ 10h... [2405 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-bourse-de-toronto-portee-par-le-secteur-minier-l-inflation-et-les-resultats-d-entreprises-au-ce-ce7d5ad2de88f627",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T105833Z_1_LYNXMPEL3E0EW_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2025-10-20T14:38:24Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "39bd2b61ae01007cbdacd99cc3aa029d",
+      "title": "Wall Street ouvre en hausse avant l'inflation et une nouvelle série de résultats",
+      "description": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et ... - 20/10/2025 à 16:24 - Boursorama",
+      "content": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et les données sur l'inflation américaine plus tard c... [1600 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-avant-l-inflation-et-une-nouvelle-serie-de-resultats-ef3ccb5f335b9d93f808ee6d63ee608a",
+      "image": "https://www.boursorama.com/static/i/content/images/8/b/5/8b58a8533d3807726f4eb315046cd15b-1200x800.jpg",
+      "publishedAt": "2025-10-20T14:24:30Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "d7017fbdccc3bfcfd281efd9d992eea8",
       "title": "Wall Street ouvre en hausse avant l'inflation et une nouvelle série de résultats",
@@ -99,70 +163,6 @@
         "id": "ff6fd13b5fe3aaad7b8577a8c2e82503",
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "52f3b8055fb665cc8f6e75c7c960b9c5",
-      "title": "Bank Indonesia s'apprête à abaisser à nouveau ses taux, la croissance privilégiée face aux inquiétudes sur la roupie",
-      "description": "Bank Indonesia devrait abaisser son principal taux directeur pour la quatrième réunion consécutive ce mercredi, le portant à 4,50 %, alors que les décideurs accordent une priorité accrue au...\n-Le 20 octobre 2025 à 06:47\n- Zonebourse",
-      "content": "Bank Indonesia (BI) devrait abaisser son principal taux directeur pour la quatrième réunion consécutive ce mercredi, le portant à 4,50 %, alors que les décideurs accordent une priorité accrue au soutien de la croissance économique malgré la faiblesse... [3673 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/bank-indonesia-s-apprete-a-abaisser-a-nouveau-ses-taux-la-croissance-privilegiee-face-aux-inquietud-ce7d5ad2d88cff24",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-07T080638Z_1_LYNXNPEL96081_RTROPTP_4_INDONESIA-ECONOMY-BANKS.JPG",
-      "publishedAt": "2025-10-20T04:47:05Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "4fe530c7b9103260f89c0027545920a4",
-      "title": "ENTRETIEN. Augmentation des frais bancaires : \"La hausse actuelle passe largement inaperçue pour beaucoup de clients\", alerte l’UFC",
-      "description": "En 2025, les frais bancaires augmentent de 3,1 % en moyenne, trois fois plus vite que l’inflation. Juliette Woods, chargée de mission banque et assurance à l’UFC-Que Choisir,...",
-      "content": "Alors que l’inflation ralentit à 1 % sur un an, les tarifs bancaires repartent à la hausse. L’Observatoire des tarifs bancaires révèle que dix des quatorze principaux services facturés par les banques augmentent. L’UFC-Que Choisir s’inquiète d’une év... [3640 chars]",
-      "url": "https://www.ladepeche.fr/2025/10/20/entretien-augmentation-des-frais-bancaires-la-hausse-actuelle-passe-largement-inapercue-pour-beaucoup-de-clients-alerte-lufc-que-choisir-12978868.php",
-      "image": "https://images.ladepeche.fr/api/v1/images/view/68e630df935aa111c905d2e3/hd/image.jpg?v=1",
-      "publishedAt": "2025-10-20T04:32:02Z",
-      "lang": "fr",
-      "source": {
-        "id": "f47f0151dc08c218155a97e61a58ac29",
-        "name": "La Dépêche",
-        "url": "https://www.ladepeche.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "e12bf5599ef484629847914af273e436",
-      "title": "Nicolas Dufourcq, en dette à tête",
-      "description": "Le directeur de la Banque publique d’investissement, amateur de musique et de photographie, est récemment parti en guerre contre la dette sociale.",
-      "content": "Il est hors du commun, parle à toute allure et à voix basse, réfléchit extrêmement vite. Il n’est pas chaleureux, mais pas froid non plus. Il a une tête et un CV de premier de la classe, mais un don d’acteur comique dont Libération a profité au cours... [718 chars]",
-      "url": "https://www.liberation.fr/portraits/nicolas-dufourcq-en-dette-a-tete-20251019_7FYW5XHZ4BHZLHS3WWFF2UCFOI/",
-      "image": "https://www.liberation.fr/resizer/v2/APFWVRXD3VB37J54Y5GUM73RRY.JPG?auth=84714898c057eb862e1b93a539b318ac66521cdf2f170d5ab7535dd9146e5a9b&quality=70&width=1200&height=630&focal=3359%2C4632",
-      "publishedAt": "2025-10-19T15:38:53Z",
-      "lang": "fr",
-      "source": {
-        "id": "0041043f44c4c90a16732eaaf05c73ca",
-        "name": "Libération",
-        "url": "https://www.liberation.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "425758c3f4d7387394b32269e6888140",
-      "title": "un prêt à taux zéro pour la création, la reprise ou l'investissement",
-      "description": "Le Réseau initiative de Haute-Saône a organisé, à la Filature de Ronchamp, son nouveau comité d’agrément en soutien aux entrepreneurs. Plusieurs ...",
-      "content": "L'Est Républicain, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votr... [772 chars]",
-      "url": "https://www.estrepublicain.fr/economie/2025/10/19/creation-reprise-ou-investissement-en-entreprise-le-pret-a-taux-zero-du-reseau-initiative",
-      "image": "https://cdn-s-www.estrepublicain.fr/images/5EC51A5D-7572-455B-8F37-C27C21BBCE16/FB1200/photo-1760862471.jpg",
-      "publishedAt": "2025-10-19T10:00:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "0686a481a1b06a00a64a370b4defbba0",
-        "name": "L'Est Républicain",
-        "url": "https://www.estrepublicain.fr",
         "country": "fr"
       }
     }
