@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25177,
+  "totalArticles": 25178,
   "articles": [
+    {
+      "id": "42346e911ecc2910953e4988e13440e3",
+      "title": "\" La France a perdu toute crédibilité budgétaire \"",
+      "description": "CHRONIQUE. La dégradation de la note de la dette française par les agences Fitch et S&P met en évidence à quel point plus personne, sur les marchés financiers et dans l’UE, ne croit les promesses de redressement des comptes publics de l’Etat, constate Eric Albert, dans sa chronique.",
+      "content": "Parce qu’une autre personne (ou vous) est en train de lire Le Monde avec ce compte sur un autre appareil.\nVous ne pouvez lire Le Monde que sur un seul appareil à la fois (ordinateur, téléphone ou tablette).\nComment ne plus voir ce message ?\nEn cliqua... [2243 chars]",
+      "url": "https://www.lemonde.fr/idees/article/2025/10/21/la-france-a-perdu-toute-credibilite-budgetaire_6648320_3232.html",
+      "image": "https://img.lemde.fr/2025/09/09/1/0/7846/5230/1440/960/60/0/8cde76b_ftp-import-images-1-3b18f2hfbapb-2025-09-09t073849z-1647833208-rc27ogaa6lwx-rtrmadp-3-france-politics.JPG",
+      "publishedAt": "2025-10-21T03:30:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "d72db178501ee94d88ea59fe10ef8079",
+        "name": "Le Monde.fr",
+        "url": "https://www.lemonde.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "7320bf912fdd80b74a3bfeee0614474c",
       "title": "L'économie égyptienne devrait croître de 4,6% en 2025/26 alors que l'inflation ralentit",
@@ -147,22 +163,6 @@
         "id": "1775966eb8106b18adce505f85009b83",
         "name": "L'Opinion",
         "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "1ffd71ea052d10c4f01bec85a4689ac9",
-      "title": "La croissance du PIB slovaque en 2024 révisée à la baisse à +1,9 % ; ralentissement au deuxième trimestre",
-      "description": "L'économie slovaque a connu une croissance inférieure aux estimations précédentes en 2024, avec une expansion de 1,9 % contre un taux de croissance initialement annoncé à 2,1 %, selon les...\n-Le 20 octobre 2025 à 09:53\n- Zonebourse",
-      "content": "Les actions sont toujours assoiffées de records\nLa Bourse aborde la dernière ligne droite d'octobre sans avoir levé son paradoxe du moment : malgré des valorisations élevées et de nombreuses tensions, l'appétit pour le risque reste intact. Le début d... [487 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-croissance-du-pib-slovaque-en-2024-revisee-a-la-baisse-a-1-9-ralentissement-au-deuxieme-trim-ce7d5ad2db80f32d",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-20T07:53:29Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
