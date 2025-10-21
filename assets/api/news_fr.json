@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25169,
+  "totalArticles": 25172,
   "articles": [
+    {
+      "id": "d7017fbdccc3bfcfd281efd9d992eea8",
+      "title": "Wall Street ouvre en hausse avant l'inflation et une nouvelle série de résultats",
+      "description": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et ... - 20/10/2025 à 15:52 - Boursorama",
+      "content": "La Bourse de New York a ouvert en hausse lundi, soulagée par l'apaisement des tensions commerciales et bancaires tandis que les investisseurs attendent les résultats d'entreprises de premier ordre et les données sur l'inflation américaine plus tard c... [1715 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-avant-l-inflation-et-une-nouvelle-serie-de-resultats-cac38556dfc76e4d33e1b822bb9225d0",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-0.jpg",
+      "publishedAt": "2025-10-20T13:52:46Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "36f3bd2d6bd334dd7e59022aaab59619",
+      "title": "Namibie : la BoN abaisse son taux de repo à 6,5 %",
+      "description": "La Banque de Namibie a abaissé son taux d’intérêt principal de 25 points de base, le fixant à 6,5 %, après l’avoir maintenu stable pendant trois réunions de politique monétaire …",
+      "content": "La Banque de Namibie a abaissé son taux d’intérêt principal de 25 points de base, le fixant à 6,5 %, après l’avoir maintenu stable pendant trois réunions de politique monétaire consécutives. Cette décision prise le 18 octobre 2025, vise à soutenir l’... [2187 chars]",
+      "url": "https://africa24tv.com/namibie-la-bon-abaisse-son-taux-de-repo-a-65",
+      "image": "https://africa24tv.com/wp-content/uploads/2025/10/namibie-la-bon-abaisse-son-taux-de-repo-a-65.jpg",
+      "publishedAt": "2025-10-20T13:07:12Z",
+      "lang": "fr",
+      "source": {
+        "id": "4ec1f1a4e9248c04976c7b04c396dd1a",
+        "name": "Africa 24",
+        "url": "https://africa24tv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "d96a59ebbdbc98f5d8c12eda8e033786",
+      "title": "La Banque centrale de Roumanie maintient ses taux d'intérêt en octobre, l'économie proche de la stagnation",
+      "description": "Le conseil d'administration de la Banque centrale de Roumanie a voté à l'unanimité le maintien du taux directeur à 6,50 % lors de sa réunion du 8 octobre, selon le compte rendu publié lundi....\n-Le 20 octobre 2025 à 14:12\n- Zonebourse",
+      "content": "Les actions sont toujours assoiffées de records\nLa Bourse aborde la dernière ligne droite d'octobre sans avoir levé son paradoxe du moment : malgré des valorisations élevées et de nombreuses tensions, l'appétit pour le risque reste intact. Le début d... [487 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-de-roumanie-maintient-ses-taux-d-interet-en-octobre-l-economie-proche-de-la-stag-ce7d5ad2dc8df224",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-20T12:12:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "01d0e66ee93049b228e1baddd83ae6a6",
       "title": "Le CAC 40 résiste à la dégradation de la note de la France et tutoie ses records",
@@ -115,54 +163,6 @@
         "id": "0686a481a1b06a00a64a370b4defbba0",
         "name": "L'Est Républicain",
         "url": "https://www.estrepublicain.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "742935d8b546147a8e6828206947bf95",
-      "title": "L'édito éco de Lucie Robequain. L’économie américaine et ses vilains cafards",
-      "description": "Alors que plusieurs fraudes secouent les banques régionales américaines, Wall Street redoute une nouvelle crise de la dette privée. Derrière la croissance dopée à l’intelligence artificielle, certains voient déjà poindre les failles d’un modèle trop concentré.",
-      "content": "Quand un cafard traverse votre cuisine, tout porte à croire que d’autres pullulent dans les environs. Telle est la réflexion, a priori triviale, lancée cette semaine par Jamie Dimon, le plus grand banquier américain. Il n’en fallait pas plus pour fai... [3288 chars]",
-      "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/73821413878556/ledito-eco-de-lucie-robequain-l-economie-americaine-et-ses-vilains-cafards",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/09/27/decouvrez-l-edito-de-lucie-robequain-1759006439_7d33f989b7d867143f989b7d85543fv_.jpg",
-      "publishedAt": "2025-10-19T08:20:02Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "2b5b9702db132aa02b7386a9e2b40081",
-      "title": "Nicolas Dufourcq : \"L'État-providence n'est ni de droite, ni de gauche, il est notre bien commun\"",
-      "description": "Le patron de la BPI, auteur de La Dette sociale de la France (Odile Jacob), appelle à sortir des postures partisanes. Pour Nicolas Dufourcq, la dérive de la dette publique met en péril l’économie française et exige un sursaut collectif, au-delà des querelles politiques.",
-      "content": "Avant d’aller dans le détail, le sujet de la dette n’est-il pas exagéré ? Nos taux d’emprunt sont contenus, le pays tourne. Que répondez-vous à ceux qui vous reprocheraient d’être un oracle de l’apocalypse ?\nIls peuvent me traiter d’oracle. Je leur r... [6558 chars]",
-      "url": "https://www.lejdd.fr/economie/nicolas-dufourcq-il-faut-repousser-lage-de-depart-a-la-retraite-a-65-ans-163088",
-      "image": "https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2025/10/17/18/nicolas-dufourq-0z3a0955-copie.jpeg?VersionId=uxXept9r9K.Ky7fWfxsNv6ErmUbg0nGs",
-      "publishedAt": "2025-10-19T03:45:10Z",
-      "lang": "fr",
-      "source": {
-        "id": "9356983945cfb4d8487de0ed0aeaa0f0",
-        "name": "Le Journal Du Dimanche",
-        "url": "https://www.lejdd.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "403db36ec3feeeb95d3fdadc2465e410",
-      "title": "Bruno Le Maire : \" La droite, les oppositions, ils venaient tous pleurer dans mon bureau pour que je dépense plus ! \"",
-      "description": "Dans une interview accordée à TF1, ce vendredi, l’ancien ministre de l’Economie réagit à sa réputation d’artisan de la dette. Il parle de « fourberie » et rappelle que tous les bords politiques venaient lui réclamaient des crédits supplémentaires",
-      "content": "«L’homme aux 1.000 milliards d’euros de dette », Bruno Le Maire, apprécie peu cette étiquette qui lui a été attribuée et qui a notamment contribué à la chute du premier gouvernement Lecornu. Celui-ci a démissionné le 6 octobre, avant d’être renommé à... [644 chars]",
-      "url": "https://www.20minutes.fr/politique/4180148-20251018-bruno-maire-droite-oppositions-venaient-tous-pleurer-bureau-depense-plus",
-      "image": "https://img.20mn.fr/-lz2FGFNQAeeKCUDALykEik/1444x920_former-finance-minister-bruno-le-maire-gestures-prior-to-his-hearing-before-the-french-senate-on-the-drift-of-public-finances-in-paris-on-november-7-2024-prior-to-a-committee-of-enquiry-at-the-french-national-assembly-the-french-senate-is-trying-to-understand-the-reasons-for-the-budgetary-slippage-by-hearing-former-france-s-minister-for-economy-finance-and-former-french-prime-minister-the-next-day-with-the-aim-of-purging-the-abscess-ahead-of-the-examination-of-the-draft-budget-for-2025-photo-by-bertrand-guay-afp",
-      "publishedAt": "2025-10-18T14:31:52Z",
-      "lang": "fr",
-      "source": {
-        "id": "a47fb175218c2249b1a205da3387cade",
-        "name": "20 Minutes",
-        "url": "https://www.20minutes.fr",
         "country": "fr"
       }
     }
