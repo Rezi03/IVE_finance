@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25192,
+  "totalArticles": 25193,
   "articles": [
+    {
+      "id": "88b0de6abf0eb0008c3fa27003b2c064",
+      "title": "Eurofins : sa tension chute après un diagnostic express de la Bourse",
+      "description": "Malgré des objectifs confirmés pour 2025, la faiblesse de la division biopharma a inquiété les investisseurs. Les taux de change pourraient aussi peser sur ses revenus futurs.",
+      "content": "Pour analyser des résultats, les laboratoires mettent en général plusieurs heures. En Bourse, les investisseurs posent parfois un diagnostic très vite.\nA l'ouverture des marchés, mardi, Eurofins a subi une véritable hémorragie de 8 %. Son état de san... [265 chars]",
+      "url": "https://www.lesechos.fr/idees-debats/crible/eurofins-sa-tension-chute-apres-un-diagnostic-express-de-la-bourse-2193723",
+      "image": "https://media.lesechos.com/api/v1/images/view/68f7c0f1a7e16f45040e9250/1280x720/01601616440166-web-tete.jpg",
+      "publishedAt": "2025-10-21T17:20:43Z",
+      "lang": "fr",
+      "source": {
+        "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
+        "name": "Les Échos",
+        "url": "https://www.lesechos.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "b2e9f9e3656361a1c593b7e25c7705b9",
       "title": "Budget 2026 : comment les riches plument l’État grâce à la dette",
@@ -147,22 +163,6 @@
         "id": "ff6fd13b5fe3aaad7b8577a8c2e82503",
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "9130c8ab84e2e6e0d3f1b995c910f0ad",
-      "title": "Chiffre d'affaires du T3 2025 : 49,6 millions d’euros +9,0% à taux de change constants",
-      "description": "Croissance du chiffre d'affaires à taux de change constants de +10,3% sur les 9 premiers mois de l'année\nPremiers signes d'amélioration de la...",
-      "content": "Croissance du chiffre d'affaires à taux de change constants de +10,3% sur les 9 premiers mois de l'année\nPremiers signes d'amélioration de la situation macroéconomique ayant pesé sur la croissance du chiffre d'affaires au cours des derniers trimestre... [14894 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/chiffre-d-affaires-du-t3-2025-49-6-millions-da-euros-9-0-a-taux-de-change-constants-ce7d5ad3db8af722",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-21T06:28:06Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
