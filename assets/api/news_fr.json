@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25195,
+  "totalArticles": 25196,
   "articles": [
+    {
+      "id": "21f8264b6978ab82cfac8a49dea6f58d",
+      "title": "La Banque du Japon s'apprête à relever ses taux d'intérêt au quatrième trimestre, selon la majorité des économistes",
+      "description": "La Banque du Japon devrait relever son principal taux d'intérêt en octobre ou en décembre, selon une majorité d'économistes interrogés dans le cadre d'une enquête Reuters. Près de 96 %...\n-Le 22 octobre 2025 à 06:14\n- Zonebourse",
+      "content": "La Banque du Japon (BOJ) devrait relever son principal taux d'intérêt en octobre ou en décembre, selon une majorité d'économistes interrogés dans le cadre d'une enquête Reuters. Près de 96 % d'entre eux anticipent une hausse des coûts d'emprunt d'au ... [2656 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-s-apprete-a-relever-ses-taux-d-interet-au-quatrieme-trimestre-selon-la-majorite-ce7d5ddada8df52d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-16T015343Z_1_LYNXNPEL9F023_RTROPTP_4_JAPAN-POLITICS-BOJ.JPG",
+      "publishedAt": "2025-10-22T04:14:21Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "3c2c3f0487ff5797ad4d5d84d174ac59",
       "title": "Capital One : le bénéfice trimestriel bondit grâce à une forte hausse des revenus d'intérêts",
@@ -147,22 +163,6 @@
         "id": "a475e4eb8a88f44bec788830464aef42",
         "name": "La Tribune",
         "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0d7507a6b60630c0976047ce8df827ea",
-      "title": "Les contrats à terme du TSX reculent alors que les prix des matières premières fléchissent ; l'attention portée sur l'inflation",
-      "description": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto, fortement axé sur les ressources, étaient en baisse mardi, les prix des matières premières s'affaiblissant, tandis que...",
-      "content": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto, fortement axé sur les ressources, étaient en baisse mardi, les prix des matières premières s'affaiblissant, tandis que les investisseurs attendaient les données sur l'inflation a... [2449 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-contrats-a-terme-du-tsx-reculent-alors-que-les-prix-des-matieres-premieres-flechissent-l-atten-ce7d5ad3dd89f422",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-13T103102Z_1_LYNXMPEL5C0HP_RTROPTP_4_CANADA-STOCKS.JPG",
-      "publishedAt": "2025-10-21T09:58:14Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
