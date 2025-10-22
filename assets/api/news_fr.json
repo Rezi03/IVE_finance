@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25194,
+  "totalArticles": 25195,
   "articles": [
+    {
+      "id": "3c2c3f0487ff5797ad4d5d84d174ac59",
+      "title": "Capital One : le bénéfice trimestriel bondit grâce à une forte hausse des revenus d'intérêts",
+      "description": "Capital One Financial a annoncé mardi une progression de son bénéfice au troisième trimestre, portée par la croissance soutenue des revenus d'intérêts issus de sa dette de cartes de...",
+      "content": "Capital One Financial a annoncé mardi une progression de son bénéfice au troisième trimestre, portée par la croissance soutenue des revenus d'intérêts issus de sa dette de cartes de crédit.\nLe titre du prêteur grand public, qui a enregistré une hauss... [1506 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/capital-one-le-benefice-trimestriel-bondit-grace-a-une-forte-hausse-des-revenus-d-interets-ce7d5ddadb8bf522",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-21T21:58:12Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "a8af2a35bc6d2fe6f01001637f4a0dfd",
       "title": "Blackstone et TPG vont retirer Hologic de la cote pour 18,3 milliards de dollars",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/les-contrats-a-terme-du-tsx-reculent-alors-que-les-prix-des-matieres-premieres-flechissent-l-atten-ce7d5ad3dd89f422",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-13T103102Z_1_LYNXMPEL5C0HP_RTROPTP_4_CANADA-STOCKS.JPG",
       "publishedAt": "2025-10-21T09:58:14Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "a9d4569ac43ac94d32113da2839ee34f",
-      "title": "Interparfums souffre des taux de change au 3e trimestre",
-      "description": "Le groupe Interparfums a pâti des variations de taux de change au troisième trimestre, et vu son chiffre d'affaires reculer malgré la croissance des parfums de la marque Jimmy Choo et la bonne...",
-      "content": "Paris (awp/afp) - Le groupe Interparfums a pâti des variations de taux de change au troisième trimestre, et vu son chiffre d'affaires reculer malgré la croissance des parfums de la marque Jimmy Choo et la bonne dynamique des ventes en France et en Am... [2120 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/interparfums-souffre-des-taux-de-change-au-3e-trimestre-ce7d5ad3db8ff421",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-21T07:03:15Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
