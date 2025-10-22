@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25188,
+  "totalArticles": 25190,
   "articles": [
+    {
+      "id": "7dc69784e5493018f210095ac6463ffa",
+      "title": "Les salaires vont augmenter en France, quels seront les métiers les mieux lotis ?",
+      "description": "D’après deux études menées auprès de 2000 entreprises, les salaires devraient augmenter en France de 1,5 % à 3,6 %, suite à l’inflation de l’année 2024, estimée à 2,4 % par la Banque de France. Mais",
+      "content": "Seulement derrière cette réalité, tous les corps de métiers ne seront pas logés à la même enseigne. Certains secteurs d’activité s’en sortent mieux que d’autres. D’après l’un des auteurs de l’étude, Laurent Blanchard, « les TPE, avec moins d’avantage... [1820 chars]",
+      "url": "https://www.larepubliquedespyrenees.fr/economie/economie/les-salaires-devraient-augmenter-en-france-quels-seront-les-metiers-les-mieux-lotis-26327803.php",
+      "image": "https://media.larepubliquedespyrenees.fr/26327803/1200x-1/money-1005476-1920.jpg",
+      "publishedAt": "2025-10-21T12:30:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "21eebd908430bcf83f1e2933e96640b6",
+        "name": "La Republique Des Pyrénées",
+        "url": "https://www.larepubliquedespyrenees.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "37037e593c24a44ed4ebc5f4508001f3",
+      "title": "Le CAC 40 se hisse à plus de 8 240 points et bat son record historique en clôture",
+      "description": "Stimulée par les résultats des entreprises, la Bourse de Paris est à la fête tandis que la France est toujours minée par une profonde crise politique et étouffée par une dette abyssale.",
+      "content": "C’est à n’y rien comprendre ! La France croule sous une dette abyssale, elle est secouée par la guerre commerciale de Donald Trump, pointée du doigt par les agences de notation et par l’exécutif européen pour son manque de rigueur budgétaire... Pourt... [744 chars]",
+      "url": "https://www.lefigaro.fr/societes/le-cac-40-se-hisse-a-plus-de-8-240-points-et-bat-son-record-historique-en-cloture-20251021",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/21/6ba48f63f91c819e24ae1e3384f3baf7fa21edcfa359bbcd89b2b28682468d2f.jpg",
+      "publishedAt": "2025-10-21T11:43:47Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "8ab2a3a7922d9307983b577f7d8ea6a5",
       "title": "Redressement budgétaire miraculeux et déclin industriel… Le double visage de l’économie italienne",
@@ -126,38 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/planisware-anticipe-une-reprise-apres-un-ca-du-t3-en-croissance-de-9-ce7d5ad3d888f622",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
       "publishedAt": "2025-10-21T05:21:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "98ed86ad49fe8ed084824c3d169864cb",
-      "title": "Planisware : Chiffre d'affaires 3e trimestre 2025",
-      "description": "Communiqué de presse\nChiffre d'affaires du T3 2025 : 49,6 millions d'euros\n+9,0% à taux de change constants\nCroissance du...",
-      "content": "Communiqué de presse Chiffre d'affaires du T3 2025 : 49,6 millions d'euros +9,0% à taux de change constants\nCroissance du chiffre d'affaires à taux de change constants de +10,3% sur les 9 premiers mois de l'année\nPremiers signes d'amélioration de la ... [15296 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/planisware-chiffre-d-affaires-3e-trimestre-2025-ce7d5ad3d889f224",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-21T05:12:06Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5d6374934f4d450022ba1d5424e22325",
-      "title": "Planisware - Chiffre d'affaires Q3 2025 - Communiqué de presse",
-      "description": "Chiffre d'affaires du T3 2025 : 49,6 millions d’euros+9,0% à taux de change constants Croissance du chiffre d'affaires à taux de change constants de +10,3% sur les 9 premiers mois de...",
-      "content": "Chiffre d'affaires du T3 2025 : 49,6 millions d’euros\n+9,0% à taux de change constants\nCroissance du chiffre d'affaires à taux de change constants de +10,3% sur les 9 premiers mois de l'année\nPremiers signes d'amélioration de la situation macroéconom... [15270 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/planisware-chiffre-d-affaires-q3-2025-communique-de-presse-ce7d5ad3d980f724",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-21T05:00:06Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
