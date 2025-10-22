@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25202,
+  "totalArticles": 25206,
   "articles": [
+    {
+      "id": "91f83a2ac5302a42c5020b8928f757fe",
+      "title": "Le FTSE progresse alors que l'inflation britannique se maintient à 3,8 %",
+      "description": "Les marchés boursiers londoniens ont ouvert en hausse mercredi, après la publication de données montrant que la croissance des prix à la consommation au Royaume-Uni est restée stable en...",
+      "content": "(Alliance News) - Les marchés boursiers londoniens ont ouvert en hausse mercredi, après la publication de données montrant que la croissance des prix à la consommation au Royaume-Uni est restée stable en septembre, alimentant les anticipations d'une ... [6650 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-ftse-progresse-alors-que-l-inflation-britannique-se-maintient-a-3-8--ce7d5ddadf8cf22c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-07-01T193631Z_1006950001_LYNXNPEC603I9_RTROPTP_2_CBUSINESS-US-FUNDS-BONDS-BULLS.JPG",
+      "publishedAt": "2025-10-22T08:16:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f495b45a5c585518f99e8c3b9d736d47",
+      "title": "Hermès : hausse de 9,6% des ventes en organique au T3, du mieux en Chine mais la maroquinerie pèse",
+      "description": "Hermès HRMS.PA a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trime... - 22/10/2025 à 09:58 - Boursorama",
+      "content": "Hermès HRMS.PA a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, même si la performance de sa principale divi... [2198 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/hermes-hausse-de-9-6-des-ventes-en-organique-au-t3-du-mieux-en-chine-mais-la-maroquinerie-pese-7c8c9ed8a6e6221b8622894fd494499b",
+      "image": "https://www.boursorama.com/static/i/content/images/9/f/c/9fc6523cd923fb75a32aaa7c3691e72c-1200x800.jpg",
+      "publishedAt": "2025-10-22T07:58:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "07462b9d16b5f36c61217631d81c2449",
+      "title": "Hermès: Hausse de 9,6% des ventes en organique au T3, du mieux en Chine",
+      "description": "Hermès a fait état mercredi d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, grâce à la solidité de sa principale division de maroquinerie, et dit observer des... - 22/10/2025 à 09:58 - Boursorama",
+      "content": "Hermès a fait état mercredi d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, grâce à la solidité de sa principale division de maroquinerie, et dit observer des signes d'amélioration en Chine, un marché clé pou... [1422 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/hermes-hausse-de-9-6-des-ventes-en-organique-au-t3-du-mieux-en-chine-7c8c9ed8a6e6221b8622894fd494499b",
+      "image": "https://www.boursorama.com/static/i/content/images/9/f/c/9fc6523cd923fb75a32aaa7c3691e72c-1200x800.jpg",
+      "publishedAt": "2025-10-22T07:58:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "29f49b07d8ae84372bfa33873e42d796",
+      "title": "Les investisseurs britanniques renforcent leurs paris sur une baisse des taux de la Banque d'Angleterre alors que l'inflation reste stable à 3,8 %",
+      "description": "Les investisseurs ont accru leurs anticipations de baisse des taux d'intérêt de la Banque d'Angleterre d'ici la fin de l'année, après la publication mercredi de chiffres montrant que l'inflation...\n-Le 22 octobre 2025 à 09:29\n- Zonebourse",
+      "content": "Les investisseurs ont accru leurs anticipations de baisse des taux d'intérêt de la Banque d'Angleterre (BoE) d'ici la fin de l'année, après la publication mercredi de chiffres montrant que l'inflation des prix à la consommation au Royaume-Uni, ainsi ... [1665 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-investisseurs-britanniques-renforcent-leurs-paris-sur-une-baisse-des-taux-de-la-banque-d-anglete-ce7d5ddadf88f22d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-02T125041Z_1_LYNXMPEL810NH_RTROPTP_4_BRITAIN-BONDS-2035.JPG",
+      "publishedAt": "2025-10-22T07:29:52Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "a3bab83520d06652f5938416fb59eab8",
       "title": "Ipsen S.A. relève ses prévisions de résultats pour l'année 2025",
@@ -99,70 +163,6 @@
         "id": "a475e4eb8a88f44bec788830464aef42",
         "name": "La Tribune",
         "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "21f8264b6978ab82cfac8a49dea6f58d",
-      "title": "La Banque du Japon s'apprête à relever ses taux d'intérêt au quatrième trimestre, selon la majorité des économistes",
-      "description": "La Banque du Japon devrait relever son principal taux d'intérêt en octobre ou en décembre, selon une majorité d'économistes interrogés dans le cadre d'une enquête Reuters. Près de 96 %...\n-Le 22 octobre 2025 à 06:14\n- Zonebourse",
-      "content": "La Banque du Japon (BOJ) devrait relever son principal taux d'intérêt en octobre ou en décembre, selon une majorité d'économistes interrogés dans le cadre d'une enquête Reuters. Près de 96 % d'entre eux anticipent une hausse des coûts d'emprunt d'au ... [2656 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-s-apprete-a-relever-ses-taux-d-interet-au-quatrieme-trimestre-selon-la-majorite-ce7d5ddada8df52d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-16T015343Z_1_LYNXNPEL9F023_RTROPTP_4_JAPAN-POLITICS-BOJ.JPG",
-      "publishedAt": "2025-10-22T04:14:21Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3c2c3f0487ff5797ad4d5d84d174ac59",
-      "title": "Capital One : le bénéfice trimestriel bondit grâce à une forte hausse des revenus d'intérêts",
-      "description": "Capital One Financial a annoncé mardi une progression de son bénéfice au troisième trimestre, portée par la croissance soutenue des revenus d'intérêts issus de sa dette de cartes de...",
-      "content": "Capital One Financial a annoncé mardi une progression de son bénéfice au troisième trimestre, portée par la croissance soutenue des revenus d'intérêts issus de sa dette de cartes de crédit.\nLe titre du prêteur grand public, qui a enregistré une hauss... [1506 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/capital-one-le-benefice-trimestriel-bondit-grace-a-une-forte-hausse-des-revenus-d-interets-ce7d5ddadb8bf522",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-21T21:58:12Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "a8af2a35bc6d2fe6f01001637f4a0dfd",
-      "title": "Blackstone et TPG vont retirer Hologic de la cote pour 18,3 milliards de dollars",
-      "description": "Les fonds d'investissement Blackstone et TPG ont annoncé mardi l'acquisition du groupe de diagnostic médical Hologic pour 18,3 milliards de dollars, dette comprise, signant ainsi la plus importante...",
-      "content": "Les fonds d'investissement Blackstone et TPG ont annoncé mardi l'acquisition du groupe de diagnostic médical Hologic pour 18,3 milliards de dollars, dette comprise, signant ainsi la plus importante opération dans le secteur des dispositifs médicaux d... [3951 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/blackstone-et-tpg-vont-retirer-hologic-de-la-cote-pour-18-3-milliards-de-dollars-ce7d5ddad988fe22",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-21T145843Z_1_LYNXMPEL7K0MV_RTROPTP_4_IRESS-M-A-BLACKSTONE-DE.JPG",
-      "publishedAt": "2025-10-21T18:23:17Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "88b0de6abf0eb0008c3fa27003b2c064",
-      "title": "Eurofins : sa tension chute après un diagnostic express de la Bourse",
-      "description": "Malgré des objectifs confirmés pour 2025, la faiblesse de la division biopharma a inquiété les investisseurs. Les taux de change pourraient aussi peser sur ses revenus futurs.",
-      "content": "Pour analyser des résultats, les laboratoires mettent en général plusieurs heures. En Bourse, les investisseurs posent parfois un diagnostic très vite.\nA l'ouverture des marchés, mardi, Eurofins a subi une véritable hémorragie de 8 %. Son état de san... [265 chars]",
-      "url": "https://www.lesechos.fr/idees-debats/crible/eurofins-sa-tension-chute-apres-un-diagnostic-express-de-la-bourse-2193723",
-      "image": "https://media.lesechos.com/api/v1/images/view/68f7c0f1a7e16f45040e9250/1280x720/01601616440166-web-tete.jpg",
-      "publishedAt": "2025-10-21T17:20:43Z",
-      "lang": "fr",
-      "source": {
-        "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
-        "name": "Les Échos",
-        "url": "https://www.lesechos.fr",
         "country": "fr"
       }
     }
