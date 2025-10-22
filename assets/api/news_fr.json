@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25196,
+  "totalArticles": 25198,
   "articles": [
+    {
+      "id": "7c693a1d4596489822e0373b39be2f55",
+      "title": "Ipsen enregistre un chiffre d'affaires de 915 millions d'euros au troisième trimestre et relève ses prévisions pour 2025",
+      "description": "Ipsen SA :\nChiffre d'affaires du troisième trimestre : 915 millions d'euros\nPerspectives 2025 : croissance totale des ventes d'environ 10,0 % à taux de change constants\nPerspectives...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/ipsen-enregistre-un-chiffre-d-affaires-de-915-millions-d-euros-au-troisieme-trimestre-et-releve-ses-ce7d5ddada8efe20",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-22T05:10:33Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "ca800b07a2913e41b9532ad587b415a5",
+      "title": "Croissance, dette, inflation… le vrai bilan économique de Giorgia Meloni en Italie",
+      "description": "Trois ans après son arrivée en tant que Première ministre de l’Italie, Giorgia Meloni a réussi à stabiliser la troisième économie européenne. Mais de grands défis restent à relever.",
+      "content": "22 octobre 2022 : Giorgia Meloni prend officiellement le poste de présidente du Conseil des ministres italien, autrement dit de Première ministre, une première pour une femme. À la tête d’une alliance entre la droite et l’extrême droite, emmenée par ... [7879 chars]",
+      "url": "https://www.latribune.fr/article/economie/48270182097061/croissance-dette-inflation-le-vrai-bilan-economique-de-giorgia-meloni-en-italie",
+      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/21/giorgia-meloni-a-pris-ses-fonctions-de-premiere-ministre-italienne-le-22-octobre-2022-photo-d-archiv-1761061419_0c3d54f897f86ff3d54f897f8b34d5v_.jpg",
+      "publishedAt": "2025-10-22T05:00:02Z",
+      "lang": "fr",
+      "source": {
+        "id": "a475e4eb8a88f44bec788830464aef42",
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "21f8264b6978ab82cfac8a49dea6f58d",
       "title": "La Banque du Japon s'apprête à relever ses taux d'intérêt au quatrième trimestre, selon la majorité des économistes",
@@ -71,6 +103,22 @@
       }
     },
     {
+      "id": "37037e593c24a44ed4ebc5f4508001f3",
+      "title": "Le CAC 40 bat son record historique",
+      "description": "Stimulée par les résultats des entreprises, la Bourse de Paris est à la fête tandis que la France est toujours minée par une profonde crise politique et étouffée par une dette abyssale.",
+      "content": "À lire aussi\nChute accidentelle ou crime maquillé ? L’ombre d’un drame familial plane sur l’empire Mango après la mort de son fondateur\nRÉCIT - Dès le départ, la mort «accidentelle» d’Isak Andic, fondateur de Mango, avait créé le trouble. Derrière ce... [388 chars]",
+      "url": "https://www.lefigaro.fr/societes/le-cac-40-se-hisse-a-plus-de-8-240-points-et-bat-son-record-historique-en-cloture-20251021",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/21/6ba48f63f91c819e24ae1e3384f3baf7fa21edcfa359bbcd89b2b28682468d2f.jpg",
+      "publishedAt": "2025-10-21T16:14:39Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
       "id": "b2e9f9e3656361a1c593b7e25c7705b9",
       "title": "Budget 2026 : comment les riches plument l’État grâce à la dette",
       "description": "L’examen du budget de Sébastien Lecornu démarre sous l’étroite surveillance des marchés financiers. La hausse des taux auxquels la France emprunte profite à ses créanciers su...",
@@ -115,54 +163,6 @@
         "id": "21eebd908430bcf83f1e2933e96640b6",
         "name": "La Republique Des Pyrénées",
         "url": "https://www.larepubliquedespyrenees.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "37037e593c24a44ed4ebc5f4508001f3",
-      "title": "Le CAC 40 se hisse à plus de 8 240 points et bat son record historique en clôture",
-      "description": "Stimulée par les résultats des entreprises, la Bourse de Paris est à la fête tandis que la France est toujours minée par une profonde crise politique et étouffée par une dette abyssale.",
-      "content": "C’est à n’y rien comprendre ! La France croule sous une dette abyssale, elle est secouée par la guerre commerciale de Donald Trump, pointée du doigt par les agences de notation et par l’exécutif européen pour son manque de rigueur budgétaire... Pourt... [744 chars]",
-      "url": "https://www.lefigaro.fr/societes/le-cac-40-se-hisse-a-plus-de-8-240-points-et-bat-son-record-historique-en-cloture-20251021",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/21/6ba48f63f91c819e24ae1e3384f3baf7fa21edcfa359bbcd89b2b28682468d2f.jpg",
-      "publishedAt": "2025-10-21T11:43:47Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8ab2a3a7922d9307983b577f7d8ea6a5",
-      "title": "Redressement budgétaire miraculeux et déclin industriel… Le double visage de l’économie italienne",
-      "description": "DÉCRYPTAGE - Alors que la France s’enfonce dans la dette, l’Italie force l’admiration en redressant ses dépenses publiques. Une rigueur à laquelle le pays est largement habitué et qui cache mal une économie à bout de souffle.",
-      "content": "Mais que se passe-t-il en Italie ? Trois ans après son ascension à la tête du Conseil des ministres, Giorgia Meloni incarne une stabilité politique qui fait rêver les observateurs de la vie publique et économique de l’Hexagone. Ces derniers contemple... [749 chars]",
-      "url": "https://www.lefigaro.fr/conjoncture/redressement-budgetaire-miraculeux-et-declin-industriel-le-double-visage-de-l-economie-italienne-20251021",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/20/da7d0c9fc9210758ab821b73f737f1a75525deb30b6dc3b2e7e0665026402dfe.jpg",
-      "publishedAt": "2025-10-21T10:30:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "a252cc72466b8dbff8af66b213854a6d",
-      "title": "Dette : \" Le Royaume-Uni n’est pas encore dans la situation de la France, mais il s’en rapproche... \"",
-      "description": "À un mois d’un budget décisif, le Royaume-Uni voit son déficit public déraper de nouveau, mettant la chancelière de l'Échiquier Rachel Reeves sous une pression croissante entre rigueur budgétaire et croissance vacillante.",
-      "content": "Le gouvernement britannique fait face à un nouvel avertissement budgétaire. Selon des chiffres publiés mardi par l’Office national des statistiques (ONS), le déficit public du Royaume-Uni s’est encore creusé en septembre, accentuant la pression sur l... [2931 chars]",
-      "url": "https://www.latribune.fr/article/economie/29016472588932/dette-le-royaume-uni-n-est-pas-encore-dans-la-situation-de-la-france-mais-il-s-en-rapproche",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/21/british-prime-minister-keir-starmer-and-chancellor-of-the-exchequer-rachel-reeves-attend-britain-s-l-1761041641_64924d1c57f8668924d1c57f84c924v_.jpg",
-      "publishedAt": "2025-10-21T10:14:02Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
         "country": "fr"
       }
     }
