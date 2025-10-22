@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25198,
+  "totalArticles": 25202,
   "articles": [
+    {
+      "id": "a3bab83520d06652f5938416fb59eab8",
+      "title": "Ipsen S.A. relève ses prévisions de résultats pour l'année 2025",
+      "description": "Ipsen S.A. a relevé ses prévisions de résultats pour l'année 2025. Pour cet exercice, la société anticipe une croissance totale des ventes d'environ 10,0 % à taux de change constant . Sur la...",
+      "content": "Ipsen S.A. a relevé ses prévisions de résultats pour l'année 2025. Pour cet exercice, la société anticipe une croissance totale des ventes d'environ 10,0 % à taux de change constant (contre une précédente prévision supérieure à 7,0 %). Sur la base du... [293 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/ipsen-s-a-releve-ses-previsions-de-resultats-pour-l-annee-2025-ce7d5ddadc8fff23",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-22T06:35:32Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "13316ba4d4b81f935682ad7abf369a80",
+      "title": "Hermès dévoile une accélération de sa croissance à taux de change constants au troisième trimestre",
+      "description": "(AOF) - Au troisième trimestre, les ventes d' Hermès ont atteint 3,9 milliards d'euros, en hausse de 10% à taux de change constants. Le groupe de luxe souligne leur \"légère amélioration par rapport au... - 22/10/2025 à 08:23 - Boursorama",
+      "content": "(AOF) - Au troisième trimestre, les ventes d' Hermès ont atteint 3,9 milliards d'euros, en hausse de 10% à taux de change constants. Le groupe de luxe souligne leur \"légère amélioration par rapport au second trimestre, notamment en Europe, en Amériqu... [4384 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/hermes-devoile-une-acceleration-de-sa-croissance-a-taux-de-change-constants-au-troisieme-trimestre-a8222e76681d31b350893d567eee516c",
+      "image": "https://www.boursorama.com/static/i/content/images/e/f/e/efe6f575de481b7470d3418c82772a9d-1280x1280.jpg",
+      "publishedAt": "2025-10-22T06:23:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "4977f7863de37fbfa9b7581077013f5c",
+      "title": "Hermès : chiffre d'affaires du troisième trimestre à 3,88 milliards d'euros, une croissance conforme aux attentes",
+      "description": "Hermès International SCA a publié un chiffre d'affaires de 3,88 milliards d'euros pour le troisième trimestre, soit une hausse de 9,6 % à taux de change constants, en ligne avec le consensus...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/hermes-chiffre-d-affaires-du-troisieme-trimestre-a-3-88-milliards-d-euros-une-croissance-conforme-ce7d5ddadd8af222",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-22T06:05:57Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b51ea77c2426e9558d5b7276da5afb19",
+      "title": "CAC 40 : Prises de bénéfices après ses records",
+      "description": "Porté par les résultats d'entreprises, l'apaisement des tensions commerciales et la perspective d'une baisse de taux aux Etats-Unis la semaine prochaine, la bourse de Paris s'est hissée hier sur de...",
+      "content": "Porté par les résultats d'entreprises, l'apaisement des tensions commerciales et la perspective d'une baisse de taux aux Etats-Unis la semaine prochaine, la bourse de Paris s'est hissée hier sur de nouveaux sommets, avec un record intraday à 8271 poi... [911 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/prises-de-benefices-apres-ses-records-ce7d5ad3d18cf325",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//graf/as51398541.gif",
+      "publishedAt": "2025-10-22T06:01:19Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "7c693a1d4596489822e0373b39be2f55",
       "title": "Ipsen enregistre un chiffre d'affaires de 915 millions d'euros au troisième trimestre et relève ses prévisions pour 2025",
@@ -99,70 +163,6 @@
         "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
         "name": "Les Échos",
         "url": "https://www.lesechos.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "37037e593c24a44ed4ebc5f4508001f3",
-      "title": "Le CAC 40 bat son record historique",
-      "description": "Stimulée par les résultats des entreprises, la Bourse de Paris est à la fête tandis que la France est toujours minée par une profonde crise politique et étouffée par une dette abyssale.",
-      "content": "À lire aussi\nChute accidentelle ou crime maquillé ? L’ombre d’un drame familial plane sur l’empire Mango après la mort de son fondateur\nRÉCIT - Dès le départ, la mort «accidentelle» d’Isak Andic, fondateur de Mango, avait créé le trouble. Derrière ce... [388 chars]",
-      "url": "https://www.lefigaro.fr/societes/le-cac-40-se-hisse-a-plus-de-8-240-points-et-bat-son-record-historique-en-cloture-20251021",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/21/6ba48f63f91c819e24ae1e3384f3baf7fa21edcfa359bbcd89b2b28682468d2f.jpg",
-      "publishedAt": "2025-10-21T16:14:39Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b2e9f9e3656361a1c593b7e25c7705b9",
-      "title": "Budget 2026 : comment les riches plument l’État grâce à la dette",
-      "description": "L’examen du budget de Sébastien Lecornu démarre sous l’étroite surveillance des marchés financiers. La hausse des taux auxquels la France emprunte profite à ses créanciers su...",
-      "content": "Un fantôme hante le débat public, celui de la dette française. Depuis plus de vingt ans, il affole les populations, court les plateaux de télé, s’invite dans les discours de nos dirigeants. « Chaque seconde, la dette augmente de 5 000 euros », gronda... [1295 chars]",
-      "url": "https://www.humanite.fr/social-et-economie/blackrock/budget-2026-comment-les-riches-plument-letat-grace-a-la-dette",
-      "image": "https://www.humanite.fr/wp-content/uploads/2025/10/p2-3-lead_MER-1.jpg",
-      "publishedAt": "2025-10-21T16:12:54Z",
-      "lang": "fr",
-      "source": {
-        "id": "5775b8f574e005115c10de6a3064c855",
-        "name": "L'Humanité",
-        "url": "https://www.humanite.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f8ff062a76e81887046e01ee51089eec",
-      "title": "Le TSX chute après les données sur l'inflation ; les valeurs aurifères les plus touchées",
-      "description": "L'indice phare de la Bourse de Toronto a reculé mardi, entraîné par les baisses du secteur des matériaux, après la publication de chiffres d'inflation supérieurs aux attentes qui ont poussé les...",
-      "content": "L'indice phare de la Bourse de Toronto a reculé mardi, entraîné par les baisses du secteur des matériaux, après la publication de chiffres d'inflation supérieurs aux attentes qui ont poussé les investisseurs à revoir à la baisse la probabilité d'une ... [1994 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-tsx-chute-apres-les-donnees-sur-l-inflation-les-valeurs-auriferes-les-plus-touchees-ce7d5ad3de81f626",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-13T103102Z_1_LYNXMPEL5C0HP_RTROPTP_4_CANADA-STOCKS.JPG",
-      "publishedAt": "2025-10-21T14:37:54Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7dc69784e5493018f210095ac6463ffa",
-      "title": "Les salaires vont augmenter en France, quels seront les métiers les mieux lotis ?",
-      "description": "D’après deux études menées auprès de 2000 entreprises, les salaires devraient augmenter en France de 1,5 % à 3,6 %, suite à l’inflation de l’année 2024, estimée à 2,4 % par la Banque de France. Mais",
-      "content": "Seulement derrière cette réalité, tous les corps de métiers ne seront pas logés à la même enseigne. Certains secteurs d’activité s’en sortent mieux que d’autres. D’après l’un des auteurs de l’étude, Laurent Blanchard, « les TPE, avec moins d’avantage... [1820 chars]",
-      "url": "https://www.larepubliquedespyrenees.fr/economie/economie/les-salaires-devraient-augmenter-en-france-quels-seront-les-metiers-les-mieux-lotis-26327803.php",
-      "image": "https://media.larepubliquedespyrenees.fr/26327803/1200x-1/money-1005476-1920.jpg",
-      "publishedAt": "2025-10-21T12:30:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "21eebd908430bcf83f1e2933e96640b6",
-        "name": "La Republique Des Pyrénées",
-        "url": "https://www.larepubliquedespyrenees.fr",
         "country": "fr"
       }
     }
