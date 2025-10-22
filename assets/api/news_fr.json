@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25209,
+  "totalArticles": 25210,
   "articles": [
+    {
+      "id": "4afb4f9f82049dfd1a9abc8af199abb2",
+      "title": "La BCE devrait maintenir ses taux inchangés jusqu'en 2027 face à une inflation stable et des perspectives de croissance modérées",
+      "description": "BENGALURU - La Banque centrale européenne aurait terminé son cycle de baisse des taux d'intérêt alors que l'inflation se maintient autour de l'objectif de 2 % et que l'économie de la zone euro...\n-Le 22 octobre 2025 à 12:51\n- Zonebourse",
+      "content": "BENGALURU - La Banque centrale européenne (BCE) aurait terminé son cycle de baisse des taux d'intérêt alors que l'inflation se maintient autour de l'objectif de 2 % et que l'économie de la zone euro progresse de manière régulière, selon une majorité ... [3683 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-devrait-maintenir-ses-taux-inchanges-jusqu-en-2027-face-a-une-inflation-stable-et-des-perspec-ce7d5ddad189f125",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-22T105107Z_1_LYNXMPEL9L0IB_RTROPTP_4_EUROZONE-ECONOMY-POLL.JPG",
+      "publishedAt": "2025-10-22T10:51:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "c2d8ec2fd4c5f45f0dc95cafc6a201b7",
       "title": "La Banque centrale d'Indonésie marque une pause dans la baisse des taux, mais envisage de nouveaux assouplissements",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "4977f7863de37fbfa9b7581077013f5c",
-      "title": "Hermès : chiffre d'affaires du troisième trimestre à 3,88 milliards d'euros, une croissance conforme aux attentes",
-      "description": "Hermès International SCA a publié un chiffre d'affaires de 3,88 milliards d'euros pour le troisième trimestre, soit une hausse de 9,6 % à taux de change constants, en ligne avec le consensus...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/hermes-chiffre-d-affaires-du-troisieme-trimestre-a-3-88-milliards-d-euros-une-croissance-conforme-ce7d5ddadd8af222",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-22T06:05:57Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
