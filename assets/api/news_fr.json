@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25193,
+  "totalArticles": 25194,
   "articles": [
+    {
+      "id": "a8af2a35bc6d2fe6f01001637f4a0dfd",
+      "title": "Blackstone et TPG vont retirer Hologic de la cote pour 18,3 milliards de dollars",
+      "description": "Les fonds d'investissement Blackstone et TPG ont annoncé mardi l'acquisition du groupe de diagnostic médical Hologic pour 18,3 milliards de dollars, dette comprise, signant ainsi la plus importante...",
+      "content": "Les fonds d'investissement Blackstone et TPG ont annoncé mardi l'acquisition du groupe de diagnostic médical Hologic pour 18,3 milliards de dollars, dette comprise, signant ainsi la plus importante opération dans le secteur des dispositifs médicaux d... [3951 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/blackstone-et-tpg-vont-retirer-hologic-de-la-cote-pour-18-3-milliards-de-dollars-ce7d5ddad988fe22",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-21T145843Z_1_LYNXMPEL7K0MV_RTROPTP_4_IRESS-M-A-BLACKSTONE-DE.JPG",
+      "publishedAt": "2025-10-21T18:23:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "88b0de6abf0eb0008c3fa27003b2c064",
       "title": "Eurofins : sa tension chute après un diagnostic express de la Bourse",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "011a2edcb129619f8b4e568342827ddc",
-      "title": "Au Japon, une admiratrice de Margaret Tatcher devient la première femme à prendre les rênes du gouvernement",
-      "description": "Élue présidente du parti libéral-démocrate (PLD) début octobre, Sanae Takaichi a réussi à bâtir une coalition pour devenir la première femme à occuper le poste de Première ministre au Japon. Connue pour ses positions ultraconservatrices, celle qui a grandi dans l'ombre de Shinzo Abe a promis de s'attaquer à l'inflation et à la relance de la 4e économie mondiale.",
-      "content": "Pour la première fois de son histoire, le Japon sera donc désormais dirigé par une femme, Sanae Takaichi, qui a obtenu le feu vert du Parlement après avoir signé lundi 20 octobre un accord de coalition avec le parti de centre droit Ishin. Un évènemen... [2545 chars]",
-      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/au-japon-une-admiratrice-de-margaret-tatcher-devient-la-premiere-femme-a-prendre-les-renes-du-gouvernement_7536919.html",
-      "image": "https://www.franceinfo.fr/pictures/ZdCmVxzkKWNzYl0BsIaCmLLBXQ8/0x0:1024x575/1500x843/2025/10/21/000-79fz2xc-68f72d43df186810215733.jpg",
-      "publishedAt": "2025-10-21T07:01:25Z",
-      "lang": "fr",
-      "source": {
-        "id": "ff6fd13b5fe3aaad7b8577a8c2e82503",
-        "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr",
         "country": "fr"
       }
     }
