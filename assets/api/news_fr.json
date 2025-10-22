@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25206,
+  "totalArticles": 25208,
   "articles": [
+    {
+      "id": "7f14f50f6a05de8b930118296be80ae4",
+      "title": "Hermès-Hausse de 9,6% des ventes au T3, du mieux en Chine mais la maroquinerie pèse",
+      "description": "Hermès a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, mê... - 22/10/2025 à 11:07 - Boursorama",
+      "content": "Hermès a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, même si la performance de sa principale division de ... [2174 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/hermes-hausse-de-9-6-des-ventes-au-t3-du-mieux-en-chine-mais-la-maroquinerie-pese-7c8c9ed8a6e6221b8622894fd494499b",
+      "image": "https://www.boursorama.com/static/i/content/images/9/f/c/9fc6523cd923fb75a32aaa7c3691e72c-1200x800.jpg",
+      "publishedAt": "2025-10-22T09:07:04Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "281d4c057076d562885dc409d090ab68",
+      "title": "Hermès-Hausse de 9,6% des ventes au T3, du mieux en Chine mais la maroquinerie pèse",
+      "description": "Hermès a dit\nmercredi observer des signes d'amélioration en Chine, un marché\nclé pour le luxe, et fait état d'une croissance de 9,6% à taux\nde change constants de ses ventes au troisième...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/hermes-hausse-de-9-6-des-ventes-au-t3-du-mieux-en-chine-mais-la-maroquinerie-pese-ce7d5ddadc8ef22c",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-22T08:39:14Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "91f83a2ac5302a42c5020b8928f757fe",
       "title": "Le FTSE progresse alors que l'inflation britannique se maintient à 3,8 %",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7c693a1d4596489822e0373b39be2f55",
-      "title": "Ipsen enregistre un chiffre d'affaires de 915 millions d'euros au troisième trimestre et relève ses prévisions pour 2025",
-      "description": "Ipsen SA :\nChiffre d'affaires du troisième trimestre : 915 millions d'euros\nPerspectives 2025 : croissance totale des ventes d'environ 10,0 % à taux de change constants\nPerspectives...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/ipsen-enregistre-un-chiffre-d-affaires-de-915-millions-d-euros-au-troisieme-trimestre-et-releve-ses-ce7d5ddada8efe20",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-22T05:10:33Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ca800b07a2913e41b9532ad587b415a5",
-      "title": "Croissance, dette, inflation… le vrai bilan économique de Giorgia Meloni en Italie",
-      "description": "Trois ans après son arrivée en tant que Première ministre de l’Italie, Giorgia Meloni a réussi à stabiliser la troisième économie européenne. Mais de grands défis restent à relever.",
-      "content": "22 octobre 2022 : Giorgia Meloni prend officiellement le poste de présidente du Conseil des ministres italien, autrement dit de Première ministre, une première pour une femme. À la tête d’une alliance entre la droite et l’extrême droite, emmenée par ... [7879 chars]",
-      "url": "https://www.latribune.fr/article/economie/48270182097061/croissance-dette-inflation-le-vrai-bilan-economique-de-giorgia-meloni-en-italie",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/21/giorgia-meloni-a-pris-ses-fonctions-de-premiere-ministre-italienne-le-22-octobre-2022-photo-d-archiv-1761061419_0c3d54f897f86ff3d54f897f8b34d5v_.jpg",
-      "publishedAt": "2025-10-22T05:00:02Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
         "country": "fr"
       }
     }
