@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25208,
+  "totalArticles": 25209,
   "articles": [
+    {
+      "id": "c2d8ec2fd4c5f45f0dc95cafc6a201b7",
+      "title": "La Banque centrale d'Indonésie marque une pause dans la baisse des taux, mais envisage de nouveaux assouplissements",
+      "description": "La Banque centrale d'Indonésie a surpris les marchés mercredi en laissant inchangés ses principaux taux d'intérêt, interrompant ainsi une série de trois baisses consécutives, alors que les...",
+      "content": "La Banque centrale d'Indonésie a surpris les marchés mercredi en laissant inchangés ses principaux taux d'intérêt, interrompant ainsi une série de trois baisses consécutives, alors que les responsables monétaires évaluent l'impact des précédentes réd... [4225 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-d-indonesie-marque-une-pause-dans-la-baisse-des-taux-mais-envisage-de-nouveaux-a-ce7d5ddade8af72c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-07T080638Z_1_LYNXNPEL96081_RTROPTP_4_INDONESIA-ECONOMY-BANKS.JPG",
+      "publishedAt": "2025-10-22T09:45:53Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "7f14f50f6a05de8b930118296be80ae4",
       "title": "Hermès-Hausse de 9,6% des ventes au T3, du mieux en Chine mais la maroquinerie pèse",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/hermes-chiffre-d-affaires-du-troisieme-trimestre-a-3-88-milliards-d-euros-une-croissance-conforme-ce7d5ddadd8af222",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-22T06:05:57Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b51ea77c2426e9558d5b7276da5afb19",
-      "title": "CAC 40 : Prises de bénéfices après ses records",
-      "description": "Porté par les résultats d'entreprises, l'apaisement des tensions commerciales et la perspective d'une baisse de taux aux Etats-Unis la semaine prochaine, la bourse de Paris s'est hissée hier sur de...",
-      "content": "Porté par les résultats d'entreprises, l'apaisement des tensions commerciales et la perspective d'une baisse de taux aux Etats-Unis la semaine prochaine, la bourse de Paris s'est hissée hier sur de nouveaux sommets, avec un record intraday à 8271 poi... [911 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/prises-de-benefices-apres-ses-records-ce7d5ad3d18cf325",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//graf/as51398541.gif",
-      "publishedAt": "2025-10-22T06:01:19Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
