@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25190,
+  "totalArticles": 25191,
   "articles": [
+    {
+      "id": "f8ff062a76e81887046e01ee51089eec",
+      "title": "Le TSX chute après les données sur l'inflation ; les valeurs aurifères les plus touchées",
+      "description": "L'indice phare de la Bourse de Toronto a reculé mardi, entraîné par les baisses du secteur des matériaux, après la publication de chiffres d'inflation supérieurs aux attentes qui ont poussé les...",
+      "content": "L'indice phare de la Bourse de Toronto a reculé mardi, entraîné par les baisses du secteur des matériaux, après la publication de chiffres d'inflation supérieurs aux attentes qui ont poussé les investisseurs à revoir à la baisse la probabilité d'une ... [1994 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-tsx-chute-apres-les-donnees-sur-l-inflation-les-valeurs-auriferes-les-plus-touchees-ce7d5ad3de81f626",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-13T103102Z_1_LYNXMPEL5C0HP_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2025-10-21T14:37:54Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "7dc69784e5493018f210095ac6463ffa",
       "title": "Les salaires vont augmenter en France, quels seront les métiers les mieux lotis ?",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/interparfums-confirme-son-objectif-de-chiffre-d-affaires-2025-malgre-un-ralentissement-de-sa-croissa-ce7d5ad3d88afe20",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-21T05:57:12Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "58614432296be2fad77132af43814e0a",
-      "title": "Planisware anticipe une reprise après un CA du T3 en croissance de 9%",
-      "description": "Planisware a annoncé\nlundi un chiffre d’affaires en hausse de 9% à taux de change\nconstants, porté par la dynamique des contrats SaaS et\nhébergement.\nL'entreprise de développement...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/planisware-anticipe-une-reprise-apres-un-ca-du-t3-en-croissance-de-9-ce7d5ad3d888f622",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-21T05:21:13Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
