@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25191,
+  "totalArticles": 25192,
   "articles": [
+    {
+      "id": "b2e9f9e3656361a1c593b7e25c7705b9",
+      "title": "Budget 2026 : comment les riches plument l’État grâce à la dette",
+      "description": "L’examen du budget de Sébastien Lecornu démarre sous l’étroite surveillance des marchés financiers. La hausse des taux auxquels la France emprunte profite à ses créanciers su...",
+      "content": "Un fantôme hante le débat public, celui de la dette française. Depuis plus de vingt ans, il affole les populations, court les plateaux de télé, s’invite dans les discours de nos dirigeants. « Chaque seconde, la dette augmente de 5 000 euros », gronda... [1295 chars]",
+      "url": "https://www.humanite.fr/social-et-economie/blackrock/budget-2026-comment-les-riches-plument-letat-grace-a-la-dette",
+      "image": "https://www.humanite.fr/wp-content/uploads/2025/10/p2-3-lead_MER-1.jpg",
+      "publishedAt": "2025-10-21T16:12:54Z",
+      "lang": "fr",
+      "source": {
+        "id": "5775b8f574e005115c10de6a3064c855",
+        "name": "L'Humanité",
+        "url": "https://www.humanite.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "f8ff062a76e81887046e01ee51089eec",
       "title": "Le TSX chute après les données sur l'inflation ; les valeurs aurifères les plus touchées",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/chiffre-d-affaires-du-t3-2025-49-6-millions-da-euros-9-0-a-taux-de-change-constants-ce7d5ad3db8af722",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-21T06:28:06Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "34e8565b77696fb6ab758c0b62b78234",
-      "title": "Interparfums confirme son objectif de chiffre d'affaires 2025 malgré un ralentissement de sa croissance",
-      "description": "Le fabricant de parfums sous licence Interparfums a confirmé mardi son objectif de chiffre d'affaires 2025 malgré le ralentissement de la croissance de ses ventes au troisième trimestre à taux de...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/interparfums-confirme-son-objectif-de-chiffre-d-affaires-2025-malgre-un-ralentissement-de-sa-croissa-ce7d5ad3d88afe20",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-21T05:57:12Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
