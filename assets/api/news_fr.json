@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25218,
+  "totalArticles": 25219,
   "articles": [
+    {
+      "id": "be849eebf0f1915a4bc761fcca9080c0",
+      "title": "Les bourses en direct | Wall Street termine dans le rouge, Tesla recule avant ses résultats, Netflix plonge de 10%",
+      "description": "La Bourse US a clôturé en baisse, alors que les bourses européennes avaient terminé en ordre dispersé, Paris reprenant son souffle après un record alors que Londres, animée par la bonne performance des banques, a salué une inflation stable, dans un marché digérant une salve de résultats.",
+      "content": "Nizar Trabelsi, condamné pour terrorisme, est libre: la Cour de cassation a rejeté les pourvois contre sa libération\nAprès 500 jours, toujours pas de fumée blanche à Bruxelles\nRéforme du chômage: feu vert en commission pour la compensation financière... [400 chars]",
+      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-termine-dans-le-rouge-tesla-recule-avant-ses-resultats-netflix-plonge-de-10/10632307.html",
+      "image": "https://images.tijd.be/view?iid=Elvis:2wCb1APF4y68yKhMUGnl7L&context=ONLINE&ratio=16/9&width=1280&u=1761163494000",
+      "publishedAt": "2025-10-22T20:04:54Z",
+      "lang": "fr",
+      "source": {
+        "id": "5eca54a281f8fb040f8089593c1ae8bc",
+        "name": "L'Echo",
+        "url": "https://www.lecho.be",
+        "country": "fr"
+      }
+    },
     {
       "id": "ced9912a7bbb6765a8a24d887eeddca4",
       "title": "Ralentissement de la croissance des ventes de Carrefour au troisième trimestre en France et au Brésil",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-bce-devrait-maintenir-ses-taux-inchanges-jusqu-en-2027-face-a-une-inflation-stable-et-des-perspec-ce7d5ddad189f125",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-22T105107Z_1_LYNXMPEL9L0IB_RTROPTP_4_EUROZONE-ECONOMY-POLL.JPG",
       "publishedAt": "2025-10-22T10:51:40Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "c2d8ec2fd4c5f45f0dc95cafc6a201b7",
-      "title": "La Banque centrale d'Indonésie marque une pause dans la baisse des taux, mais envisage de nouveaux assouplissements",
-      "description": "La Banque centrale d'Indonésie a surpris les marchés mercredi en laissant inchangés ses principaux taux d'intérêt, interrompant ainsi une série de trois baisses consécutives, alors que les...",
-      "content": "La Banque centrale d'Indonésie a surpris les marchés mercredi en laissant inchangés ses principaux taux d'intérêt, interrompant ainsi une série de trois baisses consécutives, alors que les responsables monétaires évaluent l'impact des précédentes réd... [4225 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-d-indonesie-marque-une-pause-dans-la-baisse-des-taux-mais-envisage-de-nouveaux-a-ce7d5ddade8af72c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-07T080638Z_1_LYNXNPEL96081_RTROPTP_4_INDONESIA-ECONOMY-BANKS.JPG",
-      "publishedAt": "2025-10-22T09:45:53Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
