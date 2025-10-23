@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-translate-key="coursesPageTitle">Cours de Finance - Finteker.fr</title>
+    
+    <link rel="stylesheet" href="../styles/style.css"> 
+    <link rel="icon" type="image/png" href="../assets/img/favicon.png"> 
+</head>
+<body data-page-key="courses"> 
+
+    <header id="main-header"></header>
+
+    <main class="course-page">
+        <section class="page-header reveal">
+            <h1 data-translate-key="coursesH1">Introduction à la Finance de Marché</h1>
+            <p data-translate-key="coursesSub">Comprendre les concepts clés derrière les outils financiers.</p>
+        </section>
+
+        <aside class="course-summary reveal">
+            <h2 data-translate-key="coursesSummaryTitle">Sommaire</h2>
+            <nav>
+                <ul>
+                    <li><a href="#chapitre-intro" data-translate-key="summaryIntro">Introduction Générale</a></li>
+                    <li><a href="#chapitre-dcf" data-translate-key="summaryDCF">1. La Valorisation par DCF</a></li>
+                    <li><a href="#chapitre-backtesting" data-translate-key="summaryBacktesting">2. Le Backtesting de Portefeuille</a></li>
+                    <li><a href="#chapitre-ma" data-translate-key="summaryMA">3. Les Fusions et Acquisitions (M&A)</a></li>
+                    <li><a href="#chapitre-trading" data-translate-key="summaryTrading">4. Les Bases du Trading</a></li>
+                    <li><a href="#quiz-general" data-translate-key="summaryQuizGeneral">Quiz Général</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <div class="course-content"> 
+            <article id="chapitre-intro" class="course-chapter">
+                <h2 data-translate-key="introTitle" class="reveal">Introduction : Pourquoi la Finance de Marché ?</h2>
+                <div class="content-block reveal">
+                     <h3>Les grandes questions</h3>
+                    <p data-translate-key="introP1">La finance de marché peut sembler complexe, mais elle repose sur des principes fondamentaux qui visent à répondre à des questions essentielles : Combien vaut une entreprise ? Quelle stratégie d'investissement est la plus performante ? Comment les entreprises grandissent-elles ? Comment fonctionnent les marchés ?</p>
+                    <p data-translate-key="introP2">Ce cours vise à démystifier quatre piliers de la finance moderne, en lien direct avec les outils que vous utilisez sur Finteker : la valorisation (DCF), l'analyse de performance (Backtesting), la stratégie d'entreprise (M&A) et le fonctionnement des marchés (Trading).</p>
+                    <div class="image-container">
+                        <img src="../assets/img/finance_overview.png" alt="Vue d'ensemble des concepts financiers">
+                        <figcaption data-translate-key="introFigCap">Les différents domaines de la finance sont interconnectés.</figcaption>
+                    </div>
+                     <h3>Notre approche</h3>
+                    <p data-translate-key="introP3">Notre approche sera pratique et intuitive. Nous éviterons les formules mathématiques complexes pour nous concentrer sur la logique et l'application concrète de ces concepts. Prêt à commencer ?</p>
+                </div>
+            </article>
+
+            <article id="chapitre-dcf" class="course-chapter">
+                <h2 data-translate-key="dcfTitle" class="reveal">1. La Valorisation par les Flux de Trésorerie Actualisés (DCF)</h2>
+                <div class="content-block reveal">
+                    <h3 data-translate-key="dcfSubtitle1">Qu'est-ce que le DCF ?</h3>
+                    <p data-translate-key="dcfP1">Le DCF (Discounted Cash Flow) est l'une des méthodes les plus utilisées pour estimer la valeur intrinsèque d'une entreprise. L'idée fondamentale est simple : la valeur d'une entreprise aujourd'hui est égale à la somme de tous les flux de trésorerie (l'argent liquide réellement généré) qu'elle produira dans le futur, actualisés à leur valeur d'aujourd'hui.</p>
+                    <p data-translate-key="dcfP2">Pourquoi "actualisés" ? Parce qu'un euro reçu demain vaut moins qu'un euro reçu aujourd'hui, à cause du risque et du coût d'opportunité (l'argent pourrait être investi ailleurs). Le taux d'actualisation utilisé reflète ce risque.</p>
+                    <div class="image-container">
+                         <img src="../assets/img/dcf_timeline.png" alt="Chronologie des flux de trésorerie actualisés">
+                         <figcaption data-translate-key="dcfFigCap1">Le DCF ramène les flux futurs à leur valeur actuelle.</figcaption>
+                    </div>
+                </div>
+                <div class="content-block reveal">
+                    <h3 data-translate-key="dcfSubtitle2">Les Grandes Étapes d'un DCF</h3>
+                    <ol>
+                        <li data-translate-key="dcfStep1"><strong>Prévoir les Flux de Trésorerie Libres (Free Cash Flows - FCF) :</strong> On estime combien d'argent l'entreprise va générer après ses dépenses opérationnelles et ses investissements, généralement sur 5 à 10 ans. C'est la partie la plus subjective, basée sur des hypothèses de croissance, de rentabilité, etc.</li>
+                        <li data-translate-key="dcfStep2"><strong>Calculer la Valeur Terminale (VT) :</strong> Comme on ne peut pas prévoir les flux à l'infini, on estime la valeur de l'entreprise à la fin de la période de prévision explicite. On utilise souvent une formule de croissance perpétuelle (modèle de Gordon-Shapiro) ou un multiple de sortie (basé sur des entreprises comparables).</li>
+                        <li data-translate-key="dcfStep3"><strong>Déterminer le Taux d'Actualisation (WACC) :</strong> Le Coût Moyen Pondéré du Capital (Weighted Average Cost of Capital) représente le coût moyen du financement de l'entreprise (dette et fonds propres). Il reflète le risque de l'entreprise et du marché. Plus le WACC est élevé, moins les flux futurs valent aujourd'hui.</li>
+                        <li data-translate-key="dcfStep4"><strong>Actualiser les Flux et la VT :</strong> On ramène chaque FCF prévu et la Valeur Terminale à leur valeur actuelle en utilisant le WACC.</li>
+                        <li data-translate-key="dcfStep5"><strong>Calculer la Valeur d'Entreprise (VE) et la Valeur par Action :</strong> La somme des FCF actualisés et de la VT actualisée donne la Valeur d'Entreprise. Pour obtenir la valeur pour les actionnaires (Valeur des Fonds Propres), on soustrait la dette nette (Dette - Cash). En divisant par le nombre d'actions, on obtient une valeur théorique par action.</li>
+                    </ol>
+                    <div class="image-container">
+                         <img src="../assets/img/dcf_steps.png" alt="Schéma des étapes du DCF">
+                         <figcaption data-translate-key="dcfFigCap2">Les étapes clés d'une analyse DCF.</figcaption>
+                    </div>
+                </div>
+                 <div class="content-block reveal">
+                    <h3 data-translate-key="dcfSubtitle_sensitivity">Importance de l'Analyse de Sensibilité</h3>
+                     <p data-translate-key="dcfP_sensitivity">Comme les hypothèses (WACC, croissance...) sont subjectives, il est crucial de voir comment la valeur change si on modifie ces hypothèses. C'est l'objet du DCF Lab.</p>
+                </div>
+                <div class="content-block reveal">
+                    <h3 data-translate-key="dcfSubtitle3">Pourquoi utiliser le DCF ?</h3>
+                    <p data-translate-key="dcfP3">Le DCF permet d'aller au-delà du prix du marché actuel et d'estimer une valeur basée sur les fondamentaux de l'entreprise. C'est utile pour :</p>
+                    <ul>
+                        <li data-translate-key="dcfUse1">Prendre des décisions d'investissement (acheter/vendre une action).</li>
+                        <li data-translate-key="dcfUse2">Valoriser une entreprise lors d'une acquisition (M&A).</li>
+                        <li data-translate-key="dcfUse3">Évaluer l'impact de décisions stratégiques sur la valeur.</li>
+                    </ul>
+                    <p data-translate-key="dcfP4"><strong>Attention :</strong> Le résultat d'un DCF dépend fortement des hypothèses (croissance, marges, WACC, VT). C'est pourquoi on réalise souvent des analyses de sensibilité pour voir comment la valeur change en fonction des hypothèses.</p>
+                    <div class="quiz-button-container">
+                         <a data-target="../onglets/quiz/quiz-dcf.html" class="btn quiz-btn" data-translate-key="quizBtnDCF">Tester vos connaissances sur le DCF</a>
+                    </div>
+                </div>
+            </article>
+
+           <article id="chapitre-backtesting" class="course-chapter">
+                 <h2 data-translate-key="backtestingTitle" class="reveal">2. Le Backtesting de Portefeuille</h2>
+                 <div class="content-block reveal">
+                    <h3 data-translate-key="backtestingSubtitle1">Qu'est-ce que le Backtesting ?</h3>
+                     <p data-translate-key="backtestingP1">Le backtesting consiste à tester une stratégie d'investissement ou un modèle de gestion de portefeuille sur des données historiques. L'objectif est de voir comment la stratégie se serait comportée dans le passé pour évaluer sa pertinence potentielle pour le futur.</p>
+                     <p data-translate-key="backtestingP2">Imaginez avoir une machine à remonter le temps pour vos investissements : c'est un peu l'idée du backtesting. On simule l'application de règles précises (ex: acheter quand la moyenne mobile à 50 jours dépasse celle à 200 jours) sur des cours de bourse passés.</p>
+                     <div class="image-container">
+                         <img src="../assets/img/backtesting_concept.png" alt="Concept du backtesting sur données historiques">
+                         <figcaption data-translate-key="backtestingFigCap1">Le backtesting applique une stratégie au passé pour voir sa performance simulée.</figcaption>
+                     </div>
+                 </div>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="backtestingSubtitle_pitfalls">Les Pièges Courants</h3>
+                     <p data-translate-key="backtestingP_pitfalls1">Le sur-ajustement (overfitting) est le risque principal : créer une stratégie qui colle parfaitement aux données passées mais échoue sur de nouvelles données. Il faut tester sur des périodes variées et garder une partie des données "hors échantillon" pour une validation finale.</p>
+                     <p data-translate-key="backtestingP_pitfalls2">Il faut aussi considérer les coûts de transaction (frais de courtage), le slippage (différence entre prix attendu et prix exécuté), et le biais de survie (ne considérer que les entreprises/actifs qui existent encore aujourd'hui, ignorant ceux qui ont échoué).</p>
+                 </div>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="backtestingSubtitle2">Pourquoi faire du Backtesting ?</h3>
+                     <ul>
+                        <li data-translate-key="backtestingUse1"><strong>Valider (ou invalider) une stratégie :</strong> Permet de voir si une idée d'investissement a une base historique solide avant de risquer du capital réel.</li>
+                        <li data-translate-key="backtestingUse2"><strong>Comparer des stratégies :</strong> On peut tester plusieurs approches sur la même période pour identifier objectivement la plus prometteuse en termes de rendement/risque.</li>
+                        <li data-translate-key="backtestingUse3"><strong>Comprendre les risques :</strong> Le backtesting révèle les périodes difficiles (pertes maximales ou "drawdown"), la volatilité, la fréquence des pertes, etc., ce qui aide à calibrer ses attentes et sa tolérance au risque.</li>
+                        <li data-translate-key="backtestingUse4"><strong>Optimiser les paramètres :</strong> On peut tester différentes variations d'une stratégie (ex: changer les périodes des moyennes mobiles, les seuils de RSI) pour trouver la configuration qui semble la plus robuste historiquement.</li>
+                     </ul>
+                 </div>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="backtestingSubtitle3">Indicateurs Clés du Backtesting</h3>
+                     <p data-translate-key="backtestingP3">Un bon backtest ne se limite pas au rendement total. Il faut analyser plusieurs métriques pour avoir une vision complète :</p>
+                     <ul>
+                        <li data-translate-key="backtestingMetric1"><strong>Rendement Total / Annualisé (CAGR) :</strong> La performance globale sur la période, exprimée en pourcentage annuel moyen composé pour faciliter les comparaisons.</li>
+                        <li data-translate-key="backtestingMetric2"><strong>Volatilité :</strong> L'ampleur des variations de prix (l'écart-type des rendements). Une forte volatilité signifie plus de hauts et de bas, donc plus de risque.</li>
+                        <li data-translate-key="backtestingMetric3"><strong>Drawdown Maximum :</strong> La perte maximale enregistrée depuis un sommet précédent. C'est un indicateur crucial pour évaluer le risque de perte maximale auquel on aurait été exposé.</li>
+                        <li data-translate-key="backtestingMetric4"><strong>Ratio de Sharpe :</strong> Mesure le rendement excédentaire (par rapport à un actif sans risque comme un bon du Trésor) par unité de risque total (volatilité). Plus il est élevé, meilleure est la performance ajustée du risque.</li>
+                        <li data-translate-key="backtestingMetric5"><strong>Ratio de Sortino :</strong> Similaire au Sharpe, mais ne pénalise que la "mauvaise" volatilité (celle des rendements inférieurs à un seuil, souvent 0 ou le taux sans risque). Il est pertinent si l'on se soucie davantage du risque de perte que de la volatilité globale.</li>
+                     </ul>
+                      <div class="image-container">
+                          <img src="../assets/img/backtesting_metrics.png" alt="Graphique illustrant le drawdown et la volatilité">
+                          <figcaption data-translate-key="backtestingFigCap2">Le Drawdown mesure la pire perte historique d'une stratégie.</figcaption>
+                     </div>
+                     <p data-translate-key="backtestingP4"><strong>Attention aux Pièges :</strong> Le passé ne garantit pas le futur ! Un backtest réussi ne veut pas dire que la stratégie fonctionnera à coup sûr. Il faut rester critique.</p>
+                     <div class="quiz-button-container">
+                          <a data-target="../onglets/quiz/quiz-backtesting.html" class="btn quiz-btn" data-translate-key="quizBtnBacktesting">Tester vos connaissances sur le Backtesting</a>
+                     </div>
+                 </div>
+            </article>
+
+            <article id="chapitre-ma" class="course-chapter">
+                 <h2 data-translate-key="maTitle" class="reveal">3. Les Fusions et Acquisitions (M&A)</h2>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="maSubtitle1">Que sont les Fusions et Acquisitions ?</h3>
+                     <p data-translate-key="maP1">Les opérations de Fusions et Acquisitions (Mergers & Acquisitions en anglais) désignent le processus par lequel des entreprises se regroupent ou sont rachetées par d'autres. C'est un moteur essentiel de la croissance externe et de la restructuration du paysage économique.</p>
+                     <ul>
+                         <li data-translate-key="maType1"><strong>Fusion (Merger) :</strong> Deux entreprises (souvent de taille similaire) combinent leurs activités pour n'en former qu'une seule, nouvelle entité légale. Les actionnaires des deux anciennes entreprises deviennent actionnaires de la nouvelle.</li>
+                         <li data-translate-key="maType2"><strong>Acquisition :</strong> Une entreprise (l'acquéreur) prend le contrôle d'une autre entreprise (la cible) en achetant une part majoritaire de ses actions ou la totalité de ses actifs. La cible peut continuer d'exister comme filiale ou être complètement intégrée et disparaître légalement.</li>
+                     </ul>
+                     <div class="image-container">
+                         <img src="../assets/img/ma_types.png" alt="Schéma Fusion vs Acquisition">
+                         <figcaption data-translate-key="maFigCap1">Différence visuelle entre une fusion et une acquisition.</figcaption>
+                     </div>
+                 </div>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="maSubtitle2">Pourquoi les entreprises font-elles du M&A ?</h3>
+                     <p data-translate-key="maP2">Les motivations sont variées et souvent combinées :</p>
+                     <ul>
+                        <li data-translate-key="maReason1"><strong>Croissance et Part de Marché :</strong> Le moyen le plus rapide d'augmenter sa taille, ses revenus et sa présence géographique ou sectorielle.</li>
+                        <li data-translate-key="maReason2"><strong>Synergies :</strong> L'espoir que 1+1 > 2. Les synergies de coûts (réduction des doublons administratifs, pouvoir d'achat accru) sont souvent les plus tangibles. Les synergies de revenus (vente croisée, accès à de nouveaux clients) sont plus difficiles à réaliser.</li>
+                        <li data-translate-key="maReason3"><strong>Diversification :</strong> Réduire le risque en entrant sur de nouveaux marchés ou secteurs moins corrélés à l'activité principale.</li>
+                        <li data-translate-key="maReason4"><strong>Acquisition de Technologies ou de Talents :</strong> Intégrer une innovation ou une équipe clé plus rapidement que par développement interne.</li>
+                        <li data-translate-key="maReason5"><strong>Consolidation :</strong> Dans des industries matures avec de nombreux acteurs, le regroupement permet d'améliorer l'efficacité et d'éliminer la surcapacité.</li>
+                     </ul>
+                 </div>
+                  <div class="content-block reveal">
+                     <h3 data-translate-key="maSubtitle_synergies">Focus sur les Synergies</h3>
+                      <p data-translate-key="maP_synergies">L'estimation et la réalisation des synergies sont au cœur de la réussite d'une opération M&A. Les acquéreurs paient souvent une prime par rapport au prix de marché de la cible en anticipant ces synergies futures. Cependant, de nombreuses études montrent que ces synergies sont souvent surestimées ou mal exécutées lors de l'intégration.</p>
+                  </div>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="maSubtitle3">Le Processus M&A (Simplifié)</h3>
+                     <p data-translate-key="maP3">Une opération M&A est un projet long et complexe impliquant banquiers d'affaires, avocats, auditeurs, etc. :</p>
+                     <ol>
+                        <li data-translate-key="maProcess1"><strong>Stratégie et Identification de Cibles :</strong> Définition des objectifs (pourquoi acquérir ?) et recherche d'entreprises compatibles.</li>
+                        <li data-translate-key="maProcess2"><strong>Évaluation (Valuation) :</strong> Analyse financière approfondie de la cible pour déterminer une fourchette de prix acceptable (DCF, multiples comparables, transactions précédentes...).</li>
+                        <li data-translate-key="maProcess3"><strong>Négociation et Due Diligence :</strong> Discussions sur le prix, la structure de la transaction (cash, actions...). En parallèle, l'acquéreur mène une enquête détaillée (due diligence) pour confirmer les informations fournies par la cible et identifier les risques.</li>
+                        <li data-translate-key="maProcess4"><strong>Signature (Signing) et Clôture (Closing) :</strong> Un accord contractuel est signé. La clôture intervient plus tard, après l'obtention des approbations nécessaires (actionnaires, autorités de la concurrence...).</li>
+                        <li data-translate-key="maProcess5"><strong>Intégration Post-Fusion :</strong> Phase cruciale et souvent sous-estimée où il faut faire fonctionner ensemble les équipes, les systèmes informatiques, les cultures d'entreprise... C'est là que les synergies se réalisent (ou pas).</li>
+                     </ol>
+                      <div class="image-container">
+                          <img src="../assets/img/ma_process.png" alt="Diagramme simplifié du processus M&A">
+                          <figcaption data-translate-key="maFigCap2">Les étapes typiques d'une transaction M&A.</figcaption>
+                     </div>
+                     <p data-translate-key="maP4">Suivre l'actualité M&A (comme avec le M&A Tracker) permet d'identifier les tendances, de comprendre les valorisations sectorielles et d'anticiper les mouvements stratégiques des entreprises.</p>
+                     <div class="quiz-button-container">
+                          <a data-target="../onglets/quiz/quiz-ma.html" class="btn quiz-btn" data-translate-key="quizBtnMA">Tester vos connaissances sur le M&A</a>
+                     </div>
+                 </div>
+            </article>
+
+             <article id="chapitre-trading" class="course-chapter">
+                 <h2 data-translate-key="tradingTitle" class="reveal">4. Les Bases du Trading</h2>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="tradingSubtitle1">Qu'est-ce que le Trading ?</h3>
+                     <p data-translate-key="tradingP1">Le trading consiste à acheter et vendre des instruments financiers (actions, obligations, devises (Forex), matières premières, cryptomonnaies, produits dérivés...) dans le but de réaliser un profit grâce aux fluctuations de leurs prix sur une période relativement courte (quelques secondes à quelques mois). Il se distingue de l'investissement, qui vise généralement une appréciation du capital sur le long terme.</p>
+                     <p data-translate-key="tradingP2">Les marchés financiers sont les lieux (souvent virtuels) où l'offre et la demande pour ces instruments se rencontrent, déterminant ainsi les prix. Les traders interagissent avec ces marchés via des intermédiaires appelés courtiers (brokers).</p>
+                 </div>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="tradingSubtitle2">Principaux Types d'Ordres</h3>
+                     <p data-translate-key="tradingP3">Pour exécuter une transaction, un trader doit passer un ordre. Les types les plus courants sont :</p>
+                     <ul>
+                         <li data-translate-key="tradingOrder1"><strong>Ordre au Marché (Market Order) :</strong> Acheter ou vendre immédiatement au meilleur prix actuellement disponible sur le marché. Avantage : exécution rapide. Inconvénient : le prix final peut différer légèrement de celui affiché (slippage).</li>
+                         <li data-translate-key="tradingOrder2"><strong>Ordre à Cours Limité (Limit Order) :</strong> Fixer un prix maximum pour un achat ou un prix minimum pour une vente. L'ordre ne sera exécuté que si le marché atteint ce prix (ou un prix plus favorable). Avantage : contrôle du prix. Inconvénient : l'exécution n'est pas garantie si le prix limite n'est jamais atteint.</li>
+                         <li data-translate-key="tradingOrder3"><strong>Ordre Stop (Stop Order) :</strong> Se déclenche et devient un ordre au marché si le prix atteint un certain niveau ("prix stop"). Un "Stop Loss" est un ordre stop de vente placé sous le prix actuel pour limiter une perte si le marché baisse. Un "Buy Stop" est un ordre stop d'achat placé au-dessus du prix actuel, souvent pour entrer dans une tendance haussière confirmée. Il existe aussi des ordres "Stop Limit" qui combinent les deux.</li>
+                     </ul>
+                      <div class="image-container">
+                          <img src="../assets/img/trading_orders.png" alt="Illustration des ordres Limit et Stop">
+                          <figcaption data-translate-key="tradingFigCap1">Les ordres Limit et Stop permettent de mieux contrôler les points d'entrée et de sortie.</figcaption>
+                     </div>
+                 </div>
+                  <div class="content-block reveal">
+                      <h3 data-translate-key="tradingSubtitle_risk">Gestion du Risque</h3>
+                      <p data-translate-key="tradingP_risk">La gestion du risque (money management) est sans doute l'aspect le plus crucial du trading. Elle implique de définir combien de capital risquer sur chaque transaction (souvent un petit pourcentage du capital total, ex: 1-2%), d'utiliser systématiquement des ordres Stop Loss pour couper les pertes rapidement, et de déterminer la taille de position appropriée en fonction de la distance du stop loss et du risque choisi.</p>
+                  </div>
+                 <div class="content-block reveal">
+                     <h3 data-translate-key="tradingSubtitle3">Analyse Technique vs Analyse Fondamentale</h3>
+                     <p data-translate-key="tradingP4">Deux grandes écoles s'opposent (et se complètent) pour prendre des décisions de trading :</p>
+                     <ul>
+                         <li data-translate-key="tradingAnalysis1"><strong>Analyse Fondamentale :</strong> Examine la "santé" économique et financière sous-jacente de l'actif (résultats de l'entreprise, taux d'intérêt, croissance économique, géopolitique...). Elle vise à déterminer la "vraie" valeur d'un actif pour identifier les opportunités d'achat (si sous-évalué) ou de vente (si surévalué). Plutôt utilisée pour des horizons de temps moyen/long terme.</li>
+                         <li data-translate-key="tradingAnalysis2"><strong>Analyse Technique :</strong> Se base uniquement sur l'étude des graphiques de prix et des volumes passés. Elle postule que toute l'information pertinente est déjà reflétée dans le prix et que l'histoire a tendance à se répéter sous forme de figures graphiques (patterns) et de tendances. Elle utilise des outils comme les lignes de tendance, les supports/résistances, les moyennes mobiles, le RSI, MACD, etc., pour identifier des points d'entrée et de sortie potentiels. Très utilisée pour le trading à court terme.</li>
+                     </ul>
+                     <div class="image-container">
+                         <img src="../assets/img/trading_analysis.png" alt="Graphique boursier avec indicateurs techniques">
+                         <figcaption data-translate-key="tradingFigCap2">L'analyse technique utilise les graphiques et indicateurs pour tenter d'anticiper les mouvements futurs.</figcaption>
+                     </div>
+                      <p data-translate-key="tradingP5">Beaucoup de traders utilisent une combinaison des deux : l'analyse fondamentale pour choisir les actifs à potentiel et l'analyse technique pour déterminer le meilleur moment pour entrer ou sortir d'une position.</p>
+                      <p data-translate-key="tradingP6">Le trading comporte des risques importants de perte en capital. Il ne convient pas à tout le monde et nécessite une formation sérieuse, une discipline rigoureuse et une bonne gestion émotionnelle.</p>
+                     <div class="quiz-button-container">
+                          <a data-target="../onglets/quiz/quiz-trading.html" class="btn quiz-btn" data-translate-key="quizBtnTrading">Tester vos connaissances sur le Trading</a>
+                     </div>
+                 </div>
+             </article>
+
+            <section id="quiz-general" class="course-chapter reveal">
+                  <div class="content-block quiz-general-block reveal"> 
+                     <h2 data-translate-key="quizGeneralTitle">Prêt pour le Quiz Général ?</h2>
+                     <p data-translate-key="quizGeneralDesc">Testez votre compréhension globale des concepts abordés dans ce cours.</p>
+                     <div class="quiz-button-container">
+                          <a data-target="../onglets/quiz/quiz-general.html" class="btn quiz-btn large" data-translate-key="quizBtnGeneral">Lancer le Quiz Général</a>
+                     </div>
+                 </div>
+            </section>
+        </div> 
+    </main>
+    
+    <footer id="main-footer"></footer>
+    
+    <script src="../js/translations.js"></script> 
+    <script src="../js/main.js" defer></script>      
+    <script src="../js/cours.js" defer></script> 
+</body>
+</html>
