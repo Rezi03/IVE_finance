@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25217,
+  "totalArticles": 25218,
   "articles": [
+    {
+      "id": "ced9912a7bbb6765a8a24d887eeddca4",
+      "title": "Ralentissement de la croissance des ventes de Carrefour au troisième trimestre en France et au Brésil",
+      "description": "Carrefour, premier distributeur alimentaire d'Europe, a enregistré une croissance plus faible de ses ventes au troisième trimestre, en raison de baisses de prix en France et de taux d'intérêt...",
+      "content": "Carrefour, premier distributeur alimentaire d'Europe, a enregistré une croissance plus faible de ses ventes au troisième trimestre, en raison de baisses de prix en France et de taux d'intérêt élevés qui freinent la demande des consommateurs au Brésil... [2251 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/ralentissement-de-la-croissance-des-ventes-de-carrefour-au-troisieme-trimestre-en-france-et-au-bresi-ce7d5ddbdb8df224",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-10T160839Z_1_LYNXMPEL690T2_RTROPTP_4_CARREFOUR-FRANCE.JPG",
+      "publishedAt": "2025-10-22T17:47:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "18d50b21c9d91a307e936868bfd0e7a2",
       "title": "Police judiciaire : un plan confidentiel à 139 millions d’euros d’investissement pour sortir de la crise des vocations",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7f14f50f6a05de8b930118296be80ae4",
-      "title": "Hermès-Hausse de 9,6% des ventes au T3, du mieux en Chine mais la maroquinerie pèse",
-      "description": "Hermès a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, mê... - 22/10/2025 à 11:07 - Boursorama",
-      "content": "Hermès a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, même si la performance de sa principale division de ... [2174 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/hermes-hausse-de-9-6-des-ventes-au-t3-du-mieux-en-chine-mais-la-maroquinerie-pese-7c8c9ed8a6e6221b8622894fd494499b",
-      "image": "https://www.boursorama.com/static/i/content/images/9/f/c/9fc6523cd923fb75a32aaa7c3691e72c-1200x800.jpg",
-      "publishedAt": "2025-10-22T09:07:04Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
