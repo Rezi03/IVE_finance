@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25226,
+  "totalArticles": 25228,
   "articles": [
+    {
+      "id": "41a5b6c9897d8708be14aff6d9f7aec4",
+      "title": "La Banque centrale turque ralentit l'assouplissement monétaire avec une baisse de 100 points de base à 39,5 %",
+      "description": "La Banque centrale de Turquie a abaissé jeudi son principal taux d'intérêt de 100 points de base, le portant à 39,5 %. Cette décision marque un ralentissement attendu de son cycle...\n-Le 23 octobre 2025 à 13:10\n- Zonebourse",
+      "content": "Washington hausse le ton envers Pékin et Moscou\nLes indices boursiers ont perdu du terrain hier, sous le coup d'un léger renforcement de l'aversion pour le risque, qui a logiquement frappé les chouchous de la cote comme l'or et les valeurs technologi... [320 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-turque-ralentit-l-assouplissement-monetaire-avec-une-baisse-de-100-points-de-base-ce7d5dd8db8bf524",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-23T11:10:54Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "8886e3992294a2935d155e2bc1d31c92",
+      "title": "La Banque centrale d'Ukraine maintient son taux directeur inchangé et révise à la baisse ses prévisions de croissance pour 2025",
+      "description": "La Banque centrale d'Ukraine a décidé jeudi de maintenir son taux directeur à 15,5 %, tout en abaissant ses prévisions de croissance pour l'année à venir. Cette décision intervient alors que...\n-Le 23 octobre 2025 à 13:06\n- Zonebourse",
+      "content": "Washington hausse le ton envers Pékin et Moscou\nLes indices boursiers ont perdu du terrain hier, sous le coup d'un léger renforcement de l'aversion pour le risque, qui a logiquement frappé les chouchous de la cote comme l'or et les valeurs technologi... [320 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-d-ukraine-maintient-son-taux-directeur-inchange-et-revise-a-la-baisse-ses-previsi-ce7d5dd8db88f324",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-23T11:06:42Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "f1d6df0ac6e2f7fd127cba6989028d32",
       "title": "Le yen toujours plombé par la nomination de la Première ministre japonaise",
@@ -131,38 +163,6 @@
         "id": "5eca54a281f8fb040f8089593c1ae8bc",
         "name": "L'Echo",
         "url": "https://www.lecho.be",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ced9912a7bbb6765a8a24d887eeddca4",
-      "title": "Ralentissement de la croissance des ventes de Carrefour au troisième trimestre en France et au Brésil",
-      "description": "Carrefour, premier distributeur alimentaire d'Europe, a enregistré une croissance plus faible de ses ventes au troisième trimestre, en raison de baisses de prix en France et de taux d'intérêt...",
-      "content": "Carrefour, premier distributeur alimentaire d'Europe, a enregistré une croissance plus faible de ses ventes au troisième trimestre, en raison de baisses de prix en France et de taux d'intérêt élevés qui freinent la demande des consommateurs au Brésil... [2251 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/ralentissement-de-la-croissance-des-ventes-de-carrefour-au-troisieme-trimestre-en-france-et-au-bresi-ce7d5ddbdb8df224",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-10T160839Z_1_LYNXMPEL690T2_RTROPTP_4_CARREFOUR-FRANCE.JPG",
-      "publishedAt": "2025-10-22T17:47:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "18d50b21c9d91a307e936868bfd0e7a2",
-      "title": "Police judiciaire : un plan confidentiel à 139 millions d’euros d’investissement pour sortir de la crise des vocations",
-      "description": "Avec le « plan investigation », que « Le Monde » a pu consulter, la police veut relancer la filière police judiciaire. Et alerte sur l’effondrement des taux d’élucidation.",
-      "content": "Parce qu’une autre personne (ou vous) est en train de lire Le Monde avec ce compte sur un autre appareil.\nVous ne pouvez lire Le Monde que sur un seul appareil à la fois (ordinateur, téléphone ou tablette).\nComment ne plus voir ce message ?\nEn cliqua... [2243 chars]",
-      "url": "https://www.lemonde.fr/societe/article/2025/10/22/police-judiciaire-un-plan-confidentiel-a-139-millions-d-euros-d-investissement-pour-sortir-de-la-crise-des-vocations_6648911_3224.html",
-      "image": "https://img.lemde.fr/2025/10/22/0/0/6657/4438/1440/960/60/0/d47cebb_upload-1-dm5ofvcbk4tk-000-78mr6r9.jpg",
-      "publishedAt": "2025-10-22T17:00:08Z",
-      "lang": "fr",
-      "source": {
-        "id": "d72db178501ee94d88ea59fe10ef8079",
-        "name": "Le Monde.fr",
-        "url": "https://www.lemonde.fr",
         "country": "fr"
       }
     }
