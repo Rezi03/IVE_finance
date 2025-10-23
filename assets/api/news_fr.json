@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25212,
+  "totalArticles": 25214,
   "articles": [
+    {
+      "id": "4951bd9f7c097eb8ea606e8ef212569b",
+      "title": "Santander exposé à hauteur de 55 millions de dollars à la faillite de First Brands, selon un document judiciaire américain",
+      "description": "La banque espagnole Santander détenait une exposition à la dette du fabricant américain de pièces automobiles First Brands Group, déclaré en faillite, d'au moins 55 millions de dollars à la...",
+      "content": "La banque espagnole Santander détenait une exposition à la dette du fabricant américain de pièces automobiles First Brands Group, déclaré en faillite, d'au moins 55 millions de dollars à la fin du mois de septembre, selon un document du tribunal amér... [1712 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/santander-expose-a-hauteur-de-55-millions-de-dollars-a-la-faillite-de-first-brands-selon-un-documen-ce7d5ddbd888f121",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-25T203015Z_1_LYNXMPEL6O0WV_RTROPTP_4_MEXICO-BANKS-ANTITRUST.JPG",
+      "publishedAt": "2025-10-22T14:35:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "db97fa9fba8c95215d4a7a173688cd23",
+      "title": "La guerre sur le poids des dépenses sociales aura lieu",
+      "description": "Le budget “social” explique une large part de la croissance continue de la dette",
+      "content": "Le pays pressent que le cycle de gestion de l’État providence arrive à un point de bascule. La grande dérive a commencé en 1974, lorsque le pouvoir d’achat pompé par le premier choc pétrolier a été compensé sur le bilan des entreprises. Depuis, l’Éta... [1489 chars]",
+      "url": "https://www.lenouveleconomiste.fr/la-guerre-sur-le-poids-des-depenses-sociales-aura-lieu-129563/",
+      "image": "https://www.lenouveleconomiste.fr/wp-content/uploads/2025/05/le-billet-jml.jpg",
+      "publishedAt": "2025-10-22T13:59:20Z",
+      "lang": "fr",
+      "source": {
+        "id": "7a69f4ec38ac318ace07932ec748bd44",
+        "name": "Le Nouvel Economiste",
+        "url": "https://www.lenouveleconomiste.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "98d347da8d05e6d13ac7259484515283",
       "title": "La BCE devrait maintenir ses taux inchangés jusqu'en 2027",
@@ -131,38 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "07462b9d16b5f36c61217631d81c2449",
-      "title": "Hermès: Hausse de 9,6% des ventes en organique au T3, du mieux en Chine",
-      "description": "Hermès a fait état mercredi d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, grâce à la solidité de sa principale division de maroquinerie, et dit observer des... - 22/10/2025 à 09:58 - Boursorama",
-      "content": "Hermès a fait état mercredi d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, grâce à la solidité de sa principale division de maroquinerie, et dit observer des signes d'amélioration en Chine, un marché clé pou... [1422 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/hermes-hausse-de-9-6-des-ventes-en-organique-au-t3-du-mieux-en-chine-7c8c9ed8a6e6221b8622894fd494499b",
-      "image": "https://www.boursorama.com/static/i/content/images/9/f/c/9fc6523cd923fb75a32aaa7c3691e72c-1200x800.jpg",
-      "publishedAt": "2025-10-22T07:58:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "29f49b07d8ae84372bfa33873e42d796",
-      "title": "Les investisseurs britanniques renforcent leurs paris sur une baisse des taux de la Banque d'Angleterre alors que l'inflation reste stable à 3,8 %",
-      "description": "Les investisseurs ont accru leurs anticipations de baisse des taux d'intérêt de la Banque d'Angleterre d'ici la fin de l'année, après la publication mercredi de chiffres montrant que l'inflation...\n-Le 22 octobre 2025 à 09:29\n- Zonebourse",
-      "content": "Les investisseurs ont accru leurs anticipations de baisse des taux d'intérêt de la Banque d'Angleterre (BoE) d'ici la fin de l'année, après la publication mercredi de chiffres montrant que l'inflation des prix à la consommation au Royaume-Uni, ainsi ... [1665 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-investisseurs-britanniques-renforcent-leurs-paris-sur-une-baisse-des-taux-de-la-banque-d-anglete-ce7d5ddadf88f22d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-02T125041Z_1_LYNXMPEL810NH_RTROPTP_4_BRITAIN-BONDS-2035.JPG",
-      "publishedAt": "2025-10-22T07:29:52Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
