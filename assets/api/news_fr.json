@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25219,
+  "totalArticles": 25220,
   "articles": [
+    {
+      "id": "408d36905348c633688b79b302c737d5",
+      "title": "Les bourses en direct | Wall Street termine dans le rouge, Netflix plonge de 10%, Tesla hésite après bourse",
+      "description": "La Bourse US a clôturé en baisse, alors que les bourses européennes avaient terminé en ordre dispersé, Paris reprenant son souffle après un record alors que Londres, animée par la bonne performance des banques, a salué une inflation stable, dans un marché digérant une salve de résultats.",
+      "content": "Harm Zebregs (Goldman Sachs): \"Nous gardons foi en la bourse américaine, même quand elle marque le pas\"\ninterview\nMarlène Laruelle: \"L'Amérique trumpienne et la Russie suivent des tra...\ninterview\nSylvie Huret, CEO de Degroof Petercam: \"Avec Indosuez... [377 chars]",
+      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-termine-dans-le-rouge-netflix-plonge-de-10-tesla-hesite-apres-bourse/10632307.html",
+      "image": "https://images.tijd.be/view?iid=Elvis:2wCb1APF4y68yKhMUGnl7L&context=ONLINE&ratio=16/9&width=1280&u=1761167535000",
+      "publishedAt": "2025-10-22T21:12:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "5eca54a281f8fb040f8089593c1ae8bc",
+        "name": "L'Echo",
+        "url": "https://www.lecho.be",
+        "country": "fr"
+      }
+    },
     {
       "id": "be849eebf0f1915a4bc761fcca9080c0",
       "title": "Les bourses en direct | Wall Street termine dans le rouge, Tesla recule avant ses résultats, Netflix plonge de 10%",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/les-actions-londoniennes-grimpent-portees-par-l-espoir-de-baisse-des-taux-et-la-flambee-de-barclays-ce7d5ddad18ef527",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-09T122517Z_1_LYNXMPEL580GP_RTROPTP_4_BRITAIN-ECONOMY.JPG",
       "publishedAt": "2025-10-22T11:34:18Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "4afb4f9f82049dfd1a9abc8af199abb2",
-      "title": "La BCE devrait maintenir ses taux inchangés jusqu'en 2027 face à une inflation stable et des perspectives de croissance modérées",
-      "description": "BENGALURU - La Banque centrale européenne aurait terminé son cycle de baisse des taux d'intérêt alors que l'inflation se maintient autour de l'objectif de 2 % et que l'économie de la zone euro...\n-Le 22 octobre 2025 à 12:51\n- Zonebourse",
-      "content": "BENGALURU - La Banque centrale européenne (BCE) aurait terminé son cycle de baisse des taux d'intérêt alors que l'inflation se maintient autour de l'objectif de 2 % et que l'économie de la zone euro progresse de manière régulière, selon une majorité ... [3683 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-devrait-maintenir-ses-taux-inchanges-jusqu-en-2027-face-a-une-inflation-stable-et-des-perspec-ce7d5ddad189f125",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-22T105107Z_1_LYNXMPEL9L0IB_RTROPTP_4_EUROZONE-ECONOMY-POLL.JPG",
-      "publishedAt": "2025-10-22T10:51:40Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
