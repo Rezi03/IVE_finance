@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25220,
+  "totalArticles": 25222,
   "articles": [
+    {
+      "id": "10fa4fd2d2b6f5aaf64b4b9e4e0bedef",
+      "title": "La Corée du Sud maintient ses taux inchangés, le marché immobilier en surchauffe limite les marges de manoeuvre",
+      "description": "La Banque centrale de Corée du Sud a décidé jeudi de maintenir inchangés ses taux d'intérêt directeurs, alors que la flambée des prix de l'immobilier et la dépréciation de la monnaie...\n-Le 23 octobre 2025 à 04:21\n- Zonebourse",
+      "content": "La Banque centrale de Corée du Sud a décidé jeudi de maintenir inchangés ses taux d'intérêt directeurs, alors que la flambée des prix de l'immobilier et la dépréciation de la monnaie nationale réduisent l'espace pour un nouvel assouplissement monétai... [3194 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-coree-du-sud-maintient-ses-taux-inchanges-le-marche-immobilier-en-surchauffe-limite-les-marges-d-ce7d5ddbdc8fff26",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T004717Z_1_LYNXMPEL3E00M_RTROPTP_4_SOUTHKOREA-ECONOMY-RATES.JPG",
+      "publishedAt": "2025-10-23T02:21:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "d7a97b5e9848eca7be5b76f8febd7714",
+      "title": "La Banque du Japon pourrait relever ses taux dès décembre, selon un ex-dirigeant",
+      "description": "La Banque du Japon pourrait relever ses taux d'intérêt dès le mois de décembre, la politique budgétaire expansionniste attendue sous la nouvelle Première ministre Sanae Takaichi devant...",
+      "content": "La Banque du Japon (BOJ) pourrait relever ses taux d'intérêt dès le mois de décembre, la politique budgétaire expansionniste attendue sous la nouvelle Première ministre Sanae Takaichi devant permettre à l'économie de résister à l'impact des droits de... [4414 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-pourrait-relever-ses-taux-des-decembre-selon-un-ex-dirigeant-ce7d5ddbdc81f125",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T104501Z_1_LYNXMPEL3K0E2_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
+      "publishedAt": "2025-10-23T02:02:36Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "408d36905348c633688b79b302c737d5",
       "title": "Les bourses en direct | Wall Street termine dans le rouge, Netflix plonge de 10%, Tesla hésite après bourse",
@@ -131,38 +163,6 @@
         "id": "7a69f4ec38ac318ace07932ec748bd44",
         "name": "Le Nouvel Economiste",
         "url": "https://www.lenouveleconomiste.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "98d347da8d05e6d13ac7259484515283",
-      "title": "La BCE devrait maintenir ses taux inchangés jusqu'en 2027",
-      "description": "par Indradip Ghosh BANGALORE - La Banque centrale européenne (BCE) en a fini avec ses baisses de taux d'intérêt, l'inflation restant désormais proche de la cible de 2% et l'économie progressant à un r... - 22/10/2025 à 14:35 - Boursorama",
-      "content": "par Indradip Ghosh\nBANGALORE - La Banque centrale européenne (BCE) en a fini avec ses baisses de taux d'intérêt, l'inflation restant désormais proche de la cible de 2% et l'économie progressant à un rythme constant, estiment une majorité croissante d... [4024 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-devrait-maintenir-ses-taux-inchanges-jusqu-en-2027-economistes-aae57f21bc7ff6a77f2afd2d0f2a237e",
-      "image": "https://www.boursorama.com/static/i/content/images/d/3/1/d312977a355b49456c56cd5411fab2a3-1200x800.jpg",
-      "publishedAt": "2025-10-22T12:35:57Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "752870ef1735d06346ca281545f35387",
-      "title": "Les actions londoniennes grimpent, portées par l'espoir de baisse des taux et la flambée de Barclays",
-      "description": "Les marchés londoniens ont progressé pour la troisième séance consécutive mercredi, les investisseurs misant davantage sur une baisse des taux d'intérêt de la Banque d'Angleterre après la...",
-      "content": "Les marchés londoniens ont progressé pour la troisième séance consécutive mercredi, les investisseurs misant davantage sur une baisse des taux d'intérêt de la Banque d'Angleterre après la publication de chiffres d'inflation inférieurs aux attentes. L... [2127 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-actions-londoniennes-grimpent-portees-par-l-espoir-de-baisse-des-taux-et-la-flambee-de-barclays-ce7d5ddad18ef527",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-09T122517Z_1_LYNXMPEL580GP_RTROPTP_4_BRITAIN-ECONOMY.JPG",
-      "publishedAt": "2025-10-22T11:34:18Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
