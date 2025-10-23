@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25210,
+  "totalArticles": 25212,
   "articles": [
+    {
+      "id": "98d347da8d05e6d13ac7259484515283",
+      "title": "La BCE devrait maintenir ses taux inchangés jusqu'en 2027",
+      "description": "par Indradip Ghosh BANGALORE - La Banque centrale européenne (BCE) en a fini avec ses baisses de taux d'intérêt, l'inflation restant désormais proche de la cible de 2% et l'économie progressant à un r... - 22/10/2025 à 14:35 - Boursorama",
+      "content": "par Indradip Ghosh\nBANGALORE - La Banque centrale européenne (BCE) en a fini avec ses baisses de taux d'intérêt, l'inflation restant désormais proche de la cible de 2% et l'économie progressant à un rythme constant, estiment une majorité croissante d... [4024 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-devrait-maintenir-ses-taux-inchanges-jusqu-en-2027-economistes-aae57f21bc7ff6a77f2afd2d0f2a237e",
+      "image": "https://www.boursorama.com/static/i/content/images/d/3/1/d312977a355b49456c56cd5411fab2a3-1200x800.jpg",
+      "publishedAt": "2025-10-22T12:35:57Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "752870ef1735d06346ca281545f35387",
+      "title": "Les actions londoniennes grimpent, portées par l'espoir de baisse des taux et la flambée de Barclays",
+      "description": "Les marchés londoniens ont progressé pour la troisième séance consécutive mercredi, les investisseurs misant davantage sur une baisse des taux d'intérêt de la Banque d'Angleterre après la...",
+      "content": "Les marchés londoniens ont progressé pour la troisième séance consécutive mercredi, les investisseurs misant davantage sur une baisse des taux d'intérêt de la Banque d'Angleterre après la publication de chiffres d'inflation inférieurs aux attentes. L... [2127 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-actions-londoniennes-grimpent-portees-par-l-espoir-de-baisse-des-taux-et-la-flambee-de-barclays-ce7d5ddad18ef527",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-09T122517Z_1_LYNXMPEL580GP_RTROPTP_4_BRITAIN-ECONOMY.JPG",
+      "publishedAt": "2025-10-22T11:34:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "4afb4f9f82049dfd1a9abc8af199abb2",
       "title": "La BCE devrait maintenir ses taux inchangés jusqu'en 2027 face à une inflation stable et des perspectives de croissance modérées",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "a3bab83520d06652f5938416fb59eab8",
-      "title": "Ipsen S.A. relève ses prévisions de résultats pour l'année 2025",
-      "description": "Ipsen S.A. a relevé ses prévisions de résultats pour l'année 2025. Pour cet exercice, la société anticipe une croissance totale des ventes d'environ 10,0 % à taux de change constant . Sur la...",
-      "content": "Ipsen S.A. a relevé ses prévisions de résultats pour l'année 2025. Pour cet exercice, la société anticipe une croissance totale des ventes d'environ 10,0 % à taux de change constant (contre une précédente prévision supérieure à 7,0 %). Sur la base du... [293 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/ipsen-s-a-releve-ses-previsions-de-resultats-pour-l-annee-2025-ce7d5ddadc8fff23",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-22T06:35:32Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "13316ba4d4b81f935682ad7abf369a80",
-      "title": "Hermès dévoile une accélération de sa croissance à taux de change constants au troisième trimestre",
-      "description": "(AOF) - Au troisième trimestre, les ventes d' Hermès ont atteint 3,9 milliards d'euros, en hausse de 10% à taux de change constants. Le groupe de luxe souligne leur \"légère amélioration par rapport au... - 22/10/2025 à 08:23 - Boursorama",
-      "content": "(AOF) - Au troisième trimestre, les ventes d' Hermès ont atteint 3,9 milliards d'euros, en hausse de 10% à taux de change constants. Le groupe de luxe souligne leur \"légère amélioration par rapport au second trimestre, notamment en Europe, en Amériqu... [4384 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/hermes-devoile-une-acceleration-de-sa-croissance-a-taux-de-change-constants-au-troisieme-trimestre-a8222e76681d31b350893d567eee516c",
-      "image": "https://www.boursorama.com/static/i/content/images/e/f/e/efe6f575de481b7470d3418c82772a9d-1280x1280.jpg",
-      "publishedAt": "2025-10-22T06:23:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
