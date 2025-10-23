@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25225,
+  "totalArticles": 25226,
   "articles": [
+    {
+      "id": "f1d6df0ac6e2f7fd127cba6989028d32",
+      "title": "Le yen toujours plombé par la nomination de la Première ministre japonaise",
+      "description": "Le yen recule jeudi, lesté par les perspectives que la nouvelle Première ministre japonaise alourdisse le déficit national et motive la Banque du Japon à décaler sa prochaine hausse de taux,...",
+      "content": "Londres (awp/afp) - Le yen recule jeudi, lesté par les perspectives que la nouvelle Première ministre japonaise alourdisse le déficit national et motive la Banque du Japon à décaler sa prochaine hausse de taux, tandis que l'or se ressaisit après sa l... [2465 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-yen-toujours-plombe-par-la-nomination-de-la-premiere-ministre-japonaise-ce7d5dd8d88af52d",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-23T10:18:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "ca7e75da13f15afb7729bcf335a944fa",
       "title": "Indépendance et sécurité : le double pari gagnant du portage salarial en période d’incertitude économique",
@@ -147,22 +163,6 @@
         "id": "d72db178501ee94d88ea59fe10ef8079",
         "name": "Le Monde.fr",
         "url": "https://www.lemonde.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "bee7b8d512d3860f7de01c75ea88e31d",
-      "title": "Les actions londoniennes progressent, portées par les espoirs de baisse des taux ; Barclays s'envole après un rachat d'actions",
-      "description": "Les marchés boursiers londoniens ont enregistré une troisième séance consécutive de hausse ce mercredi, les investisseurs renforçant leurs paris sur une baisse des taux d'intérêt de la Banque...",
-      "content": "Les marchés boursiers londoniens ont enregistré une troisième séance consécutive de hausse ce mercredi, les investisseurs renforçant leurs paris sur une baisse des taux d'intérêt de la Banque d'Angleterre après la publication de chiffres d'inflation ... [2421 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-actions-londoniennes-progressent-portees-par-les-espoirs-de-baisse-des-taux-barclays-s-envole-ce7d5ddbdb8af421",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-09T122517Z_1_LYNXMPEL580GP_RTROPTP_4_BRITAIN-ECONOMY.JPG",
-      "publishedAt": "2025-10-22T16:12:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
