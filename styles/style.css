@@ -216,7 +216,7 @@ html[data-theme="dark"] .content-block p, html[data-theme="dark"] .content-block
 
 
 /* ==========================
-    QUIZ - Finteker.fr
+    QUIZ 
    ========================== */
 
 .quiz-page {
@@ -277,4 +277,80 @@ html[data-theme="dark"] .content-block p, html[data-theme="dark"] .content-block
 
 .quiz-card .btn:hover {
   background-color: #0066ff;
+}
+
+
+/* ==========================
+    GENERAL QUIZ
+   ========================== */
+
+
+.quiz-container {
+    max-width: 700px;
+    margin: 60px auto;
+    background: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.quiz-container h1 {
+    color: #004aad;
+    margin-bottom: 20px;
+}
+
+.question {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.answers {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.answer-btn {
+    background: #f0f4ff;
+    border: 2px solid #004aad;
+    color: #004aad;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.answer-btn:hover {
+    background: #004aad;
+    color: white;
+}
+
+.answer-btn.correct {
+    background-color: #2ecc71;
+    border-color: #27ae60;
+    color: white;
+}
+
+.answer-btn.wrong {
+    background-color: #e74c3c;
+    border-color: #c0392b;
+    color: white;
+}
+
+.next-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #004aad;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    display: none;
+}
+
+.result {
+    font-size: 1.3rem;
+    margin-top: 30px;
+    color: #004aad;
 }
