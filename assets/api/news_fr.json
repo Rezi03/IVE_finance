@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25224,
+  "totalArticles": 25225,
   "articles": [
+    {
+      "id": "ca7e75da13f15afb7729bcf335a944fa",
+      "title": "Indépendance et sécurité : le double pari gagnant du portage salarial en période d’incertitude économique",
+      "description": "Un contexte économique instable qui bouscule les trajectoires professionnelles\nInflation persistante, ralentissement de la croissance, tensions géopolitiques : l’économie française traverse une période d’incertitude prolongée. Les entreprises, prudentes, réduisent leurs engagements à long terme. Les recrutements en CDI marquent le pas, tandis que les contrats courts et les prestations externalisées gagnent du terrain.",
+      "content": "Dans ce contexte, de plus en plus de cadres, experts et consultants revoient leurs priorités professionnelles. L’envie de retrouver du sens, de l’autonomie et une meilleure maîtrise de leur emploi du temps s’impose. Mais cette quête de liberté se heu... [3016 chars]",
+      "url": "https://www.latribune.fr/article/partenaires/le-portage-salarial/37062835304926/independance-et-securite-le-double-pari-gagnant-du-portage-salarial-en-periode-d-incertitude-economique",
+      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/23/le-portage-salarial-repond-aux-besoins-dagilite-et-de-securite-que-reclame-le-contexte-actuel-1761210020_7dcfef3ee9f8661dfef3ee9f845dfev_.jpg",
+      "publishedAt": "2025-10-23T09:00:21Z",
+      "lang": "fr",
+      "source": {
+        "id": "a475e4eb8a88f44bec788830464aef42",
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "a319c507b6ca9e6654040114ce25fa1c",
       "title": "Croissance organique de 9% du CA sur neuf mois pour Thales",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "12b763f470f7f552486425b155b28135",
-      "title": "L'éco du monde : Moody's actualisera vendredi la note de la France - 22/10",
-      "description": "Ce mercredi 22 octobre, Patrice Gautry, chef économiste chez Union Bancaire Privée, a abordé la paralysie budgétaire aux États-Unis avec le shutdown, et la France en sursis avec sa dette souveraine, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du...",
-      "content": "Ce mercredi 22 octobre, Romain Daubry, consultant pour Bourse Direct, a abordé les autres calcule ou support pour anticiper les pochain mouvement sur l'Or, dans Le plan de trading dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bours... [2945 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-moody-s-actualisera-vendredi-la-note-de-la-france-22-10_EN-202510220672.html",
-      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
-      "publishedAt": "2025-10-22T15:15:31Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
         "country": "fr"
       }
     }
