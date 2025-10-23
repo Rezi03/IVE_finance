@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25223,
+  "totalArticles": 25224,
   "articles": [
+    {
+      "id": "a319c507b6ca9e6654040114ce25fa1c",
+      "title": "Croissance organique de 9% du CA sur neuf mois pour Thales",
+      "description": "Thales affiche un chiffre d'affaires des neufs premiers mois de 2025 de près de 15,26 milliards d'euros, en hausse de 9,1% à périmètre et taux de change constants (+8,4% de variation totale), portée à... - 23/10/2025 à 08:17 - Boursorama",
+      "content": "information fournie par Zonebourse•23/10/2025 à 08:17\nThales affiche un chiffre d'affaires des neufs premiers mois de 2025 de près de 15,26 milliards d'euros, en hausse de 9,1% à périmètre et taux de change constants (+8,4% de variation totale), port... [767 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/croissance-organique-de-9-du-ca-sur-neuf-mois-pour-thales-c636a34bff740a98182a6014a7ff766c",
+      "image": "https://www.boursorama.com/static/i/content/images/8/3/3/833f6423c60958a925e7130ecc68b807-1274x740.jpg",
+      "publishedAt": "2025-10-23T06:17:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "7eed780c91f81f6c42424f0194b3d881",
       "title": "La Banque de Corée maintient ses taux mais surprend en évoquant de nouvelles baisses",
@@ -147,22 +163,6 @@
         "id": "3515cd464703185ce797899332fb9c81",
         "name": "BFMTV",
         "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "4951bd9f7c097eb8ea606e8ef212569b",
-      "title": "Santander exposé à hauteur de 55 millions de dollars à la faillite de First Brands, selon un document judiciaire américain",
-      "description": "La banque espagnole Santander détenait une exposition à la dette du fabricant américain de pièces automobiles First Brands Group, déclaré en faillite, d'au moins 55 millions de dollars à la...",
-      "content": "La banque espagnole Santander détenait une exposition à la dette du fabricant américain de pièces automobiles First Brands Group, déclaré en faillite, d'au moins 55 millions de dollars à la fin du mois de septembre, selon un document du tribunal amér... [1712 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/santander-expose-a-hauteur-de-55-millions-de-dollars-a-la-faillite-de-first-brands-selon-un-documen-ce7d5ddbd888f121",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-25T203015Z_1_LYNXMPEL6O0WV_RTROPTP_4_MEXICO-BANKS-ANTITRUST.JPG",
-      "publishedAt": "2025-10-22T14:35:17Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
