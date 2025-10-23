@@ -4,112 +4,48 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25164,
+  "totalArticles": 25220,
   "articles": [
     {
-      "id": "e12bf5599ef484629847914af273e436",
-      "title": "Nicolas Dufourcq, en dette à tête",
-      "description": "Le directeur de la Banque publique d’investissement, amateur de musique et de photographie, est récemment parti en guerre contre la dette sociale.",
-      "content": "Il est hors du commun, parle vite et à voix basse, réfléchit extrêmement vite. Il n’est pas chaleureux, mais pas froid non plus. Il a une tête et un CV de premier de la classe, mais un don d’acteur comique dont Libération a profité au cours des deux ... [708 chars]",
-      "url": "https://www.liberation.fr/portraits/nicolas-dufourcq-en-dette-a-tete-20251019_7FYW5XHZ4BHZLHS3WWFF2UCFOI/",
-      "image": "https://www.liberation.fr/resizer/v2/APFWVRXD3VB37J54Y5GUM73RRY.JPG?auth=84714898c057eb862e1b93a539b318ac66521cdf2f170d5ab7535dd9146e5a9b&quality=70&width=1200&height=630&focal=3359%2C4632",
-      "publishedAt": "2025-10-19T14:36:37Z",
+      "id": "408d36905348c633688b79b302c737d5",
+      "title": "Les bourses en direct | Wall Street termine dans le rouge, Netflix plonge de 10%, Tesla hésite après bourse",
+      "description": "La Bourse US a clôturé en baisse, alors que les bourses européennes avaient terminé en ordre dispersé, Paris reprenant son souffle après un record alors que Londres, animée par la bonne performance des banques, a salué une inflation stable, dans un marché digérant une salve de résultats.",
+      "content": "Harm Zebregs (Goldman Sachs): \"Nous gardons foi en la bourse américaine, même quand elle marque le pas\"\ninterview\nMarlène Laruelle: \"L'Amérique trumpienne et la Russie suivent des tra...\ninterview\nSylvie Huret, CEO de Degroof Petercam: \"Avec Indosuez... [377 chars]",
+      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-termine-dans-le-rouge-netflix-plonge-de-10-tesla-hesite-apres-bourse/10632307.html",
+      "image": "https://images.tijd.be/view?iid=Elvis:2wCb1APF4y68yKhMUGnl7L&context=ONLINE&ratio=16/9&width=1280&u=1761167535000",
+      "publishedAt": "2025-10-22T21:12:15Z",
       "lang": "fr",
       "source": {
-        "id": "0041043f44c4c90a16732eaaf05c73ca",
-        "name": "Libération",
-        "url": "https://www.liberation.fr",
+        "id": "5eca54a281f8fb040f8089593c1ae8bc",
+        "name": "L'Echo",
+        "url": "https://www.lecho.be",
         "country": "fr"
       }
     },
     {
-      "id": "425758c3f4d7387394b32269e6888140",
-      "title": "un prêt à taux zéro pour la création, la reprise ou l'investissement",
-      "description": "Le Réseau initiative de Haute-Saône a organisé, à la Filature de Ronchamp, son nouveau comité d’agrément en soutien aux entrepreneurs. Plusieurs ...",
-      "content": "L'Est Républicain, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de votr... [772 chars]",
-      "url": "https://www.estrepublicain.fr/economie/2025/10/19/creation-reprise-ou-investissement-en-entreprise-le-pret-a-taux-zero-du-reseau-initiative",
-      "image": "https://cdn-s-www.estrepublicain.fr/images/5EC51A5D-7572-455B-8F37-C27C21BBCE16/FB1200/photo-1760862471.jpg",
-      "publishedAt": "2025-10-19T10:00:00Z",
+      "id": "be849eebf0f1915a4bc761fcca9080c0",
+      "title": "Les bourses en direct | Wall Street termine dans le rouge, Tesla recule avant ses résultats, Netflix plonge de 10%",
+      "description": "La Bourse US a clôturé en baisse, alors que les bourses européennes avaient terminé en ordre dispersé, Paris reprenant son souffle après un record alors que Londres, animée par la bonne performance des banques, a salué une inflation stable, dans un marché digérant une salve de résultats.",
+      "content": "Nizar Trabelsi, condamné pour terrorisme, est libre: la Cour de cassation a rejeté les pourvois contre sa libération\nAprès 500 jours, toujours pas de fumée blanche à Bruxelles\nRéforme du chômage: feu vert en commission pour la compensation financière... [400 chars]",
+      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-termine-dans-le-rouge-tesla-recule-avant-ses-resultats-netflix-plonge-de-10/10632307.html",
+      "image": "https://images.tijd.be/view?iid=Elvis:2wCb1APF4y68yKhMUGnl7L&context=ONLINE&ratio=16/9&width=1280&u=1761163494000",
+      "publishedAt": "2025-10-22T20:04:54Z",
       "lang": "fr",
       "source": {
-        "id": "0686a481a1b06a00a64a370b4defbba0",
-        "name": "L'Est Républicain",
-        "url": "https://www.estrepublicain.fr",
+        "id": "5eca54a281f8fb040f8089593c1ae8bc",
+        "name": "L'Echo",
+        "url": "https://www.lecho.be",
         "country": "fr"
       }
     },
     {
-      "id": "742935d8b546147a8e6828206947bf95",
-      "title": "L'édito éco de Lucie Robequain. L’économie américaine et ses vilains cafards",
-      "description": "Alors que plusieurs fraudes secouent les banques régionales américaines, Wall Street redoute une nouvelle crise de la dette privée. Derrière la croissance dopée à l’intelligence artificielle, certains voient déjà poindre les failles d’un modèle trop concentré.",
-      "content": "Quand un cafard traverse votre cuisine, tout porte à croire que d’autres pullulent dans les environs. Telle est la réflexion, a priori triviale, lancée cette semaine par Jamie Dimon, le plus grand banquier américain. Il n’en fallait pas plus pour fai... [3288 chars]",
-      "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/73821413878556/ledito-eco-de-lucie-robequain-l-economie-americaine-et-ses-vilains-cafards",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/09/27/decouvrez-l-edito-de-lucie-robequain-1759006439_7d33f989b7d867143f989b7d85543fv_.jpg",
-      "publishedAt": "2025-10-19T08:20:02Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "2b5b9702db132aa02b7386a9e2b40081",
-      "title": "Nicolas Dufourcq : \"L'État-providence n'est ni de droite, ni de gauche, il est notre bien commun\"",
-      "description": "Le patron de la BPI, auteur de La Dette sociale de la France (Odile Jacob), appelle à sortir des postures partisanes. Pour Nicolas Dufourcq, la dérive de la dette publique met en péril l’économie française et exige un sursaut collectif, au-delà des querelles politiques.",
-      "content": "Avant d’aller dans le détail, le sujet de la dette n’est-il pas exagéré ? Nos taux d’emprunt sont contenus, le pays tourne. Que répondez-vous à ceux qui vous reprocheraient d’être un oracle de l’apocalypse ?\nIls peuvent me traiter d’oracle. Je leur r... [6558 chars]",
-      "url": "https://www.lejdd.fr/economie/nicolas-dufourcq-il-faut-repousser-lage-de-depart-a-la-retraite-a-65-ans-163088",
-      "image": "https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2025/10/17/18/nicolas-dufourq-0z3a0955-copie.jpeg?VersionId=uxXept9r9K.Ky7fWfxsNv6ErmUbg0nGs",
-      "publishedAt": "2025-10-19T03:45:10Z",
-      "lang": "fr",
-      "source": {
-        "id": "9356983945cfb4d8487de0ed0aeaa0f0",
-        "name": "Le Journal Du Dimanche",
-        "url": "https://www.lejdd.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "403db36ec3feeeb95d3fdadc2465e410",
-      "title": "Bruno Le Maire : \" La droite, les oppositions, ils venaient tous pleurer dans mon bureau pour que je dépense plus ! \"",
-      "description": "Dans une interview accordée à TF1, ce vendredi, l’ancien ministre de l’Economie réagit à sa réputation d’artisan de la dette. Il parle de « fourberie » et rappelle que tous les bords politiques venaient lui réclamaient des crédits supplémentaires",
-      "content": "«L’homme aux 1.000 milliards d’euros de dette », Bruno Le Maire, apprécie peu cette étiquette qui lui a été attribuée et qui a notamment contribué à la chute du premier gouvernement Lecornu. Celui-ci a démissionné le 6 octobre, avant d’être renommé à... [644 chars]",
-      "url": "https://www.20minutes.fr/politique/4180148-20251018-bruno-maire-droite-oppositions-venaient-tous-pleurer-bureau-depense-plus",
-      "image": "https://img.20mn.fr/-lz2FGFNQAeeKCUDALykEik/1444x920_former-finance-minister-bruno-le-maire-gestures-prior-to-his-hearing-before-the-french-senate-on-the-drift-of-public-finances-in-paris-on-november-7-2024-prior-to-a-committee-of-enquiry-at-the-french-national-assembly-the-french-senate-is-trying-to-understand-the-reasons-for-the-budgetary-slippage-by-hearing-former-france-s-minister-for-economy-finance-and-former-french-prime-minister-the-next-day-with-the-aim-of-purging-the-abscess-ahead-of-the-examination-of-the-draft-budget-for-2025-photo-by-bertrand-guay-afp",
-      "publishedAt": "2025-10-18T14:31:52Z",
-      "lang": "fr",
-      "source": {
-        "id": "a47fb175218c2249b1a205da3387cade",
-        "name": "20 Minutes",
-        "url": "https://www.20minutes.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "166f9e977b1e1eca0bc6800d906924c3",
-      "title": "Bruno Le Maire, l’homme de l’explosion de la dette ? \"Quelle fourberie, ils venaient tous me réclamer des aides\", se lâche l’ancien ministre de l’Économie",
-      "description": "La dette publique française a explosé sous la gestion de Bruno Le Maire, surnommé",
-      "content": "Pour beaucoup, Bruno Le Maire est le principal responsable de l’explosion de la dette publique en France. Ministre de l’Économie de tous les gouvernements d’Emmanuel Macron de 2017 à 2024, il serait même surnommé \"l’homme aux 1 000 milliards de dette... [2706 chars]",
-      "url": "https://www.lindependant.fr/2025/10/18/bruno-le-maire-lhomme-de-lexplosion-de-la-dette-quelle-fourberie-ils-venaient-tous-me-reclamer-des-aides-se-lache-lancien-ministre-de-leconomie-13000879.php",
-      "image": "https://images.lindependant.fr/api/v1/images/view/68f39d93cd197affe803bdf2/hd/image.jpg?v=1",
-      "publishedAt": "2025-10-18T14:04:29Z",
-      "lang": "fr",
-      "source": {
-        "id": "d4943b844abeee30f55a1a1cfe066a43",
-        "name": "L'Indépendant",
-        "url": "https://www.lindependant.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ad8ff5fadd8d49cf0708b4bb8b5e4e98",
-      "title": "L'inflation de la zone euro devrait rester proche de l'objectif, selon Nagel",
-      "description": "L'inflation dans la zone euro devrait se maintenir autour de l'objectif de 2 % fixé par la Banque centrale européenne pendant plusieurs années, a déclaré samedi Joachim Nagel, président de la...",
-      "content": "L'inflation dans la zone euro devrait se maintenir autour de l'objectif de 2 % fixé par la Banque centrale européenne (BCE) pendant plusieurs années, a déclaré samedi Joachim Nagel, président de la Bundesbank. Il a ainsi répondu à certains de ses col... [339 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/l-inflation-de-la-zone-euro-devrait-rester-proche-de-l-objectif-selon-nagel-ce7d5addd08cf726",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-17T122018Z_1_LYNXMPEL6G0J3_RTROPTP_4_G20-SAFRICA-GERMANY.JPG",
-      "publishedAt": "2025-10-18T12:31:15Z",
+      "id": "ced9912a7bbb6765a8a24d887eeddca4",
+      "title": "Ralentissement de la croissance des ventes de Carrefour au troisième trimestre en France et au Brésil",
+      "description": "Carrefour, premier distributeur alimentaire d'Europe, a enregistré une croissance plus faible de ses ventes au troisième trimestre, en raison de baisses de prix en France et de taux d'intérêt...",
+      "content": "Carrefour, premier distributeur alimentaire d'Europe, a enregistré une croissance plus faible de ses ventes au troisième trimestre, en raison de baisses de prix en France et de taux d'intérêt élevés qui freinent la demande des consommateurs au Brésil... [2251 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/ralentissement-de-la-croissance-des-ventes-de-carrefour-au-troisieme-trimestre-en-france-et-au-bresi-ce7d5ddbdb8df224",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-10T160839Z_1_LYNXMPEL690T2_RTROPTP_4_CARREFOUR-FRANCE.JPG",
+      "publishedAt": "2025-10-22T17:47:16Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -119,50 +55,114 @@
       }
     },
     {
-      "id": "60a639e60f956ed731b5910380831daf",
-      "title": "\"Ils venaient tous pleurer dans mon bureau\", Bruno Le Maire répond sur l'envolée de la dette lorsqu'il était ministre",
-      "description": "Dans une interview, l'ancien ministre de l'Économie, Bruno Le Maire, est revenu sur l'augmentation de la dette publique lorsqu'il était en poste.",
-      "content": "Dans une interview, l'ancien ministre de l'Économie, Bruno Le Maire, est revenu sur l'augmentation de la dette publique lorsqu'il était en poste.\nAncien ministre de l'Économie et des Finances, Bruno Le Maire était l'invité du podcast \"Pourquoi faire ... [2403 chars]",
-      "url": "https://www.linternaute.com/actualite/politique/9055075-ils-venaient-tous-pleurer-dans-mon-bureau-bruno-le-maire-repond-sur-l-envolee-de-la-dette-lorsqu-il-etait-ministre/",
-      "image": "https://img-4.linternaute.com/RQYkRwUrlAnadEwMjkS8xa-frGM=/1500x/smart/a7701b4b7b90476d8df8b3fe912e1eed/ccmcms-linternaute/81671845.jpg",
-      "publishedAt": "2025-10-18T12:27:41Z",
+      "id": "18d50b21c9d91a307e936868bfd0e7a2",
+      "title": "Police judiciaire : un plan confidentiel à 139 millions d’euros d’investissement pour sortir de la crise des vocations",
+      "description": "Avec le « plan investigation », que « Le Monde » a pu consulter, la police veut relancer la filière police judiciaire. Et alerte sur l’effondrement des taux d’élucidation.",
+      "content": "Parce qu’une autre personne (ou vous) est en train de lire Le Monde avec ce compte sur un autre appareil.\nVous ne pouvez lire Le Monde que sur un seul appareil à la fois (ordinateur, téléphone ou tablette).\nComment ne plus voir ce message ?\nEn cliqua... [2243 chars]",
+      "url": "https://www.lemonde.fr/societe/article/2025/10/22/police-judiciaire-un-plan-confidentiel-a-139-millions-d-euros-d-investissement-pour-sortir-de-la-crise-des-vocations_6648911_3224.html",
+      "image": "https://img.lemde.fr/2025/10/22/0/0/6657/4438/1440/960/60/0/d47cebb_upload-1-dm5ofvcbk4tk-000-78mr6r9.jpg",
+      "publishedAt": "2025-10-22T17:00:08Z",
       "lang": "fr",
       "source": {
-        "id": "4efc7f74b3e55507b495ef8d2ebf5fa1",
-        "name": "Linternaute.com",
-        "url": "https://www.linternaute.com",
+        "id": "d72db178501ee94d88ea59fe10ef8079",
+        "name": "Le Monde.fr",
+        "url": "https://www.lemonde.fr",
         "country": "fr"
       }
     },
     {
-      "id": "ea07590827d8df93f54124c3b16d99ac",
-      "title": "\"Ils pleuraient dans mon bureau\" : encore accusé d'avoir creusé la dette, Bruno Le Maire se défend",
-      "description": "\"Pendant la crise du Covid et la crise de l'inflation, ils n'ont cessé de me demander de dépenser plus.\" Bruno Le Maire, ancien ministre de l'Économie, se défend face aux critiques de ceux qui l'accusent d'avoir creusé la dette. Il dénonce même des \"fourberies\".\nSurnommé \"Monsieur 1000 milliards\", même après son départ du ministère de l'Économie en septembre 2024, Bruno Le Maire répond aux critiques. Il était l'invité du podcast vidéo de François Lenglet, \"Pourquoi faire compliqué ?\". Comme le relaie TF1, il est aussi revenu sur les crises qu'a traversé la France pendant son mandat.\nL'ancien ministre a refait parler de lui début octobre, lors de son passage éphémère d'une journée dans le premier gouvernement de Sébastien Lecornu. Et il est toujours critiqué pour son passage au ministère de l'Économie, les chiffres ayant éclaté lors de son passage à Bercy.\n\"Ils venaient tous gémir, pleurer dans mon bureau pour que je dépense plus\"\n\"Quelle fourberie\", réagit Bruno Le Maire, qui explique que ces critiques viennent des mêmes personnes qui, \"pendant la crise du Covid-19, la crise de l'inflation, n'ont cessé de demander de dépenser plus\". Puis il ajoute : \"Ils passaient tous dans mon bureau, tapaient à la porte et disaient qu'il fallait plus pour les boulangers, artisans, commerçants, une aide plus forte sur l'électricité, le gaz... Ils venaient tous gémir, pleurer dans mon bureau pour que je dépense plus\".\nBruno Le Maire l'assure, ce n'est pas son seul passage à Bercy qui a creusé la dette. \"Ils ont tous déposé des amendements qui représentent des dizaines de milliards d'euros de dépenses supplémentaires. Tous : la droite, les oppositions, le Rassemblement national, tous, lance l'ancien ministre. Nous ne réglerons pas les fourberies en essayant de se dédouaner comme le fait toute la classe politique, en pointant un seul homme d'une manière révoltante, indigne, scandaleuse et malhonnête.\"",
-      "content": "\"Pendant la crise du Covid et la crise de l'inflation, ils n'ont cessé de me demander de dépenser plus.\" Bruno Le Maire, ancien ministre de l'Économie, se défend face aux critiques de ceux qui l'accusent d'avoir creusé la dette. Il dénonce même des \"... [1174 chars]",
-      "url": "https://actu.orange.fr/politique/ils-pleuraient-dans-mon-bureau-encore-accuse-d-avoir-creuse-la-dette-bruno-le-maire-se-defend-magic-CNT000002lgXCK.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fedb%2Fbd3%2Fd3b9e7751a6df81bcf0fa51ba5%2Fedbbd3d3b9e7751a6df81bcf0fa51ba5.png?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-18T10:15:00Z",
+      "id": "bee7b8d512d3860f7de01c75ea88e31d",
+      "title": "Les actions londoniennes progressent, portées par les espoirs de baisse des taux ; Barclays s'envole après un rachat d'actions",
+      "description": "Les marchés boursiers londoniens ont enregistré une troisième séance consécutive de hausse ce mercredi, les investisseurs renforçant leurs paris sur une baisse des taux d'intérêt de la Banque...",
+      "content": "Les marchés boursiers londoniens ont enregistré une troisième séance consécutive de hausse ce mercredi, les investisseurs renforçant leurs paris sur une baisse des taux d'intérêt de la Banque d'Angleterre après la publication de chiffres d'inflation ... [2421 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-actions-londoniennes-progressent-portees-par-les-espoirs-de-baisse-des-taux-barclays-s-envole-ce7d5ddbdb8af421",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-09T122517Z_1_LYNXMPEL580GP_RTROPTP_4_BRITAIN-ECONOMY.JPG",
+      "publishedAt": "2025-10-22T16:12:15Z",
       "lang": "fr",
       "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     },
     {
-      "id": "c021f8c2977c343339fbe119dd215cac",
-      "title": "Roland Lescure, le ministre de l’Économie, réagit à l’abaissement de la note française par S & P",
-      "description": "Le ministre de l’Économie s’est exprimé, samedi 18 octobre, suite à l’abaissement de la note attribuée par l’agence de notation S & P à la dette souveraine...",
-      "content": "La France a vu la note de sa dette souveraine dégradée par S & P, vendredi 17 octobre. L’agence de notation juge que « malgré la présentation cette semaine du projet de budget 2026, l’incertitude sur les finances publiques françaises demeure élevée »... [1909 chars]",
-      "url": "https://www.lanouvellerepublique.fr/a-la-une/c-est-un-appel-a-la-lucidite-roland-lescure-le-ministre-de-l-economie-reagit-a-l-abaissement-de-la-note-francaise-par-s-p-1760774850",
-      "image": "https://images.lanouvellerepublique.fr/image/upload/68f34ac0e3ed8c62528b45ab.jpg",
-      "publishedAt": "2025-10-18T08:07:30Z",
+      "id": "12b763f470f7f552486425b155b28135",
+      "title": "L'éco du monde : Moody's actualisera vendredi la note de la France - 22/10",
+      "description": "Ce mercredi 22 octobre, Patrice Gautry, chef économiste chez Union Bancaire Privée, a abordé la paralysie budgétaire aux États-Unis avec le shutdown, et la France en sursis avec sa dette souveraine, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du...",
+      "content": "Ce mercredi 22 octobre, Romain Daubry, consultant pour Bourse Direct, a abordé les autres calcule ou support pour anticiper les pochain mouvement sur l'Or, dans Le plan de trading dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bours... [2945 chars]",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-moody-s-actualisera-vendredi-la-note-de-la-france-22-10_EN-202510220672.html",
+      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
+      "publishedAt": "2025-10-22T15:15:31Z",
       "lang": "fr",
       "source": {
-        "id": "60736f7ba27c19a7fb53ea9375f53322",
-        "name": "La Nouvelle République",
-        "url": "https://www.lanouvellerepublique.fr",
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "4951bd9f7c097eb8ea606e8ef212569b",
+      "title": "Santander exposé à hauteur de 55 millions de dollars à la faillite de First Brands, selon un document judiciaire américain",
+      "description": "La banque espagnole Santander détenait une exposition à la dette du fabricant américain de pièces automobiles First Brands Group, déclaré en faillite, d'au moins 55 millions de dollars à la...",
+      "content": "La banque espagnole Santander détenait une exposition à la dette du fabricant américain de pièces automobiles First Brands Group, déclaré en faillite, d'au moins 55 millions de dollars à la fin du mois de septembre, selon un document du tribunal amér... [1712 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/santander-expose-a-hauteur-de-55-millions-de-dollars-a-la-faillite-de-first-brands-selon-un-documen-ce7d5ddbd888f121",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-25T203015Z_1_LYNXMPEL6O0WV_RTROPTP_4_MEXICO-BANKS-ANTITRUST.JPG",
+      "publishedAt": "2025-10-22T14:35:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "db97fa9fba8c95215d4a7a173688cd23",
+      "title": "La guerre sur le poids des dépenses sociales aura lieu",
+      "description": "Le budget “social” explique une large part de la croissance continue de la dette",
+      "content": "Le pays pressent que le cycle de gestion de l’État providence arrive à un point de bascule. La grande dérive a commencé en 1974, lorsque le pouvoir d’achat pompé par le premier choc pétrolier a été compensé sur le bilan des entreprises. Depuis, l’Éta... [1489 chars]",
+      "url": "https://www.lenouveleconomiste.fr/la-guerre-sur-le-poids-des-depenses-sociales-aura-lieu-129563/",
+      "image": "https://www.lenouveleconomiste.fr/wp-content/uploads/2025/05/le-billet-jml.jpg",
+      "publishedAt": "2025-10-22T13:59:20Z",
+      "lang": "fr",
+      "source": {
+        "id": "7a69f4ec38ac318ace07932ec748bd44",
+        "name": "Le Nouvel Economiste",
+        "url": "https://www.lenouveleconomiste.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "98d347da8d05e6d13ac7259484515283",
+      "title": "La BCE devrait maintenir ses taux inchangés jusqu'en 2027",
+      "description": "par Indradip Ghosh BANGALORE - La Banque centrale européenne (BCE) en a fini avec ses baisses de taux d'intérêt, l'inflation restant désormais proche de la cible de 2% et l'économie progressant à un r... - 22/10/2025 à 14:35 - Boursorama",
+      "content": "par Indradip Ghosh\nBANGALORE - La Banque centrale européenne (BCE) en a fini avec ses baisses de taux d'intérêt, l'inflation restant désormais proche de la cible de 2% et l'économie progressant à un rythme constant, estiment une majorité croissante d... [4024 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-devrait-maintenir-ses-taux-inchanges-jusqu-en-2027-economistes-aae57f21bc7ff6a77f2afd2d0f2a237e",
+      "image": "https://www.boursorama.com/static/i/content/images/d/3/1/d312977a355b49456c56cd5411fab2a3-1200x800.jpg",
+      "publishedAt": "2025-10-22T12:35:57Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "752870ef1735d06346ca281545f35387",
+      "title": "Les actions londoniennes grimpent, portées par l'espoir de baisse des taux et la flambée de Barclays",
+      "description": "Les marchés londoniens ont progressé pour la troisième séance consécutive mercredi, les investisseurs misant davantage sur une baisse des taux d'intérêt de la Banque d'Angleterre après la...",
+      "content": "Les marchés londoniens ont progressé pour la troisième séance consécutive mercredi, les investisseurs misant davantage sur une baisse des taux d'intérêt de la Banque d'Angleterre après la publication de chiffres d'inflation inférieurs aux attentes. L... [2127 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-actions-londoniennes-grimpent-portees-par-l-espoir-de-baisse-des-taux-et-la-flambee-de-barclays-ce7d5ddad18ef527",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-09T122517Z_1_LYNXMPEL580GP_RTROPTP_4_BRITAIN-ECONOMY.JPG",
+      "publishedAt": "2025-10-22T11:34:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
