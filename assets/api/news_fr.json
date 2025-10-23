@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25216,
+  "totalArticles": 25217,
   "articles": [
+    {
+      "id": "18d50b21c9d91a307e936868bfd0e7a2",
+      "title": "Police judiciaire : un plan confidentiel à 139 millions d’euros d’investissement pour sortir de la crise des vocations",
+      "description": "Avec le « plan investigation », que « Le Monde » a pu consulter, la police veut relancer la filière police judiciaire. Et alerte sur l’effondrement des taux d’élucidation.",
+      "content": "Parce qu’une autre personne (ou vous) est en train de lire Le Monde avec ce compte sur un autre appareil.\nVous ne pouvez lire Le Monde que sur un seul appareil à la fois (ordinateur, téléphone ou tablette).\nComment ne plus voir ce message ?\nEn cliqua... [2243 chars]",
+      "url": "https://www.lemonde.fr/societe/article/2025/10/22/police-judiciaire-un-plan-confidentiel-a-139-millions-d-euros-d-investissement-pour-sortir-de-la-crise-des-vocations_6648911_3224.html",
+      "image": "https://img.lemde.fr/2025/10/22/0/0/6657/4438/1440/960/60/0/d47cebb_upload-1-dm5ofvcbk4tk-000-78mr6r9.jpg",
+      "publishedAt": "2025-10-22T17:00:08Z",
+      "lang": "fr",
+      "source": {
+        "id": "d72db178501ee94d88ea59fe10ef8079",
+        "name": "Le Monde.fr",
+        "url": "https://www.lemonde.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "bee7b8d512d3860f7de01c75ea88e31d",
       "title": "Les actions londoniennes progressent, portées par les espoirs de baisse des taux ; Barclays s'envole après un rachat d'actions",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "281d4c057076d562885dc409d090ab68",
-      "title": "Hermès-Hausse de 9,6% des ventes au T3, du mieux en Chine mais la maroquinerie pèse",
-      "description": "Hermès a dit\nmercredi observer des signes d'amélioration en Chine, un marché\nclé pour le luxe, et fait état d'une croissance de 9,6% à taux\nde change constants de ses ventes au troisième...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/hermes-hausse-de-9-6-des-ventes-au-t3-du-mieux-en-chine-mais-la-maroquinerie-pese-ce7d5ddadc8ef22c",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-22T08:39:14Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
