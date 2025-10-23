@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25222,
+  "totalArticles": 25223,
   "articles": [
+    {
+      "id": "7eed780c91f81f6c42424f0194b3d881",
+      "title": "La Banque de Corée maintient ses taux mais surprend en évoquant de nouvelles baisses",
+      "description": "La Banque centrale de Corée du Sud a maintenu ses taux d'intérêt inchangés jeudi, se montrant prudente face à la surchauffe du marché immobilier et à la dépréciation de la monnaie nationale....",
+      "content": "La Banque centrale de Corée du Sud a maintenu ses taux d'intérêt inchangés jeudi, se montrant prudente face à la surchauffe du marché immobilier et à la dépréciation de la monnaie nationale. Toutefois, l'institution a laissé entrevoir la possibilité ... [3553 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-de-coree-maintient-ses-taux-mais-surprend-en-evoquant-de-nouvelles-baisses-ce7d5ddbdc8fff26",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T004717Z_1_LYNXMPEL3E00M_RTROPTP_4_SOUTHKOREA-ECONOMY-RATES.JPG",
+      "publishedAt": "2025-10-23T04:04:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "10fa4fd2d2b6f5aaf64b4b9e4e0bedef",
       "title": "La Corée du Sud maintient ses taux inchangés, le marché immobilier en surchauffe limite les marges de manoeuvre",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "db97fa9fba8c95215d4a7a173688cd23",
-      "title": "La guerre sur le poids des dépenses sociales aura lieu",
-      "description": "Le budget “social” explique une large part de la croissance continue de la dette",
-      "content": "Le pays pressent que le cycle de gestion de l’État providence arrive à un point de bascule. La grande dérive a commencé en 1974, lorsque le pouvoir d’achat pompé par le premier choc pétrolier a été compensé sur le bilan des entreprises. Depuis, l’Éta... [1489 chars]",
-      "url": "https://www.lenouveleconomiste.fr/la-guerre-sur-le-poids-des-depenses-sociales-aura-lieu-129563/",
-      "image": "https://www.lenouveleconomiste.fr/wp-content/uploads/2025/05/le-billet-jml.jpg",
-      "publishedAt": "2025-10-22T13:59:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "7a69f4ec38ac318ace07932ec748bd44",
-        "name": "Le Nouvel Economiste",
-        "url": "https://www.lenouveleconomiste.fr",
         "country": "fr"
       }
     }
