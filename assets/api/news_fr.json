@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25214,
+  "totalArticles": 25216,
   "articles": [
+    {
+      "id": "bee7b8d512d3860f7de01c75ea88e31d",
+      "title": "Les actions londoniennes progressent, portées par les espoirs de baisse des taux ; Barclays s'envole après un rachat d'actions",
+      "description": "Les marchés boursiers londoniens ont enregistré une troisième séance consécutive de hausse ce mercredi, les investisseurs renforçant leurs paris sur une baisse des taux d'intérêt de la Banque...",
+      "content": "Les marchés boursiers londoniens ont enregistré une troisième séance consécutive de hausse ce mercredi, les investisseurs renforçant leurs paris sur une baisse des taux d'intérêt de la Banque d'Angleterre après la publication de chiffres d'inflation ... [2421 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-actions-londoniennes-progressent-portees-par-les-espoirs-de-baisse-des-taux-barclays-s-envole-ce7d5ddbdb8af421",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-09T122517Z_1_LYNXMPEL580GP_RTROPTP_4_BRITAIN-ECONOMY.JPG",
+      "publishedAt": "2025-10-22T16:12:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "12b763f470f7f552486425b155b28135",
+      "title": "L'éco du monde : Moody's actualisera vendredi la note de la France - 22/10",
+      "description": "Ce mercredi 22 octobre, Patrice Gautry, chef économiste chez Union Bancaire Privée, a abordé la paralysie budgétaire aux États-Unis avec le shutdown, et la France en sursis avec sa dette souveraine, dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bourse est à voir ou écouter du...",
+      "content": "Ce mercredi 22 octobre, Romain Daubry, consultant pour Bourse Direct, a abordé les autres calcule ou support pour anticiper les pochain mouvement sur l'Or, dans Le plan de trading dans l'émission BFM Bourse présentée par Guillaume Sommerer. BFM Bours... [2945 chars]",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-moody-s-actualisera-vendredi-la-note-de-la-france-22-10_EN-202510220672.html",
+      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
+      "publishedAt": "2025-10-22T15:15:31Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "4951bd9f7c097eb8ea606e8ef212569b",
       "title": "Santander exposé à hauteur de 55 millions de dollars à la faillite de First Brands, selon un document judiciaire américain",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "91f83a2ac5302a42c5020b8928f757fe",
-      "title": "Le FTSE progresse alors que l'inflation britannique se maintient à 3,8 %",
-      "description": "Les marchés boursiers londoniens ont ouvert en hausse mercredi, après la publication de données montrant que la croissance des prix à la consommation au Royaume-Uni est restée stable en...",
-      "content": "(Alliance News) - Les marchés boursiers londoniens ont ouvert en hausse mercredi, après la publication de données montrant que la croissance des prix à la consommation au Royaume-Uni est restée stable en septembre, alimentant les anticipations d'une ... [6650 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-ftse-progresse-alors-que-l-inflation-britannique-se-maintient-a-3-8--ce7d5ddadf8cf22c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-07-01T193631Z_1006950001_LYNXNPEC603I9_RTROPTP_2_CBUSINESS-US-FUNDS-BONDS-BULLS.JPG",
-      "publishedAt": "2025-10-22T08:16:17Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f495b45a5c585518f99e8c3b9d736d47",
-      "title": "Hermès : hausse de 9,6% des ventes en organique au T3, du mieux en Chine mais la maroquinerie pèse",
-      "description": "Hermès HRMS.PA a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trime... - 22/10/2025 à 09:58 - Boursorama",
-      "content": "Hermès HRMS.PA a dit mercredi observer des signes d'amélioration en Chine, un marché clé pour le luxe, et fait état d'une croissance de 9,6% à taux de change constants de ses ventes au troisième trimestre, même si la performance de sa principale divi... [2198 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/hermes-hausse-de-9-6-des-ventes-en-organique-au-t3-du-mieux-en-chine-mais-la-maroquinerie-pese-7c8c9ed8a6e6221b8622894fd494499b",
-      "image": "https://www.boursorama.com/static/i/content/images/9/f/c/9fc6523cd923fb75a32aaa7c3691e72c-1200x800.jpg",
-      "publishedAt": "2025-10-22T07:58:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
