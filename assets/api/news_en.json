@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 834,
+  "totalArticles": 835,
   "articles": [
+    {
+      "id": "ff8e34d328d989202d3fa8d711ea5849",
+      "title": "The Tragicomedy Of AT&T's Earnings",
+      "description": "Given high valuation, rising debt, and modest growth prospects, AT&T offers little upside and is unattractive at current price levels. Learn more about T stock here.",
+      "content": "The Tragicomedy Of AT&T's Earnings\nEarly Retiree\n7.19K Follower s\nComments\n(23)\nSummary\nAT&T highlights subscriber growth, but real revenue and ARPU growth lag inflation.\nT's fiber investments barely offset legacy broadband losses, yet much of the ne... [4100 chars]",
+      "url": "https://seekingalpha.com/article/4832461-the-tragicomedy-of-at-and-ts-earnings",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/469910821/image_469910821.jpg?io=getty-c-w1536",
+      "publishedAt": "2025-10-23T15:04:58Z",
+      "lang": "en",
+      "source": {
+        "id": "a6d401909ca644c4ffb332486c9cfaea",
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com",
+        "country": "us"
+      }
+    },
     {
       "id": "3389bc3abbd1d87dc0c36d57e50e94a0",
       "title": "Netflix’s Business Is Nearly Flawless, but Keeping Its Sales Growth Rates Targets Looks Difficult",
@@ -147,22 +163,6 @@
         "id": "7006f2c40c7cc01195608dbfd60259b3",
         "name": "Bloomberg",
         "url": "https://www.bloomberg.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "e1b9c97ff390400cb8f841522031bbc3",
-      "title": "Rule of 72: What it is and how to use it",
-      "description": "You don’t need a finance degree to figure out how long it’ll take to double your money as an investor. The Rule of 72 offers a quick shortcut to estimate growth based on interest rates or, on the flip side, the erosion of buying power from inflation. It’s not perfect, but it’s useful for spotting how time and compounding work in your favor — or against you. What is the Rule of 72? Here’s how ...",
-      "content": "You don’t need a finance degree to figure out how long it’ll take to double your money as an investor. The Rule of 72 offers a quick shortcut to estimate growth based on interest rates or, on the flip side, the erosion of buying power from inflation.... [6285 chars]",
-      "url": "https://www.spokesman.com/stories/2025/oct/05/rule-of-72-what-it-is-and-how-to-use-it/",
-      "image": "https://thumb.spokesman.com/NM5Cm3m89BD-mwIZF0zvQMxs4a0=/1200x630/smart/media.spokesman.com/photos/2025/10/02/68daba12831fd.hires.jpg",
-      "publishedAt": "2025-10-05T01:15:00Z",
-      "lang": "en",
-      "source": {
-        "id": "c8c865ed042eb14694b8d596e22efe99",
-        "name": "Spokane Spokesman-Review",
-        "url": "https://www.spokesman.com",
         "country": "us"
       }
     }

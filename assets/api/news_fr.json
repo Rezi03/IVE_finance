@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25232,
+  "totalArticles": 25233,
   "articles": [
+    {
+      "id": "95c3138dd970091f379fe3e29d74d94d",
+      "title": "Faites-vous partie des 50% de salariés les mieux payés ? L'Insee dévoile le montant du salaire médian",
+      "description": "[VIDÉO] ▶️ L'Insee présente, ce jeudi, les derniers chiffres sur les salaires dans le secteur privé, portant sur l'année 2024. Avec la baisse de l'inflation, le salaire net moyen en euros constants \"se redresse\", constate l'institut de la statistique. On apprend par ailleurs qu'en France, 50% des salariés du privé touchent 2.190 euros net ou moins. - Faites-vous partie des 50% de salariés les mieux payés ? L'Insee dévoile le montant du salaire médian (Économie).",
+      "content": "L'Insee présente, ce jeudi, les derniers chiffres sur les salaires dans le secteur privé, portant sur l'année 2024.\nAvec la baisse de l'inflation, le salaire net moyen en euros constants \"se redresse\", constate l'institut de la statistique.\nOn appren... [3024 chars]",
+      "url": "https://www.tf1info.fr/economie/faites-vous-partie-des-50-de-salaries-les-mieux-payes-l-insee-devoile-le-montant-du-salaire-median-france-2402387.html",
+      "image": "https://photos.tf1info.fr/images/1280/720/salaire-fiche-de-paie-465dea-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
+      "publishedAt": "2025-10-23T15:25:51Z",
+      "lang": "fr",
+      "source": {
+        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
+        "name": "TF1 INFO",
+        "url": "https://www.tf1info.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "6abc0cdc1bbcdf2a3f32e1e2a7bc4693",
       "title": "La banque centrale suisse publie pour la première fois une synthèse de ses discussions sur les taux",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-banque-de-coree-maintient-ses-taux-mais-surprend-en-evoquant-de-nouvelles-baisses-ce7d5ddbdc8fff26",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T004717Z_1_LYNXMPEL3E00M_RTROPTP_4_SOUTHKOREA-ECONOMY-RATES.JPG",
       "publishedAt": "2025-10-23T04:04:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "10fa4fd2d2b6f5aaf64b4b9e4e0bedef",
-      "title": "La Corée du Sud maintient ses taux inchangés, le marché immobilier en surchauffe limite les marges de manoeuvre",
-      "description": "La Banque centrale de Corée du Sud a décidé jeudi de maintenir inchangés ses taux d'intérêt directeurs, alors que la flambée des prix de l'immobilier et la dépréciation de la monnaie...\n-Le 23 octobre 2025 à 04:21\n- Zonebourse",
-      "content": "La Banque centrale de Corée du Sud a décidé jeudi de maintenir inchangés ses taux d'intérêt directeurs, alors que la flambée des prix de l'immobilier et la dépréciation de la monnaie nationale réduisent l'espace pour un nouvel assouplissement monétai... [3194 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-coree-du-sud-maintient-ses-taux-inchanges-le-marche-immobilier-en-surchauffe-limite-les-marges-d-ce7d5ddbdc8fff26",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T004717Z_1_LYNXMPEL3E00M_RTROPTP_4_SOUTHKOREA-ECONOMY-RATES.JPG",
-      "publishedAt": "2025-10-23T02:21:13Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
