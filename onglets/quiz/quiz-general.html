@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz général - Finteker.fr</title>
+  <link rel="stylesheet" href="../../styles/style.css">
+  <link rel="icon" type="image/png" href="../../assets/img/favicon.png">
+</head>
+
+<body class="quiz-page">
+  <header id="main-header"></header>
+
+  <main class="quiz-container">
+    <section class="page-header reveal">
+      <h1>Quiz général</h1>
+      <p>Répondez à une sélection de questions couvrant l’ensemble des cours Finteker.</p>
+    </section>
+
+    <div class="quiz-card">
+      <div id="quiz">
+        <div id="question" class="question"></div>
+        <div id="answers" class="answers"></div>
+        <button id="next-btn" class="btn quiz-btn">Suivant</button>
+      </div>
+
+      <div id="result" class="result hidden">
+        <p id="score-text"></p>
+        <div class="quiz-actions">
+          <button id="restart-btn" class="btn quiz-btn">🔁 Refaire le quiz</button>
+          <a href="quiz.html" class="btn ghost">← Retour aux quiz</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer id="main-footer"></footer>
+
+  <script src="../../js/pages/main.js" defer></script>
+  <script src="../../js/pages/quiz-general.js" defer></script>
+</body>
+</html>
