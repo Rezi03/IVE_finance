@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25239,
+  "totalArticles": 25240,
   "articles": [
+    {
+      "id": "c15516ebe3c5bbc806759846888bcd6b",
+      "title": "CAC 40 : La Bourse de Paris est attendue en hausse avant l'inflation américaine",
+      "description": "La Bourse de Paris devrait ouvrir en hausse vendredi, alors que les tensions sino-américaines semblent s'apaiser. Les investisseurs attendent avec intérêt cet après-midi le rapport sur l'inflation...",
+      "content": "PARIS (Agefi-Dow Jones)--La Bourse de Paris devrait ouvrir en hausse vendredi, alors que les tensions sino-américaines semblent s'apaiser. Les investisseurs attendent avec intérêt cet après-midi le rapport sur l'inflation CPI aux Etats-Unis.\nVers 8h2... [6579 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-est-attendue-en-hausse-avant-l-inflation-americaine-ce7d5dd9da88f320",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-20T080001Z_1_LYNXNPEC8J0DY_RTROPTP_2_FRANCE.JPG",
+      "publishedAt": "2025-10-24T06:29:19Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "49577900ddbd91c1e9a2e03c9b7ed841",
       "title": "La Banque du Japon s'interroge sur le calendrier optimal pour une prochaine hausse des taux",
@@ -147,22 +163,6 @@
         "id": "f401cf643d772233735406ba09ca0d0b",
         "name": "Le Figaro",
         "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7379153d33b61b1743fce3406ad28c2b",
-      "title": "Turquie: la banque centrale abaisse son taux directeur d'un point, à 39,5%",
-      "description": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes. \"La tendance sous-jacente de l'inflation s'est accentuée en septembre\", ... - 23/10/2025 à 14:05 - Boursorama",
-      "content": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes.\n\"La tendance sous-jacente de l'inflation s'est accentuée en septembre\", a noté la banque centrale, qui demeure prudente fa... [601 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/turquie-la-banque-centrale-abaisse-son-taux-directeur-d-un-point-a-39-5-46e426a2258f34af09e5ad7ac99a9bb9",
-      "image": "https://www.boursorama.com/static/i/content/images/2/4/8/248c88e9678e7b11f88fb860beb0e4d0-1200x800.jpg",
-      "publishedAt": "2025-10-23T12:05:31Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
