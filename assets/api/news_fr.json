@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25246,
+  "totalArticles": 25248,
   "articles": [
+    {
+      "id": "8885ff67752c48476de78c74beb57ac1",
+      "title": "Le Banque du Japon entre deux feux",
+      "description": "En septembre, l'inflation a de nouveau accéléré au Japon, accentuant la pression sur la Banque du Japon pour relever ses taux. Mais entre les incertitudes économiques et une Première ministre...",
+      "content": "Après plusieurs mois de ralentissement, l’inflation a de nouveau accéléré en septembre, à 2.9% contre 2.7% en août. Un niveau toutefois conforme aux attentes des économistes.\nSource : Trading economics\nCe sont toujours les mêmes éléments qui tirent l... [1878 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-banque-du-japon-entre-deux-feux-ce7d5dd9dc89f520",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-06-03T065027Z_1_LYNXNPEL5207O_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
+      "publishedAt": "2025-10-24T09:56:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "ab5fa935f06e135492ad07b503d33bae",
+      "title": "CAC 40: se contracte avant la publication de l'inflation aux Etats-Unis",
+      "description": "La Bourse de Paris cède près de 0,5% ce matin, autour des 8 185 points, pénalisée par des prises de bénéfices sur Kering (-3,5% après +8,7% la veille). Vinci lâche également 3,5%, suivi par Thales (-3... - 24/10/2025 à 11:25 - Boursorama",
+      "content": "information fournie par Zonebourse•24/10/2025 à 11:25\nLa Bourse de Paris cède près de 0,5% ce matin, autour des 8 185 points, pénalisée par des prises de bénéfices sur Kering (-3,5% après +8,7% la veille). Vinci lâche également 3,5%, suivi par Thales... [4050 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/cac-40-se-contracte-avant-la-publication-de-l-inflation-aux-etats-unis-fe83a57d586e3621d6f492eff12622ed",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-6.jpg",
+      "publishedAt": "2025-10-24T09:25:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "0cff671ae3aaf2ef6ea35fa06d9fe52e",
       "title": "La Bourse de Paris évolue en légère baisse, digérant résultats d'entreprises et indicateurs économiques",
@@ -126,38 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-roupie-indienne-attendue-en-legere-hausse-avant-les-chiffres-de-l-inflation-americaine-sous-l-ef-ce7d5dd9d98af022",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-25T082951Z_1_LYNXNPEL8O0D4_RTROPTP_4_INDIA-MARKETS-RUPEE.JPG",
       "publishedAt": "2025-10-24T03:00:24Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "dbd84f1206f491e3c53c8489d5b7e3e6",
-      "title": "La Banque centrale du Pakistan devrait maintenir son taux directeur à 11 % face à une inflation persistante",
-      "description": "La Banque centrale du Pakistan devrait maintenir son principal taux d'intérêt à 11 % ce lundi, selon un sondage Reuters. Les analystes estiment que l'inflation alimentaire, exacerbée par les...\n-Le 24 octobre 2025 à 04:48\n- Zonebourse",
-      "content": "La Banque centrale du Pakistan devrait maintenir son principal taux d'intérêt à 11 % ce lundi, selon un sondage Reuters. Les analystes estiment que l'inflation alimentaire, exacerbée par les récentes inondations et l'effet de base faible, limitera le... [2644 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-du-pakistan-devrait-maintenir-son-taux-directeur-a-11-face-a-une-inflation-pers-ce7d5dd9d98af321",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-24T024725Z_1_LYNXMPEL9N037_RTROPTP_4_PAKISTAN-ECONOMY-RATES.JPG",
-      "publishedAt": "2025-10-24T02:48:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5fb11706ab28d63fbee62e9d4657436a",
-      "title": "L'inflation de base s'accélère au Japon en septembre, restant au-dessus de l'objectif de la Banque du Japon",
-      "description": "Les prix à la consommation de base au Japon ont augmenté de 2,9 % sur un an en septembre, selon les données publiées vendredi, demeurant ainsi au-dessus de l'objectif de 2 % fixé par la Banque...",
-      "content": "Les prix à la consommation de base au Japon ont augmenté de 2,9 % sur un an en septembre, selon les données publiées vendredi, demeurant ainsi au-dessus de l'objectif de 2 % fixé par la Banque du Japon (BOJ) et maintenant les anticipations du marché ... [1466 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/l-inflation-de-base-s-accelere-au-japon-en-septembre-restant-au-dessus-de-l-objectif-de-la-banque-d-ce7d5dd8d08ff223",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-23T233133Z_1_LYNXMPEL9M16J_RTROPTP_4_GLOBAL-MARKETS-VIEW-USA.JPG",
-      "publishedAt": "2025-10-23T23:46:19Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
