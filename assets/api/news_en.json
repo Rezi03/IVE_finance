@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 835,
+  "totalArticles": 836,
   "articles": [
+    {
+      "id": "caa4c6b54d4bda1b3a969fc9f4d6df38",
+      "title": "These top dividend stock picks can help power your portfolio higher, says investor Kevin Simpson",
+      "description": "Investors looking to earn income and keep pace with inflation should turn to dividend-growth stocks, according to investor Kevin Simpson.",
+      "content": "Investors looking to earn income and keep pace with inflation should turn to dividend-growth stocks, according to investor Kevin Simpson. Dividend stocks in general should get a boost from the Federal Reserve 's rate-cutting cycle, he said. As yields... [3556 chars]",
+      "url": "https://www.cnbc.com/2025/10/23/these-top-dividend-stock-picks-can-help-power-your-portfolio-higher-says-investor-kevin-simpson.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214024-1760960998282-gettyimages-2237615415-dellatorre-notitle250924_npgXJ.jpeg?v=1760961104&w=1920&h=1080",
+      "publishedAt": "2025-10-23T18:59:47Z",
+      "lang": "en",
+      "source": {
+        "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com",
+        "country": "us"
+      }
+    },
     {
       "id": "ff8e34d328d989202d3fa8d711ea5849",
       "title": "The Tragicomedy Of AT&T's Earnings",
@@ -147,22 +163,6 @@
         "id": "bce8b9fcd331f3552e3dcf603b83b80e",
         "name": "Markets Insider",
         "url": "https://markets.businessinsider.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "15add158b34cd630f08cb09db18a632b",
-      "title": "Uzbekistan Mulls Islamic Finance, New ESG Bond to Diversify Debt",
-      "description": "Uzbekistan, Central Asia’s second biggest economy, is seeking to diversify its debt issuance after successful forays into the sustainable bond market.",
-      "content": "Uzbekistan, Central Asia’s second biggest economy, is seeking to diversify its debt issuance after successful forays into the sustainable bond market .\nThe Central Asian country’s dollar bonds have returned almost 14% this year, compared with the les... [318 chars]",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-06/uzbekistan-mulls-islamic-finance-new-esg-bond-to-diversify-debt",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYdV7RnBUw0A/v1/1200x800.jpg",
-      "publishedAt": "2025-10-06T07:03:25Z",
-      "lang": "en",
-      "source": {
-        "id": "7006f2c40c7cc01195608dbfd60259b3",
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com",
         "country": "us"
       }
     }
