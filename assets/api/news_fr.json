@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25244,
+  "totalArticles": 25246,
   "articles": [
+    {
+      "id": "0cff671ae3aaf2ef6ea35fa06d9fe52e",
+      "title": "La Bourse de Paris évolue en légère baisse, digérant résultats d'entreprises et indicateurs économiques",
+      "description": "La Bourse de Paris recule en début de séance, le CAC 40 cédant 0,29% dans l’attente d’indicateurs économiques majeurs et des résultats trimestriels d’entreprises. Les marchés sont particulièrement attentifs à la publication de l'inflation américaine, déterminante à l’approche de la prochaine réunion de la Fed, ainsi qu’aux PMI avancés d’octobre dans les pays développés. En France, le secteur privé enregistre une contraction de l’activité pour le quatorzième mois consécutif, le PMI composite atteignant un plus bas depuis huit mois. Le marché obligataire voit les rendements grimper, tandis qu’une possible dégradation de la note souveraine française par Moody’s est redoutée. Par ailleurs, le titre Accor se distingue en nette hausse après des résultats trimestriels satisfaisants et une révision à la hausse de ses objectifs.",
+      "content": "Paris - La Bourse de Paris évolue en baisse vendredi, digérant résultats d’entreprises et indicateurs économiques, tandis que l’inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochain... [13572 chars]",
+      "url": "https://www.lopinion.fr/economie/la-bourse-de-paris-evolue-en-legere-baisse-digerant-resultats-dentreprises-et-indicateurs-economiques",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/c174c5d/2147483647/strip/true/crop/1024x498+0+93/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F3293fb5314c5aab41dd147bb163cc953d0723e6a.jpeg",
+      "publishedAt": "2025-10-24T08:32:25Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "25cd7d075215b73df2b00543abe3b9bc",
       "title": "La Bourse de Paris évolue avec prudence, digérant résultats et indicateurs économiques",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7f4ac9b5c2ae18076ceebef1ae3ebca3",
-      "title": "Le yen miné par la nomination de la Première ministre japonaise, le dollar reste stable",
-      "description": "Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du...",
-      "content": "Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du gouvernement japonais, tandis que le dollar faisait du surplace avant la publication d'un indice d'inflati... [2042 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/le-yen-mine-par-la-nomination-de-la-premiere-ministre-japonaise-le-dollar-reste-stable-20251023",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/23/3a61e6995483a00f233ad38d88dc3b043de0c3225fef8c5facd1f3d86e83bf5e.jpg",
-      "publishedAt": "2025-10-23T19:59:44Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
         "country": "fr"
       }
     }
