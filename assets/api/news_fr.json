@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25248,
+  "totalArticles": 25252,
   "articles": [
+    {
+      "id": "af3060467de86a597428310e28e90a60",
+      "title": "Russie : la croissance proche de zéro, la banque centrale abaisse son taux directeur",
+      "description": "Pour faire face aux conséquences de l’offensive en Ukraine pour l’économie russe, la BCR a abaissé vendredi son taux directeur à 16,5%. L’inflation devrait se maintenir plus longtemps que prévu.",
+      "content": "L’économie russe à la peine. La Banque centrale de Russie (BCR) a abaissé vendredi son taux directeur, à 16,5%, à l'heure où la croissance du pays est proche de zéro. La Russie subit les conséquences de l'offensive en Ukraine et des sanctions occiden... [298 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/russie-la-croissance-proche-de-zero-la-banque-centrale-abaisse-son-taux-directeur-20251024",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/24/d2657a5cabc3e371ee5d61a309916be40c491f908456404cde9808651a6bfc4c.jpg",
+      "publishedAt": "2025-10-24T11:01:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "2baa3e1c5729231a9b793bb446f5941a",
+      "title": "Les contrats à terme du TSX stables alors que les tensions commerciales s'intensifient ; l'inflation américaine attendue",
+      "description": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto sont restés stables vendredi, sur fond de nouvelles tensions entre le Canada et les États-Unis, tandis que les investisseurs...",
+      "content": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto sont restés stables vendredi, sur fond de nouvelles tensions entre le Canada et les États-Unis, tandis que les investisseurs guettaient des données clés sur l'inflation américaine... [2364 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-contrats-a-terme-du-tsx-stables-alors-que-les-tensions-commerciales-s-intensifient-l-inflation-ce7d5dd9dc8ff420",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-23T114325Z_1_LYNXMPEL3M0MD_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2025-10-24T10:50:28Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "ada13fda3f58fa0f8f95e181b1d65980",
+      "title": "L'Espagne a beau avoir une croissance exceptionnelle, son taux de chômage reste le plus élevé d'Europe, au-dessus des 10%",
+      "description": "Le taux de chômage espagnol a légèrement augmenté au 3ème trimestre 2025, atteignant 10,45%. Mais la Banque d'Espagne s'attend à ce qu'il repasse sous la barre symbolique des 10% en 2027, pour la première fois depuis près de 20 ans.",
+      "content": "Le taux de chômage espagnol a légèrement augmenté au 3ème trimestre 2025, atteignant 10,45%. Mais la Banque d'Espagne s'attend à ce qu'il repasse sous la barre symbolique des 10% en 2027, pour la première fois depuis près de 20 ans.\nLe taux de chômag... [1486 chars]",
+      "url": "https://www.bfmtv.com/economie/emploi/l-espagne-a-beau-avoir-une-croissance-exceptionnelle-son-taux-de-chomage-reste-le-plus-eleve-d-europe-au-dessus-des-10_AD-202510240476.html",
+      "image": "https://images.bfmtv.com/aRlT5DtERYx7ef8syRPztSQVjG8=/0x180:1920x1260/1920x0/images/Drapeau-espagnol-1201411.jpg",
+      "publishedAt": "2025-10-24T10:42:32Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "6a2b6049088400cd0f893ae3a6d4356e",
+      "title": "Les taux d'intérêt tchèques devraient rester inchangés au moins jusqu'à la fin de l'année, selon une responsable de la banque centrale",
+      "description": "La Banque nationale tchèque devrait maintenir ses taux d'intérêt inchangés jusqu'à la fin de l'année, voire plus longtemps, afin de contrer les pressions inflationnistes liées aux salaires et...\n-Le 24 octobre 2025 à 12:40\n- Zonebourse",
+      "content": "L'inflation fait son grand retour (dans l'agenda)\nLa confirmation d'une rencontre entre Trump et Xi la semaine prochaine a un peu détendu l'atmosphère sur des marchés qui croulent sous les résultats. La dernière salve de la semaine démarre sous les b... [423 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-taux-d-interet-tcheques-devraient-rester-inchanges-au-moins-jusqu-a-la-fin-de-l-annee-selon-une-ce7d5dd9dc8cf124",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-24T10:40:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "8885ff67752c48476de78c74beb57ac1",
       "title": "Le Banque du Japon entre deux feux",
@@ -94,70 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/paris-evolue-avec-prudence-digerant-resultats-et-indicateurs-economiques-ce7d5dd9dd8bf12c",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-05-27T105935Z_1_LYNXNPEC4Q0NM_RTROPTP_2_FRANCE.JPG",
       "publishedAt": "2025-10-24T08:19:29Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "476f6bad4c625feda49fa1d13959cb37",
-      "title": "Les baisses de taux en Indonésie peinent à relancer l'économie : les banques résistent, les entreprises pointent la politique gouvernementale",
-      "description": "La banque centrale d'Indonésie a suspendu cette semaine sa campagne agressive de baisse des taux, préférant se concentrer sur la réduction des coûts des emprunts bancaires. Pourtant, les...",
-      "content": "La banque centrale d'Indonésie a suspendu cette semaine sa campagne agressive de baisse des taux, préférant se concentrer sur la réduction des coûts des emprunts bancaires. Pourtant, les entreprises assurent que le véritable frein n'est pas du côté d... [6514 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-baisses-de-taux-en-indonesie-peinent-a-relancer-l-economie-les-banques-resistent-les-entrepri-ce7d5dd9dd8bf526",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-24T081709Z_1_LYNXMPEL9N0CH_RTROPTP_4_USA-TRUMP-TARIFFS-INDONESIA.JPG",
-      "publishedAt": "2025-10-24T08:14:05Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "c15516ebe3c5bbc806759846888bcd6b",
-      "title": "CAC 40 : La Bourse de Paris est attendue en hausse avant l'inflation américaine",
-      "description": "La Bourse de Paris devrait ouvrir en hausse vendredi, alors que les tensions sino-américaines semblent s'apaiser. Les investisseurs attendent avec intérêt cet après-midi le rapport sur l'inflation...",
-      "content": "PARIS (Agefi-Dow Jones)--La Bourse de Paris devrait ouvrir en hausse vendredi, alors que les tensions sino-américaines semblent s'apaiser. Les investisseurs attendent avec intérêt cet après-midi le rapport sur l'inflation CPI aux Etats-Unis.\nVers 8h2... [6579 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-est-attendue-en-hausse-avant-l-inflation-americaine-ce7d5dd9da88f320",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-20T080001Z_1_LYNXNPEC8J0DY_RTROPTP_2_FRANCE.JPG",
-      "publishedAt": "2025-10-24T06:29:19Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "49577900ddbd91c1e9a2e03c9b7ed841",
-      "title": "La Banque du Japon s'interroge sur le calendrier optimal pour une prochaine hausse des taux",
-      "description": "La Banque du Japon devrait débattre la semaine prochaine de l'opportunité de reprendre les hausses de taux, alors que les inquiétudes concernant une récession provoquée par les droits de douane...",
-      "content": "La Banque du Japon (BOJ) devrait débattre la semaine prochaine de l'opportunité de reprendre les hausses de taux, alors que les inquiétudes concernant une récession provoquée par les droits de douane s'estompent, même si des complications politiques ... [4739 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-s-interroge-sur-le-calendrier-optimal-pour-une-prochaine-hausse-des-taux-ce7d5dd9d98cf025",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-22T040201Z_1_LYNXMPEL6L04B_RTROPTP_4_JAPAN-POLITICS-BOJ.JPG",
-      "publishedAt": "2025-10-24T04:04:18Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "05d2f3847e3b47a19162f5bb3cd440c6",
-      "title": "La roupie indienne attendue en légère hausse avant les chiffres de l'inflation américaine, sous l'effet des interventions de la RBI et des flux importateurs",
-      "description": "La roupie indienne devrait ouvrir en légère progression ce vendredi, les ventes de dollars par la Banque centrale indienne et la couverture des importateurs maintenant la paire dollar/roupie dans...\n-Le 24 octobre 2025 à 05:00\n- Zonebourse",
-      "content": "La roupie indienne devrait ouvrir en légère progression ce vendredi, les ventes de dollars par la Banque centrale indienne (RBI) et la couverture des importateurs maintenant la paire dollar/roupie dans une fourchette étroite.\nLe contrat à terme non l... [2109 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-roupie-indienne-attendue-en-legere-hausse-avant-les-chiffres-de-l-inflation-americaine-sous-l-ef-ce7d5dd9d98af022",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-25T082951Z_1_LYNXNPEL8O0D4_RTROPTP_4_INDIA-MARKETS-RUPEE.JPG",
-      "publishedAt": "2025-10-24T03:00:24Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
