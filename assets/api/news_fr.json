@@ -4,7 +4,7 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25237,
+  "totalArticles": 25236,
   "articles": [
     {
       "id": "5fb11706ab28d63fbee62e9d4657436a",
@@ -119,22 +119,6 @@
       }
     },
     {
-      "id": "dbd2aedb3052dd81278c156beb361e01",
-      "title": "Turquie: la banque centrale abaisse son taux directeur d'un point, à 39,5%",
-      "description": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes. «La tendance...",
-      "content": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes.\n«La tendance sous-jacente de l'inflation s'est accentuée en septembre», a noté la banque centrale, qui demeure prudente fa... [621 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/turquie-la-banque-centrale-abaisse-son-taux-directeur-d-un-point-a-39-5-20251023",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/23/5e28d89fdd31da1868b0c4f527a2256db7b007ddd63442e186164426eaa42133.jpg",
-      "publishedAt": "2025-10-23T11:39:03Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
       "id": "41a5b6c9897d8708be14aff6d9f7aec4",
       "title": "La Banque centrale turque ralentit l'assouplissement monétaire avec une baisse de 100 points de base à 39,5 %",
       "description": "La Banque centrale de Turquie a abaissé jeudi son principal taux d'intérêt de 100 points de base, le portant à 39,5 %. Cette décision marque un ralentissement attendu de son cycle...\n-Le 23 octobre 2025 à 13:10\n- Zonebourse",
@@ -158,6 +142,22 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-d-ukraine-maintient-son-taux-directeur-inchange-et-revise-a-la-baisse-ses-previsi-ce7d5dd8db88f324",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-23T11:06:42Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f1d6df0ac6e2f7fd127cba6989028d32",
+      "title": "Le yen toujours plombé par la nomination de la Première ministre japonaise",
+      "description": "Le yen recule jeudi, lesté par les perspectives que la nouvelle Première ministre japonaise alourdisse le déficit national et motive la Banque du Japon à décaler sa prochaine hausse de taux,...",
+      "content": "Londres (awp/afp) - Le yen recule jeudi, lesté par les perspectives que la nouvelle Première ministre japonaise alourdisse le déficit national et motive la Banque du Japon à décaler sa prochaine hausse de taux, tandis que l'or se ressaisit après sa l... [2465 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-yen-toujours-plombe-par-la-nomination-de-la-premiere-ministre-japonaise-ce7d5dd8d88af52d",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-23T10:18:18Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
