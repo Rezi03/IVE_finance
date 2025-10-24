@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25234,
+  "totalArticles": 25236,
   "articles": [
+    {
+      "id": "7f4ac9b5c2ae18076ceebef1ae3ebca3",
+      "title": "Le yen miné par la nomination de la Première ministre japonaise, le dollar reste stable",
+      "description": "Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du...",
+      "content": "Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du gouvernement japonais, tandis que le dollar faisait du surplace avant la publication d'un indice d'inflati... [2042 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/le-yen-mine-par-la-nomination-de-la-premiere-ministre-japonaise-le-dollar-reste-stable-20251023",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/23/3a61e6995483a00f233ad38d88dc3b043de0c3225fef8c5facd1f3d86e83bf5e.jpg",
+      "publishedAt": "2025-10-23T19:59:44Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "bfa60daae2de6dea8e1debcf2b70837b",
+      "title": "Le yen miné par la nomination de la Première ministre, le dollar stable",
+      "description": "Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du gouvernement japonais, tandis que le dollar faisait...",
+      "content": "Washington (awp/afp) - Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du gouvernement japonais, tandis que le dollar faisait du surplace avant la publicatio... [2259 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-yen-mine-par-la-nomination-de-la-premiere-ministre-le-dollar-stable-ce7d5dd8de81f621",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-29T153414Z_1006950001_LYNXMPECAS15X_RTROPTP_2_CBUSINESS-US-USA-BANKS-FDIC.JPG",
+      "publishedAt": "2025-10-23T19:36:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "879aad2eadad778be230c1c32f2d106c",
       "title": "Nicolas Dufourcq : « Cela fait très longtemps que le cheval du social galope devant le cheval de l’économie car il est dopé à la poudre blanche de la dette »",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ca7e75da13f15afb7729bcf335a944fa",
-      "title": "Indépendance et sécurité : le double pari gagnant du portage salarial en période d’incertitude économique",
-      "description": "Un contexte économique instable qui bouscule les trajectoires professionnelles\nInflation persistante, ralentissement de la croissance, tensions géopolitiques : l’économie française traverse une période d’incertitude prolongée. Les entreprises, prudentes, réduisent leurs engagements à long terme. Les recrutements en CDI marquent le pas, tandis que les contrats courts et les prestations externalisées gagnent du terrain.",
-      "content": "Dans ce contexte, de plus en plus de cadres, experts et consultants revoient leurs priorités professionnelles. L’envie de retrouver du sens, de l’autonomie et une meilleure maîtrise de leur emploi du temps s’impose. Mais cette quête de liberté se heu... [3016 chars]",
-      "url": "https://www.latribune.fr/article/partenaires/le-portage-salarial/37062835304926/independance-et-securite-le-double-pari-gagnant-du-portage-salarial-en-periode-d-incertitude-economique",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/23/le-portage-salarial-repond-aux-besoins-dagilite-et-de-securite-que-reclame-le-contexte-actuel-1761210020_7dcfef3ee9f8661dfef3ee9f845dfev_.jpg",
-      "publishedAt": "2025-10-23T09:00:21Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "a319c507b6ca9e6654040114ce25fa1c",
-      "title": "Croissance organique de 9% du CA sur neuf mois pour Thales",
-      "description": "Thales affiche un chiffre d'affaires des neufs premiers mois de 2025 de près de 15,26 milliards d'euros, en hausse de 9,1% à périmètre et taux de change constants (+8,4% de variation totale), portée à... - 23/10/2025 à 08:17 - Boursorama",
-      "content": "information fournie par Zonebourse•23/10/2025 à 08:17\nThales affiche un chiffre d'affaires des neufs premiers mois de 2025 de près de 15,26 milliards d'euros, en hausse de 9,1% à périmètre et taux de change constants (+8,4% de variation totale), port... [767 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/croissance-organique-de-9-du-ca-sur-neuf-mois-pour-thales-c636a34bff740a98182a6014a7ff766c",
-      "image": "https://www.boursorama.com/static/i/content/images/8/3/3/833f6423c60958a925e7130ecc68b807-1274x740.jpg",
-      "publishedAt": "2025-10-23T06:17:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
