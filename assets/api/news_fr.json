@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25228,
+  "totalArticles": 25231,
   "articles": [
+    {
+      "id": "6abc0cdc1bbcdf2a3f32e1e2a7bc4693",
+      "title": "La banque centrale suisse publie pour la première fois une synthèse de ses discussions sur les taux",
+      "description": "La banque centrale suisse a pour la première fois publié jeudi une synthèse des discussions ayant servi de base à sa décision trimestrielle...",
+      "content": "La banque centrale suisse a pour la première fois publié jeudi une synthèse des discussions ayant servi de base à sa décision trimestrielle de politique monétaire, répondant aux critiques sur son opacité par rapport à d'autres banques centrales.\nDans... [2229 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/la-banque-centrale-suisse-publie-pour-la-premiere-fois-une-synthese-de-ses-discussions-sur-les-taux-20251023",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/23/5b2d1366e779411728839e87e0f127f5808ed1f95288646200cdffd483e9e115.jpg",
+      "publishedAt": "2025-10-23T12:35:27Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "7379153d33b61b1743fce3406ad28c2b",
+      "title": "Turquie: la banque centrale abaisse son taux directeur d'un point, à 39,5%",
+      "description": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes. \"La tendance sous-jacente de l'inflation s'est accentuée en septembre\", ... - 23/10/2025 à 14:05 - Boursorama",
+      "content": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes.\n\"La tendance sous-jacente de l'inflation s'est accentuée en septembre\", a noté la banque centrale, qui demeure prudente fa... [601 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/turquie-la-banque-centrale-abaisse-son-taux-directeur-d-un-point-a-39-5-46e426a2258f34af09e5ad7ac99a9bb9",
+      "image": "https://www.boursorama.com/static/i/content/images/2/4/8/248c88e9678e7b11f88fb860beb0e4d0-1200x800.jpg",
+      "publishedAt": "2025-10-23T12:05:31Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "dbd2aedb3052dd81278c156beb361e01",
+      "title": "Turquie: la banque centrale abaisse son taux directeur d'un point, à 39,5%",
+      "description": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes. «La tendance...",
+      "content": "La banque centrale turque a abaissé jeudi son principal taux directeur de 40,5% à 39,5%, confirmant les attentes des analystes.\n«La tendance sous-jacente de l'inflation s'est accentuée en septembre», a noté la banque centrale, qui demeure prudente fa... [621 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/turquie-la-banque-centrale-abaisse-son-taux-directeur-d-un-point-a-39-5-20251023",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/23/5e28d89fdd31da1868b0c4f527a2256db7b007ddd63442e186164426eaa42133.jpg",
+      "publishedAt": "2025-10-23T11:39:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "41a5b6c9897d8708be14aff6d9f7aec4",
       "title": "La Banque centrale turque ralentit l'assouplissement monétaire avec une baisse de 100 points de base à 39,5 %",
@@ -115,54 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "d7a97b5e9848eca7be5b76f8febd7714",
-      "title": "La Banque du Japon pourrait relever ses taux dès décembre, selon un ex-dirigeant",
-      "description": "La Banque du Japon pourrait relever ses taux d'intérêt dès le mois de décembre, la politique budgétaire expansionniste attendue sous la nouvelle Première ministre Sanae Takaichi devant...",
-      "content": "La Banque du Japon (BOJ) pourrait relever ses taux d'intérêt dès le mois de décembre, la politique budgétaire expansionniste attendue sous la nouvelle Première ministre Sanae Takaichi devant permettre à l'économie de résister à l'impact des droits de... [4414 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-pourrait-relever-ses-taux-des-decembre-selon-un-ex-dirigeant-ce7d5ddbdc81f125",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T104501Z_1_LYNXMPEL3K0E2_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
-      "publishedAt": "2025-10-23T02:02:36Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "408d36905348c633688b79b302c737d5",
-      "title": "Les bourses en direct | Wall Street termine dans le rouge, Netflix plonge de 10%, Tesla hésite après bourse",
-      "description": "La Bourse US a clôturé en baisse, alors que les bourses européennes avaient terminé en ordre dispersé, Paris reprenant son souffle après un record alors que Londres, animée par la bonne performance des banques, a salué une inflation stable, dans un marché digérant une salve de résultats.",
-      "content": "Harm Zebregs (Goldman Sachs): \"Nous gardons foi en la bourse américaine, même quand elle marque le pas\"\ninterview\nMarlène Laruelle: \"L'Amérique trumpienne et la Russie suivent des tra...\ninterview\nSylvie Huret, CEO de Degroof Petercam: \"Avec Indosuez... [377 chars]",
-      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-termine-dans-le-rouge-netflix-plonge-de-10-tesla-hesite-apres-bourse/10632307.html",
-      "image": "https://images.tijd.be/view?iid=Elvis:2wCb1APF4y68yKhMUGnl7L&context=ONLINE&ratio=16/9&width=1280&u=1761167535000",
-      "publishedAt": "2025-10-22T21:12:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "5eca54a281f8fb040f8089593c1ae8bc",
-        "name": "L'Echo",
-        "url": "https://www.lecho.be",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "be849eebf0f1915a4bc761fcca9080c0",
-      "title": "Les bourses en direct | Wall Street termine dans le rouge, Tesla recule avant ses résultats, Netflix plonge de 10%",
-      "description": "La Bourse US a clôturé en baisse, alors que les bourses européennes avaient terminé en ordre dispersé, Paris reprenant son souffle après un record alors que Londres, animée par la bonne performance des banques, a salué une inflation stable, dans un marché digérant une salve de résultats.",
-      "content": "Nizar Trabelsi, condamné pour terrorisme, est libre: la Cour de cassation a rejeté les pourvois contre sa libération\nAprès 500 jours, toujours pas de fumée blanche à Bruxelles\nRéforme du chômage: feu vert en commission pour la compensation financière... [400 chars]",
-      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-termine-dans-le-rouge-tesla-recule-avant-ses-resultats-netflix-plonge-de-10/10632307.html",
-      "image": "https://images.tijd.be/view?iid=Elvis:2wCb1APF4y68yKhMUGnl7L&context=ONLINE&ratio=16/9&width=1280&u=1761163494000",
-      "publishedAt": "2025-10-22T20:04:54Z",
-      "lang": "fr",
-      "source": {
-        "id": "5eca54a281f8fb040f8089593c1ae8bc",
-        "name": "L'Echo",
-        "url": "https://www.lecho.be",
         "country": "fr"
       }
     }
