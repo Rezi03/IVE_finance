@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25238,
+  "totalArticles": 25239,
   "articles": [
+    {
+      "id": "49577900ddbd91c1e9a2e03c9b7ed841",
+      "title": "La Banque du Japon s'interroge sur le calendrier optimal pour une prochaine hausse des taux",
+      "description": "La Banque du Japon devrait débattre la semaine prochaine de l'opportunité de reprendre les hausses de taux, alors que les inquiétudes concernant une récession provoquée par les droits de douane...",
+      "content": "La Banque du Japon (BOJ) devrait débattre la semaine prochaine de l'opportunité de reprendre les hausses de taux, alors que les inquiétudes concernant une récession provoquée par les droits de douane s'estompent, même si des complications politiques ... [4739 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-s-interroge-sur-le-calendrier-optimal-pour-une-prochaine-hausse-des-taux-ce7d5dd9d98cf025",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-22T040201Z_1_LYNXMPEL6L04B_RTROPTP_4_JAPAN-POLITICS-BOJ.JPG",
+      "publishedAt": "2025-10-24T04:04:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "05d2f3847e3b47a19162f5bb3cd440c6",
       "title": "La roupie indienne attendue en légère hausse avant les chiffres de l'inflation américaine, sous l'effet des interventions de la RBI et des flux importateurs",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "41a5b6c9897d8708be14aff6d9f7aec4",
-      "title": "La Banque centrale turque ralentit l'assouplissement monétaire avec une baisse de 100 points de base à 39,5 %",
-      "description": "La Banque centrale de Turquie a abaissé jeudi son principal taux d'intérêt de 100 points de base, le portant à 39,5 %. Cette décision marque un ralentissement attendu de son cycle...\n-Le 23 octobre 2025 à 13:10\n- Zonebourse",
-      "content": "Washington hausse le ton envers Pékin et Moscou\nLes indices boursiers ont perdu du terrain hier, sous le coup d'un léger renforcement de l'aversion pour le risque, qui a logiquement frappé les chouchous de la cote comme l'or et les valeurs technologi... [320 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-turque-ralentit-l-assouplissement-monetaire-avec-une-baisse-de-100-points-de-base-ce7d5dd8db8bf524",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-23T11:10:54Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
