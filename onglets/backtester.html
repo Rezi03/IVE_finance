@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Credit risk & Bond analytics — Finteker.fr</title>
+  <link rel="stylesheet" href="../../styles/style.css">
+  <link rel="icon" type="image/png" href="../../assets/img/favicon.png">
+</head>
+
+<body>
+  <div id="top"></div>
+  <header>
+    <div class="nav">
+      <span class="brand">Credit Risk & Bond Analytics</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="card" id="controls">
+      <h2>1) Data</h2>
+      <label>Financial Modeling Prep API Key</label>
+      <input id="apiKey" type="text" value="YwfOXlKh6wObb2vPLEsCqQfxmOzXKdan" />
+
+      <div class="row" style="margin-top:6px">
+        <div>
+          <label>Equity proxy ticker (e.g., SPY)</label>
+          <input id="eqTicker" type="text" value="SPY" />
+        </div>
+        <div>
+          <label>Bond proxy ticker (e.g., TLT)</label>
+          <input id="bdTicker" type="text" value="TLT" />
+        </div>
+      </div>
+
+      <div class="row" style="margin-top:6px">
+        <div>
+          <label>History range</label>
+          <select id="range">
+            <option value="1y">1 Year</option>
+            <option value="3y" selected>3 Years</option>
+            <option value="5y">5 Years</option>
+            <option value="max">Max</option>
+          </select>
+        </div>
+        <div>
+          <label>Include benchmark (e.g., AGG)</label>
+          <input id="bmTicker" type="text" value="AGG" />
+        </div>
+      </div>
+
+      <div class="stack" style="margin-top:8px">
+        <button class="btn" id="loadData">Load from API</button>
+        <button class="btn secondary" id="useDemo">Use Demo Data</button>
+      </div>
+
+      <h2 style="margin-top:14px">2) Portfolio & Stress</h2>
+      <div class="row-3">
+        <div>
+          <label>Allocation: Equities (%)</label>
+          <input id="wEq" type="number" value="40" step="1" />
+        </div>
+        <div>
+          <label>Allocation: Bonds (%)</label>
+          <input id="wBd" type="number" value="60" step="1" />
+        </div>
+        <div>
+          <label>Rebalance</label>
+          <select id="rebal">
+            <option value="monthly" selected>Monthly</option>
+            <option value="quarterly">Quarterly</option>
+            <option value="yearly">Yearly</option>
+            <option value="none">None</option>
+          </select>
+        </div>
+      </div>
+      <div class="row">
+        <div>
+          <label>Yield curve parallel shift (bps)</label>
+          <input id="shiftBps" type="number" value="0" step="25" />
+        </div>
+        <div>
+          <label>Assumed bond duration (years)</label>
+          <input id="assumedDur" type="number" value="7" step="0.5" />
+        </div>
+      </div>
+
+      <div class="stack" style="margin-top:8px">
+        <button class="btn" id="run">Run / Recalculate</button>
+        <button class="btn ghost" id="exportCSV">Export Table CSV</button>
+        <button class="btn ghost" id="exportPNG">Save Charts PNG</button>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Key Metrics</h2>
+      <div class="kpis">
+        <div class="kpi"><h3>CAGR</h3><div class="v" id="kCAGR">—</div></div>
+        <div class="kpi"><h3>Max Drawdown</h3><div class="v" id="kDD">—</div></div>
+        <div class="kpi"><h3>Vol (ann.)</h3><div class="v" id="kVol">—</div></div>
+        <div class="kpi"><h3>Sharpe</h3><div class="v" id="kSharpe">—</div></div>
+        <div class="kpi"><h3>Sortino</h3><div class="v" id="kSortino">—</div></div>
+      </div>
+
+      <div class="charts">
+        <h3>Portfolio vs Benchmark</h3>
+        <canvas id="chartEq"></canvas>
+        <h3>Max Drawdown</h3>
+        <canvas id="chartDD"></canvas>
+        <h3>Yield Curve</h3>
+        <canvas id="chartCurve"></canvas>
+        <h3>Bond Screener</h3>
+        <canvas id="chartScatter"></canvas>
+      </div>
+
+      <h2 style="margin-top:16px">Bond Screener (demo/API)</h2>
+      <div class="table-wrap" id="tableWrap"></div>
+
+      <div class="muted">
+        <strong>Diagnostics:</strong> <span id="diag">Ready.</span>
+      </div>
+    </section>
+  </main>
+
+  <div class="footer">
+    <div class="foot-card">
+      <a href="../index.html" class="btn-outline">← Go Back</a>
+      <div class="muted">
+        Note: Uses <b>Financial Modeling Prep</b> API.
+      </div>
+      <div class="stack">
+        <a class="btn" href="#top">Back to Top</a>
+        <button class="btn ghost" id="runTests">Run Quick Tests</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="backtester.js"></script>
+</body>
+</html>

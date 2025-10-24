@@ -6,140 +6,37 @@
   <title>Quiz général - Finteker.fr</title>
   <link rel="stylesheet" href="../../styles/style.css">
   <link rel="icon" type="image/png" href="../../assets/img/favicon.png">
-
-
 </head>
+
 <body class="quiz-page">
   <header id="main-header"></header>
 
   <main class="quiz-container">
-    <h1>Quiz général</h1>
-    <p>Répondez à une sélection de questions couvrant l’ensemble des cours Finteker.</p>
+    <section class="page-header reveal">
+      <h1>Quiz général</h1>
+      <p>Répondez à une sélection de questions couvrant l’ensemble des cours Finteker.</p>
+    </section>
 
-    <div id="quiz">
-      <div class="question" id="question"></div>
-      <div class="answers" id="answers"></div>
-      <button id="next-btn" class="next-btn">Suivant</button>
+    <div class="quiz-card">
+      <div id="quiz">
+        <div id="question" class="question"></div>
+        <div id="answers" class="answers"></div>
+        <button id="next-btn" class="btn quiz-btn">Suivant</button>
+      </div>
+
+      <div id="result" class="result hidden">
+        <p id="score-text"></p>
+        <div class="quiz-actions">
+          <button id="restart-btn" class="btn quiz-btn">🔁 Refaire le quiz</button>
+          <a href="quiz.html" class="btn ghost">← Retour aux quiz</a>
+        </div>
+      </div>
     </div>
-    <div id="result" class="result"></div>
   </main>
 
   <footer id="main-footer"></footer>
 
-  <script>
-    const quizData = [
-      {
-        question: "Qu’est-ce qu’une valorisation DCF ?",
-        answers: [
-          { text: "Une méthode basée sur la valeur actuelle des flux futurs", correct: true },
-          { text: "Une méthode qui compare les ratios de l’entreprise à ceux du secteur", correct: false },
-          { text: "Une évaluation à partir du prix des actions", correct: false },
-        ]
-      },
-      {
-        question: "Le backtesting permet de…",
-        answers: [
-          { text: "Simuler la performance passée d’une stratégie", correct: true },
-          { text: "Prévoir les performances futures avec certitude", correct: false },
-          { text: "Analyser uniquement les ratios comptables", correct: false },
-        ]
-      },
-      {
-        question: "Que signifie M&A ?",
-        answers: [
-          { text: "Mergers and Acquisitions", correct: true },
-          { text: "Money and Accounting", correct: false },
-          { text: "Markets and Analytics", correct: false },
-        ]
-      },
-      {
-        question: "Dans le trading, un stop-loss sert à…",
-        answers: [
-          { text: "Limiter les pertes potentielles", correct: true },
-          { text: "Augmenter les profits", correct: false },
-          { text: "Fermer toutes les positions gagnantes", correct: false },
-        ]
-      },
-      {
-        question: "Quel indicateur mesure la rentabilité financière d’une entreprise ?",
-        answers: [
-          { text: "ROE (Return on Equity)", correct: true },
-          { text: "PER (Price Earnings Ratio)", correct: false },
-          { text: "Beta du marché", correct: false },
-        ]
-      }
-    ];
-
-    const questionEl = document.getElementById("question");
-    const answersEl = document.getElementById("answers");
-    const nextBtn = document.getElementById("next-btn");
-    const resultEl = document.getElementById("result");
-
-    let currentQuestion = 0;
-    let score = 0;
-
-    function showQuestion() {
-      resetState();
-      const currentQuiz = quizData[currentQuestion];
-      questionEl.textContent = currentQuiz.question;
-
-      currentQuiz.answers.forEach(answer => {
-        const button = document.createElement("button");
-        button.textContent = answer.text;
-        button.classList.add("answer-btn");
-        button.addEventListener("click", () => selectAnswer(button, answer.correct));
-        answersEl.appendChild(button);
-      });
-    }
-
-    function resetState() {
-      nextBtn.style.display = "none";
-      answersEl.innerHTML = "";
-    }
-
-    function selectAnswer(button, isCorrect) {
-      const allButtons = document.querySelectorAll(".answer-btn");
-      allButtons.forEach(btn => btn.disabled = true);
-
-      if (isCorrect) {
-        button.classList.add("correct");
-        score++;
-      } else {
-        button.classList.add("wrong");
-        const correctBtn = Array.from(allButtons).find(b => quizData[currentQuestion].answers.find(a => a.text === b.textContent && a.correct));
-        correctBtn.classList.add("correct");
-      }
-
-      nextBtn.style.display = "inline-block";
-    }
-
-    nextBtn.addEventListener("click", () => {
-      currentQuestion++;
-      if (currentQuestion < quizData.length) {
-        showQuestion();
-      } else {
-        showResult();
-      }
-    });
-
-    function showResult() {
-      resetState();
-      questionEl.textContent = "";
-      resultEl.innerHTML = `
-        Vous avez obtenu <strong>${score}</strong> / ${quizData.length} bonnes réponses.<br><br>
-        ${score === quizData.length ? "Excellent ! 🎉" :
-          score >= quizData.length / 2 ? "Bien joué 👏" : "Vous ferez mieux la prochaine fois 💪"}
-      `;
-    }
-
-    showQuestion();
-
-
-  </script>
- </main>
-
-  <footer id="main-footer"></footer>
-
-  <script src="../../js/main.js" defer></script>
+  <script src="../../js/pages/main.js" defer></script>
+  <script src="../../js/pages/quiz-general.js" defer></script>
 </body>
 </html>
