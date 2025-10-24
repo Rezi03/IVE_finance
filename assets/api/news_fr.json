@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25233,
+  "totalArticles": 25234,
   "articles": [
+    {
+      "id": "879aad2eadad778be230c1c32f2d106c",
+      "title": "Nicolas Dufourcq : « Cela fait très longtemps que le cheval du social galope devant le cheval de l’économie car il est dopé à la poudre blanche de la dette »",
+      "description": "Dans son dernier ouvrage, La dette sociale de la France, le directeur général de la Banque publique d'investissement Bpifrance explique comment les dépenses sociales ont joué un grand rôle dans la folle accumulation de dette française",
+      "content": "Dans son dernier ouvrage, La dette sociale de la France, le directeur général de la Banque publique d’investissement Bpifrance explique comment les dépenses sociales ont joué un grand rôle dans la folle accumulation de dette française\nSur le même thè... [15914 chars]",
+      "url": "https://www.lopinion.fr/economie/nicolas-dufourcq-cela-fait-tres-longtemps-que-le-cheval-du-social-galope-devant-le-cheval-de-leconomie-car-il-est-dope-a-la-poudre-blanche-de-la-dette",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/38cd5de/2147483647/strip/true/crop/4724x2296+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Fl-opinion-brightspot.s3.amazonaws.com%2Fe7%2Ff4%2Fadba2d9b4371b1695ae459365c91%2Fnicolas-dufourcq.jpg",
+      "publishedAt": "2025-10-23T17:17:09Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "95c3138dd970091f379fe3e29d74d94d",
       "title": "Faites-vous partie des 50% de salariés les mieux payés ? L'Insee dévoile le montant du salaire médian",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7eed780c91f81f6c42424f0194b3d881",
-      "title": "La Banque de Corée maintient ses taux mais surprend en évoquant de nouvelles baisses",
-      "description": "La Banque centrale de Corée du Sud a maintenu ses taux d'intérêt inchangés jeudi, se montrant prudente face à la surchauffe du marché immobilier et à la dépréciation de la monnaie nationale....",
-      "content": "La Banque centrale de Corée du Sud a maintenu ses taux d'intérêt inchangés jeudi, se montrant prudente face à la surchauffe du marché immobilier et à la dépréciation de la monnaie nationale. Toutefois, l'institution a laissé entrevoir la possibilité ... [3553 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-de-coree-maintient-ses-taux-mais-surprend-en-evoquant-de-nouvelles-baisses-ce7d5ddbdc8fff26",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T004717Z_1_LYNXMPEL3E00M_RTROPTP_4_SOUTHKOREA-ECONOMY-RATES.JPG",
-      "publishedAt": "2025-10-23T04:04:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
