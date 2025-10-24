@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25240,
+  "totalArticles": 25244,
   "articles": [
+    {
+      "id": "25cd7d075215b73df2b00543abe3b9bc",
+      "title": "La Bourse de Paris évolue avec prudence, digérant résultats et indicateurs économiques",
+      "description": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochaine réunion de politique monétaire de la banque centrale américaine (Fed).",
+      "content": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochaine réunio... [2315 chars]",
+      "url": "https://actu.orange.fr/economie/la-bourse-de-paris-evolue-avec-prudence-digerant-resultats-et-indicateurs-economiques-CNT000002ln21s.html",
+      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fd109dd0e-9cac-47d2-a441-72717fd9bf80.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-24T08:21:57Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b682e1cc26323da3d27395e8383430a7",
+      "title": "La Bourse de Paris évolue avec prudence, digérant résultats et indicateurs économiques",
+      "description": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cr... - 24/10/2025 à 10:21 - Boursorama",
+      "content": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochaine réunio... [2330 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-evolue-avec-prudence-digerant-resultats-et-indicateurs-economiques-99bdcc757c99af921320368715e8afee",
+      "image": "https://www.boursorama.com/static/i/content/images/0/a/5/0a51e5fb4c78a60dcae6e82fa9be78a9-1200x800.jpg",
+      "publishedAt": "2025-10-24T08:21:57Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "8939e057adcdc6a01c5a820995a8dbe0",
+      "title": "Paris évolue avec prudence, digérant résultats et indicateurs économiques",
+      "description": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des...",
+      "content": "Paris (awp/afp) - La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant l... [3513 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/paris-evolue-avec-prudence-digerant-resultats-et-indicateurs-economiques-ce7d5dd9dd8bf12c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-05-27T105935Z_1_LYNXNPEC4Q0NM_RTROPTP_2_FRANCE.JPG",
+      "publishedAt": "2025-10-24T08:19:29Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "476f6bad4c625feda49fa1d13959cb37",
+      "title": "Les baisses de taux en Indonésie peinent à relancer l'économie : les banques résistent, les entreprises pointent la politique gouvernementale",
+      "description": "La banque centrale d'Indonésie a suspendu cette semaine sa campagne agressive de baisse des taux, préférant se concentrer sur la réduction des coûts des emprunts bancaires. Pourtant, les...",
+      "content": "La banque centrale d'Indonésie a suspendu cette semaine sa campagne agressive de baisse des taux, préférant se concentrer sur la réduction des coûts des emprunts bancaires. Pourtant, les entreprises assurent que le véritable frein n'est pas du côté d... [6514 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-baisses-de-taux-en-indonesie-peinent-a-relancer-l-economie-les-banques-resistent-les-entrepri-ce7d5dd9dd8bf526",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-24T081709Z_1_LYNXMPEL9N0CH_RTROPTP_4_USA-TRUMP-TARIFFS-INDONESIA.JPG",
+      "publishedAt": "2025-10-24T08:14:05Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "c15516ebe3c5bbc806759846888bcd6b",
       "title": "CAC 40 : La Bourse de Paris est attendue en hausse avant l'inflation américaine",
@@ -94,70 +158,6 @@
       "url": "https://www.lefigaro.fr/flash-eco/le-yen-mine-par-la-nomination-de-la-premiere-ministre-japonaise-le-dollar-reste-stable-20251023",
       "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/23/3a61e6995483a00f233ad38d88dc3b043de0c3225fef8c5facd1f3d86e83bf5e.jpg",
       "publishedAt": "2025-10-23T19:59:44Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "bfa60daae2de6dea8e1debcf2b70837b",
-      "title": "Le yen miné par la nomination de la Première ministre, le dollar stable",
-      "description": "Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du gouvernement japonais, tandis que le dollar faisait...",
-      "content": "Washington (awp/afp) - Le yen reculait jeudi, lesté par un possible report de hausses de taux de la Banque du Japon après la nomination de Sanae Takaichi à la tête du gouvernement japonais, tandis que le dollar faisait du surplace avant la publicatio... [2259 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-yen-mine-par-la-nomination-de-la-premiere-ministre-le-dollar-stable-ce7d5dd8de81f621",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-29T153414Z_1006950001_LYNXMPECAS15X_RTROPTP_2_CBUSINESS-US-USA-BANKS-FDIC.JPG",
-      "publishedAt": "2025-10-23T19:36:17Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "879aad2eadad778be230c1c32f2d106c",
-      "title": "Nicolas Dufourcq : « Cela fait très longtemps que le cheval du social galope devant le cheval de l’économie car il est dopé à la poudre blanche de la dette »",
-      "description": "Dans son dernier ouvrage, La dette sociale de la France, le directeur général de la Banque publique d'investissement Bpifrance explique comment les dépenses sociales ont joué un grand rôle dans la folle accumulation de dette française",
-      "content": "Dans son dernier ouvrage, La dette sociale de la France, le directeur général de la Banque publique d’investissement Bpifrance explique comment les dépenses sociales ont joué un grand rôle dans la folle accumulation de dette française\nSur le même thè... [15914 chars]",
-      "url": "https://www.lopinion.fr/economie/nicolas-dufourcq-cela-fait-tres-longtemps-que-le-cheval-du-social-galope-devant-le-cheval-de-leconomie-car-il-est-dope-a-la-poudre-blanche-de-la-dette",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/38cd5de/2147483647/strip/true/crop/4724x2296+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Fl-opinion-brightspot.s3.amazonaws.com%2Fe7%2Ff4%2Fadba2d9b4371b1695ae459365c91%2Fnicolas-dufourcq.jpg",
-      "publishedAt": "2025-10-23T17:17:09Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "95c3138dd970091f379fe3e29d74d94d",
-      "title": "Faites-vous partie des 50% de salariés les mieux payés ? L'Insee dévoile le montant du salaire médian",
-      "description": "[VIDÉO] ▶️ L'Insee présente, ce jeudi, les derniers chiffres sur les salaires dans le secteur privé, portant sur l'année 2024. Avec la baisse de l'inflation, le salaire net moyen en euros constants \"se redresse\", constate l'institut de la statistique. On apprend par ailleurs qu'en France, 50% des salariés du privé touchent 2.190 euros net ou moins. - Faites-vous partie des 50% de salariés les mieux payés ? L'Insee dévoile le montant du salaire médian (Économie).",
-      "content": "L'Insee présente, ce jeudi, les derniers chiffres sur les salaires dans le secteur privé, portant sur l'année 2024.\nAvec la baisse de l'inflation, le salaire net moyen en euros constants \"se redresse\", constate l'institut de la statistique.\nOn appren... [3024 chars]",
-      "url": "https://www.tf1info.fr/economie/faites-vous-partie-des-50-de-salaries-les-mieux-payes-l-insee-devoile-le-montant-du-salaire-median-france-2402387.html",
-      "image": "https://photos.tf1info.fr/images/1280/720/salaire-fiche-de-paie-465dea-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
-      "publishedAt": "2025-10-23T15:25:51Z",
-      "lang": "fr",
-      "source": {
-        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
-        "name": "TF1 INFO",
-        "url": "https://www.tf1info.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6abc0cdc1bbcdf2a3f32e1e2a7bc4693",
-      "title": "La banque centrale suisse publie pour la première fois une synthèse de ses discussions sur les taux",
-      "description": "La banque centrale suisse a pour la première fois publié jeudi une synthèse des discussions ayant servi de base à sa décision trimestrielle...",
-      "content": "La banque centrale suisse a pour la première fois publié jeudi une synthèse des discussions ayant servi de base à sa décision trimestrielle de politique monétaire, répondant aux critiques sur son opacité par rapport à d'autres banques centrales.\nDans... [2229 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/la-banque-centrale-suisse-publie-pour-la-premiere-fois-une-synthese-de-ses-discussions-sur-les-taux-20251023",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/23/5b2d1366e779411728839e87e0f127f5808ed1f95288646200cdffd483e9e115.jpg",
-      "publishedAt": "2025-10-23T12:35:27Z",
       "lang": "fr",
       "source": {
         "id": "f401cf643d772233735406ba09ca0d0b",
