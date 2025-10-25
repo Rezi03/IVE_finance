@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 836,
+  "totalArticles": 837,
   "articles": [
+    {
+      "id": "91e26b1b360749d97df008055e1bcc28",
+      "title": "Top economist on the economy's dirty truth: The only people who feel good are 'making over $200,000' and 'have large stock portfolios'",
+      "description": "Diane Swonk, chief economist at KPMG, sees a \"creep instead of a surge\" in inflation. Things are uneasy below the surface.",
+      "content": "The veteran economist says the economy “looks better than it feels” because the very data used to measure it is eroding, and the illusion of resilience could shatter heading into the fourth quarter.\n“The only groups that feel good about the economy n... [5425 chars]",
+      "url": "https://fortune.com/2025/10/24/why-is-economy-so-bad-recession-not-inflation-fed-rate-cuts-2025/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2240954877-e1761324587806.jpg?resize=1200,600",
+      "publishedAt": "2025-10-24T14:41:17Z",
+      "lang": "en",
+      "source": {
+        "id": "02bfab6ed0cea51c8a0eb8e58d8caef7",
+        "name": "Fortune",
+        "url": "https://fortune.com",
+        "country": "us"
+      }
+    },
     {
       "id": "caa4c6b54d4bda1b3a969fc9f4d6df38",
       "title": "These top dividend stock picks can help power your portfolio higher, says investor Kevin Simpson",
@@ -147,22 +163,6 @@
         "id": "a6d401909ca644c4ffb332486c9cfaea",
         "name": "Seeking Alpha",
         "url": "https://seekingalpha.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "dcd3b8b93239579f321c7a3f76d95fe8",
-      "title": "IREN Stock Dips after $875M Convertible Debt Offering to Fuel Growth",
-      "description": "IREN Limited (IREN) stock declined 4.2% in after-hours trading on Tuesday after the Bitcoin miner announced a $875 million private offering of c...",
-      "content": "IREN Limited (IREN) stock declined 4.2% in after-hours trading on Tuesday after the Bitcoin miner announced a $875 million private offering of convertible senior notes due 2031. The offer is aimed at qualified institutional buyers. With the move, IRE... [1524 chars]",
-      "url": "https://markets.businessinsider.com/news/stocks/iren-stock-dips-after-875m-convertible-debt-offering-to-fuel-growth-1035278801",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/10/image-570.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "publishedAt": "2025-10-07T22:23:06Z",
-      "lang": "en",
-      "source": {
-        "id": "bce8b9fcd331f3552e3dcf603b83b80e",
-        "name": "Markets Insider",
-        "url": "https://markets.businessinsider.com",
         "country": "us"
       }
     }

@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25258,
+  "totalArticles": 25260,
   "articles": [
+    {
+      "id": "743b2e7eea924a74c2ac2b631b28141d",
+      "title": "Wall Street portée par l'inflation américaine",
+      "description": "La Bourse de New York évolue dans le vert vendredi, satisfaite d'une inflation américaine inférieure aux attentes, perçue par les investisseurs comme une confirmation que la Réserve fédérale ...",
+      "content": "Washington (awp/afp) - La Bourse de New York évolue dans le vert vendredi, satisfaite d'une inflation américaine inférieure aux attentes, perçue par les investisseurs comme une confirmation que la Réserve fédérale (Fed) poursuivra son assouplissement... [3050 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-portee-par-l-inflation-americaine-ce7d5dd9d18cf222",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-13T193745Z_1006950001_LYNXMPED0C16X_RTROPTP_2_CBUSINESS-US-GLOBAL-MARKETS.JPG",
+      "publishedAt": "2025-10-24T14:13:20Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "8a79f3af8e584cb4147d91ea517b386c",
+      "title": "Bourse de New York en hausse portée par une inflation américaine plus faible",
+      "description": "La Bourse de New York a démarré la séance en progression vendredi, stimulée par une inflation américaine inférieure aux attentes. Cette tendance haussière s’explique par l’anticipation des marchés que la Réserve fédérale (Fed) maintiendra sa politique d’assouplissement monétaire dans les mois à venir. Dès l’ouverture, le Dow Jones gagnait 0,48 %, le Nasdaq 0,87 % et le S&P 500 0,64 %, reflétant l’optimisme des investisseurs face à ces nouvelles données économiques.",
+      "content": "Washington - La Bourse de New York a ouvert en hausse vendredi, satisfaite d’une inflation américaine inférieure aux attentes, perçue par les investisseurs comme une confirmation que la Réserve fédérale (Fed) poursuivra son assouplissement monétaire ... [20718 chars]",
+      "url": "https://www.lopinion.fr/economie/wall-street-ouvre-en-hausse-portee-par-une-inflation-americaine-plus-faible",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/da8199f/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F2b758ef63d2d446800e4c7e545e86fb0ccd68975.jpeg",
+      "publishedAt": "2025-10-24T14:01:59Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "76959c207125aaafde9e2f53d2e7371e",
       "title": "Wall Street ouvre en hausse, l'inflation US rassure",
@@ -126,38 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/les-contrats-a-terme-du-tsx-stables-alors-que-les-tensions-commerciales-s-intensifient-l-inflation-ce7d5dd9dc8ff420",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-23T114325Z_1_LYNXMPEL3M0MD_RTROPTP_4_CANADA-STOCKS.JPG",
       "publishedAt": "2025-10-24T10:50:28Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ada13fda3f58fa0f8f95e181b1d65980",
-      "title": "L'Espagne a beau avoir une croissance exceptionnelle, son taux de chômage reste le plus élevé d'Europe, au-dessus des 10%",
-      "description": "Le taux de chômage espagnol a légèrement augmenté au 3ème trimestre 2025, atteignant 10,45%. Mais la Banque d'Espagne s'attend à ce qu'il repasse sous la barre symbolique des 10% en 2027, pour la première fois depuis près de 20 ans.",
-      "content": "Le taux de chômage espagnol a légèrement augmenté au 3ème trimestre 2025, atteignant 10,45%. Mais la Banque d'Espagne s'attend à ce qu'il repasse sous la barre symbolique des 10% en 2027, pour la première fois depuis près de 20 ans.\nLe taux de chômag... [1486 chars]",
-      "url": "https://www.bfmtv.com/economie/emploi/l-espagne-a-beau-avoir-une-croissance-exceptionnelle-son-taux-de-chomage-reste-le-plus-eleve-d-europe-au-dessus-des-10_AD-202510240476.html",
-      "image": "https://images.bfmtv.com/aRlT5DtERYx7ef8syRPztSQVjG8=/0x180:1920x1260/1920x0/images/Drapeau-espagnol-1201411.jpg",
-      "publishedAt": "2025-10-24T10:42:32Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6a2b6049088400cd0f893ae3a6d4356e",
-      "title": "Les taux d'intérêt tchèques devraient rester inchangés au moins jusqu'à la fin de l'année, selon une responsable de la banque centrale",
-      "description": "La Banque nationale tchèque devrait maintenir ses taux d'intérêt inchangés jusqu'à la fin de l'année, voire plus longtemps, afin de contrer les pressions inflationnistes liées aux salaires et...\n-Le 24 octobre 2025 à 12:40\n- Zonebourse",
-      "content": "L'inflation fait son grand retour (dans l'agenda)\nLa confirmation d'une rencontre entre Trump et Xi la semaine prochaine a un peu détendu l'atmosphère sur des marchés qui croulent sous les résultats. La dernière salve de la semaine démarre sous les b... [423 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-taux-d-interet-tcheques-devraient-rester-inchanges-au-moins-jusqu-a-la-fin-de-l-annee-selon-une-ce7d5dd9dc8cf124",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-24T10:40:03Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
