@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25286,
+  "totalArticles": 25287,
   "articles": [
+    {
+      "id": "b48b097209f9f7c4138396e9fbefed54",
+      "title": "Budget 2026 : la France risque un \"étouffement progressif\" par sa dette, alerte François Villeroy de Galhau",
+      "description": "Le gouverneur de la Banque de France estime qu’il y a besoin de faire diminuer les dépenses publiques pour résoudre notre «sérieux problème budgétaire».",
+      "content": "La situation dégradée des finances publiques fait courir à la France le risque d’un «étouffement progressif», a averti ce samedi 25 octobre le gouverneur de la Banque de France, dans un entretien publié par La Croix au lendemain du maintien de la not... [1331 chars]",
+      "url": "https://www.lefigaro.fr/conjoncture/budget-2026-la-france-risque-un-etouffement-progressif-par-sa-dette-alerte-francois-villeroy-de-galhau-20251025",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/25/b3f9ebcec6d062dbbce3e1f85eb430aa3401152d9a69fe7a572a82eb3e69e194.jpg",
+      "publishedAt": "2025-10-25T11:09:02Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "2ba2636cfcf9b696c4a156fe52c12b67",
       "title": "Aa3: Moody’s donne un sursis à la France en maintenant sa note, avec perspective négative",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "9d764ea06749be6f8468ff52bc26c3c9",
-      "title": "Wall Street à des records, l'inflation rassure",
-      "description": "NEW YORK -Les trois grands indices de la Bourse de New York ont encore établi des records de clôture vendredi après une hausse de l'inflation moindre que prévu en septembre, qui a rassuré les...\n-Le 24 octobre 2025 à 22:26\n- Zonebourse",
-      "content": "NEW YORK (Reuters) -Les trois grands indices de la Bourse de New York ont encore établi des records de clôture vendredi après une hausse de l'inflation moindre que prévu en septembre, qui a rassuré les investisseurs sur la trajectoire des taux d'inté... [2520 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-a-des-records-l-inflation-rassure-ce7d5dded981f525",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-14T181223Z_1_LYNXMPEL3D0US_RTROPTP_4_USA-STOCKS-TARIFFS.JPG",
-      "publishedAt": "2025-10-24T20:26:07Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
