@@ -4,8 +4,88 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25266,
+  "totalArticles": 25271,
   "articles": [
+    {
+      "id": "a49c6d5ff9eff702d56cd3f8a67b13d9",
+      "title": "La Bourse de Paris se maintient à l’équilibre entre débat budgétaire et note de la dette",
+      "description": "La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de...",
+      "content": "La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de la note ou de la perspective de la dette souveraine française par Moody's. L'indice vedette CAC 40 a ... [2233 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-se-maintient-a-l-equilibre-entre-debat-budgetaire-et-note-de-la-dette-20251024",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/24/f434ff7701ffcfaf423094c2e6ef5fad8b3afa88d002941fa698e4e61611b3f0.jpg",
+      "publishedAt": "2025-10-24T17:22:49Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "2bfea87c213d17e10d97db35098e16af",
+      "title": "CAC 40 stable malgré l’incertitude sur la note souveraine française et les tensions budgétaires",
+      "description": "La Bourse de Paris a terminé sans variation vendredi, le CAC 40 restant à 8.225,63 points, alors que les investisseurs surveillent les débats budgétaires à l’Assemblée nationale et redoutent une possible dégradation de la note de la dette souveraine par Moody’s. Cette évaluation intervient après des révisions négatives de la part de Fitch, S&P et Morningstar DBRS. Le gouvernement fait face à des menaces de motion de censure des socialistes, rendant l’adoption du budget incertaine. Sur le plan macro-économique, la publication d’une inflation américaine plus faible que prévu a soutenu les marchés mondiaux, même si les taux obligataires français ont légèrement augmenté. Côté entreprises, Valeo se distingue avec une forte progression grâce à des prévisions ajustées pour 2025, tandis que Sanofi bénéficie de ventes record pour son médicament Dupixent au troisième trimestre.",
+      "content": "Paris - La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l’Assemblée nationale et dans l’attente d’un possible abaissement de la note ou de la perspective de la dette souveraine française par Moody’s.\nL’indice vedette C... [10234 chars]",
+      "url": "https://www.lopinion.fr/economie/la-bourse-de-paris-reste-stable-malgre-lincertitude-face-au-risque-dun-abaissement-de-la-note-francaise",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/c174c5d/2147483647/strip/true/crop/1024x498+0+93/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F3293fb5314c5aab41dd147bb163cc953d0723e6a.jpeg",
+      "publishedAt": "2025-10-24T16:59:47Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f5a73d01368d0427d76c9189ab8f5c4a",
+      "title": "Entre débat budgétaire et note de la dette, la Bourse de Paris à l'équilibre",
+      "description": "La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de la note ou de la perspective de la dette...",
+      "content": "Paris (awp/afp) - La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de la note ou de la perspective de la dette souveraine française par Moody's.\nL'indice... [2875 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/entre-debat-budgetaire-et-note-de-la-dette-la-bourse-de-paris-a-l-equilibre-ce7d5dded989f024",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-16T090107Z_1_LYNXMPECAF0DH_RTROPTP_2_FRANCE.JPG",
+      "publishedAt": "2025-10-24T16:43:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "48eccdad44ada265f3b9b7277ff54aea",
+      "title": "Entre débat budgétaire et note de la dette, la Bourse de Paris à l'équilibre",
+      "description": "La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de la note ou de la perspective de la dette souveraine... - 24/10/2025 à 18:43 - Boursorama",
+      "content": "La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de la note ou de la perspective de la dette souveraine française par Moody's.\nL'indice vedette CAC 40 a ... [2864 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/entre-debat-budgetaire-et-note-de-la-dette-la-bourse-de-paris-a-l-equilibre-1ac21bc863ed61195b6b8fd56d3fa886",
+      "image": "https://www.boursorama.com/static/i/content/images/0/a/5/0a51e5fb4c78a60dcae6e82fa9be78a9-1200x800.jpg",
+      "publishedAt": "2025-10-24T16:43:02Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b5d856fdf8ab93f014d93c4fffb6606a",
+      "title": "Entre débat budgétaire et note de la dette, la Bourse de Paris à l'équilibre",
+      "description": "La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de la note ou de la perspective de la dette souveraine française par Moody's.",
+      "content": "La Bourse de Paris a conclu stable vendredi, observant les débats budgétaires à l'Assemblée nationale et dans l'attente d'un possible abaissement de la note ou de la perspective de la dette souveraine française par Moody's.\nL'indice vedette CAC 40 a ... [2849 chars]",
+      "url": "https://actu.orange.fr/economie/entre-debat-budgetaire-et-note-de-la-dette-la-bourse-de-paris-a-l-equilibre-CNT000002lnIcd.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fe9650f16-ccbf-47da-b0c3-ab6946b668b8.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-24T16:43:02Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "92b7e78d69c901d70e4b7dc702c2ff25",
       "title": "Bourse Zurich: les indices de peu dans le vert après l'inflation américaine",
@@ -83,86 +163,6 @@
         "id": "3515cd464703185ce797899332fb9c81",
         "name": "BFMTV",
         "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "9a07d820a876c86b8c6852f88772e372",
-      "title": "\" La règle d’or de l’équilibre des finances sociales, mise en place en 1945, a été oubliée \"",
-      "description": "Dans un nouveau livre, Nicolas Dufourcq, le patron de la Banque publique d’investissement, étrille la gestion des dépenses sociales, au cœur, selon lui, de la dette française, comme il l’explique dans un entretien au « Monde ».",
-      "content": "Directeur général de la Banque publique d’investissement, Nicolas Dufourcq publie La Dette sociale de la France. 1974-2024 (éd. Odile Jacob, 544 pages, 28,90 euros). En 1992, à 29 ans, il a été directeur adjoint du cabinet du ministre des affaires so... [1605 chars]",
-      "url": "https://www.lemonde.fr/idees/article/2025/10/24/la-regle-d-or-de-l-equilibre-des-finances-sociales-mise-en-place-en-1945-a-ete-oubliee_6649202_3232.html",
-      "image": "https://img.lemde.fr/2025/10/22/964/0/3335/2223/1440/960/60/0/938370c_upload-1-t5r9g96hbfki-nicolas-dufourcq.jpg",
-      "publishedAt": "2025-10-24T15:30:08Z",
-      "lang": "fr",
-      "source": {
-        "id": "d72db178501ee94d88ea59fe10ef8079",
-        "name": "Le Monde.fr",
-        "url": "https://www.lemonde.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "743b2e7eea924a74c2ac2b631b28141d",
-      "title": "Wall Street portée par l'inflation américaine",
-      "description": "La Bourse de New York évolue dans le vert vendredi, satisfaite d'une inflation américaine inférieure aux attentes, perçue par les investisseurs comme une confirmation que la Réserve fédérale ...",
-      "content": "Washington (awp/afp) - La Bourse de New York évolue dans le vert vendredi, satisfaite d'une inflation américaine inférieure aux attentes, perçue par les investisseurs comme une confirmation que la Réserve fédérale (Fed) poursuivra son assouplissement... [3050 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-portee-par-l-inflation-americaine-ce7d5dd9d18cf222",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-13T193745Z_1006950001_LYNXMPED0C16X_RTROPTP_2_CBUSINESS-US-GLOBAL-MARKETS.JPG",
-      "publishedAt": "2025-10-24T14:13:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8a79f3af8e584cb4147d91ea517b386c",
-      "title": "Bourse de New York en hausse portée par une inflation américaine plus faible",
-      "description": "La Bourse de New York a démarré la séance en progression vendredi, stimulée par une inflation américaine inférieure aux attentes. Cette tendance haussière s’explique par l’anticipation des marchés que la Réserve fédérale (Fed) maintiendra sa politique d’assouplissement monétaire dans les mois à venir. Dès l’ouverture, le Dow Jones gagnait 0,48 %, le Nasdaq 0,87 % et le S&P 500 0,64 %, reflétant l’optimisme des investisseurs face à ces nouvelles données économiques.",
-      "content": "Washington - La Bourse de New York a ouvert en hausse vendredi, satisfaite d’une inflation américaine inférieure aux attentes, perçue par les investisseurs comme une confirmation que la Réserve fédérale (Fed) poursuivra son assouplissement monétaire ... [20718 chars]",
-      "url": "https://www.lopinion.fr/economie/wall-street-ouvre-en-hausse-portee-par-une-inflation-americaine-plus-faible",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/da8199f/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F2b758ef63d2d446800e4c7e545e86fb0ccd68975.jpeg",
-      "publishedAt": "2025-10-24T14:01:59Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "76959c207125aaafde9e2f53d2e7371e",
-      "title": "Wall Street ouvre en hausse, l'inflation US rassure",
-      "description": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-U... - 24/10/2025 à 15:49 - Boursorama",
-      "content": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-Unis.\nDans les premiers échanges, l'indice Dow Jone... [2466 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-l-inflation-us-rassure-6c9c5dc05f2f278d5ee7fe9aa78ddf00",
-      "image": "https://www.boursorama.com/static/i/content/images/4/d/e/4def63078ce8a5d1d5f73624086f88a7-1200x800.jpg",
-      "publishedAt": "2025-10-24T13:49:40Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "046bb641efe380cae9e239d0aa51a434",
-      "title": "Wall Street ouvre en hausse, l'inflation US rassure",
-      "description": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-U... - 24/10/2025 à 15:41 - Boursorama",
-      "content": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-Unis.\nDans les premiers échanges, l'indice Dow Jone... [2518 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-l-inflation-us-rassure-9364502bf00dd64957a84fc1f68efa86",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-3.jpg",
-      "publishedAt": "2025-10-24T13:41:22Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
