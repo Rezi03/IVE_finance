@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25285,
+  "totalArticles": 25286,
   "articles": [
+    {
+      "id": "2ba2636cfcf9b696c4a156fe52c12b67",
+      "title": "Aa3: Moody’s donne un sursis à la France en maintenant sa note, avec perspective négative",
+      "description": "Un répit en pleine discussion du budget qui témoigne, selon le ministre de l’Economie, de la nécessité d’un « compromis » sur celui-ci. L’agence de notation Moody’s a maintenu sa note à Aa3 (dette de",
+      "content": "Toutes soulignent l’instabilité politique depuis la dissolution de l'Assemblée nationale en juin 2024, qui pèse sur les finances publiques françaises et paralyse partiellement deux moteurs de croissance, la consommation des ménages et les investissem... [1813 chars]",
+      "url": "https://www.charentelibre.fr/politique/partis-politiques/aa3-moody-s-donne-un-sursis-a-la-france-en-maintenant-sa-note-avec-perspective-negative-26468616.php",
+      "image": "https://media.charentelibre.fr/26468616/1200x-1/bercyafp.jpeg",
+      "publishedAt": "2025-10-25T07:41:42Z",
+      "lang": "fr",
+      "source": {
+        "id": "d54daacc07ae7c4d7ef35d1825312cad",
+        "name": "Charente Libre",
+        "url": "https://www.charentelibre.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "528bff3dc02c6701c03f42ee25869627",
       "title": "Sur fond d'instabilité politique, Moody's donne un sursis à la France en maintenant sa note, avec perspective négative",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/wall-street-a-des-records-l-inflation-rassure-ce7d5dded981f525",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-14T181223Z_1_LYNXMPEL3D0US_RTROPTP_4_USA-STOCKS-TARIFFS.JPG",
       "publishedAt": "2025-10-24T20:26:07Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ef5cfc763498d603c35d3f21e9750d57",
-      "title": "Triple record à Wall Street après l'inflation américaine",
-      "description": "La Bourse de New York a terminé sur de nouveaux sommets vendredi, traversée par un vent d'optimisme après l'annonce d'une inflation moins forte que prévu en septembre qui vient confirmer les...",
-      "content": "Washington (awp/afp) - La Bourse de New York a terminé sur de nouveaux sommets vendredi, traversée par un vent d'optimisme après l'annonce d'une inflation moins forte que prévu en septembre qui vient confirmer les attentes de baisses de taux de la ba... [276 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/triple-record-a-wall-street-apres-l-inflation-americaine-ce7d5dded981f626",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-05T153148Z_1_LYNXMPED040ZY_RTROPTP_2_USA-STOCKS.JPG",
-      "publishedAt": "2025-10-24T20:25:11Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
