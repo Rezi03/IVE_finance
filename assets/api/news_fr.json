@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25282,
+  "totalArticles": 25285,
   "articles": [
+    {
+      "id": "528bff3dc02c6701c03f42ee25869627",
+      "title": "Sur fond d'instabilité politique, Moody's donne un sursis à la France en maintenant sa note, avec perspective négative",
+      "description": "Moody's a maintenu la note souveraine de la France à Aa3, tout en abaissant la perspective à « négative », citant l'instabilité politique liée à la dissolution de l'Assemblée nationale et à la difficulté à trouver des compromis budgétaires. Cette décision survient alors que Fitch et S&P Global ont récemment abaissé leur propre notation de la France, pointant également le niveau élevé du déficit public et la stagnation de la croissance. Moody's met en garde contre un affaiblissement des institutions et une fragmentation politique durable, mais n'anticipe pas de crise économique immédiate, la dynamique de l'emploi et des entreprises restant solides. Le gouvernement français insiste sur la nécessité d'un compromis autour du budget pour respecter ses objectifs de réduction du déficit d'ici 2029, malgré la pression du Parti socialiste pour une fiscalité accrue sur les plus riches. Les marchés traitent désormais la dette française à un niveau inférieur à la note officielle, reflétant la prudence des investisseurs face à l'incertitude politique.",
+      "content": "Paris - Moody’s a choisi vendredi de maintenir la note souveraine de la France, tout en abaissant la perspective à «négative», un répit en pleine discussion du budget qui témoigne, selon le ministre de l’Economie, de la nécessité d’un «compromis» sur... [13875 chars]",
+      "url": "https://www.lopinion.fr/economie/sur-fond-dinstabilite-politique-moodys-donne-un-sursis-a-la-france-en-maintenant-sa-note-avec-perspective-negative",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/3c414b7/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Feb43d19c1ff5c1ffd05c02566f44bf792f423c3c.jpeg",
+      "publishedAt": "2025-10-25T06:27:36Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "34acff8f46cfc963b9ff2ff5e981d393",
+      "title": "La France échappe à une dégradation de sa note par l'agence Moody's",
+      "description": "Moody's, vendredi 24 octobre, a finalement renoncé à abaisser la note de la France, qui conserve pour l'agence de notation américaine la quatrième position la plus élevée.\nAprès que les agences américaines Fitch et Standard & Poor’s ont abaissé, à un mois d’intervalle entre septembre et mi-octobre, la note de la dette publique française de AA- à A+, c’était au tour de Moody’s de trancher.\nLa décision, rendue vendredi 24 octobre, s’avère moins sévère qu’anticipé. Selon Le Parisien, l’une des trois grandes agences américaines a choisi de laisser un peu de marge au pays, en maintenant sa note de crédit inchangée.\nLa note de la France reste fixée à AA3\nLa France conserve ainsi sa note AA3 (la quatrième meilleure note possible), mais, selon nos confrères, la confiance des marchés envers le pays continue de décliner. Parmi les causes évoquées : la crise politique actuelle, les difficultés à boucler le budget 2026, ainsi que l’instabilité économique qui touche le pays.\nLe projet de loi de finances pour l'année prochaine est actuellement à l'étude par les députés de l'Assemblée nationale. Un budget que le Premier ministre Sébastien Lecornu reconnaît de \"transition\". \"Des économies seront réalisées et les budgets diminueront\", a-t-il assuré vendredi 24 octobre dans l'Hémicycle. Les parlementaires ont moins de deux mois pour se mettre d’accord.\n\"Moody’s a souhaité laisser une chance au gouvernement de pouvoir redresser la barre des finances publiques avant qu’il ne soit trop tard, et que les marchés ne s’emballent\", commente un analyste contacté par Le Parisien. Selon lui, une fois ce cap franchi, il sera très difficile de revenir en arrière. \"Cette décision témoigne de l’absolue nécessité de construire un chemin collectif vers un compromis budgétaire\", a commenté de son côté le ministre de l'Économie, Roland Lescure, dans un communiqué relayé par France Info.",
+      "content": "Moody's, vendredi 24 octobre, a finalement renoncé à abaisser la note de la France, qui conserve pour l'agence de notation américaine la quatrième position la plus élevée.\nAprès que les agences américaines Fitch et Standard & Poor’s ont abaissé, à un... [1106 chars]",
+      "url": "https://actu.orange.fr/france/la-france-echappe-a-une-degradation-de-sa-note-par-l-agence-moody-s-magic-CNT000002lnU1B.html",
+      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2F8fb%2F6c6%2Feb43fb359a74dcdc2c0eae6b94%2F8fb6c6eb43fb359a74dcdc2c0eae6b94.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-25T05:57:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "aa9e8b82610f2b2d47bd37a018cad2b7",
       "title": "Les Bourses mondiales saluent l'inflation américaine, records à Wall Street",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8d0726c01466e127265637f7eee063b0",
-      "title": "Wall Street à des records, l'inflation rassure",
-      "description": "* Le Dow Jones .DJI dépasse les 47.000 points * Le S&P 500 .SPX gagne 0,79%, le Nasdaq +1,15% Les trois grands indices de la Bourse de New York ont encore établi des records de clôture vendredi après ... - 24/10/2025 à 22:22 - Boursorama",
-      "content": "*\nLe Dow Jones .DJI dépasse les 47.000 points\n*\nLe S&P 500 .SPX gagne 0,79%, le Nasdaq +1,15%\nLes trois grands indices de la Bourse de New York ont encore établi des records de clôture vendredi après une hausse de l'inflation moindre que prévu en sep... [2825 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-a-des-records-l-inflation-rassure-80e6cda2807338fc333dc488cd0785e2",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-1.jpg",
-      "publishedAt": "2025-10-24T20:22:56Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ea33bd16802e3482802b70417900ca3f",
-      "title": "La semaine de l'économie - 24/10",
-      "description": "VIDÉO - Ce vendredi 24 octobre, Patrice Gautry, chef économiste chez Union Bancaire Privée, Eric Bleines, directeur de la Gestion Actions de Swiss Life Gestion Privée, Valentine Ainouz, responsable de la stratégie taux chez Amundi Institute et Virginie Robert, présidente de Constance Associés, sont revenus...",
-      "content": "Ce vendredi 24 octobre, Patrice Gautry, chef économiste chez Union Bancaire Privée, Eric Bleines, directeur de la Gestion Actions de Swiss Life Gestion Privée, Valentine Ainouz, responsable de la stratégie taux chez Amundi Institute et Virginie Rober... [269 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-l-economie-24-10_VN-202510240888.html",
-      "image": "https://images.bfmtv.com/9nJ_gYCuqSxXw2u9AN_C8IxpaVI=/0x0:1280x720/1280x0/images/La-semaine-de-l-economie-24-10-2161122.jpg",
-      "publishedAt": "2025-10-24T20:21:53Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
         "country": "fr"
       }
     }
