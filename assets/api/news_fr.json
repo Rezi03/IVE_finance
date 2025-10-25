@@ -4,8 +4,104 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25252,
+  "totalArticles": 25258,
   "articles": [
+    {
+      "id": "76959c207125aaafde9e2f53d2e7371e",
+      "title": "Wall Street ouvre en hausse, l'inflation US rassure",
+      "description": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-U... - 24/10/2025 à 15:49 - Boursorama",
+      "content": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-Unis.\nDans les premiers échanges, l'indice Dow Jone... [2466 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-l-inflation-us-rassure-6c9c5dc05f2f278d5ee7fe9aa78ddf00",
+      "image": "https://www.boursorama.com/static/i/content/images/4/d/e/4def63078ce8a5d1d5f73624086f88a7-1200x800.jpg",
+      "publishedAt": "2025-10-24T13:49:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "046bb641efe380cae9e239d0aa51a434",
+      "title": "Wall Street ouvre en hausse, l'inflation US rassure",
+      "description": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-U... - 24/10/2025 à 15:41 - Boursorama",
+      "content": "La Bourse de New York a ouvert en hausse vendredi, les données indiquant un ralentissement de l'inflation en septembre ayant rassuré les investisseurs sur la trajectoire des taux d'intérêt aux Etats-Unis.\nDans les premiers échanges, l'indice Dow Jone... [2518 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-en-hausse-l-inflation-us-rassure-9364502bf00dd64957a84fc1f68efa86",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-3.jpg",
+      "publishedAt": "2025-10-24T13:41:22Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f7b8a77c9f172cff1cc494fbefa540f3",
+      "title": "L'économie russe tourne au ralenti et sa croissance s'approche de zéro: la banque centrale du pays décide d'abaisser son taux directeur",
+      "description": "Alors qu'elle a une nouvelle fois abaissé ses prévisions de croissance, la banque centrale russe a fait passer son taux directeur de 17% à 16,5%.",
+      "content": "Alors qu'elle a une nouvelle fois abaissé ses prévisions de croissance, la banque centrale russe a fait passer son taux directeur de 17% à 16,5%.\nLa Banque centrale de Russie (BCR) a abaissé vendredi son taux directeur, de 17 à 16,5%, à l'heure où la... [1308 chars]",
+      "url": "https://www.bfmtv.com/economie/international/l-economie-russe-tourne-au-ralenti-et-sa-croissance-s-approche-de-zero-la-banque-centrale-du-pays-decide-d-abaisser-son-taux-directeur_AD-202510240579.html",
+      "image": "https://images.bfmtv.com/xre_AyGhbfzuGJsJ6UQr-Yqwz_4=/0x8:2048x1160/2048x0/images/Un-drapeau-de-la-Russie-a-Moscou-le-13-mars-2018-photo-d-illustration-1850277.jpg",
+      "publishedAt": "2025-10-24T12:55:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "e082485eda58bbe6ce7587685a20d98e",
+      "title": "La gouverneure de la Banque centrale de Russie Nabioullina sur les prochaines décisions de taux et l'impact des sanctions",
+      "description": "La gouverneure de la Banque centrale de Russie, Elvira Nabioullina, s'est exprimée vendredi lors d'une conférence de presse, après que l'institution a abaissé son taux directeur de 50 points de...\n-Le 24 octobre 2025 à 14:41\n- Zonebourse",
+      "content": "La gouverneure de la Banque centrale de Russie, Elvira Nabioullina, s'est exprimée vendredi lors d'une conférence de presse, après que l'institution a abaissé son taux directeur de 50 points de base, le fixant à 16,5 %.\nNabioullina s'est exprimée en ... [2351 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-gouverneure-de-la-banque-centrale-de-russie-nabioullina-sur-les-prochaines-decisions-de-taux-et-l-ce7d5dd9de89f225",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-02T113949Z_1_LYNXMPEL610HK_RTROPTP_4_RUSSIA-FORUM.JPG",
+      "publishedAt": "2025-10-24T12:41:07Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "afa21f7320f934273aec1bfde3644336",
+      "title": "La Banque centrale russe abaisse son taux directeur de 50 points de base après les nouvelles sanctions pétrolières américaines",
+      "description": "La Banque centrale de Russie a abaissé son taux directeur de 50 points de base, le portant à 16,5 % lors d'une réunion du conseil d'administration vendredi. Il s'agit de la première décision...",
+      "content": "La Banque centrale de Russie a abaissé son taux directeur de 50 points de base, le portant à 16,5 % lors d'une réunion du conseil d'administration vendredi. Il s'agit de la première décision depuis que le gouvernement a proposé de relever la TVA en 2... [4131 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-russe-abaisse-son-taux-directeur-de-50-points-de-base-apres-les-nouvelles-sanctio-ce7d5dd9de88f723",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-22T131232Z_1_LYNXMPEL9L0P3_RTROPTP_4_UKRAINE-CRISIS-EUROPE-ASSETS.JPG",
+      "publishedAt": "2025-10-24T12:26:50Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f4cb4f19bb91ab23429bd540dba4d967",
+      "title": "Russie: l’économie ralentit, la Banque centrale abaisse son taux directeur",
+      "description": "La Banque centrale de Russie (BCR) a abaissé vendredi son taux directeur, de 17% à 16,5%, à l’heure où la croissance russe est proche de zéro, dans une économie qui subit les conséquences de l’offen…",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/241025/russie-l-economie-ralentit-la-banque-centrale-abaisse-son-taux-directeur",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-24T11:54:11Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "af3060467de86a597428310e28e90a60",
       "title": "Russie : la croissance proche de zéro, la banque centrale abaisse son taux directeur",
@@ -62,102 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/les-taux-d-interet-tcheques-devraient-rester-inchanges-au-moins-jusqu-a-la-fin-de-l-annee-selon-une-ce7d5dd9dc8cf124",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
       "publishedAt": "2025-10-24T10:40:03Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8885ff67752c48476de78c74beb57ac1",
-      "title": "Le Banque du Japon entre deux feux",
-      "description": "En septembre, l'inflation a de nouveau accéléré au Japon, accentuant la pression sur la Banque du Japon pour relever ses taux. Mais entre les incertitudes économiques et une Première ministre...",
-      "content": "Après plusieurs mois de ralentissement, l’inflation a de nouveau accéléré en septembre, à 2.9% contre 2.7% en août. Un niveau toutefois conforme aux attentes des économistes.\nSource : Trading economics\nCe sont toujours les mêmes éléments qui tirent l... [1878 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-banque-du-japon-entre-deux-feux-ce7d5dd9dc89f520",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-06-03T065027Z_1_LYNXNPEL5207O_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
-      "publishedAt": "2025-10-24T09:56:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ab5fa935f06e135492ad07b503d33bae",
-      "title": "CAC 40: se contracte avant la publication de l'inflation aux Etats-Unis",
-      "description": "La Bourse de Paris cède près de 0,5% ce matin, autour des 8 185 points, pénalisée par des prises de bénéfices sur Kering (-3,5% après +8,7% la veille). Vinci lâche également 3,5%, suivi par Thales (-3... - 24/10/2025 à 11:25 - Boursorama",
-      "content": "information fournie par Zonebourse•24/10/2025 à 11:25\nLa Bourse de Paris cède près de 0,5% ce matin, autour des 8 185 points, pénalisée par des prises de bénéfices sur Kering (-3,5% après +8,7% la veille). Vinci lâche également 3,5%, suivi par Thales... [4050 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/cac-40-se-contracte-avant-la-publication-de-l-inflation-aux-etats-unis-fe83a57d586e3621d6f492eff12622ed",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-6.jpg",
-      "publishedAt": "2025-10-24T09:25:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0cff671ae3aaf2ef6ea35fa06d9fe52e",
-      "title": "La Bourse de Paris évolue en légère baisse, digérant résultats d'entreprises et indicateurs économiques",
-      "description": "La Bourse de Paris recule en début de séance, le CAC 40 cédant 0,29% dans l’attente d’indicateurs économiques majeurs et des résultats trimestriels d’entreprises. Les marchés sont particulièrement attentifs à la publication de l'inflation américaine, déterminante à l’approche de la prochaine réunion de la Fed, ainsi qu’aux PMI avancés d’octobre dans les pays développés. En France, le secteur privé enregistre une contraction de l’activité pour le quatorzième mois consécutif, le PMI composite atteignant un plus bas depuis huit mois. Le marché obligataire voit les rendements grimper, tandis qu’une possible dégradation de la note souveraine française par Moody’s est redoutée. Par ailleurs, le titre Accor se distingue en nette hausse après des résultats trimestriels satisfaisants et une révision à la hausse de ses objectifs.",
-      "content": "Paris - La Bourse de Paris évolue en baisse vendredi, digérant résultats d’entreprises et indicateurs économiques, tandis que l’inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochain... [13572 chars]",
-      "url": "https://www.lopinion.fr/economie/la-bourse-de-paris-evolue-en-legere-baisse-digerant-resultats-dentreprises-et-indicateurs-economiques",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/c174c5d/2147483647/strip/true/crop/1024x498+0+93/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F3293fb5314c5aab41dd147bb163cc953d0723e6a.jpeg",
-      "publishedAt": "2025-10-24T08:32:25Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "25cd7d075215b73df2b00543abe3b9bc",
-      "title": "La Bourse de Paris évolue avec prudence, digérant résultats et indicateurs économiques",
-      "description": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochaine réunion de politique monétaire de la banque centrale américaine (Fed).",
-      "content": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochaine réunio... [2315 chars]",
-      "url": "https://actu.orange.fr/economie/la-bourse-de-paris-evolue-avec-prudence-digerant-resultats-et-indicateurs-economiques-CNT000002ln21s.html",
-      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fd109dd0e-9cac-47d2-a441-72717fd9bf80.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-24T08:21:57Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b682e1cc26323da3d27395e8383430a7",
-      "title": "La Bourse de Paris évolue avec prudence, digérant résultats et indicateurs économiques",
-      "description": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cr... - 24/10/2025 à 10:21 - Boursorama",
-      "content": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant la prochaine réunio... [2330 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-evolue-avec-prudence-digerant-resultats-et-indicateurs-economiques-99bdcc757c99af921320368715e8afee",
-      "image": "https://www.boursorama.com/static/i/content/images/0/a/5/0a51e5fb4c78a60dcae6e82fa9be78a9-1200x800.jpg",
-      "publishedAt": "2025-10-24T08:21:57Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8939e057adcdc6a01c5a820995a8dbe0",
-      "title": "Paris évolue avec prudence, digérant résultats et indicateurs économiques",
-      "description": "La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des...",
-      "content": "Paris (awp/afp) - La Bourse de Paris évolue en baisse vendredi, digérant résultats d'entreprises et indicateurs économiques, tandis que l'inflation américaine, attendue plus tard en séance, fournira des informations cruciales pour les marchés avant l... [3513 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/paris-evolue-avec-prudence-digerant-resultats-et-indicateurs-economiques-ce7d5dd9dd8bf12c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-05-27T105935Z_1_LYNXNPEC4Q0NM_RTROPTP_2_FRANCE.JPG",
-      "publishedAt": "2025-10-24T08:19:29Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
