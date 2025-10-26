@@ -4,15 +4,31 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25290,
+  "totalArticles": 25291,
   "articles": [
     {
+      "id": "28f069af3d9b0e62e66dda73b12d20cb",
+      "title": "L'édito éco de Lucie Robequain. L’allégorie de la caverne, version parlementaire",
+      "description": "Derrière un CAC 40 triomphant et une dette qui se finance à bon compte, l’illusion prospère : la France se raconte une histoire budgétaire qui ne résistera pas au réel.",
+      "content": "Les chiffres sont parfois plus trompeurs que les lettres. Cette semaine, le CAC 40, qui constitue l’indice vedette de la Bourse de Paris, a franchi un seuil historique (8.259 points en clôture), laissant penser que les entreprises françaises s’accomm... [3106 chars]",
+      "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/62195198590850/ledito-eco-de-lucie-robequain-l-allegorie-de-la-caverne-version-parlementaire",
+      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/09/27/decouvrez-l-edito-de-lucie-robequain-1759006439_7d33f989b7d867143f989b7d85543fv_.jpg",
+      "publishedAt": "2025-10-26T07:40:05Z",
+      "lang": "fr",
+      "source": {
+        "id": "a475e4eb8a88f44bec788830464aef42",
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr",
+        "country": "fr"
+      }
+    },
+    {
       "id": "61e8b88370a90805c1d58c426a995a4a",
-      "title": "Haute-Savoie Comment la station du Roc d’Enfer espère s'en sortir malgré une dette de plus de 3 millions d'euros",
+      "title": "Haute-Savoie Lourdemment endettée, la station du Roc d'Enfer joue sa survie devant le tribunal de commerce",
       "description": "Sous le poids d’une dette de plus de 3 millions d’euros, la société d’économie mixte du Roc d’Enfer, à cheval sur Bellevaux et Saint-Jean-d’Aulps, ...",
       "content": "Le Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de vot... [767 chars]",
       "url": "https://www.ledauphine.com/societe/2025/10/25/comment-la-station-du-roc-d-enfer-espere-s-en-sortir-malgre-une-dette-de-plus-de-3-millions-d-euros",
-      "image": "https://cdn-s-www.ledauphine.com/images/6D7E6D0D-5D0A-49C5-AE1E-B269F966AFFF/FB1200/photo-1761402483.jpg",
+      "image": "https://cdn-s-www.ledauphine.com/images/6D7E6D0D-5D0A-49C5-AE1E-B269F966AFFF/FB1200/photo-1761419278.jpg",
       "publishedAt": "2025-10-25T14:28:00Z",
       "lang": "fr",
       "source": {
@@ -147,22 +163,6 @@
         "id": "5eca54a281f8fb040f8089593c1ae8bc",
         "name": "L'Echo",
         "url": "https://www.lecho.be",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "aa9e8b82610f2b2d47bd37a018cad2b7",
-      "title": "Les Bourses mondiales saluent l'inflation américaine, records à Wall Street",
-      "description": "Une inflation moins forte que prévu aux Etats-Unis en septembre a réjoui les marchés mondiaux vendredi, renforçant les attentes de baisses des taux de la banque centrale américaine .\nLes trois...",
-      "content": "Washington (awp/afp) - Une inflation moins forte que prévu aux Etats-Unis en septembre a réjoui les marchés mondiaux vendredi, renforçant les attentes de baisses des taux de la banque centrale américaine (Fed).\nLes trois indices vedettes de Wall Stre... [4159 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-bourses-mondiales-saluent-l-inflation-americaine-records-a-wall-street-ce7d5dded889f127",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-27T185922Z_1_LYNXMPED0Q14A_RTROPTP_2_MARKETS-STOCKS.JPG",
-      "publishedAt": "2025-10-24T20:57:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
