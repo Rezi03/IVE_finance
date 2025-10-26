@@ -7,6 +7,22 @@
   "totalArticles": 25290,
   "articles": [
     {
+      "id": "61e8b88370a90805c1d58c426a995a4a",
+      "title": "Haute-Savoie Comment la station du Roc d’Enfer espère s'en sortir malgré une dette de plus de 3 millions d'euros",
+      "description": "Sous le poids d’une dette de plus de 3 millions d’euros, la société d’économie mixte du Roc d’Enfer, à cheval sur Bellevaux et Saint-Jean-d’Aulps, ...",
+      "content": "Le Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de vot... [767 chars]",
+      "url": "https://www.ledauphine.com/societe/2025/10/25/comment-la-station-du-roc-d-enfer-espere-s-en-sortir-malgre-une-dette-de-plus-de-3-millions-d-euros",
+      "image": "https://cdn-s-www.ledauphine.com/images/6D7E6D0D-5D0A-49C5-AE1E-B269F966AFFF/FB1200/photo-1761402483.jpg",
+      "publishedAt": "2025-10-25T14:28:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "7a38a33df34486f9b63a19c857a2f448",
+        "name": "Le Dauphiné Libéré",
+        "url": "https://www.ledauphine.com",
+        "country": "fr"
+      }
+    },
+    {
       "id": "8f1cc804011ee6431dfb3948008cfb25",
       "title": "Le gouverneur de la Banque de France s'inquiète du risque \" d'étouffement progressif \" du pays",
       "description": "François Villeroy de Galhau indique que la France n'est « pas menacé de faillite, mais d'étouffement progressif » en raison de l'augmentation des intérêts de la dette. Il s'est également dit favorable à des mesures de lutte contre l'optimisation fiscale.",
@@ -147,22 +163,6 @@
         "id": "5eca54a281f8fb040f8089593c1ae8bc",
         "name": "L'Echo",
         "url": "https://www.lecho.be",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "00c68efc24eca99b4f4c3e4ac15453f9",
-      "title": "Triple record à Wall Street après l'inflation américaine",
-      "description": "La Bourse de New York a terminé sur de nouveaux sommets vendredi, traversée par un vent d'optimisme après l'annonce d'une inflation moins forte que prévu en septembre qui vient confirmer les attentes de baisses de taux de la banque centrale américaine (Fed).",
-      "content": "La Bourse de New York a terminé sur de nouveaux sommets vendredi, traversée par un vent d'optimisme après l'annonce d'une inflation moins forte que prévu en septembre qui vient confirmer les attentes de baisses de taux de la banque centrale américain... [3401 chars]",
-      "url": "https://actu.orange.fr/economie/triple-record-a-wall-street-apres-l-inflation-americaine-CNT000002lnN2M.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fc0541ebe-1b3e-43b3-97be-00e646458a7d.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-24T20:29:52Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
         "country": "fr"
       }
     }
