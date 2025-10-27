@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25291,
+  "totalArticles": 25292,
   "articles": [
+    {
+      "id": "de31aa4acef3cecdfc53f5a03b9555f9",
+      "title": "Les espèces de moins en moins utilisées : craignez",
+      "description": "Alors que plus de la moitié des Français semble avoir fait une croix sur les paiements en liquide, la monnaie physique reste une valeur sûre en cas de crise. Selon vous, avons-nous à craindre une potentielle disparition du cash ?\nEst-ce bientôt la fin des paiements en liquide ? Selon une étude Panorabanque reprise par LCI, 49 % des Français retirent de l'argent liquide moins d'une fois par mois, et seuls 38 % d'entre eux signeraient plus d'un chèque par an. En face, l'usage des cartes bancaires et des téléphones comme moyens de paiement continue de croître. Derrière le changement des habitudes se cache peut-être une rupture générationnelle. \"J'ai toujours de l'argent liquide sur moi\", explique une retraitée du Bas-Rhin à la chaîne de télévision, alors que son mari explique : \"Nos enfants utilisent surtout la carte, nous, les anciens, un peu moins.\"\nPourtant, l'ère du liquide n'est pas vraiment révolue. Au contraire, la Banque centrale européenne (BCE) recommandait récemment dans son rapport \"Keep calm and carry cash\" de prévoir 70 à 100 euros par personne, à conserver en monnaie physique chez soi, au même titre que l'eau, la nourriture ou les médicaments. Le but : avoir assez pour survivre au moins trois jours en cas de crise.\nUn rôle essentiel en cas de crise\nLors de la crise de la dette en Grèce en 2008, de la pandémie de Covid-19 ou encore de la panne d'électricité en 2025 en Espagne, les Européens se sont tournés vers le liquide. Pendant la pandémie, l'émission nette cumulée de billets est montée à 140 milliards, contre 55 milliards d'euros pour une année \"normale\". Et ce, malgré le risque de contagion du virus lors de la transmission de monnaie, par exemple.\nPlus que de permettre de rassurer les citoyens, ces réserves de liquide joueraient un autre rôle crucial en cas de crise, selon l'institution. Les espèces peuvent alors \"constituer un contrepoids à la concentration des pouvoirs dans les systèmes de paiements, renforcer la concurrence et permettre des transactions non enregistrées\". En ce sens, elle estime que \"ces résultats confirment la reconnaissance croissante, parmi les autorités, du fait que l'argent liquide constitue un élément essentiel de la préparation nationale aux crises\". Reste à savoir si une telle crise est à prévoir, et à quel point celle-ci impacterait le quotidien des Français.",
+      "content": "Alors que plus de la moitié des Français semble avoir fait une croix sur les paiements en liquide, la monnaie physique reste une valeur sûre en cas de crise. Selon vous, avons-nous à craindre une potentielle disparition du cash ?\nEst-ce bientôt la fi... [2094 chars]",
+      "url": "https://actu.orange.fr/question-du-jour-2025-10-27-CNT000002lp0AW.html",
+      "image": "https://media2.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2F887%2F79c%2F955edae28f1e7902a0fd86eb85%2F88779c955edae28f1e7902a0fd86eb85.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-27T00:00:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "28f069af3d9b0e62e66dda73b12d20cb",
       "title": "L'édito éco de Lucie Robequain. L’allégorie de la caverne, version parlementaire",
@@ -147,22 +163,6 @@
         "id": "3cf85c8714154abe13a5cdac30752179",
         "name": "Actualités - Orange",
         "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b024d73547840a7f84084a8c99275c2d",
-      "title": "Les bourses en direct | Wall Street termine à des records après l'inflation US, AMD bondit de près de 8%",
-      "description": "La Bourse US a clôturé à des records, alors que les bourses européennes avaient fini en ordre dispersé, réconfortées pour la plupart par une inflation moins forte que prévu aux États-Unis en septembre.",
-      "content": "La candidate de gauche Catherine Connolly remporte la présidentielle en Irlande\n\"Légendes Pokémon Z-A\", \"Bozar Arcade\", festivals d'automne... nos coups de cœur culturels du week-end\nRéindustrialiser Bruxelles à coups de champignons, le \"spore\" de co... [307 chars]",
-      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-termine-a-des-records-apres-l-inflation-us-amd-bondit-de-pres-de-8/10632694.html",
-      "image": "https://images.tijd.be/view?iid=Elvis:3p2fT_8Ra0t9ow2QXM08rp&context=ONLINE&ratio=16/9&width=1280&u=1761351104000",
-      "publishedAt": "2025-10-25T00:11:44Z",
-      "lang": "fr",
-      "source": {
-        "id": "5eca54a281f8fb040f8089593c1ae8bc",
-        "name": "L'Echo",
-        "url": "https://www.lecho.be",
         "country": "fr"
       }
     }
