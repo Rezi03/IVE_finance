@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25295,
+  "totalArticles": 25296,
   "articles": [
+    {
+      "id": "07f97084c01abb9c00036133d66787bc",
+      "title": "CAC 40 : Proche de ses records après Wall Street",
+      "description": "En dépit d'une inflation meilleure que prévue aux Etats-Unis, la bourse de Paris a terminé parfaitement stable vendredi, alourdie par quelques résultats d'entreprise et une activité des services...",
+      "content": "En dépit d'une inflation meilleure que prévue aux Etats-Unis, la bourse de Paris a terminé parfaitement stable vendredi, alourdie par quelques résultats d'entreprise et une activité des services en France.\nL'indice PMI composite s'est établi à 46.8 e... [1120 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/proche-de-ses-records-apres-wall-street-ce7d5ddedf88f220",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//graf/as51446154.gif",
+      "publishedAt": "2025-10-27T07:00:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "3fda1e4d6f3c4290195ba21efa65a9d9",
       "title": "Argentine : Javier Milei déjoue les sondages et remporte largement les élections législatives",
@@ -147,22 +163,6 @@
         "id": "f401cf643d772233735406ba09ca0d0b",
         "name": "Le Figaro",
         "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "fdd08da68e4b1887b25dea137348b500",
-      "title": "\"Un étouffement progressif\" : l'avertissement du gouverneur de la Banque de France sur les finances publiques",
-      "description": "[VIDÉO] ▶️ Le pays est menacé d'\"étouffement progressif\", prévient ce samedi le gouverneur de la Banque de France, François Villeroy de Galhau. En cause ? Des intérêts de la dette toujours plus importants, alors que le déficit pour 2026 est actuellement en jeu à l'Assemblée nationale. - \"Un étouffement progressif\" : l'avertissement du gouverneur de la Banque de France sur les finances publiques (Économie).",
-      "content": "Le pays est menacé d'\"étouffement progressif\", prévient ce samedi le gouverneur de la Banque de France, François Villeroy de Galhau.\nEn cause ? Des intérêts de la dette toujours plus importants, alors que le déficit pour 2026 est actuellement en jeu ... [2138 chars]",
-      "url": "https://www.tf1info.fr/economie/un-etouffement-progressif-l-avertissement-du-gouverneur-de-la-banque-de-france-sur-les-finances-publiques-2402698.html",
-      "image": "https://photos.tf1info.fr/images/1280/720/villeroy-de-galhau-2-1bc4fc-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
-      "publishedAt": "2025-10-25T11:53:48Z",
-      "lang": "fr",
-      "source": {
-        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
-        "name": "TF1 INFO",
-        "url": "https://www.tf1info.fr",
         "country": "fr"
       }
     }
