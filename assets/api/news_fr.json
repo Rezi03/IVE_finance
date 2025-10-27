@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25299,
+  "totalArticles": 25301,
   "articles": [
+    {
+      "id": "f824b9cbec29054c141effa2b659e44e",
+      "title": "Optimisme sur les baisses de taux : les ETN crypto attirent 921 millions de dollars",
+      "description": "Les produits d'investissement liés aux actifs numériques ont enregistré des entrées nettes de 921 millions de dollars la semaine dernière, portées par un regain de confiance des investisseurs après la... - 27/10/2025 à 12:12 - Boursorama",
+      "content": "Les produits d'investissement liés aux actifs numériques ont enregistré des entrées nettes de 921 millions de dollars la semaine dernière, portées par un regain de confiance des investisseurs après la publication d'un indice des prix à la consommatio... [1922 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/optimisme-sur-les-baisses-de-taux-les-etn-crypto-attirent-921-millions-de-dollars-a9403f6380b96502050a34eab27540c7",
+      "image": "https://www.boursorama.com/static/i/content/images/1/9/0/190ae056a7ee540ef58940b033388813-1280x720.jpg",
+      "publishedAt": "2025-10-27T11:12:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "959feef03abdd86ff5248a075b0e59e8",
+      "title": "Découverts bancaires : comment une nouvelle réglementation va bouleverser les habitudes des Français",
+      "description": "Quand les finances se resserrent en fin de mois, le découvert apparaît souvent comme une solution quasi automatique. Mais dès fin 2026, ce recours sera encadré par le nouveau cadre du crédit à la consommation, ce qui pourrait en restreindre l’accès pour certains ménages.\nSelon une étude publiée par MoneyVox, près de 8 % des Français se retrouvent dans le rouge à la fin du mois. Dans 26 % des cas, il s'agit d'un découvert de moins de 100 euros. Par ailleurs, parmi les Français ayant connu un solde négatif, 90 % déclarent disposer d’une autorisation de découvert.\nAccordé presque systématiquement, ce dernier sera désormais soumis à davantage de règles, ce qui risque de restreindre son accès pour de nombreux ménages. En effet, MoneyVox rappelle que, selon la Banque de France, à partir du 20 novembre 2026, la facilité de caisse et le découvert bancaire seront intégrés au régime complet du crédit à la consommation.\nProtéger les consommateurs\n\"L’objectif est de prévenir le surendettement en encadrant les pratiques d’emprunt, notamment pour les crédits de faible montant, de courte durée ou facilement accessibles via Internet\", peut-on lire sur service-public.gouv. Selon la Banque de France, \"le client devra recevoir une présentation claire des coûts, du TAEG et des conditions de remboursement\", relaie le média spécialisé.\nLes découverts devront être demandés\nPar ailleurs, la banque devra \"évaluer la solvabilité du client, afin de s'assurer qu'il est en mesure de la rembourser\". Pour les montants inférieurs à 200 euros, les obligations restent légères, mais dès 201 euros, l’étude devient approfondie : revenus, dépenses et consultation du fichier des incidents de crédit seront exigés. Un dispositif qui mettra un terme au découvert automatique puisque les clients devront en faire la demande systématique auprès de leurs banques. \"Pour la population riche, l'impact sera limité\", juge auprès de MoneyVox Jérôme Lasserre Capdeville, maître de conférences à l'Université de Strasbourg et auteur du livre \"Le Droit du Crédit à la consommation\". \"Il faudra respecter la procédure, mais il n'y aura pas de souci, les justificatifs seront solides\", ajoute-t-il.\nUn luxe pour les ménages modestes\nEn revanche, la situation se complique pour les ménages moins aisés. Selon MoneyVox, un découvert régulier de 400 euros ferait grimper le taux d’endettement à 46 %, bien au‑delà de la limite des 30 % — règle selon laquelle les charges liées au logement ou aux crédits ne devraient pas dépasser 30 % des revenus nets mensuels — ce qui rendrait le dossier non éligible. Avec cet exemple : il faudrait gagner 5 000 euros nets mensuels pour prétendre à un découvert de 400 euros si on a 1 000 euros de charges.\nCette nouvelle ordonnance s’applique aux \"nouvelles\" autorisations de découvert, accordées à partir du 20 novembre 2026. Et celles déjà en vigueur ? Selon la Banque de France, elles \"ne sont pas concernées par le nouveau régime\" rappelle MoneyVox.",
+      "content": "Quand les finances se resserrent en fin de mois, le découvert apparaît souvent comme une solution quasi automatique. Mais dès fin 2026, ce recours sera encadré par le nouveau cadre du crédit à la consommation, ce qui pourrait en restreindre l’accès p... [2713 chars]",
+      "url": "https://actu.orange.fr/france/decouverts-bancaires-comment-une-nouvelle-reglementation-va-bouleverser-les-habitudes-des-francais-magic-CNT000002lpz2T.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fd4f%2F637%2F16d610134ed69411531f97144a%2Fd4f63716d610134ed69411531f97144a.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-27T10:30:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "e7cfb5d8f5bcfd498c88b244d3072c50",
       "title": "BCE : toujours à l'aise à 2%",
@@ -131,38 +163,6 @@
         "id": "3cf85c8714154abe13a5cdac30752179",
         "name": "Actualités - Orange",
         "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "28f069af3d9b0e62e66dda73b12d20cb",
-      "title": "L'édito éco de Lucie Robequain. L’allégorie de la caverne, version parlementaire",
-      "description": "Derrière un CAC 40 triomphant et une dette qui se finance à bon compte, l’illusion prospère : la France se raconte une histoire budgétaire qui ne résistera pas au réel.",
-      "content": "Les chiffres sont parfois plus trompeurs que les lettres. Cette semaine, le CAC 40, qui constitue l’indice vedette de la Bourse de Paris, a franchi un seuil historique (8.259 points en clôture), laissant penser que les entreprises françaises s’accomm... [3106 chars]",
-      "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/62195198590850/ledito-eco-de-lucie-robequain-l-allegorie-de-la-caverne-version-parlementaire",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/09/27/decouvrez-l-edito-de-lucie-robequain-1759006439_7d33f989b7d867143f989b7d85543fv_.jpg",
-      "publishedAt": "2025-10-26T07:40:05Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "61e8b88370a90805c1d58c426a995a4a",
-      "title": "Haute-Savoie Lourdemment endettée, la station du Roc d'Enfer joue sa survie devant le tribunal de commerce",
-      "description": "Sous le poids d’une dette de plus de 3 millions d’euros, la société d’économie mixte du Roc d’Enfer, à cheval sur Bellevaux et Saint-Jean-d’Aulps, ...",
-      "content": "Le Dauphiné Libéré, en tant que responsable de traitement, recueille dans ce formulaire des informations qui sont enregistrées dans un fichier informatisé par son Service Relations Clients, la finalité étant d’assurer la création et la gestion de vot... [767 chars]",
-      "url": "https://www.ledauphine.com/societe/2025/10/25/comment-la-station-du-roc-d-enfer-espere-s-en-sortir-malgre-une-dette-de-plus-de-3-millions-d-euros",
-      "image": "https://cdn-s-www.ledauphine.com/images/6D7E6D0D-5D0A-49C5-AE1E-B269F966AFFF/FB1200/photo-1761419278.jpg",
-      "publishedAt": "2025-10-25T14:28:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "7a38a33df34486f9b63a19c857a2f448",
-        "name": "Le Dauphiné Libéré",
-        "url": "https://www.ledauphine.com",
         "country": "fr"
       }
     }
