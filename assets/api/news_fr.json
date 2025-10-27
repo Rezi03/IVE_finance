@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25298,
+  "totalArticles": 25299,
   "articles": [
+    {
+      "id": "e7cfb5d8f5bcfd498c88b244d3072c50",
+      "title": "BCE : toujours à l'aise à 2%",
+      "description": "Commentaires de Michael Krautzberger, CIO Public Markets chez AllianzGI, en amont de la réunion de la BCE du 30 octobre 2025 Nous prévoyons que la Banque centrale européenne maintiendra son taux de dé... - 27/10/2025 à 09:30 - Boursorama",
+      "content": "Commentaires de Michael Krautzberger, CIO Public Markets chez AllianzGI, en amont de la réunion de la BCE du 30 octobre 2025\nNous prévoyons que la Banque centrale européenne maintiendra son taux de dépôt inchangé à 2 %.\nAvec une inflation enfin confo... [5800 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/bce-toujours-a-l-aise-a-2-5239ed7ee89ab602834dcc5ef3c140ac",
+      "image": "https://www.boursorama.com/static/i/content/images/5/a/d/5ad88aafcf91429b74df0481054e301b-1280x790.jpg",
+      "publishedAt": "2025-10-27T08:30:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "2bcbfe5c7c7ee2d51cdea0ff8e7f0d29",
       "title": "Perspectives de croissance solides pour l'Inde, diversification des échanges malgré les tensions tarifaires avec les États-Unis, selon le gouvernement",
@@ -147,22 +163,6 @@
         "id": "7a38a33df34486f9b63a19c857a2f448",
         "name": "Le Dauphiné Libéré",
         "url": "https://www.ledauphine.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8f1cc804011ee6431dfb3948008cfb25",
-      "title": "Le gouverneur de la Banque de France s'inquiète du risque \" d'étouffement progressif \" du pays",
-      "description": "François Villeroy de Galhau indique que la France n'est « pas menacé de faillite, mais d'étouffement progressif » en raison de l'augmentation des intérêts de la dette. Il s'est également dit favorable à des mesures de lutte contre l'optimisation fiscale.",
-      "content": "La situation dégradée des finances publiques fait courir à la France le risque d'un « étouffement progressif », a averti samedi le gouverneur de la Banque de France, dans une interview publiée par La Croix au lendemain du maintien de la note souverai... [2591 chars]",
-      "url": "https://www.latribune.fr/article/economie/finances-publiques/35605519486462/le-gouverneur-de-la-banque-de-france-sinquiete-du-risque-detouffement-progressif-du-pays",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/25/bank-of-france-governor-francois-villeroy-de-galhau-looks-on-during-the-54th-annual-meeting-of-the-w-1761399294_58a5853bebe867ca5853bebe850b58v_.jpg",
-      "publishedAt": "2025-10-25T13:34:55Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
         "country": "fr"
       }
     }
