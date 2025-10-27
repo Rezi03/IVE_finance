@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25292,
+  "totalArticles": 25293,
   "articles": [
+    {
+      "id": "16454bacc8655aef2965b5ce2fd12bd0",
+      "title": "La roupie indienne pourrait prolonger sa hausse, dopée par la Banque centrale et l'inflation américaine plus faible",
+      "description": "La roupie indienne s'apprête à ouvrir en hausse ce lundi, poursuivant sa récente envolée stimulée par l'intervention de la Banque de réserve de l'Inde , après la publication d'une inflation...\n-Le 27 octobre 2025 à 04:07\n- Zonebourse",
+      "content": "La roupie indienne s'apprête à ouvrir en hausse ce lundi, poursuivant sa récente envolée stimulée par l'intervention de la Banque de réserve de l'Inde (RBI), après la publication d'une inflation américaine inférieure aux attentes pour le mois de sept... [2184 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-roupie-indienne-pourrait-prolonger-sa-hausse-dopee-par-la-banque-centrale-et-l-inflation-america-ce7d5ddedc8cf727",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-27T030254Z_1_LYNXMPEL9Q03T_RTROPTP_4_INDIA-ECONOMY-RATES.JPG",
+      "publishedAt": "2025-10-27T03:07:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "de31aa4acef3cecdfc53f5a03b9555f9",
       "title": "Les espèces de moins en moins utilisées : craignez",
@@ -147,22 +163,6 @@
         "id": "1775966eb8106b18adce505f85009b83",
         "name": "L'Opinion",
         "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "34acff8f46cfc963b9ff2ff5e981d393",
-      "title": "La France échappe à une dégradation de sa note par l'agence Moody's",
-      "description": "Moody's, vendredi 24 octobre, a finalement renoncé à abaisser la note de la France, qui conserve pour l'agence de notation américaine la quatrième position la plus élevée.\nAprès que les agences américaines Fitch et Standard & Poor’s ont abaissé, à un mois d’intervalle entre septembre et mi-octobre, la note de la dette publique française de AA- à A+, c’était au tour de Moody’s de trancher.\nLa décision, rendue vendredi 24 octobre, s’avère moins sévère qu’anticipé. Selon Le Parisien, l’une des trois grandes agences américaines a choisi de laisser un peu de marge au pays, en maintenant sa note de crédit inchangée.\nLa note de la France reste fixée à AA3\nLa France conserve ainsi sa note AA3 (la quatrième meilleure note possible), mais, selon nos confrères, la confiance des marchés envers le pays continue de décliner. Parmi les causes évoquées : la crise politique actuelle, les difficultés à boucler le budget 2026, ainsi que l’instabilité économique qui touche le pays.\nLe projet de loi de finances pour l'année prochaine est actuellement à l'étude par les députés de l'Assemblée nationale. Un budget que le Premier ministre Sébastien Lecornu reconnaît de \"transition\". \"Des économies seront réalisées et les budgets diminueront\", a-t-il assuré vendredi 24 octobre dans l'Hémicycle. Les parlementaires ont moins de deux mois pour se mettre d’accord.\n\"Moody’s a souhaité laisser une chance au gouvernement de pouvoir redresser la barre des finances publiques avant qu’il ne soit trop tard, et que les marchés ne s’emballent\", commente un analyste contacté par Le Parisien. Selon lui, une fois ce cap franchi, il sera très difficile de revenir en arrière. \"Cette décision témoigne de l’absolue nécessité de construire un chemin collectif vers un compromis budgétaire\", a commenté de son côté le ministre de l'Économie, Roland Lescure, dans un communiqué relayé par France Info.",
-      "content": "Moody's, vendredi 24 octobre, a finalement renoncé à abaisser la note de la France, qui conserve pour l'agence de notation américaine la quatrième position la plus élevée.\nAprès que les agences américaines Fitch et Standard & Poor’s ont abaissé, à un... [1106 chars]",
-      "url": "https://actu.orange.fr/france/la-france-echappe-a-une-degradation-de-sa-note-par-l-agence-moody-s-magic-CNT000002lnU1B.html",
-      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2F8fb%2F6c6%2Feb43fb359a74dcdc2c0eae6b94%2F8fb6c6eb43fb359a74dcdc2c0eae6b94.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-25T05:57:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
         "country": "fr"
       }
     }
