@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25293,
+  "totalArticles": 25295,
   "articles": [
+    {
+      "id": "3fda1e4d6f3c4290195ba21efa65a9d9",
+      "title": "Argentine : Javier Milei déjoue les sondages et remporte largement les élections législatives",
+      "description": "Alors que les sondages lui étaient largement défavorables, le président argentin Javier Milei a finalement largement remporté les élections législatives de mi-mandat avec son parti Libertad Avanza. Après avoir proclamé sa victoire, il a promis de poursuivre sur la \"voie réformiste\" qu'il a initiée en 2023 lors de la présidentielle.\nJour de gloire pour Javier Milei. Le président ultralibéral de l'Argentine a proclamé la victoire de son camp, dimanche 26 octobre au soir, à l'issue des élections législatives. Son parti Libertad Avanza a récolté près de 41 % des voix, selon les résultats officiels à 97 % du décompte, pas encore entérinés par l'autorité électorale, rapporte Le Monde. LLA est arrivé en tête dans 16 provinces, notamment à Buenos Aires, qui est pourtant un bastion de l'opposition péroniste.\nUn taux de participation historiquement faible\nSelon les premières projections, cette large victoire – entachée par le plus faible taux de participation depuis le retour de la démocratie en 1983 (68 %) – permettrait à Javier Milei et aux siens de gagner 64 sièges supplémentaires à la chambre basse et 13 sièges à la chambre haute.\nAlors que ses partisans exultaient dans les rues, Javier Milei a prononcé ses premiers mots post-victoire dimanche soir et a promis \"d'avancer sur la voie réformiste\" qui l'a fait remporter l'élection présidentielle en 2023.\nLLA a déjoué les sondages qui lui étaient largement défavorables. Les péronistes (l'opposition de centre gauche) devaient, selon les enquêtes d'opinion réalisées avant le scrutin, l'emporter d'une courte tête. Ces mauvais pronostics avaient mis à mal l'économie argentine, à tel point que Donald Trump avait promis d'apporter son aide. Quelques minutes après l'annonce des résultats, le président américain a d'ailleurs chaudement félicité son homologue argentin sur sa plateforme TruthSocial : \"Félicitations au président Javier Milei pour sa victoire écrasante en Argentine. Il fait un travail formidable ! Notre confiance en lui a été justifiée par le peuple argentin.\"",
+      "content": "Alors que les sondages lui étaient largement défavorables, le président argentin Javier Milei a finalement largement remporté les élections législatives de mi-mandat avec son parti Libertad Avanza. Après avoir proclamé sa victoire, il a promis de pou... [1790 chars]",
+      "url": "https://actu.orange.fr/politique/argentine-javier-milei-dejoue-les-sondages-et-remporte-largement-les-elections-legislatives-magic-CNT000002lpql6.html",
+      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Ffea%2F2a1%2Fd262c80282ee1f8674cfe5eb24%2Ffea2a1d262c80282ee1f8674cfe5eb24.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-27T05:54:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "3e326f3501f132d6e1c6e51a4e5d6545",
+      "title": "Une réunion sans fantômes à la veille d'Halloween",
+      "description": "Pas de frayeur monétaire à la veille d'Halloween: la Banque centrale européenne devrait laisser ses taux inchangés jeudi pour la troisième fois d'affilée grâce à l'inflation maîtrisée, sa...",
+      "content": "Francfort (awp/afp) - Pas de frayeur monétaire à la veille d'Halloween: la Banque centrale européenne (BCE) devrait laisser ses taux inchangés jeudi pour la troisième fois d'affilée grâce à l'inflation maîtrisée, sa présidente évitant par ailleurs de... [3620 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/une-reunion-sans-fantomes-a-la-veille-d-halloween-ce7d5ddedc80f727",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-27T05:33:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "16454bacc8655aef2965b5ce2fd12bd0",
       "title": "La roupie indienne pourrait prolonger sa hausse, dopée par la Banque centrale et l'inflation américaine plus faible",
@@ -131,38 +163,6 @@
         "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
         "name": "TF1 INFO",
         "url": "https://www.tf1info.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "2ba2636cfcf9b696c4a156fe52c12b67",
-      "title": "Aa3: Moody’s donne un sursis à la France en maintenant sa note, avec perspective négative",
-      "description": "Un répit en pleine discussion du budget qui témoigne, selon le ministre de l’Economie, de la nécessité d’un « compromis » sur celui-ci. L’agence de notation Moody’s a maintenu sa note à Aa3 (dette de",
-      "content": "Toutes soulignent l’instabilité politique depuis la dissolution de l'Assemblée nationale en juin 2024, qui pèse sur les finances publiques françaises et paralyse partiellement deux moteurs de croissance, la consommation des ménages et les investissem... [1813 chars]",
-      "url": "https://www.charentelibre.fr/politique/partis-politiques/aa3-moody-s-donne-un-sursis-a-la-france-en-maintenant-sa-note-avec-perspective-negative-26468616.php",
-      "image": "https://media.charentelibre.fr/26468616/1200x-1/bercyafp.jpeg",
-      "publishedAt": "2025-10-25T07:41:42Z",
-      "lang": "fr",
-      "source": {
-        "id": "d54daacc07ae7c4d7ef35d1825312cad",
-        "name": "Charente Libre",
-        "url": "https://www.charentelibre.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "528bff3dc02c6701c03f42ee25869627",
-      "title": "Sur fond d'instabilité politique, Moody's donne un sursis à la France en maintenant sa note, avec perspective négative",
-      "description": "Moody's a maintenu la note souveraine de la France à Aa3, tout en abaissant la perspective à « négative », citant l'instabilité politique liée à la dissolution de l'Assemblée nationale et à la difficulté à trouver des compromis budgétaires. Cette décision survient alors que Fitch et S&P Global ont récemment abaissé leur propre notation de la France, pointant également le niveau élevé du déficit public et la stagnation de la croissance. Moody's met en garde contre un affaiblissement des institutions et une fragmentation politique durable, mais n'anticipe pas de crise économique immédiate, la dynamique de l'emploi et des entreprises restant solides. Le gouvernement français insiste sur la nécessité d'un compromis autour du budget pour respecter ses objectifs de réduction du déficit d'ici 2029, malgré la pression du Parti socialiste pour une fiscalité accrue sur les plus riches. Les marchés traitent désormais la dette française à un niveau inférieur à la note officielle, reflétant la prudence des investisseurs face à l'incertitude politique.",
-      "content": "Paris - Moody’s a choisi vendredi de maintenir la note souveraine de la France, tout en abaissant la perspective à «négative», un répit en pleine discussion du budget qui témoigne, selon le ministre de l’Economie, de la nécessité d’un «compromis» sur... [20104 chars]",
-      "url": "https://www.lopinion.fr/economie/sur-fond-dinstabilite-politique-moodys-donne-un-sursis-a-la-france-en-maintenant-sa-note-avec-perspective-negative",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/3c414b7/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Feb43d19c1ff5c1ffd05c02566f44bf792f423c3c.jpeg",
-      "publishedAt": "2025-10-25T06:27:36Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
         "country": "fr"
       }
     }
