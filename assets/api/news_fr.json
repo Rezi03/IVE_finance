@@ -4,8 +4,88 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25302,
+  "totalArticles": 25307,
   "articles": [
+    {
+      "id": "de139877b8cd2d11e0a223d8cb5b219c",
+      "title": "Victoire de Milei : la Bourse bondit, le peso s’envole, le taux d’emprunt recule",
+      "description": "Le succès du parti de Javier Milei déclenche une euphorie massive des marchés financiers argentins. Ce soutien politique conforte la relation stratégique avec les États-Unis, garantissant un plan d’assistance économique de 40 milliards de dollars, mais oblige le président à trouver de nouvelles alliances parlementaires pour finaliser son programme de réformes structurelles.",
+      "content": "La nette victoire électorale de Javier Milei lors des législatives de mi-mandat, dimanche, a agi comme un détonateur sur la finance argentine, signant un regain de confiance majeur de la part des investisseurs internationaux. Dès l’ouverture des marc... [4992 chars]",
+      "url": "https://www.latribune.fr/article/economie/international/12048117920259/victoire-de-milei-la-bourse-bondit-le-peso-s-envole-le-taux-d-emprunt-recule",
+      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/27/le-president-argentin-javier-milei-reagit-apres-la-victoire-du-parti-la-libertad-avanza-aux-election-1761577893_92c299118ff8696c299118ff8fac29v_.jpg",
+      "publishedAt": "2025-10-27T15:11:33Z",
+      "lang": "fr",
+      "source": {
+        "id": "a475e4eb8a88f44bec788830464aef42",
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "5d2d9e23489b551ddcf9ff5096434b71",
+      "title": "Un important pari sur le marché américain des taux anticipe la fin du resserrement du bilan de la Fed",
+      "description": "un taux repo du marché monétaire - s'établira à moins de neuf points de base au-dessus du taux des fonds fédéraux attendu, le taux directeur de la banque centrale américaine, en...",
+      "content": "Un important mouvement sur le marché américain des taux d'intérêt, observé en fin de semaine dernière, semble anticiper l'annonce tant attendue de la Réserve fédérale visant à mettre un terme à son programme de réduction de bilan, connu sous le nom d... [5346 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/un-important-pari-sur-le-marche-americain-des-taux-anticipe-la-fin-du-resserrement-du-bilan-de-la-fe-ce7d5ddfd880f020",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-31T093827Z_1_LYNXMPEL6U0LZ_RTROPTP_4_USA-FED.JPG",
+      "publishedAt": "2025-10-27T14:41:11Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "e9c489877cec9d3971378fe74aa874e5",
+      "title": "Argentine : la Bourse de Buenos Aires décolle de plus de 20% après la victoire électorale de Javier Milei",
+      "description": "Le taux d’emprunt de l’Argentine à échéance 10 ans baissait lui fortement ce lundi, au lendemain de la large victoire du président ultralibéral lors de législatives de mi-mandat.",
+      "content": "À lire aussi\n«J’ai commencé en balayant les ateliers» : pourquoi les «ingénieurs maison» ont-ils disparu dans l’industrie française ?\nRÉCIT - Populaire dans les années 1970, le parcours pouvant conduire un technicien au rang d’ingénieur est beaucoup ... [443 chars]",
+      "url": "https://www.lefigaro.fr/conjoncture/argentine-la-bourse-de-buenos-aires-decolle-de-plus-de-20-apres-la-victoire-electorale-de-javier-milei-20251027",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/27/f8334f5bd28a0fa76f65d65e2542b7a46f7abb1f68dda94f3f0c1e52823a0861.jpg",
+      "publishedAt": "2025-10-27T14:36:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b48b0628faf5075a06211c0ab77372ab",
+      "title": "Bourse de New York : espoirs d'accord sino-américain et Fed dopent Wall Street",
+      "description": "La Bourse de New York démarre la semaine en hausse, soutenue par l’optimisme autour d’un possible accord commercial entre les États-Unis et la Chine, alors que la Fed s’apprête à annoncer une probable baisse des taux. Les déclarations de Donald Trump et les signaux d’apaisement de part et d’autre sur les droits de douane contribuent à rassurer les marchés. En parallèle, le rendement obligataire américain progresse légèrement et les valeurs technologiques sont attendues autour de leurs résultats trimestriels, tout comme les géants Microsoft, Google, Meta, Apple et Amazon. Les sociétés minières pâtissent d’un retard potentiel sur les restrictions chinoises à l’export, tandis que d’autres acteurs comme Qualcomm et Keurig Dr Pepper s’illustrent à la hausse, portés respectivement par des innovations dans l’IA et des résultats supérieurs aux attentes.",
+      "content": "Washington - La Bourse de New York évolue en hausse lundi, soutenue par la perspective d’un accord commercial entre les Etats-Unis et la Chine, à l’entame d’une semaine marquée par la réunion de la Réserve fédérale (Fed) et de nombreux résultats d’en... [3110 chars]",
+      "url": "https://www.lopinion.fr/economie/wall-street-portee-par-lhypothese-dune-detente-commerciale-entre-les-etats-unis-et-la-chine",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/81e5449/2147483647/strip/true/crop/1024x498+0+55/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fdaa84a3804045375c8bb095f0f9dc3060478190c.jpeg",
+      "publishedAt": "2025-10-27T14:32:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "9f8ca97b61a201ea381d8634def8817a",
+      "title": "La Zambie annonce l'intérêt d'un tiers pour reprendre sa dette envers Afreximbank",
+      "description": "Le secrétaire au Trésor de la Zambie a déclaré lundi qu'une tierce partie avait « exprimé son intérêt pour se subroger » à la dette du pays envers la Banque Africaine d'Import-Export .\nUn...\n-Le 27 octobre 2025 à 15:03\n- Zonebourse",
+      "content": "Le secrétaire au Trésor de la Zambie a déclaré lundi qu'une tierce partie avait « exprimé son intérêt pour se subroger » à la dette du pays envers la Banque Africaine d'Import-Export (Afreximbank).\nUn différend sur la nécessité pour la Zambie de rest... [419 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-zambie-annonce-l-interet-d-un-tiers-pour-reprendre-sa-dette-envers-afreximbank-ce7d5ddfd88ff023",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-27T14:03:57Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "b5d946c6583ec2daa0749b36e16c0a17",
       "title": "Les marchés boursiers s'envolent grâce à l'apaisement sur le commerce et l'inflation",
@@ -78,86 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/perspectives-de-croissance-solides-pour-l-inde-diversification-des-echanges-malgre-les-tensions-tar-ce7d5ddede8df22c",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-29T104207Z_1_LYNXMPEL7S0FO_RTROPTP_4_INDIA-ECONOMY-GDP.JPG",
       "publishedAt": "2025-10-27T08:20:30Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0eb1b23aa96240ceb2dd19d031020acf",
-      "title": "Instabilité politique, dette... : pas de risque de faillite pour la France, mais \"d'étouffement progressif\", estime François Villeroy de Galhau",
-      "description": "Le patron de la Banque de France s'est notamment inquiété du poids de la dette et du renchérissement de l'emprunt pour les particuliers et les entreprises. Épargné vendredi par l'agence de notation Mo... - 27/10/2025 à 09:07 - Boursorama",
-      "content": "Le patron de la Banque de France s'est notamment inquiété du poids de la dette et du renchérissement de l'emprunt pour les particuliers et les entreprises.\nÉpargné vendredi par l'agence de notation Moody's, la France est confrontée à un risque \"d'éto... [2462 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/instabilite-politique-dette-pas-de-risque-de-faillite-pour-la-france-mais-d-etouffement-progressif-estime-francois-villeroy-de-galhau-3589303df6efda18df8bfe387d3e9c71",
-      "image": "https://www.boursorama.com/static/i/content/images/c/b/f/cbf57f064eae67bd33203a5e3f197dd4-1200x800.jpg",
-      "publishedAt": "2025-10-27T08:07:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "07f97084c01abb9c00036133d66787bc",
-      "title": "CAC 40 : Proche de ses records après Wall Street",
-      "description": "En dépit d'une inflation meilleure que prévue aux Etats-Unis, la bourse de Paris a terminé parfaitement stable vendredi, alourdie par quelques résultats d'entreprise et une activité des services...",
-      "content": "En dépit d'une inflation meilleure que prévue aux Etats-Unis, la bourse de Paris a terminé parfaitement stable vendredi, alourdie par quelques résultats d'entreprise et une activité des services en France.\nL'indice PMI composite s'est établi à 46.8 e... [1120 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/proche-de-ses-records-apres-wall-street-ce7d5ddedf88f220",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//graf/as51446154.gif",
-      "publishedAt": "2025-10-27T07:00:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3fda1e4d6f3c4290195ba21efa65a9d9",
-      "title": "Argentine : Javier Milei déjoue les sondages et remporte largement les élections législatives",
-      "description": "Alors que les sondages lui étaient largement défavorables, le président argentin Javier Milei a finalement largement remporté les élections législatives de mi-mandat avec son parti Libertad Avanza. Après avoir proclamé sa victoire, il a promis de poursuivre sur la \"voie réformiste\" qu'il a initiée en 2023 lors de la présidentielle.\nJour de gloire pour Javier Milei. Le président ultralibéral de l'Argentine a proclamé la victoire de son camp, dimanche 26 octobre au soir, à l'issue des élections législatives. Son parti Libertad Avanza a récolté près de 41 % des voix, selon les résultats officiels à 97 % du décompte, pas encore entérinés par l'autorité électorale, rapporte Le Monde. LLA est arrivé en tête dans 16 provinces, notamment à Buenos Aires, qui est pourtant un bastion de l'opposition péroniste.\nUn taux de participation historiquement faible\nSelon les premières projections, cette large victoire – entachée par le plus faible taux de participation depuis le retour de la démocratie en 1983 (68 %) – permettrait à Javier Milei et aux siens de gagner 64 sièges supplémentaires à la chambre basse et 13 sièges à la chambre haute.\nAlors que ses partisans exultaient dans les rues, Javier Milei a prononcé ses premiers mots post-victoire dimanche soir et a promis \"d'avancer sur la voie réformiste\" qui l'a fait remporter l'élection présidentielle en 2023.\nLLA a déjoué les sondages qui lui étaient largement défavorables. Les péronistes (l'opposition de centre gauche) devaient, selon les enquêtes d'opinion réalisées avant le scrutin, l'emporter d'une courte tête. Ces mauvais pronostics avaient mis à mal l'économie argentine, à tel point que Donald Trump avait promis d'apporter son aide. Quelques minutes après l'annonce des résultats, le président américain a d'ailleurs chaudement félicité son homologue argentin sur sa plateforme TruthSocial : \"Félicitations au président Javier Milei pour sa victoire écrasante en Argentine. Il fait un travail formidable ! Notre confiance en lui a été justifiée par le peuple argentin.\"",
-      "content": "Alors que les sondages lui étaient largement défavorables, le président argentin Javier Milei a finalement largement remporté les élections législatives de mi-mandat avec son parti Libertad Avanza. Après avoir proclamé sa victoire, il a promis de pou... [1790 chars]",
-      "url": "https://actu.orange.fr/politique/argentine-javier-milei-dejoue-les-sondages-et-remporte-largement-les-elections-legislatives-magic-CNT000002lpql6.html",
-      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Ffea%2F2a1%2Fd262c80282ee1f8674cfe5eb24%2Ffea2a1d262c80282ee1f8674cfe5eb24.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-27T05:54:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3e326f3501f132d6e1c6e51a4e5d6545",
-      "title": "Une réunion sans fantômes à la veille d'Halloween",
-      "description": "Pas de frayeur monétaire à la veille d'Halloween: la Banque centrale européenne devrait laisser ses taux inchangés jeudi pour la troisième fois d'affilée grâce à l'inflation maîtrisée, sa...",
-      "content": "Francfort (awp/afp) - Pas de frayeur monétaire à la veille d'Halloween: la Banque centrale européenne (BCE) devrait laisser ses taux inchangés jeudi pour la troisième fois d'affilée grâce à l'inflation maîtrisée, sa présidente évitant par ailleurs de... [3620 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/une-reunion-sans-fantomes-a-la-veille-d-halloween-ce7d5ddedc80f727",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-27T05:33:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "16454bacc8655aef2965b5ce2fd12bd0",
-      "title": "La roupie indienne pourrait prolonger sa hausse, dopée par la Banque centrale et l'inflation américaine plus faible",
-      "description": "La roupie indienne s'apprête à ouvrir en hausse ce lundi, poursuivant sa récente envolée stimulée par l'intervention de la Banque de réserve de l'Inde , après la publication d'une inflation...\n-Le 27 octobre 2025 à 04:07\n- Zonebourse",
-      "content": "La roupie indienne s'apprête à ouvrir en hausse ce lundi, poursuivant sa récente envolée stimulée par l'intervention de la Banque de réserve de l'Inde (RBI), après la publication d'une inflation américaine inférieure aux attentes pour le mois de sept... [2184 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-roupie-indienne-pourrait-prolonger-sa-hausse-dopee-par-la-banque-centrale-et-l-inflation-america-ce7d5ddedc8cf727",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-27T030254Z_1_LYNXMPEL9Q03T_RTROPTP_4_INDIA-ECONOMY-RATES.JPG",
-      "publishedAt": "2025-10-27T03:07:16Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
