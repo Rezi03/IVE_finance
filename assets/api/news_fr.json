@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25324,
+  "totalArticles": 25326,
   "articles": [
+    {
+      "id": "3d9dc7fecb858f73828a022087d81446",
+      "title": "Paris: sous légère pression, entre espoirs de baisse de taux et résultats contrastés",
+      "description": "La Bourse de Paris est en légère contraction ce matin, autour des 8220 points (-0,2%), soutenue par Capgemini (+5,5%) et Edenred (+5%) mais pénalisée par BNP Paribas (-2,4% après des résultats décevan... - 28/10/2025 à 11:01 - Boursorama",
+      "content": "information fournie par Zonebourse•28/10/2025 à 11:01\nLa Bourse de Paris est en légère contraction ce matin, autour des 8220 points (-0,2%), soutenue par Capgemini (+5,5%) et Edenred (+5%) mais pénalisée par BNP Paribas (-2,4% après des résultats déc... [4955 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/paris-sous-legere-pression-entre-espoirs-de-baisse-de-taux-et-resultats-contrastes-a7e5d972a0c01b76d9362aa73286d9ac",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-6.jpg",
+      "publishedAt": "2025-10-28T10:01:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "32ace65af24495c69905baa63dc969ed",
+      "title": "Capgemini: L'IA soutient les résultats du T3, le titre grimpe",
+      "description": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par... - 28/10/2025 à 10:48 - Boursorama",
+      "content": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par une accélération de la demande en Amérique du Nor... [2554 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/capgemini-l-ia-soutient-les-resultats-du-t3-le-titre-grimpe-a4c19e00fed4a1d479b0aac2c933334f",
+      "image": "https://www.boursorama.com/static/i/content/images/7/f/7/7f7736950810f33cf382538fe9d8bd93-1200x800.jpg",
+      "publishedAt": "2025-10-28T09:48:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "87e781e8326f3b26e7b7d1f6cb025059",
       "title": "La Bourse de Paris recule légèrement avant de nombreux résultats de sociétés",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7e77c083924ae2133f053b5246331747",
-      "title": "CAC 40 : En légère baisse malgré Wall-Street",
-      "description": "En attendant la baisse de taux de Fed mercredi et les résultats des géants de la tech américaine, la bourse de Paris a débuté la semaine en timide hausse de 0.16% à 8239 points, rassuré...",
-      "content": "En attendant la baisse de taux de Fed mercredi et les résultats des géants de la tech américaine, la bourse de Paris a débuté la semaine en timide hausse de 0.16% à 8239 points, rassuré également par l'avancée des négociations commerciales alors que ... [907 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/en-legere-baisse-malgre-wall-street-ce7d5ddfda8af620",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//graf/as51453314.gif",
-      "publishedAt": "2025-10-28T07:00:08Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f56c944a886c12ec68e48d80d888d73d",
-      "title": "Capgemini relève sa prévision de croissance annuelle après un T3 meilleur que prévu",
-      "description": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par... - 28/10/2025 à 07:35 - Boursorama",
-      "content": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par une accélération de la demande en Amérique du Nor... [911 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/capgemini-releve-sa-prevision-de-croissance-annuelle-apres-un-t3-meilleur-que-prevu-a4c19e00fed4a1d479b0aac2c933334f",
-      "image": "https://www.boursorama.com/static/i/content/images/7/f/7/7f7736950810f33cf382538fe9d8bd93-1200x800.jpg",
-      "publishedAt": "2025-10-28T06:35:12Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
