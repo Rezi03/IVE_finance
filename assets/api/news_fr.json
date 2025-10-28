@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25311,
+  "totalArticles": 25315,
   "articles": [
+    {
+      "id": "f56c944a886c12ec68e48d80d888d73d",
+      "title": "Capgemini relève sa prévision de croissance annuelle après un T3 meilleur que prévu",
+      "description": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par... - 28/10/2025 à 07:35 - Boursorama",
+      "content": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par une accélération de la demande en Amérique du Nor... [911 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/capgemini-releve-sa-prevision-de-croissance-annuelle-apres-un-t3-meilleur-que-prevu-a4c19e00fed4a1d479b0aac2c933334f",
+      "image": "https://www.boursorama.com/static/i/content/images/7/f/7/7f7736950810f33cf382538fe9d8bd93-1200x800.jpg",
+      "publishedAt": "2025-10-28T06:35:12Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "2d84a801b063a10ade0ecfabc125e74b",
+      "title": "Capgemini relève son objectif de croissance des revenus annuels à change constants",
+      "description": "(AOF) - Capgemini a dévoilé un chiffre d’affaires trimestriel de 5,393 milliards d’euros, en hausse de 0,3%, ou de 2,9% à taux de change constants. Depuis le début de l’année, les revenus sont en bais... - 28/10/2025 à 07:35 - Boursorama",
+      "content": "(AOF) - Capgemini a dévoilé un chiffre d’affaires trimestriel de 5,393 milliards d’euros, en hausse de 0,3%, ou de 2,9% à taux de change constants. Depuis le début de l’année, les revenus sont en baisse de seulement 0,1%, à 16,5 milliards d’euros, ou... [4765 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/capgemini-releve-son-objectif-de-croissance-des-revenus-annuels-a-change-constants-aa2cd565a6f0ff6ec2700f69dfcdb70c",
+      "image": "https://www.boursorama.com/static/i/content/images/4/3/2/4329bffeff89c72d4404ac4cbf27eb8d-1600x1066.jpg",
+      "publishedAt": "2025-10-28T06:35:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "61fd01fcbf35392768f80823a0887c84",
+      "title": "Nabioullina : marge importante pour une baisse des taux si l'inflation revient à l'objectif",
+      "description": "La gouverneure de la Banque centrale de Russie, Elvira Nabioullina, a déclaré mardi que, l'inflation revenant progressivement à l'objectif de 4 %, il existe une marge significative pour une baisse...\n-Le 28 octobre 2025 à 07:24\n- Zonebourse",
+      "content": "Le Royaume-Uni confronté à un déficit de 26,8 milliards de dollars dans les finances publiques en raison d'une baisse de la productivité, selon le Financial Times\nLe 27 octobre 2025 à 22:04\nWelltower revoit à la hausse ses prévisions annuelles et lan... [898 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/nabioullina-marge-importante-pour-une-baisse-des-taux-si-l-inflation-revient-a-l-objectif-ce7d5ddfd189f323",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-28T06:24:35Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "79bb9de8271d6e8d2f6cbd66257bab52",
+      "title": "Capgemini relève sa prévision de croissance annuelle après un T3 meilleur que prévu",
+      "description": "Capgemini a relevé\nmardi sa prévision de croissance annuelle et publié un chiffre\nd’affaires de 5,39 milliards d’euros au troisième trimestre, en\nhausse de 2,9% à taux de change constants,...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/capgemini-releve-sa-prevision-de-croissance-annuelle-apres-un-t3-meilleur-que-prevu-ce7d5ddfde80f02c",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-28T06:18:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "f345ab6feb8ba27dccb498f15bdb8305",
       "title": "Renault : Mobilize Financial Services émet pour 750 millions d'euros d'obligations",
@@ -99,70 +163,6 @@
         "id": "a475e4eb8a88f44bec788830464aef42",
         "name": "La Tribune",
         "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5d2d9e23489b551ddcf9ff5096434b71",
-      "title": "Un important pari sur le marché américain des taux anticipe la fin du resserrement du bilan de la Fed",
-      "description": "un taux repo du marché monétaire - s'établira à moins de neuf points de base au-dessus du taux des fonds fédéraux attendu, le taux directeur de la banque centrale américaine, en...",
-      "content": "Un important mouvement sur le marché américain des taux d'intérêt, observé en fin de semaine dernière, semble anticiper l'annonce tant attendue de la Réserve fédérale visant à mettre un terme à son programme de réduction de bilan, connu sous le nom d... [5346 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/un-important-pari-sur-le-marche-americain-des-taux-anticipe-la-fin-du-resserrement-du-bilan-de-la-fe-ce7d5ddfd880f020",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-31T093827Z_1_LYNXMPEL6U0LZ_RTROPTP_4_USA-FED.JPG",
-      "publishedAt": "2025-10-27T14:41:11Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b48b0628faf5075a06211c0ab77372ab",
-      "title": "Bourse de New York : espoirs d'accord sino-américain et Fed dopent Wall Street",
-      "description": "La Bourse de New York démarre la semaine en hausse, soutenue par l’optimisme autour d’un possible accord commercial entre les États-Unis et la Chine, alors que la Fed s’apprête à annoncer une probable baisse des taux. Les déclarations de Donald Trump et les signaux d’apaisement de part et d’autre sur les droits de douane contribuent à rassurer les marchés. En parallèle, le rendement obligataire américain progresse légèrement et les valeurs technologiques sont attendues autour de leurs résultats trimestriels, tout comme les géants Microsoft, Google, Meta, Apple et Amazon. Les sociétés minières pâtissent d’un retard potentiel sur les restrictions chinoises à l’export, tandis que d’autres acteurs comme Qualcomm et Keurig Dr Pepper s’illustrent à la hausse, portés respectivement par des innovations dans l’IA et des résultats supérieurs aux attentes.",
-      "content": "Washington - La Bourse de New York évolue en hausse lundi, soutenue par la perspective d’un accord commercial entre les Etats-Unis et la Chine, à l’entame d’une semaine marquée par la réunion de la Réserve fédérale (Fed) et de nombreux résultats d’en... [3110 chars]",
-      "url": "https://www.lopinion.fr/economie/wall-street-portee-par-lhypothese-dune-detente-commerciale-entre-les-etats-unis-et-la-chine",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/81e5449/2147483647/strip/true/crop/1024x498+0+55/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fdaa84a3804045375c8bb095f0f9dc3060478190c.jpeg",
-      "publishedAt": "2025-10-27T14:32:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "9f8ca97b61a201ea381d8634def8817a",
-      "title": "La Zambie annonce l'intérêt d'un tiers pour reprendre sa dette envers Afreximbank",
-      "description": "Le secrétaire au Trésor de la Zambie a déclaré lundi qu'une tierce partie avait « exprimé son intérêt pour se subroger » à la dette du pays envers la Banque Africaine d'Import-Export .\nUn...\n-Le 27 octobre 2025 à 15:03\n- Zonebourse",
-      "content": "Le secrétaire au Trésor de la Zambie a déclaré lundi qu'une tierce partie avait « exprimé son intérêt pour se subroger » à la dette du pays envers la Banque Africaine d'Import-Export (Afreximbank).\nUn différend sur la nécessité pour la Zambie de rest... [419 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-zambie-annonce-l-interet-d-un-tiers-pour-reprendre-sa-dette-envers-afreximbank-ce7d5ddfd88ff023",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-27T14:03:57Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b5d946c6583ec2daa0749b36e16c0a17",
-      "title": "Les marchés boursiers s'envolent grâce à l'apaisement sur le commerce et l'inflation",
-      "description": "Par Mike Dolan, Rédacteur en chef, Finance et Marchés\nL'apaisement des tensions commerciales et l'allégement des pressions inflationnistes propulsent les marchés boursiers mondiaux à la hausse ce...",
-      "content": "Par Mike Dolan, Rédacteur en chef, Finance et Marchés\nL'apaisement des tensions commerciales et l'allégement des pressions inflationnistes propulsent les marchés boursiers mondiaux à la hausse ce lundi, alors qu'une semaine chargée s'ouvre avec de gr... [6233 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-marches-boursiers-s-envolent-grace-a-l-apaisement-sur-le-commerce-et-l-inflation-ce7d5dded081f725",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-03T134831Z_1_LYNXNPEL920LG_RTROPTP_4_GLOBAL-MARKETS.JPG",
-      "publishedAt": "2025-10-27T11:55:41Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
