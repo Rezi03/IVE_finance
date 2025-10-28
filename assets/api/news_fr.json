@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25326,
+  "totalArticles": 25329,
   "articles": [
+    {
+      "id": "fb1b0667684d85184b8c8d8536524d91",
+      "title": "Zone euro: Les consommateurs abaissent leurs anticipations d'inflation montre une enquête de la BCE",
+      "description": "Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est...\n-Le 28 octobre 2025 à 11:57\n- Zonebourse",
+      "content": "FRANCFORT (Reuters) - Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est plus une préoccupation majeure, m... [1891 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/zone-euro-les-consommateurs-abaissent-leurs-anticipations-d-inflation-montre-une-enquete-de-la-bce-ce7d5ddcdb8ff624",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-30T083322Z_1_LYNXMPEL5T09F_RTROPTP_4_ECB-POLICY.JPG",
+      "publishedAt": "2025-10-28T10:57:46Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "ffb11c14c5bb9ba02375ddce5ec544e4",
+      "title": "Zone euro: Les consommateurs abaissent leurs anticipations d'inflation montre une enquête de la BCE",
+      "description": "Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est plus ... - 28/10/2025 à 11:56 - Boursorama",
+      "content": "Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est plus une préoccupation majeure, montre mardi une nouvel... [1869 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/zone-euro-les-consommateurs-abaissent-leurs-anticipations-d-inflation-montre-une-enquete-de-la-bce-e4429e516ecf439fa5a57931456f4351",
+      "image": "https://www.boursorama.com/static/i/content/images/9/a/f/9afd191988be6a3c01a94247dd287c7e-1200x800.jpg",
+      "publishedAt": "2025-10-28T10:56:22Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "86614e6445a2dd953ff9e63be0186874",
+      "title": "La Banque d'Angleterre devrait maintenir ses taux ce trimestre et reprendre les baisses début 2026, selon un sondage Reuters",
+      "description": "La Banque d'Angleterre devrait maintenir son taux directeur à 4,00% lors de sa réunion de novembre, et une faible majorité d'économistes interrogés par Reuters n'anticipent désormais plus...\n-Le 28 octobre 2025 à 11:39\n- Zonebourse",
+      "content": "La Banque d'Angleterre devrait maintenir son taux directeur à 4,00% lors de sa réunion de novembre, et une faible majorité d'économistes interrogés par Reuters n'anticipent désormais plus d'assouplissement monétaire supplémentaire cette année.\nSi cet... [3363 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-d-angleterre-devrait-maintenir-ses-taux-ce-trimestre-et-reprendre-les-baisses-debut-2026-ce7d5ddcdb8af624",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-03T100622Z_1_LYNXMPEL620E7_RTROPTP_4_BRITAIN-BOE.JPG",
+      "publishedAt": "2025-10-28T10:39:58Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "3d9dc7fecb858f73828a022087d81446",
       "title": "Paris: sous légère pression, entre espoirs de baisse de taux et résultats contrastés",
@@ -110,54 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/capgemini-l-ia-soutient-les-resultats-du-t3-le-titre-grimpe-ce7d5ddcd98bf021",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-28T08:56:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "d8d1e60236856e910cbac7e6a1518b2a",
-      "title": "Capgemini relève ses prévisions après un T3 soutenu par l’Amérique du Nord et l’IA",
-      "description": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par... - 28/10/2025 à 08:57 - Boursorama",
-      "content": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par une accélération de la demande en Amérique du Nor... [1691 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/capgemini-releve-ses-previsions-apres-un-t3-soutenu-par-l-amerique-du-nord-et-l-ia-a4c19e00fed4a1d479b0aac2c933334f",
-      "image": "https://www.boursorama.com/static/i/content/images/7/f/7/7f7736950810f33cf382538fe9d8bd93-1200x800.jpg",
-      "publishedAt": "2025-10-28T07:57:10Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0624670f04386db3c27b8e6661b5178e",
-      "title": "La Banque centrale russe envisage d'importantes baisses de taux en 2025, selon Elvira Nabiullina",
-      "description": "La gouverneure de la Banque centrale de Russie, Elvira Nabiullina, a indiqué mardi que le taux directeur pourrait être réduit de manière significative l'an prochain, alors que l'inflation montre...\n-Le 28 octobre 2025 à 08:34\n- Zonebourse",
-      "content": "Les arbres boursiers continuent à monter jusqu'au ciel\nPlus Wall Street enchaîne les records, plus les investisseurs font référence aux années 1990, celles qui avaient abouti à l'éclatement de la fameuse \"bulle internet\". Mais les choses ne sont-elle... [370 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-russe-envisage-d-importantes-baisses-de-taux-en-2025-selon-elvira-nabiullina-ce7d5ddcd98bff21",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-28T07:34:09Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "c064fbf5bbe7ee43f9b12c49b627a920",
-      "title": "Capgemini relève ses prévisions après un T3 soutenu par l'Amérique du Nord et l'IA",
-      "description": "Capgemini a relevé\nmardi sa prévision de croissance annuelle et publié un chiffre\nd’affaires de 5,39 milliards d’euros au troisième trimestre, en\nhausse de 2,9% à taux de change constants,...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/capgemini-releve-ses-previsions-apres-un-t3-soutenu-par-l-amerique-du-nord-et-l-ia-ce7d5ddcd98bf021",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-28T07:33:15Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
