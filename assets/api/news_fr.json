@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25315,
+  "totalArticles": 25316,
   "articles": [
+    {
+      "id": "7e77c083924ae2133f053b5246331747",
+      "title": "CAC 40 : En légère baisse malgré Wall-Street",
+      "description": "En attendant la baisse de taux de Fed mercredi et les résultats des géants de la tech américaine, la bourse de Paris a débuté la semaine en timide hausse de 0.16% à 8239 points, rassuré...",
+      "content": "En attendant la baisse de taux de Fed mercredi et les résultats des géants de la tech américaine, la bourse de Paris a débuté la semaine en timide hausse de 0.16% à 8239 points, rassuré également par l'avancée des négociations commerciales alors que ... [907 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/en-legere-baisse-malgre-wall-street-ce7d5ddfda8af620",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//graf/as51453314.gif",
+      "publishedAt": "2025-10-28T07:00:08Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "f56c944a886c12ec68e48d80d888d73d",
       "title": "Capgemini relève sa prévision de croissance annuelle après un T3 meilleur que prévu",
@@ -147,22 +163,6 @@
         "id": "f401cf643d772233735406ba09ca0d0b",
         "name": "Le Figaro",
         "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "de139877b8cd2d11e0a223d8cb5b219c",
-      "title": "Victoire de Milei : la Bourse bondit, le peso s’envole, le taux d’emprunt recule",
-      "description": "Le succès du parti de Javier Milei déclenche une euphorie massive des marchés financiers argentins. Ce soutien politique conforte la relation stratégique avec les États-Unis, garantissant un plan d’assistance économique de 40 milliards de dollars, mais oblige le président à trouver de nouvelles alliances parlementaires pour finaliser son programme de réformes structurelles.",
-      "content": "La nette victoire électorale de Javier Milei lors des législatives de mi-mandat, dimanche, a agi comme un détonateur sur la finance argentine, signant un regain de confiance majeur de la part des investisseurs internationaux. Dès l’ouverture des marc... [4992 chars]",
-      "url": "https://www.latribune.fr/article/economie/international/12048117920259/victoire-de-milei-la-bourse-bondit-le-peso-s-envole-le-taux-d-emprunt-recule",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/27/le-president-argentin-javier-milei-reagit-apres-la-victoire-du-parti-la-libertad-avanza-aux-election-1761577893_92c299118ff8696c299118ff8fac29v_.jpg",
-      "publishedAt": "2025-10-27T15:11:33Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
         "country": "fr"
       }
     }
