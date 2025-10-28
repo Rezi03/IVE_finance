@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 838,
+  "totalArticles": 839,
   "articles": [
+    {
+      "id": "d96c5f69761c3c9c5a33278ab3b7c74c",
+      "title": "Rate Cuts, Meltups, And Market Euphoria - Ed Yardeni Says It's 1999 All Over Again",
+      "description": "The Fed is expected to lower rates again this year, but with strong economy and Fed's easing, stock market may reach unsustainable highs.",
+      "content": "The Fed is set to lower interest rates again this year, but according to Ed Yardeni, the economy doesn't need the help—and the result could be a stock market meltup reminiscent of the late 90s tech frenzy.\nIn a note shared Monday, Yardeni said he's t... [3118 chars]",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/10/48432979/rate-cuts-meltups-and-market-euphoria-ed-yardeni-says-its-1999-all-over-again",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/27/wall-street-mid2.png?width=1200&height=800&fit=crop",
+      "publishedAt": "2025-10-27T13:51:33Z",
+      "lang": "en",
+      "source": {
+        "id": "d4e7f6a65e15620f4e4044691a99d0fd",
+        "name": "Benzinga",
+        "url": "https://www.benzinga.com",
+        "country": "us"
+      }
+    },
     {
       "id": "91e26b1b360749d97df008055e1bcc28",
       "title": "Top economist on the economy’s dirty truth: The only people who feel good are ‘making over $200,000’ and ‘have large stock portfolios’",
@@ -147,22 +163,6 @@
         "id": "d4e7f6a65e15620f4e4044691a99d0fd",
         "name": "Benzinga",
         "url": "https://www.benzinga.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "52093a1f4f900bc9a2b390f703784610",
-      "title": "Vietnam Excites Investors With Dramatic Economic Reform Program",
-      "description": "Just months after Donald Trump singled out Vietnam for one of the most punitive tariff rates on a major US trading partner, the Southeast Asian nation’s stock market has soared, its GDP growth is beating almost all estimates and it’s even managed a deal of sorts with the mercurial American president.",
-      "content": "Just months after Donald Trump singled out Vietnam for one of the most punitive tariff rates on a major US trading partner, the Southeast Asian nation’s stock market has soared, its GDP growth is beating almost all estimates and it’s even managed a d... [451 chars]",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-10-11/vietnam-excites-investors-with-dramatic-economic-reform-program-new-economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_IKpk9L_5jI/v1/1200x800.jpg",
-      "publishedAt": "2025-10-11T10:45:08Z",
-      "lang": "en",
-      "source": {
-        "id": "7006f2c40c7cc01195608dbfd60259b3",
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com",
         "country": "us"
       }
     }
