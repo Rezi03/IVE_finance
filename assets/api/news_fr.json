@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25307,
+  "totalArticles": 25308,
   "articles": [
+    {
+      "id": "9a06530b05477a0e25df2aa6ae914979",
+      "title": "La Bourse de Paris profite des espoirs de détente commerciale",
+      "description": "La Bourse de Paris a clôturé en légère hausse lundi, le CAC 40 gagnant 0,16 % pour atteindre 8.239,18 points. Cette progression s’appuie sur les espoirs d’un apaisement du conflit commercial entre les États-Unis et la Chine, notamment après les déclarations optimistes de Donald Trump avant une rencontre prévue avec Xi Jinping. La semaine s’annonce cruciale pour les marchés, avec des décisions de banques centrales et la publication de résultats d’entreprises majeures, alors que la Réserve fédérale américaine devrait abaisser ses taux. L’inflation reste aussi un élément clé, après la hausse des prix à la consommation indiquée vendredi.",
+      "content": "Paris - La Bourse de Paris a terminé en petite hausse lundi, profitant des espoirs de détente commerciale entre les États-Unis et la Chine après des propos encourageants du président américain.\nLe CAC 40 a terminé en hausse de 0,16%, soit un gain de ... [21567 chars]",
+      "url": "https://www.lopinion.fr/economie/la-bourse-de-paris-profite-des-espoirs-de-detente-commerciale",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/4725c2a/2147483647/strip/true/crop/1024x498+0+56/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fc797370dd17e910f7374687cd3666897e1ea99d7.jpeg",
+      "publishedAt": "2025-10-27T18:22:37Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "de139877b8cd2d11e0a223d8cb5b219c",
       "title": "Victoire de Milei : la Bourse bondit, le peso s’envole, le taux d’emprunt recule",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "2bcbfe5c7c7ee2d51cdea0ff8e7f0d29",
-      "title": "Perspectives de croissance solides pour l'Inde, diversification des échanges malgré les tensions tarifaires avec les États-Unis, selon le gouvernement",
-      "description": "La croissance économique de l'Inde pour l'exercice en cours demeure robuste, soutenue par une forte demande intérieure, une inflation en repli et des baisses récentes de la taxe sur la...\n-Le 27 octobre 2025 à 09:20\n- Zonebourse",
-      "content": "La croissance économique de l'Inde pour l'exercice en cours demeure robuste, soutenue par une forte demande intérieure, une inflation en repli et des baisses récentes de la taxe sur la consommation, indique le rapport économique de septembre publié p... [1268 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/perspectives-de-croissance-solides-pour-l-inde-diversification-des-echanges-malgre-les-tensions-tar-ce7d5ddede8df22c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-29T104207Z_1_LYNXMPEL7S0FO_RTROPTP_4_INDIA-ECONOMY-GDP.JPG",
-      "publishedAt": "2025-10-27T08:20:30Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
