@@ -4,8 +4,88 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25319,
+  "totalArticles": 25324,
   "articles": [
+    {
+      "id": "87e781e8326f3b26e7b7d1f6cb025059",
+      "title": "La Bourse de Paris recule légèrement avant de nombreux résultats de sociétés",
+      "description": "La Bourse de Paris débute la séance en léger recul, l’indice CAC 40 perdant 0,26% après un début de journée marqué par de nombreux résultats d’entreprises. Parmi les principaux mouvements, l’action BNP Paribas recule malgré une hausse du bénéfice net, le produit net bancaire décevant les attentes. Capgemini, à l’inverse, progresse nettement grâce à une amélioration de son chiffre d’affaires et un objectif de croissance relevé. Le marché reste attentif aux avancées dans les négociations commerciales entre les États-Unis et la Chine, ainsi qu’à la perspective d’une baisse de taux de la Fed qui doit conclure une réunion monétaire mercredi. Les investisseurs attendent également les annonces des grands groupes technologiques américains, un facteur clé pour la tendance boursière.",
+      "content": "Paris - La Bourse de Paris évolue en léger repli mardi au début d’une séance très fournie en résultats de sociétés.\nL’indice CAC 40 cédait 0,26% vers 08H40 GMT.\nLa veille l’indice vedette de la place parisienne avait terminé de peu dans le vert, à 8.... [18396 chars]",
+      "url": "https://www.lopinion.fr/economie/la-bourse-de-paris-recule-legerement-avant-de-nombreux-resultats-de-societes",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/4725c2a/2147483647/strip/true/crop/1024x498+0+56/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fc797370dd17e910f7374687cd3666897e1ea99d7.jpeg",
+      "publishedAt": "2025-10-28T09:17:59Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f6a870e8dbd7c146bb42e488aaec48c7",
+      "title": "Un nombre record de Français peinent à régler leurs factures d'énergie",
+      "description": "[VIDÉO] ▶️ 36% des foyers français déclarent avoir peiné à payer certaines factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre annuel du médiateur national de l'énergie publié mardi. Il s'agit d'un taux inédit puisqu'ils n'étaient que 28% l'année dernière. La restriction du chauffage concerne toujours près des trois quarts des foyers, avec un taux de 74% encore proche du record de 79% enregistré en 2023. - Un nombre record de Français peinent à régler leurs factures d'énergie (Économie).",
+      "content": "36% des foyers français déclarent avoir peiné à payer certaines factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre annuel du médiateur national de l'énergie publié mardi.\nIl s'agit d'un taux inédit puisqu'ils n'étaient que 28% ... [2529 chars]",
+      "url": "https://www.tf1info.fr/economie/un-nombre-record-de-francais-tiers-36-peinent-a-regler-leurs-factures-d-energie-barometre-annuel-mediateur-national-2403189.html",
+      "image": "https://photos.tf1info.fr/images/1280/720/facture-electricite-especes-401599-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
+      "publishedAt": "2025-10-28T09:17:10Z",
+      "lang": "fr",
+      "source": {
+        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
+        "name": "TF1 INFO",
+        "url": "https://www.tf1info.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "e01f63cd112d7c805fcd1ac686159c86",
+      "title": "La Banque centrale européenne critiquée sur le niveau de ses taux, pénalisants pour la France",
+      "description": "La BCE se réunit jeudi 30 octobre et ne baissera sans doute pas ses taux d’intérêt. Au grand dam d’un nombre grandissant d’économistes, qui considèrent que ce niveau (2 %) est trop élevé pour de nombreuses économies de la zone euro, et en particulier la France.",
+      "content": "Parce qu’une autre personne (ou vous) est en train de lire Le Monde avec ce compte sur un autre appareil.\nVous ne pouvez lire Le Monde que sur un seul appareil à la fois (ordinateur, téléphone ou tablette).\nComment ne plus voir ce message ?\nEn cliqua... [2243 chars]",
+      "url": "https://www.lemonde.fr/economie/article/2025/10/28/la-banque-centrale-europeenne-critiquee-sur-le-niveau-de-ses-taux-penalisants-pour-la-france_6649916_3234.html",
+      "image": "https://img.lemde.fr/2025/10/23/0/0/4713/3142/1440/960/60/0/0dfd2a9_ftp-import-images-1-kac1mhbnvnzw-5246531-01-06.jpg",
+      "publishedAt": "2025-10-28T09:00:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "d72db178501ee94d88ea59fe10ef8079",
+        "name": "Le Monde.fr",
+        "url": "https://www.lemonde.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "0ac4dd05fb4b8a520469cfc2c99eba72",
+      "title": "Capgemini : l'IA soutient les résultats, le titre grimpe",
+      "description": "Capgemini CAPP.PA a relevé mardi sa prévision de croissance annuelle et publié un chiffre d'affaires de 5,39 milliards d'euros au troisième trimestre, en hausse de 2,9% à taux de change constants, sou... - 28/10/2025 à 10:00 - Boursorama",
+      "content": "Capgemini CAPP.PA a relevé mardi sa prévision de croissance annuelle et publié un chiffre d'affaires de 5,39 milliards d'euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par une accélération de la demande en Amériqu... [2568 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/capgemini-l-ia-soutient-les-resultats-le-titre-grimpe-a4c19e00fed4a1d479b0aac2c933334f",
+      "image": "https://www.boursorama.com/static/i/content/images/7/f/7/7f7736950810f33cf382538fe9d8bd93-1200x800.jpg",
+      "publishedAt": "2025-10-28T09:00:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "195c5ba7d9c93cfe8640329bb5e5421a",
+      "title": "Capgemini-L'IA soutient les résultats du T3, le titre grimpe",
+      "description": "Capgemini a relevé\nmardi sa prévision de croissance annuelle et publié un chiffre\nd’affaires de 5,39 milliards d’euros au troisième trimestre, en\nhausse de 2,9% à taux de change constants,...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/capgemini-l-ia-soutient-les-resultats-du-t3-le-titre-grimpe-ce7d5ddcd98bf021",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-28T08:56:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "d8d1e60236856e910cbac7e6a1518b2a",
       "title": "Capgemini relève ses prévisions après un T3 soutenu par l’Amérique du Nord et l’IA",
@@ -83,86 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "2d84a801b063a10ade0ecfabc125e74b",
-      "title": "Capgemini relève son objectif de croissance des revenus annuels à change constants",
-      "description": "(AOF) - Capgemini a dévoilé un chiffre d’affaires trimestriel de 5,393 milliards d’euros, en hausse de 0,3%, ou de 2,9% à taux de change constants. Depuis le début de l’année, les revenus sont en bais... - 28/10/2025 à 07:35 - Boursorama",
-      "content": "(AOF) - Capgemini a dévoilé un chiffre d’affaires trimestriel de 5,393 milliards d’euros, en hausse de 0,3%, ou de 2,9% à taux de change constants. Depuis le début de l’année, les revenus sont en baisse de seulement 0,1%, à 16,5 milliards d’euros, ou... [4765 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/capgemini-releve-son-objectif-de-croissance-des-revenus-annuels-a-change-constants-aa2cd565a6f0ff6ec2700f69dfcdb70c",
-      "image": "https://www.boursorama.com/static/i/content/images/4/3/2/4329bffeff89c72d4404ac4cbf27eb8d-1600x1066.jpg",
-      "publishedAt": "2025-10-28T06:35:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "61fd01fcbf35392768f80823a0887c84",
-      "title": "Nabioullina : marge importante pour une baisse des taux si l'inflation revient à l'objectif",
-      "description": "La gouverneure de la Banque centrale de Russie, Elvira Nabioullina, a déclaré mardi que, l'inflation revenant progressivement à l'objectif de 4 %, il existe une marge significative pour une baisse...\n-Le 28 octobre 2025 à 07:24\n- Zonebourse",
-      "content": "Le Royaume-Uni confronté à un déficit de 26,8 milliards de dollars dans les finances publiques en raison d'une baisse de la productivité, selon le Financial Times\nLe 27 octobre 2025 à 22:04\nWelltower revoit à la hausse ses prévisions annuelles et lan... [898 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/nabioullina-marge-importante-pour-une-baisse-des-taux-si-l-inflation-revient-a-l-objectif-ce7d5ddfd189f323",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-28T06:24:35Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "79bb9de8271d6e8d2f6cbd66257bab52",
-      "title": "Capgemini relève sa prévision de croissance annuelle après un T3 meilleur que prévu",
-      "description": "Capgemini a relevé\nmardi sa prévision de croissance annuelle et publié un chiffre\nd’affaires de 5,39 milliards d’euros au troisième trimestre, en\nhausse de 2,9% à taux de change constants,...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/capgemini-releve-sa-prevision-de-croissance-annuelle-apres-un-t3-meilleur-que-prevu-ce7d5ddfde80f02c",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-28T06:18:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f345ab6feb8ba27dccb498f15bdb8305",
-      "title": "Renault : Mobilize Financial Services émet pour 750 millions d'euros d'obligations",
-      "description": "La filiale du constructeur automobile français Renault , RCI Banque, opérant sous le nom Mobilize Financial Services, a procédé à l'émission de 750 millions d'euros d'obligations à taux...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/renault-mobilize-financial-services-emet-pour-750-millions-d-euros-d-obligations-ce7d5ddfde8afe25",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-28T05:04:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "d3c626c298df6d4fe86c91e385499573",
-      "title": "La Banque centrale du Kirghizistan relève son taux directeur à 10,00 %",
-      "description": "La Banque centrale du Kirghizistan a annoncé mardi avoir relevé son taux directeur, le faisant passer de 9,25 % à 10,00 %. Cette décision marque une nouvelle étape dans la politique monétaire...\n-Le 28 octobre 2025 à 05:15\n- Zonebourse",
-      "content": "Welltower revoit à la hausse ses prévisions annuelles et lance une expansion de 23 milliards de dollars dans l'immobilier pour seniors\nLe 27 octobre 2025 à 23:22\nPrincipal Financial : le bénéfice trimestriel progresse grâce à la hausse des primes\nLe ... [942 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-du-kirghizistan-releve-son-taux-directeur-a-10-00--ce7d5ddfde8bf72d",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-28T04:15:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
