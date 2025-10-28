@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25309,
+  "totalArticles": 25310,
   "articles": [
+    {
+      "id": "d3c626c298df6d4fe86c91e385499573",
+      "title": "La Banque centrale du Kirghizistan relève son taux directeur à 10,00 %",
+      "description": "La Banque centrale du Kirghizistan a annoncé mardi avoir relevé son taux directeur, le faisant passer de 9,25 % à 10,00 %. Cette décision marque une nouvelle étape dans la politique monétaire...\n-Le 28 octobre 2025 à 05:15\n- Zonebourse",
+      "content": "Welltower revoit à la hausse ses prévisions annuelles et lance une expansion de 23 milliards de dollars dans l'immobilier pour seniors\nLe 27 octobre 2025 à 23:22\nPrincipal Financial : le bénéfice trimestriel progresse grâce à la hausse des primes\nLe ... [942 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-du-kirghizistan-releve-son-taux-directeur-a-10-00--ce7d5ddfde8bf72d",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-28T04:15:20Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "9953270985741969068c32cfc70e7f5b",
       "title": "Budget : l’Assemblée nationale approuve un amendement gouvernemental augmentant la surtaxe sur les entreprises",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "959feef03abdd86ff5248a075b0e59e8",
-      "title": "Découverts bancaires : comment une nouvelle réglementation va bouleverser les habitudes des Français",
-      "description": "Quand les finances se resserrent en fin de mois, le découvert apparaît souvent comme une solution quasi automatique. Mais dès fin 2026, ce recours sera encadré par le nouveau cadre du crédit à la consommation, ce qui pourrait en restreindre l’accès pour certains ménages.\nSelon une étude publiée par MoneyVox, près de 8 % des Français se retrouvent dans le rouge à la fin du mois. Dans 26 % des cas, il s'agit d'un découvert de moins de 100 euros. Par ailleurs, parmi les Français ayant connu un solde négatif, 90 % déclarent disposer d’une autorisation de découvert.\nAccordé presque systématiquement, ce dernier sera désormais soumis à davantage de règles, ce qui risque de restreindre son accès pour de nombreux ménages. En effet, MoneyVox rappelle que, selon la Banque de France, à partir du 20 novembre 2026, la facilité de caisse et le découvert bancaire seront intégrés au régime complet du crédit à la consommation.\nProtéger les consommateurs\n\"L’objectif est de prévenir le surendettement en encadrant les pratiques d’emprunt, notamment pour les crédits de faible montant, de courte durée ou facilement accessibles via Internet\", peut-on lire sur service-public.gouv. Selon la Banque de France, \"le client devra recevoir une présentation claire des coûts, du TAEG et des conditions de remboursement\", relaie le média spécialisé.\nLes découverts devront être demandés\nPar ailleurs, la banque devra \"évaluer la solvabilité du client, afin de s'assurer qu'il est en mesure de la rembourser\". Pour les montants inférieurs à 200 euros, les obligations restent légères, mais dès 201 euros, l’étude devient approfondie : revenus, dépenses et consultation du fichier des incidents de crédit seront exigés. Un dispositif qui mettra un terme au découvert automatique puisque les clients devront en faire la demande systématique auprès de leurs banques. \"Pour la population riche, l'impact sera limité\", juge auprès de MoneyVox Jérôme Lasserre Capdeville, maître de conférences à l'Université de Strasbourg et auteur du livre \"Le Droit du Crédit à la consommation\". \"Il faudra respecter la procédure, mais il n'y aura pas de souci, les justificatifs seront solides\", ajoute-t-il.\nUn luxe pour les ménages modestes\nEn revanche, la situation se complique pour les ménages moins aisés. Selon MoneyVox, un découvert régulier de 400 euros ferait grimper le taux d’endettement à 46 %, bien au‑delà de la limite des 30 % — règle selon laquelle les charges liées au logement ou aux crédits ne devraient pas dépasser 30 % des revenus nets mensuels — ce qui rendrait le dossier non éligible. Avec cet exemple : il faudrait gagner 5 000 euros nets mensuels pour prétendre à un découvert de 400 euros si on a 1 000 euros de charges.\nCette nouvelle ordonnance s’applique aux \"nouvelles\" autorisations de découvert, accordées à partir du 20 novembre 2026. Et celles déjà en vigueur ? Selon la Banque de France, elles \"ne sont pas concernées par le nouveau régime\" rappelle MoneyVox.",
-      "content": "Quand les finances se resserrent en fin de mois, le découvert apparaît souvent comme une solution quasi automatique. Mais dès fin 2026, ce recours sera encadré par le nouveau cadre du crédit à la consommation, ce qui pourrait en restreindre l’accès p... [2713 chars]",
-      "url": "https://actu.orange.fr/france/decouverts-bancaires-comment-une-nouvelle-reglementation-va-bouleverser-les-habitudes-des-francais-magic-CNT000002lpz2T.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fd4f%2F637%2F16d610134ed69411531f97144a%2Fd4f63716d610134ed69411531f97144a.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-27T10:30:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
         "country": "fr"
       }
     }
