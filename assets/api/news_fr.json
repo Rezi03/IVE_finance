@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25339,
+  "totalArticles": 25340,
   "articles": [
+    {
+      "id": "5f5a7387fd6354b4a745e1324a92b2c6",
+      "title": "Bessent exhorte le gouvernement japonais à accorder à la Banque du Japon une marge de manoeuvre pour relever les taux d'intérêt",
+      "description": "Le secrétaire au Trésor américain, Scott Bessent, a appelé mercredi le gouvernement japonais à offrir à la Banque du Japon la latitude nécessaire pour relever ses taux d'intérêt,...",
+      "content": "Le secrétaire au Trésor américain, Scott Bessent, a appelé mercredi le gouvernement japonais à offrir à la Banque du Japon (BOJ) la latitude nécessaire pour relever ses taux d'intérêt, intensifiant ainsi son avertissement à Tokyo contre le maintien d... [1992 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/bessent-exhorte-le-gouvernement-japonais-a-accorder-a-la-banque-du-japon-une-marge-de-manoeuvre-pour-ce7d5ddddb8ef424",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-26T100722Z_1_LYNXMPEL9P06W_RTROPTP_4_USA-TRUMP-TARIFFS-CHINA.JPG",
+      "publishedAt": "2025-10-29T00:59:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "52e91f2962f973d293b8ef097e51cbc6",
       "title": "Wall Street au plus haut avant la décision de la Fed et les résultats de la tech",
@@ -147,22 +163,6 @@
         "id": "2c40603c04e5bd140ebf7a267c956542",
         "name": "Mediapart",
         "url": "https://www.mediapart.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "265ce842edc7f77feaeb990d71c8bf06",
-      "title": "La Fed entame son avant-dernière réunion de l'année, détente en vue",
-      "description": "Les responsables de la Réserve fédérale américaine ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la...",
-      "content": "Washington (awp/afp) - Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-absence de données officielle... [1784 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-fed-entame-son-avant-derniere-reunion-de-l-annee-detente-en-vue-ce7d5ddcdf88f025",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-09T025027Z_2_LYNXMPECA71NB_RTROPTP_2_GLOBAL-FOREX-INT.JPG",
-      "publishedAt": "2025-10-28T14:04:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
