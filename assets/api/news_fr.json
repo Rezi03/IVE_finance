@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25349,
+  "totalArticles": 25351,
   "articles": [
+    {
+      "id": "fd83113ad5bdf50d86a1c8d262f12df5",
+      "title": "Espagne : la croissance du PIB a ralenti à 0,6% au troisième trimestre",
+      "description": "L'économie espagnole a progressé de 0,6 % au troisième trimestre, un rythme légèrement inférieur au trimestre précédent, mais bien supérieur aux attentes des analystes. Cette dynamique place l'Espagne sur la voie d'atteindre son objectif de 2,7 % de croissance pour 2023, portée par la consommation des ménages, l'investissement et un secteur touristique particulièrement florissant. Malgré une inflation modérée de 3 % et un chômage à 10,45 %, le pays s'éloigne nettement des difficultés économiques du passé, affichant de meilleures performances que nombre de ses voisins européens.",
+      "content": "Madrid - La croissance économique espagnole a atteint 0,6% au troisième trimestre, en léger ralentissement par rapport au trois mois précédents, selon une première estimation publiée mercredi par l’Institut national des statistiques (INE).\nCe chiffre... [26767 chars]",
+      "url": "https://www.lopinion.fr/economie/espagne-la-croissance-du-pib-a-ralenti-a-0-6-au-troisieme-trimestre",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/51bdb1a/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fc4b6e222f66f2067591bef161aca1401da684b82.jpeg",
+      "publishedAt": "2025-10-29T08:53:29Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "4ebbdaa5bf64c860b4415840eb65b91e",
+      "title": "Le taux de change n'est pas un outil politique contre les tarifs douaniers, selon la vice-gouverneure de la banque centrale indienne",
+      "description": "Le taux de change de la roupie indienne ne constitue pas un instrument de politique pour lutter contre les tarifs commerciaux, a déclaré mercredi une haute responsable de la banque centrale...",
+      "content": "Le taux de change de la roupie indienne ne constitue pas un instrument de politique pour lutter contre les tarifs commerciaux, a déclaré mercredi une haute responsable de la banque centrale indienne.\n« Le taux de change ne sert pas d'outil politique ... [509 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-taux-de-change-n-est-pas-un-outil-politique-contre-les-tarifs-douaniers-selon-la-vice-gouverneur-ce7d5dddde81f224",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-07T071639Z_1_LYNXMPEL6607I_RTROPTP_4_BUSINESS-CURRENCY.JPG",
+      "publishedAt": "2025-10-29T08:44:30Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "b3b82c9c59ea4bf13d25e188dbee0a69",
       "title": "La Bourse de Paris fléchit légèrement avant la décision de la Fed",
@@ -131,38 +163,6 @@
         "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
         "name": "TF1 INFO",
         "url": "https://www.tf1info.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "cf708c253a423aecd309606095fd73e2",
-      "title": "Aux États-Unis, la Banque centrale va sans doute baisser ses taux aujourd’hui, afin de doper l’économie",
-      "description": "Il s’agit d’une demande persistante de Donald Trump, qui aimerait que l’économie soit soutenue par de l’argent meilleur marché. Il s’agirait de la deuxième baisse cette année, après celle du mois de septembre.",
-      "content": "La banque centrale des États-Unis devrait réduire aujourd’hui ses taux d’intérêt pour la deuxième fois consécutive (après -0,25 % en septembre), pour donner de l’élan à l’économie et soutenir le marché du travail, même si l’inflation continue de pres... [3295 chars]",
-      "url": "https://www.leparisien.fr/international/etats-unis/aux-etats-unis-la-banque-centrale-va-sans-doute-baisser-ses-taux-aujourdhui-afin-de-doper-leconomie-29-10-2025-HNXE6VXENFAXPOR7UNNDK3TKC4.php",
-      "image": "https://www.leparisien.fr/resizer/AOvCCtzaAzpsOJkdDaNeZ0lg4i4=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/RUCXGWEMNFDD5I76QMZRWAWW4Q.jpg",
-      "publishedAt": "2025-10-29T03:43:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "0daf79fa71eb33d76938f1ceca2431c2",
-        "name": "Le Parisien",
-        "url": "https://www.leparisien.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "86f1f0a824f9c6fe309eff0c7385e934",
-      "title": "Les cambistes surveillent la RBI et les flux avant une baisse de taux de la Fed déjà anticipée",
-      "description": "La roupie indienne devrait évoluer dans une fourchette étroite ce mercredi, le soutien probable de la banque centrale venant contrebalancer la demande en dollars des importateurs et un contexte...\n-Le 29 octobre 2025 à 04:06\n- Zonebourse",
-      "content": "La roupie indienne devrait évoluer dans une fourchette étroite ce mercredi, le soutien probable de la banque centrale venant contrebalancer la demande en dollars des importateurs et un contexte asiatique plus faible, à la veille d'une baisse quasi ce... [2447 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-cambistes-surveillent-la-rbi-et-les-flux-avant-une-baisse-de-taux-de-la-fed-deja-anticipee-ce7d5dddda8df122",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T052524Z_1_LYNXMPEL3E040_RTROPTP_4_INDIA-CENBANK-LIQUIDITY.JPG",
-      "publishedAt": "2025-10-29T03:06:11Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }

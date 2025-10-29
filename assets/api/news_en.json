@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 839,
+  "totalArticles": 840,
   "articles": [
+    {
+      "id": "068d877f30acd430cae2c1a7fec5df71",
+      "title": "See the Oct. 29, 1925, front page: $700,000 from stock taken on debt of $2,700",
+      "description": "Headlines from the Oct. 29, 1925, front page include: Exchange of two bridges approved by committee",
+      "content": "Be the first to know\nGet local news delivered to your inbox!\n* I understand and agree that registration on or use of this site constitutes agreement to its user agreement and privacy policy.\nBeth O'Malley | Post-Dispatch\nBreaking news and digital edi... [334 chars]",
+      "url": "https://www.stltoday.com/news/archives/article_23eeedad-690f-4ff4-9c1b-7d38baab1944.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/3e/23eeedad-690f-4ff4-9c1b-7d38baab1944/68d1878342691.preview.png?crop=937%2C492%2C10%2C0",
+      "publishedAt": "2025-10-29T09:00:00Z",
+      "lang": "en",
+      "source": {
+        "id": "47366bd85d81b2b5e4b719ca55c65955",
+        "name": "St. Louis Post-Dispatch",
+        "url": "https://www.stltoday.com",
+        "country": "us"
+      }
+    },
     {
       "id": "d96c5f69761c3c9c5a33278ab3b7c74c",
       "title": "Rate Cuts, Meltups, And Market Euphoria - Ed Yardeni Says It's 1999 All Over Again",
@@ -147,22 +163,6 @@
         "id": "69a24b80e5bce5a07f808f5ea84c434b",
         "name": "Arkansas Online",
         "url": "https://www.arkansasonline.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "ceb261fd67bbd9abc263dc21f1117fa9",
-      "title": "TSMC Faces Energy Threat, Trump's 'Genius Act' Sparks Hyperinflation Fears, Gold Predicted To Hit $5,000 By 2026: This Week In Economy",
-      "description": "This week's top finance, tech stories highlight Taiwan's energy risks, gold's surge, inflation warnings, and uncertainty amid the shutdown.",
-      "content": "It was an eventful weekend in the world of finance and tech. Here’s a quick rundown of the top stories that made headlines.\nTSMC’s Energy Security Threatened By China\nThe recent military exercises conducted by China near Taiwan have raised concerns a... [2768 chars]",
-      "url": "https://www.benzinga.com/markets/macro-economic-events/25/10/48166606/tsmc-faces-energy-threat-trumps-genius-act-sparks-hyperinflation-fears-gold-predicted-to-hit-5000-by-2026-this-week-in-economy",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/10/12/Central-Banks-Favor-Gold-Over-Treasuries.jpeg?width=1200&height=800&fit=crop",
-      "publishedAt": "2025-10-12T10:02:06Z",
-      "lang": "en",
-      "source": {
-        "id": "d4e7f6a65e15620f4e4044691a99d0fd",
-        "name": "Benzinga",
-        "url": "https://www.benzinga.com",
         "country": "us"
       }
     }
