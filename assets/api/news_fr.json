@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25342,
+  "totalArticles": 25345,
   "articles": [
+    {
+      "id": "3cb101017750e393a3cd82b12dcc88dd",
+      "title": "La Fed se prépare à sa deuxième baisse des taux fédéraux de l’année",
+      "description": "La banque centrale américaine devrait annoncer ce mercredi une nouvelle baisse des taux directeurs de 25 points de base. Le marché anticipe toujours une autre baisse en décembre. Mais les investisseurs restent prudents sur 2026 alors que les marchés boursiers américains atteignent de nouveaux records.",
+      "content": "Logo minifié doré La Provence\nCe contenu est réservé aux abonnés\nLa banque centrale américaine devrait annoncer ce mercredi une nouvelle baisse des taux directeurs de 25 points de base. Le marché anticipe toujours une autre baisse en décembre. Mais l... [250 chars]",
+      "url": "https://www.latribune.fr/article/banques-finance/industrie-financiere/22944265893655/la-fed-se-prepare-a-sa-deuxieme-baisse-des-taux-federaux-de-l-annee",
+      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/28/le-president-de-la-fed-jerome-powell-devrait-rester-prudent-sur-les-prochaines-baisses-de-taux-1761669289_44234d47e009648234d47e0093c234v_.jpg",
+      "publishedAt": "2025-10-29T06:00:02Z",
+      "lang": "fr",
+      "source": {
+        "id": "a475e4eb8a88f44bec788830464aef42",
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "193c255ce9edb73d01d099cc7d13f3de",
+      "title": "Donald Trump critique à nouveau Jerome Powell sur les taux d'intérêt",
+      "description": "Le président des États-Unis, Donald Trump, a de nouveau exprimé jeudi ses critiques à l'égard de la Réserve fédérale, s'en prenant au président de la banque centrale, Jerome Powell, qu'il...",
+      "content": "Le président des États-Unis, Donald Trump, a de nouveau exprimé jeudi ses critiques à l'égard de la Réserve fédérale, s'en prenant au président de la banque centrale, Jerome Powell, qu'il accuse de tarder à baisser les taux d'intérêt.\n« Jerome 'Trop ... [1606 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/donald-trump-critique-a-nouveau-jerome-powell-sur-les-taux-d-interet-ce7d5ddddd89f32c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-25T100525Z_1_LYNXMPEL6O0EK_RTROPTP_4_USA-TRUMP-FED.JPG",
+      "publishedAt": "2025-10-29T05:43:19Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "431d7c7a68183f951d2afb03b2f9e7e7",
+      "title": "EN DIRECT - Budget 2026 : les députés votent pour multiplier par deux la taxe Gafam qui vise les géants de la tech",
+      "description": "[VIDÉO] ▶️ Les députés ont voté mardi pour doubler le taux de la taxe Gafam qui cible les grandes entreprises de la tech, passant de 3 à 6%, en dépit de l'opposition du gouvernement inquiet d'éventuelles représailles de l’administration Trump. Suivez les dernières informations. - EN DIRECT - Budget 2026 : les députés votent pour multiplier par deux la taxe Gafam qui vise les géants de la tech (Économie).",
+      "content": "Les députés ont voté mardi pour doubler le taux de la taxe Gafam qui cible les grandes entreprises de la tech, passant de 3 à 6%, en dépit de l'opposition du gouvernement inquiet d'éventuelles représailles de l’administration Trump.\nSuivez les derniè... [2397 chars]",
+      "url": "https://www.tf1info.fr/economie/direct-budget-2026-plf-plfss-taxe-zucman-gouvernement-lecornu-deputes-assemblee-nationale-les-dernieres-informations-mercredi-29-octobre-2025-2403354.html",
+      "image": "https://photos.tf1info.fr/images/1280/720/assemblee-budget-27-octobre-2025-f09c36-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
+      "publishedAt": "2025-10-29T05:30:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
+        "name": "TF1 INFO",
+        "url": "https://www.tf1info.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "cf708c253a423aecd309606095fd73e2",
       "title": "Aux États-Unis, la Banque centrale va sans doute baisser ses taux aujourd’hui, afin de doper l’économie",
@@ -115,54 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "591940362f767c9b68d9b214cbe99c87",
-      "title": "La Bourse de Paris prudente avant la Fed",
-      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels de... - 28/10/2025 à 18:51 - Boursorama",
-      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains.\nL'indice vedet... [3479 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-prudente-avant-la-fed-afd3e970cbc829d66e0a795e861a1a10",
-      "image": "https://www.boursorama.com/static/i/content/images/8/2/c/82c8eaa8f7e9674845b2050b5b42df43-1200x800.jpg",
-      "publishedAt": "2025-10-28T17:51:51Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "bf6302de7b091069ac910bf81a848d89",
-      "title": "La Bourse de Paris prudente avant la Fed",
-      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains.",
-      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains.\nL'indice vedet... [3475 chars]",
-      "url": "https://actu.orange.fr/economie/la-bourse-de-paris-prudente-avant-la-fed-CNT000002lr5UY.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F78bc5539-a3e6-42ad-9695-3410bfeb5d04.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-28T17:51:51Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "e379bd7d5402284dca09bb652793188f",
-      "title": "La Fed entame son avant-dernière réunion de l'année, nouvelle détente à l'horizon",
-      "description": "Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-ab... - 28/10/2025 à 18:16 - Boursorama",
-      "content": "Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-absence de données officielles.\nUne majorité d'entre... [2441 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/la-fed-entame-son-avant-derniere-reunion-de-l-annee-nouvelle-detente-a-l-horizon-3cc990df4537c6afc64fa135dc574aac",
-      "image": "https://www.boursorama.com/static/i/content/images/9/d/c/9dc9f9030610def08d355b47ac3921ac-1200x800.jpg",
-      "publishedAt": "2025-10-28T17:16:35Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
