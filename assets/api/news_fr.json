@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25346,
+  "totalArticles": 25349,
   "articles": [
+    {
+      "id": "b3b82c9c59ea4bf13d25e188dbee0a69",
+      "title": "La Bourse de Paris fléchit légèrement avant la décision de la Fed",
+      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux...",
+      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains. L'indice vedet... [3444 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-flechit-legerement-avant-la-decision-de-la-fed-20251028",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/28/11c9950565fd9c8624ab0a02ed4e47d2c81f206fd7c877e05da1cb9595fed773.jpg",
+      "publishedAt": "2025-10-29T08:13:29Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "3ba5f2b45eb10fa6d064de60e3ee392e",
+      "title": "RBC prévoit une croissance à deux chiffres soutenue pour EssilorLuxottica après un troisième trimestre \" impressionnant \"",
+      "description": "RBC Capital Markets anticipe qu'EssilorLuxottica maintiendra un taux de croissance annuel composé à deux chiffres de son chiffre d'affaires au cours des trois à quatre prochaines années, à la...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/rbc-prevoit-une-croissance-a-deux-chiffres-soutenue-pour-essilorluxottica-apres-un-troisieme-trimest-ce7d5dddde88f323",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-29T07:50:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "8d29f740cee1ada340a291e3d89bdb1c",
+      "title": "La BCE reste dans une position confortable",
+      "description": "Par François Rimeu, stratégiste sénior chez Crédit Mutuel AM Grâce à une inflation restée proche de l'objectif de 2 % en septembre, la Banque centrale européenne (BCE) devrait maintenir sa politique m... - 29/10/2025 à 08:40 - Boursorama",
+      "content": "Par François Rimeu, stratégiste sénior chez Crédit Mutuel AM\nGrâce à une inflation restée proche de l'objectif de 2 % en septembre, la Banque centrale européenne (BCE) devrait maintenir sa politique monétaire inchangée lors de sa réunion de jeudi. Sa... [1518 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bce-reste-dans-une-position-confortable-3ecda5ca1d6610ff955718179c480c08",
+      "image": "https://www.boursorama.com/static/i/content/images/f/c/c/fcc1acd0e84239fa185c47afeb6e4b18-1280x854.jpg",
+      "publishedAt": "2025-10-29T07:40:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "e8433d179fa383bb842ae5e39f00f543",
+      "title": "Prudence attendue avant les décisions des banques centrales",
+      "description": "La Bourse de Milan s'annonce stable à l'ouverture des échanges ce mercredi, dans l'attente de la décision de la Réserve fédérale américaine sur les taux d'intérêt et à la veille de l'annonce...",
+      "content": "(Alliance News) - La Bourse de Milan s'annonce stable à l'ouverture des échanges ce mercredi, dans l'attente de la décision de la Réserve fédérale américaine sur les taux d'intérêt et à la veille de l'annonce de la Banque centrale européenne.\nLe FTSE... [5751 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/prudence-attendue-avant-les-decisions-des-banques-centrales-ce7d5ddddf80f620",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2019-11-05T095913Z_1_LYNXMPEFA40N5-OCABS_RTROPTP_3_CBUSINESS-US-GLOBAL-MARKETS.JPG",
+      "publishedAt": "2025-10-29T07:31:19Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "181431082a73ae88a2b32ac822539543",
       "title": "À l'Assemblée nationale, les députés défient Donald Trump et doublent la taxe Gafam",
@@ -99,70 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "573b2b55cad1e1f98190f80f4290b80e",
-      "title": "La Fed à l’aube d’une nouvelle baisse des taux d’intérêt américains",
-      "description": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d’intérêt pour la deuxième fois consécutive, pour donner de l’élan à l’économie et soutenir le marché du travail, même si l’inflat…",
-      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/291025/la-fed-l-aube-d-une-nouvelle-baisse-des-taux-d-interet-americains",
-      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-29T02:50:33Z",
-      "lang": "fr",
-      "source": {
-        "id": "2c40603c04e5bd140ebf7a267c956542",
-        "name": "Mediapart",
-        "url": "https://www.mediapart.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5f5a7387fd6354b4a745e1324a92b2c6",
-      "title": "Bessent exhorte le gouvernement japonais à accorder à la Banque du Japon une marge de manoeuvre pour relever les taux d'intérêt",
-      "description": "Le secrétaire au Trésor américain, Scott Bessent, a appelé mercredi le gouvernement japonais à offrir à la Banque du Japon la latitude nécessaire pour relever ses taux d'intérêt,...",
-      "content": "Le secrétaire au Trésor américain, Scott Bessent, a appelé mercredi le gouvernement japonais à offrir à la Banque du Japon (BOJ) la latitude nécessaire pour relever ses taux d'intérêt, intensifiant ainsi son avertissement à Tokyo contre le maintien d... [1992 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/bessent-exhorte-le-gouvernement-japonais-a-accorder-a-la-banque-du-japon-une-marge-de-manoeuvre-pour-ce7d5ddddb8ef424",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-26T100722Z_1_LYNXMPEL9P06W_RTROPTP_4_USA-TRUMP-TARIFFS-CHINA.JPG",
-      "publishedAt": "2025-10-29T00:59:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "52e91f2962f973d293b8ef097e51cbc6",
-      "title": "Wall Street au plus haut avant la décision de la Fed et les résultats de la tech",
-      "description": "Wall Street a terminé sur de nouveaux sommets mardi, portée par l’optimisme des investisseurs avant la décision de la Fed sur ses taux et la publication des résultats trimestriels des poids lourds technologiques comme Microsoft, Alphabet, Meta, Apple et Amazon. Les attentes sont élevées, notamment sur l’intelligence artificielle, facteur clé d’anticipation de croissance pour 2025, tandis que la récente baisse de l’inflation laisse espérer un assouplissement monétaire. Le rendement des obligations américaines à dix ans s’est légèrement détendu. Côté valeurs, Nokia a bondi après une prise de participation de Nvidia, PayPal a séduit grâce à de bons résultats et un accord avec OpenAI, et UPS a rassuré par la réussite de son repositionnement stratégique. Apple a franchi le cap symbolique des 4.000 milliards de dollars de capitalisation en séance.",
-      "content": "Washington - La Bourse de New York a terminé en forme mardi, abordant avec confiance les résultats d’entreprise des géants technologiques américains et la décision de politique monétaire de la banque centrale des Etats-Unis (Fed).\nPour la troisième s... [22332 chars]",
-      "url": "https://www.lopinion.fr/economie/wall-street-au-plus-haut-avant-la-decision-de-la-fed-et-les-resultats-de-la-tech",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/d9d8b09/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fda498ea745f94c1796110d9743f1bcc1f82e11af.jpeg",
-      "publishedAt": "2025-10-28T21:30:38Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b3b82c9c59ea4bf13d25e188dbee0a69",
-      "title": "La Bourse de Paris fléchit légèrement avant la décision de la Fed",
-      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux...",
-      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains. L'indice vedet... [3444 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-flechit-legerement-avant-la-decision-de-la-fed-20251028",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/28/11c9950565fd9c8624ab0a02ed4e47d2c81f206fd7c877e05da1cb9595fed773.jpg",
-      "publishedAt": "2025-10-28T18:05:54Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
         "country": "fr"
       }
     }
