@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25333,
+  "totalArticles": 25334,
   "articles": [
+    {
+      "id": "e379bd7d5402284dca09bb652793188f",
+      "title": "La Fed entame son avant-dernière réunion de l'année, nouvelle détente à l'horizon",
+      "description": "Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-ab... - 28/10/2025 à 18:16 - Boursorama",
+      "content": "Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-absence de données officielles.\nUne majorité d'entre... [2441 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-fed-entame-son-avant-derniere-reunion-de-l-annee-nouvelle-detente-a-l-horizon-3cc990df4537c6afc64fa135dc574aac",
+      "image": "https://www.boursorama.com/static/i/content/images/9/d/c/9dc9f9030610def08d355b47ac3921ac-1200x800.jpg",
+      "publishedAt": "2025-10-28T17:16:35Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "6224e93cc9f82d5af3d55b42eb37d374",
       "title": "L'éco du monde : La Chine sur le point d'annoncer un gigantesque investissement sur le sol US ? - 28/10",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "87e781e8326f3b26e7b7d1f6cb025059",
-      "title": "La Bourse de Paris recule légèrement avant de nombreux résultats de sociétés",
-      "description": "La Bourse de Paris débute la séance en léger recul, l’indice CAC 40 perdant 0,26% après un début de journée marqué par de nombreux résultats d’entreprises. Parmi les principaux mouvements, l’action BNP Paribas recule malgré une hausse du bénéfice net, le produit net bancaire décevant les attentes. Capgemini, à l’inverse, progresse nettement grâce à une amélioration de son chiffre d’affaires et un objectif de croissance relevé. Le marché reste attentif aux avancées dans les négociations commerciales entre les États-Unis et la Chine, ainsi qu’à la perspective d’une baisse de taux de la Fed qui doit conclure une réunion monétaire mercredi. Les investisseurs attendent également les annonces des grands groupes technologiques américains, un facteur clé pour la tendance boursière.",
-      "content": "Paris - La Bourse de Paris évolue en léger repli mardi au début d’une séance très fournie en résultats de sociétés.\nL’indice CAC 40 cédait 0,26% vers 08H40 GMT.\nLa veille l’indice vedette de la place parisienne avait terminé de peu dans le vert, à 8.... [18396 chars]",
-      "url": "https://www.lopinion.fr/economie/la-bourse-de-paris-recule-legerement-avant-de-nombreux-resultats-de-societes",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/4725c2a/2147483647/strip/true/crop/1024x498+0+56/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fc797370dd17e910f7374687cd3666897e1ea99d7.jpeg",
-      "publishedAt": "2025-10-28T09:17:59Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
         "country": "fr"
       }
     }
