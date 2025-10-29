@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25340,
+  "totalArticles": 25342,
   "articles": [
+    {
+      "id": "86f1f0a824f9c6fe309eff0c7385e934",
+      "title": "Les cambistes surveillent la RBI et les flux avant une baisse de taux de la Fed déjà anticipée",
+      "description": "La roupie indienne devrait évoluer dans une fourchette étroite ce mercredi, le soutien probable de la banque centrale venant contrebalancer la demande en dollars des importateurs et un contexte...\n-Le 29 octobre 2025 à 04:06\n- Zonebourse",
+      "content": "La roupie indienne devrait évoluer dans une fourchette étroite ce mercredi, le soutien probable de la banque centrale venant contrebalancer la demande en dollars des importateurs et un contexte asiatique plus faible, à la veille d'une baisse quasi ce... [2447 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-cambistes-surveillent-la-rbi-et-les-flux-avant-une-baisse-de-taux-de-la-fed-deja-anticipee-ce7d5dddda8df122",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T052524Z_1_LYNXMPEL3E040_RTROPTP_4_INDIA-CENBANK-LIQUIDITY.JPG",
+      "publishedAt": "2025-10-29T03:06:11Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "573b2b55cad1e1f98190f80f4290b80e",
+      "title": "La Fed à l’aube d’une nouvelle baisse des taux d’intérêt américains",
+      "description": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d’intérêt pour la deuxième fois consécutive, pour donner de l’élan à l’économie et soutenir le marché du travail, même si l’inflat…",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/291025/la-fed-l-aube-d-une-nouvelle-baisse-des-taux-d-interet-americains",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-29T02:50:33Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "5f5a7387fd6354b4a745e1324a92b2c6",
       "title": "Bessent exhorte le gouvernement japonais à accorder à la Banque du Japon une marge de manoeuvre pour relever les taux d'intérêt",
@@ -131,38 +163,6 @@
         "id": "3515cd464703185ce797899332fb9c81",
         "name": "BFMTV",
         "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6b725c4a27b1256e1f555db46fd39d39",
-      "title": "\" Si nous ne faisons rien, nous aurons une société d’héritiers et de rentiers \" : entretien avec le député communiste Nicolas Sansu",
-      "description": "Membre de la commission des Finances, le député communiste Nicolas Sansu souhaite que la dette de la France se « désintoxique des marchés financiers ». Il invite à réviser la fisc...",
-      "content": "Pourquoi dites-vous qu’il faut se désintoxiquer des marchés financiers ?\nContrairement à ce que professent les libéraux, plus il y a de dette, plus nos créanciers sont heureux, car plus ils touchent d’intérêts. La question est donc de se désintoxique... [420 chars]",
-      "url": "https://www.humanite.fr/politique/banque-centrale-europeenne/si-nous-ne-faisons-rien-nous-aurons-une-societe-dheritiers-et-de-rentiers-entretien-avec-le-depute-communiste-nicolas-sansu",
-      "image": "https://www.humanite.fr/wp-content/uploads/2025/10/p2-nicolas-sansu_HS2.jpg",
-      "publishedAt": "2025-10-28T15:42:11Z",
-      "lang": "fr",
-      "source": {
-        "id": "5775b8f574e005115c10de6a3064c855",
-        "name": "L'Humanité",
-        "url": "https://www.humanite.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f188881db0f35958c5346546532baa12",
-      "title": "La Fed entame son avant-dernière réunion de l’année, nouvelle détente à l’horizon",
-      "description": "Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l’économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-…",
-      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/281025/la-fed-entame-son-avant-derniere-reunion-de-l-annee-nouvelle-detente-l-horizon",
-      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-28T15:32:14Z",
-      "lang": "fr",
-      "source": {
-        "id": "2c40603c04e5bd140ebf7a267c956542",
-        "name": "Mediapart",
-        "url": "https://www.mediapart.fr",
         "country": "fr"
       }
     }
