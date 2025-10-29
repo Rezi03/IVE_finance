@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25329,
+  "totalArticles": 25333,
   "articles": [
+    {
+      "id": "6224e93cc9f82d5af3d55b42eb37d374",
+      "title": "L'éco du monde : La Chine sur le point d'annoncer un gigantesque investissement sur le sol US ? - 28/10",
+      "description": "Ce mardi 28 octobre, Julien Moussavi, économiste chez BSI Economics et responsable Finance Durable chez FTSE Russell, a abordé l'espoir de la fin de la guerre commerciale avec la rencontre Xi/Trump, et l'attente d'une baisse des taux de la FED, dans l'émission BFM Bourse présentée par Guillaume...",
+      "content": "Ce mardi 28 octobre, Marie Lasségnore, directrice Recherche Investissement durable chez Crédit Mutuel AM, s'est penchée sur la situation J-13 avant la Cop 30 au Brésil, le maintien de l'effort des entreprises pour l'engagement ESG, et l'éventualité d... [3869 chars]",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-la-chine-sur-le-point-d-annoncer-un-gigantesque-investissement-sur-le-sol-us-28-10_EN-202510280644.html",
+      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
+      "publishedAt": "2025-10-28T15:45:53Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "6b725c4a27b1256e1f555db46fd39d39",
+      "title": "\" Si nous ne faisons rien, nous aurons une société d’héritiers et de rentiers \" : entretien avec le député communiste Nicolas Sansu",
+      "description": "Membre de la commission des Finances, le député communiste Nicolas Sansu souhaite que la dette de la France se « désintoxique des marchés financiers ». Il invite à réviser la fisc...",
+      "content": "Pourquoi dites-vous qu’il faut se désintoxiquer des marchés financiers ?\nContrairement à ce que professent les libéraux, plus il y a de dette, plus nos créanciers sont heureux, car plus ils touchent d’intérêts. La question est donc de se désintoxique... [420 chars]",
+      "url": "https://www.humanite.fr/politique/banque-centrale-europeenne/si-nous-ne-faisons-rien-nous-aurons-une-societe-dheritiers-et-de-rentiers-entretien-avec-le-depute-communiste-nicolas-sansu",
+      "image": "https://www.humanite.fr/wp-content/uploads/2025/10/p2-nicolas-sansu_HS2.jpg",
+      "publishedAt": "2025-10-28T15:42:11Z",
+      "lang": "fr",
+      "source": {
+        "id": "5775b8f574e005115c10de6a3064c855",
+        "name": "L'Humanité",
+        "url": "https://www.humanite.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f188881db0f35958c5346546532baa12",
+      "title": "La Fed entame son avant-dernière réunion de l’année, nouvelle détente à l’horizon",
+      "description": "Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l’économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-…",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/281025/la-fed-entame-son-avant-derniere-reunion-de-l-annee-nouvelle-detente-l-horizon",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-28T15:32:14Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "265ce842edc7f77feaeb990d71c8bf06",
+      "title": "La Fed entame son avant-dernière réunion de l'année, détente en vue",
+      "description": "Les responsables de la Réserve fédérale américaine ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la...",
+      "content": "Washington (awp/afp) - Les responsables de la Réserve fédérale américaine (Fed) ont commencé mardi à débattre de la santé de l'économie et du niveau souhaitable des taux directeurs, dans un paysage chamboulé par la quasi-absence de données officielle... [1784 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-fed-entame-son-avant-derniere-reunion-de-l-annee-detente-en-vue-ce7d5ddcdf88f025",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-09T025027Z_2_LYNXMPECA71NB_RTROPTP_2_GLOBAL-FOREX-INT.JPG",
+      "publishedAt": "2025-10-28T14:04:20Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "fb1b0667684d85184b8c8d8536524d91",
       "title": "Zone euro: Les consommateurs abaissent leurs anticipations d'inflation montre une enquête de la BCE",
@@ -99,70 +163,6 @@
         "id": "1775966eb8106b18adce505f85009b83",
         "name": "L'Opinion",
         "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f6a870e8dbd7c146bb42e488aaec48c7",
-      "title": "Un nombre record de Français peinent à régler leurs factures d'énergie",
-      "description": "[VIDÉO] ▶️ 36% des foyers français déclarent avoir peiné à payer certaines factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre annuel du médiateur national de l'énergie publié mardi. Il s'agit d'un taux inédit puisqu'ils n'étaient que 28% l'année dernière. La restriction du chauffage concerne toujours près des trois quarts des foyers, avec un taux de 74% encore proche du record de 79% enregistré en 2023. - Un nombre record de Français peinent à régler leurs factures d'énergie (Économie).",
-      "content": "36% des foyers français déclarent avoir peiné à payer certaines factures de gaz ou d'électricité ces 12 derniers mois, selon le baromètre annuel du médiateur national de l'énergie publié mardi.\nIl s'agit d'un taux inédit puisqu'ils n'étaient que 28% ... [2529 chars]",
-      "url": "https://www.tf1info.fr/economie/un-nombre-record-de-francais-tiers-36-peinent-a-regler-leurs-factures-d-energie-barometre-annuel-mediateur-national-2403189.html",
-      "image": "https://photos.tf1info.fr/images/1280/720/facture-electricite-especes-401599-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
-      "publishedAt": "2025-10-28T09:17:10Z",
-      "lang": "fr",
-      "source": {
-        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
-        "name": "TF1 INFO",
-        "url": "https://www.tf1info.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "e01f63cd112d7c805fcd1ac686159c86",
-      "title": "La Banque centrale européenne critiquée sur le niveau de ses taux, pénalisants pour la France",
-      "description": "La BCE se réunit jeudi 30 octobre et ne baissera sans doute pas ses taux d’intérêt. Au grand dam d’un nombre grandissant d’économistes, qui considèrent que ce niveau (2 %) est trop élevé pour de nombreuses économies de la zone euro, et en particulier la France.",
-      "content": "Parce qu’une autre personne (ou vous) est en train de lire Le Monde avec ce compte sur un autre appareil.\nVous ne pouvez lire Le Monde que sur un seul appareil à la fois (ordinateur, téléphone ou tablette).\nComment ne plus voir ce message ?\nEn cliqua... [2243 chars]",
-      "url": "https://www.lemonde.fr/economie/article/2025/10/28/la-banque-centrale-europeenne-critiquee-sur-le-niveau-de-ses-taux-penalisants-pour-la-france_6649916_3234.html",
-      "image": "https://img.lemde.fr/2025/10/23/0/0/4713/3142/1440/960/60/0/0dfd2a9_ftp-import-images-1-kac1mhbnvnzw-5246531-01-06.jpg",
-      "publishedAt": "2025-10-28T09:00:03Z",
-      "lang": "fr",
-      "source": {
-        "id": "d72db178501ee94d88ea59fe10ef8079",
-        "name": "Le Monde.fr",
-        "url": "https://www.lemonde.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0ac4dd05fb4b8a520469cfc2c99eba72",
-      "title": "Capgemini : l'IA soutient les résultats, le titre grimpe",
-      "description": "Capgemini CAPP.PA a relevé mardi sa prévision de croissance annuelle et publié un chiffre d'affaires de 5,39 milliards d'euros au troisième trimestre, en hausse de 2,9% à taux de change constants, sou... - 28/10/2025 à 10:00 - Boursorama",
-      "content": "Capgemini CAPP.PA a relevé mardi sa prévision de croissance annuelle et publié un chiffre d'affaires de 5,39 milliards d'euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par une accélération de la demande en Amériqu... [2568 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/capgemini-l-ia-soutient-les-resultats-le-titre-grimpe-a4c19e00fed4a1d479b0aac2c933334f",
-      "image": "https://www.boursorama.com/static/i/content/images/7/f/7/7f7736950810f33cf382538fe9d8bd93-1200x800.jpg",
-      "publishedAt": "2025-10-28T09:00:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "195c5ba7d9c93cfe8640329bb5e5421a",
-      "title": "Capgemini-L'IA soutient les résultats du T3, le titre grimpe",
-      "description": "Capgemini a relevé\nmardi sa prévision de croissance annuelle et publié un chiffre\nd’affaires de 5,39 milliards d’euros au troisième trimestre, en\nhausse de 2,9% à taux de change constants,...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/capgemini-l-ia-soutient-les-resultats-du-t3-le-titre-grimpe-ce7d5ddcd98bf021",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-28T08:56:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
