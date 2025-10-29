@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25351,
+  "totalArticles": 25354,
   "articles": [
+    {
+      "id": "189c875f9c0a2bae3bf1d7f4589e403e",
+      "title": "La Fed à l'aube d'une nouvelle baisse des taux d'intérêt américains",
+      "description": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de presser les Américains.",
+      "content": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de presser les Américains.\nLa Réserve f... [3394 chars]",
+      "url": "https://actu.orange.fr/economie/la-fed-a-l-aube-d-une-nouvelle-baisse-des-taux-d-interet-americains-CNT000002lszcL.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F5bf0eaa1-c615-48bd-9bf5-e40e3dbd43db.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-29T10:15:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "ceb567480cd04fb7e56f908b06e13687",
+      "title": "La Fed à l'aube d'une nouvelle baisse des taux d'intérêt américains",
+      "description": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflatio... - 29/10/2025 à 11:15 - Boursorama",
+      "content": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de presser les Américains.\nLa Réserve f... [3394 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-fed-a-l-aube-d-une-nouvelle-baisse-des-taux-d-interet-americains-043bc5040b9f207c2c43c7f9376854d1",
+      "image": "https://www.boursorama.com/static/i/content/images/f/4/e/f4e86a5301c253d4a07697bddb5caa18-1200x800.jpg",
+      "publishedAt": "2025-10-29T10:15:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "c9aa6aaaafbe9126ade978f818b26749",
+      "title": "La Banque du Canada devrait abaisser ses taux face à la persistance de la guerre commerciale américaine",
+      "description": "La Banque du Canada devrait presque à coup sûr réduire son principal taux directeur à 2,25 % ce mercredi, alors que les dernières menaces du président Donald Trump d'imposer des droits de...",
+      "content": "La Banque du Canada devrait presque à coup sûr réduire son principal taux directeur à 2,25 % ce mercredi, alors que les dernières menaces du président Donald Trump d'imposer des droits de douane plus élevés renforcent les attentes d'une baisse des ta... [2215 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-devrait-abaisser-ses-taux-face-a-la-persistance-de-la-guerre-commerciale-america-ce7d5dddd18ef525",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-22T203239Z_1_LYNXMPEL4L13C_RTROPTP_4_CANADA-CENBANK.JPG",
+      "publishedAt": "2025-10-29T10:02:27Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "fd83113ad5bdf50d86a1c8d262f12df5",
       "title": "Espagne : la croissance du PIB a ralenti à 0,6% au troisième trimestre",
@@ -115,54 +163,6 @@
         "id": "3cf85c8714154abe13a5cdac30752179",
         "name": "Actualités - Orange",
         "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3cb101017750e393a3cd82b12dcc88dd",
-      "title": "La Fed se prépare à sa deuxième baisse des taux fédéraux de l’année",
-      "description": "La banque centrale américaine devrait annoncer ce mercredi une nouvelle baisse des taux directeurs de 25 points de base. Le marché anticipe toujours une autre baisse en décembre. Mais les investisseurs restent prudents sur 2026 alors que les marchés boursiers américains atteignent de nouveaux records.",
-      "content": "Logo minifié doré La Provence\nCe contenu est réservé aux abonnés\nLa banque centrale américaine devrait annoncer ce mercredi une nouvelle baisse des taux directeurs de 25 points de base. Le marché anticipe toujours une autre baisse en décembre. Mais l... [250 chars]",
-      "url": "https://www.latribune.fr/article/banques-finance/industrie-financiere/22944265893655/la-fed-se-prepare-a-sa-deuxieme-baisse-des-taux-federaux-de-l-annee",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/28/le-president-de-la-fed-jerome-powell-devrait-rester-prudent-sur-les-prochaines-baisses-de-taux-1761669289_44234d47e009648234d47e0093c234v_.jpg",
-      "publishedAt": "2025-10-29T06:00:02Z",
-      "lang": "fr",
-      "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "193c255ce9edb73d01d099cc7d13f3de",
-      "title": "Donald Trump critique à nouveau Jerome Powell sur les taux d'intérêt",
-      "description": "Le président des États-Unis, Donald Trump, a de nouveau exprimé jeudi ses critiques à l'égard de la Réserve fédérale, s'en prenant au président de la banque centrale, Jerome Powell, qu'il...",
-      "content": "Le président des États-Unis, Donald Trump, a de nouveau exprimé jeudi ses critiques à l'égard de la Réserve fédérale, s'en prenant au président de la banque centrale, Jerome Powell, qu'il accuse de tarder à baisser les taux d'intérêt.\n« Jerome 'Trop ... [1606 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/donald-trump-critique-a-nouveau-jerome-powell-sur-les-taux-d-interet-ce7d5ddddd89f32c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-25T100525Z_1_LYNXMPEL6O0EK_RTROPTP_4_USA-TRUMP-FED.JPG",
-      "publishedAt": "2025-10-29T05:43:19Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "431d7c7a68183f951d2afb03b2f9e7e7",
-      "title": "EN DIRECT - Budget 2026 : les députés votent pour multiplier par deux la taxe Gafam qui vise les géants de la tech",
-      "description": "[VIDÉO] ▶️ Les députés ont voté mardi pour doubler le taux de la taxe Gafam qui cible les grandes entreprises de la tech, passant de 3 à 6%, en dépit de l'opposition du gouvernement inquiet d'éventuelles représailles de l’administration Trump. Suivez les dernières informations. - EN DIRECT - Budget 2026 : les députés votent pour multiplier par deux la taxe Gafam qui vise les géants de la tech (Économie).",
-      "content": "Les députés ont voté mardi pour doubler le taux de la taxe Gafam qui cible les grandes entreprises de la tech, passant de 3 à 6%, en dépit de l'opposition du gouvernement inquiet d'éventuelles représailles de l’administration Trump.\nSuivez les derniè... [2397 chars]",
-      "url": "https://www.tf1info.fr/economie/direct-budget-2026-plf-plfss-taxe-zucman-gouvernement-lecornu-deputes-assemblee-nationale-les-dernieres-informations-mercredi-29-octobre-2025-2403354.html",
-      "image": "https://photos.tf1info.fr/images/1280/720/assemblee-budget-27-octobre-2025-f09c36-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
-      "publishedAt": "2025-10-29T05:30:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
-        "name": "TF1 INFO",
-        "url": "https://www.tf1info.fr",
         "country": "fr"
       }
     }
