@@ -7,6 +7,22 @@
   "totalArticles": 25342,
   "articles": [
     {
+      "id": "cf708c253a423aecd309606095fd73e2",
+      "title": "Aux États-Unis, la Banque centrale va sans doute baisser ses taux aujourd’hui, afin de doper l’économie",
+      "description": "Il s’agit d’une demande persistante de Donald Trump, qui aimerait que l’économie soit soutenue par de l’argent meilleur marché. Il s’agirait de la deuxième baisse cette année, après celle du mois de septembre.",
+      "content": "La banque centrale des États-Unis devrait réduire aujourd’hui ses taux d’intérêt pour la deuxième fois consécutive (après -0,25 % en septembre), pour donner de l’élan à l’économie et soutenir le marché du travail, même si l’inflation continue de pres... [3295 chars]",
+      "url": "https://www.leparisien.fr/international/etats-unis/aux-etats-unis-la-banque-centrale-va-sans-doute-baisser-ses-taux-aujourdhui-afin-de-doper-leconomie-29-10-2025-HNXE6VXENFAXPOR7UNNDK3TKC4.php",
+      "image": "https://www.leparisien.fr/resizer/AOvCCtzaAzpsOJkdDaNeZ0lg4i4=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/RUCXGWEMNFDD5I76QMZRWAWW4Q.jpg",
+      "publishedAt": "2025-10-29T03:43:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "0daf79fa71eb33d76938f1ceca2431c2",
+        "name": "Le Parisien",
+        "url": "https://www.leparisien.fr",
+        "country": "fr"
+      }
+    },
+    {
       "id": "86f1f0a824f9c6fe309eff0c7385e934",
       "title": "Les cambistes surveillent la RBI et les flux avant une baisse de taux de la Fed déjà anticipée",
       "description": "La roupie indienne devrait évoluer dans une fourchette étroite ce mercredi, le soutien probable de la banque centrale venant contrebalancer la demande en dollars des importateurs et un contexte...\n-Le 29 octobre 2025 à 04:06\n- Zonebourse",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6224e93cc9f82d5af3d55b42eb37d374",
-      "title": "L'éco du monde : La Chine sur le point d'annoncer un gigantesque investissement sur le sol US ? - 28/10",
-      "description": "Ce mardi 28 octobre, Julien Moussavi, économiste chez BSI Economics et responsable Finance Durable chez FTSE Russell, a abordé l'espoir de la fin de la guerre commerciale avec la rencontre Xi/Trump, et l'attente d'une baisse des taux de la FED, dans l'émission BFM Bourse présentée par Guillaume...",
-      "content": "Ce mardi 28 octobre, Marie Lasségnore, directrice Recherche Investissement durable chez Crédit Mutuel AM, s'est penchée sur la situation J-13 avant la Cop 30 au Brésil, le maintien de l'effort des entreprises pour l'engagement ESG, et l'éventualité d... [3869 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-la-chine-sur-le-point-d-annoncer-un-gigantesque-investissement-sur-le-sol-us-28-10_EN-202510280644.html",
-      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
-      "publishedAt": "2025-10-28T15:45:53Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
         "country": "fr"
       }
     }
