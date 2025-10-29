@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25334,
+  "totalArticles": 25338,
   "articles": [
+    {
+      "id": "b3b82c9c59ea4bf13d25e188dbee0a69",
+      "title": "La Bourse de Paris fléchit légèrement avant la décision de la Fed",
+      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux...",
+      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains. L'indice vedet... [3444 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-flechit-legerement-avant-la-decision-de-la-fed-20251028",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/28/11c9950565fd9c8624ab0a02ed4e47d2c81f206fd7c877e05da1cb9595fed773.jpg",
+      "publishedAt": "2025-10-28T18:05:54Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "8e14bb5282e54b37f2fe2544a43b4482",
+      "title": "Paris prudente avant la Fed",
+      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats...",
+      "content": "Paris (awp/afp) - La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américai... [3493 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/paris-prudente-avant-la-fed-ce7d5ddcd08df421",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-16T090107Z_1_LYNXMPECAF0DH_RTROPTP_2_FRANCE.JPG",
+      "publishedAt": "2025-10-28T17:52:19Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "591940362f767c9b68d9b214cbe99c87",
+      "title": "La Bourse de Paris prudente avant la Fed",
+      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels de... - 28/10/2025 à 18:51 - Boursorama",
+      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains.\nL'indice vedet... [3479 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-prudente-avant-la-fed-afd3e970cbc829d66e0a795e861a1a10",
+      "image": "https://www.boursorama.com/static/i/content/images/8/2/c/82c8eaa8f7e9674845b2050b5b42df43-1200x800.jpg",
+      "publishedAt": "2025-10-28T17:51:51Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "bf6302de7b091069ac910bf81a848d89",
+      "title": "La Bourse de Paris prudente avant la Fed",
+      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains.",
+      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains.\nL'indice vedet... [3475 chars]",
+      "url": "https://actu.orange.fr/economie/la-bourse-de-paris-prudente-avant-la-fed-CNT000002lr5UY.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F78bc5539-a3e6-42ad-9695-3410bfeb5d04.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-28T17:51:51Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "e379bd7d5402284dca09bb652793188f",
       "title": "La Fed entame son avant-dernière réunion de l'année, nouvelle détente à l'horizon",
@@ -99,70 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ffb11c14c5bb9ba02375ddce5ec544e4",
-      "title": "Zone euro: Les consommateurs abaissent leurs anticipations d'inflation montre une enquête de la BCE",
-      "description": "Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est plus ... - 28/10/2025 à 11:56 - Boursorama",
-      "content": "Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est plus une préoccupation majeure, montre mardi une nouvel... [1869 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/zone-euro-les-consommateurs-abaissent-leurs-anticipations-d-inflation-montre-une-enquete-de-la-bce-e4429e516ecf439fa5a57931456f4351",
-      "image": "https://www.boursorama.com/static/i/content/images/9/a/f/9afd191988be6a3c01a94247dd287c7e-1200x800.jpg",
-      "publishedAt": "2025-10-28T10:56:22Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "86614e6445a2dd953ff9e63be0186874",
-      "title": "La Banque d'Angleterre devrait maintenir ses taux ce trimestre et reprendre les baisses début 2026, selon un sondage Reuters",
-      "description": "La Banque d'Angleterre devrait maintenir son taux directeur à 4,00% lors de sa réunion de novembre, et une faible majorité d'économistes interrogés par Reuters n'anticipent désormais plus...\n-Le 28 octobre 2025 à 11:39\n- Zonebourse",
-      "content": "La Banque d'Angleterre devrait maintenir son taux directeur à 4,00% lors de sa réunion de novembre, et une faible majorité d'économistes interrogés par Reuters n'anticipent désormais plus d'assouplissement monétaire supplémentaire cette année.\nSi cet... [3363 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-d-angleterre-devrait-maintenir-ses-taux-ce-trimestre-et-reprendre-les-baisses-debut-2026-ce7d5ddcdb8af624",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-03T100622Z_1_LYNXMPEL620E7_RTROPTP_4_BRITAIN-BOE.JPG",
-      "publishedAt": "2025-10-28T10:39:58Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3d9dc7fecb858f73828a022087d81446",
-      "title": "Paris: sous légère pression, entre espoirs de baisse de taux et résultats contrastés",
-      "description": "La Bourse de Paris est en légère contraction ce matin, autour des 8220 points (-0,2%), soutenue par Capgemini (+5,5%) et Edenred (+5%) mais pénalisée par BNP Paribas (-2,4% après des résultats décevan... - 28/10/2025 à 11:01 - Boursorama",
-      "content": "information fournie par Zonebourse•28/10/2025 à 11:01\nLa Bourse de Paris est en légère contraction ce matin, autour des 8220 points (-0,2%), soutenue par Capgemini (+5,5%) et Edenred (+5%) mais pénalisée par BNP Paribas (-2,4% après des résultats déc... [4955 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/paris-sous-legere-pression-entre-espoirs-de-baisse-de-taux-et-resultats-contrastes-a7e5d972a0c01b76d9362aa73286d9ac",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-6.jpg",
-      "publishedAt": "2025-10-28T10:01:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "32ace65af24495c69905baa63dc969ed",
-      "title": "Capgemini: L'IA soutient les résultats du T3, le titre grimpe",
-      "description": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par... - 28/10/2025 à 10:48 - Boursorama",
-      "content": "Capgemini a relevé mardi sa prévision de croissance annuelle et publié un chiffre d’affaires de 5,39 milliards d’euros au troisième trimestre, en hausse de 2,9% à taux de change constants, soutenu par une accélération de la demande en Amérique du Nor... [2554 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/capgemini-l-ia-soutient-les-resultats-du-t3-le-titre-grimpe-a4c19e00fed4a1d479b0aac2c933334f",
-      "image": "https://www.boursorama.com/static/i/content/images/7/f/7/7f7736950810f33cf382538fe9d8bd93-1200x800.jpg",
-      "publishedAt": "2025-10-28T09:48:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
