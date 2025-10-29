@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25354,
+  "totalArticles": 25355,
   "articles": [
+    {
+      "id": "6afca11f8b9571c1e1db1c6f3f738289",
+      "title": "Les contrats à terme du TSX stables dans l'attente des décisions de taux de la Banque du Canada et de la Fed",
+      "description": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto sont restés inchangés mercredi, alors que la prudence s'installait avant les décisions sur les taux d'intérêt de la...",
+      "content": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto sont restés inchangés mercredi, alors que la prudence s'installait avant les décisions sur les taux d'intérêt de la Banque du Canada (BdC) et de la Réserve fédérale américaine (Fe... [2510 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-contrats-a-terme-du-tsx-stables-dans-l-attente-des-decisions-de-taux-de-la-banque-du-canada-et-d-ce7d5dddd08ff72d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-17T103518Z_1_LYNXMPEL3G0E9_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2025-10-29T10:54:25Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "189c875f9c0a2bae3bf1d7f4589e403e",
       "title": "La Fed à l'aube d'une nouvelle baisse des taux d'intérêt américains",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "181431082a73ae88a2b32ac822539543",
-      "title": "À l'Assemblée nationale, les députés défient Donald Trump et doublent la taxe Gafam",
-      "description": "Un amendement concernant un doublement de la taxe Gafam a été voté par les députés, mardi soir, lors des débats sur la partie fiscalité des grandes entreprises du budget. Une provocation adressée à Donald Trump ? Le gouvernement craint des représailles de sa part.\nMême pas peur. Contre l'avis du gouvernement, qui craint des représailles économiques de Donald Trump, les députés de l'Assemblée nationale ont largement voté mardi 28 octobre en faveur – 296 voix pour et 58 contre – d'un amendement alourdissant la fiscalité des grandes entreprises de la tech. Cette mesure, si elle est entérinée dans l'adoption finale du projet de loi de finances 2026, portera de 3 à 6 % le taux de la taxe Gafam. Et ce n'est pas tout. Un impôt universel sur les multinationales a également été adopté dans un autre amendement. De quoi potentiellement irriter le président américain – qui n'a pas encore réagi – et relancer sa lubie autour des droits de douane.\nRoland Lescure implore les députés… en vain\nLe gouvernement tremble à l'idée que Donald Trump réplique alors que, pourtant, à l'origine, le taux de la taxe Gafam évoqué par les élus macronistes en commission était de 15 %. Il a finalement été ramené à 6 %. Quid de l'impôt universel ? Cette mesure, qui vise aussi à lutter contre l'optimisation et l'évasion fiscale, rapporterait 26 milliards d'euros à l'État.\nLe ministre de l'Économie, Roland Lescure, est sceptique. Avant le vote, il s'est adressé aux parlementaires, les appelant à la mesure, craignant que le doublement de la taxe Gafam ne déchaîne les passions outre-Atlantique… \"Si on introduit une taxe disproportionnée, on aura des représailles disproportionnées\", a-t-il déclaré. Avant de supplier : \"Soyez prudents, je vous en conjure.\" Il n'aime pas plus l'idée de l'impôt universel qui attirerait, selon lui, \"20 milliards d'ennuis\" à la France.",
-      "content": "Un amendement concernant un doublement de la taxe Gafam a été voté par les députés, mardi soir, lors des débats sur la partie fiscalité des grandes entreprises du budget. Une provocation adressée à Donald Trump ? Le gouvernement craint des représaill... [1605 chars]",
-      "url": "https://actu.orange.fr/politique/a-l-assemblee-nationale-les-deputes-defient-donald-trump-et-doublent-la-taxe-gafam-magic-CNT000002lsuRD.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fac7%2F9b6%2F245b4baa31df56d06748ae562d%2Fac79b6245b4baa31df56d06748ae562d.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-29T06:58:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
         "country": "fr"
       }
     }
