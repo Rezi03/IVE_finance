@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25338,
+  "totalArticles": 25339,
   "articles": [
+    {
+      "id": "52e91f2962f973d293b8ef097e51cbc6",
+      "title": "Wall Street au plus haut avant la décision de la Fed et les résultats de la tech",
+      "description": "Wall Street a terminé sur de nouveaux sommets mardi, portée par l’optimisme des investisseurs avant la décision de la Fed sur ses taux et la publication des résultats trimestriels des poids lourds technologiques comme Microsoft, Alphabet, Meta, Apple et Amazon. Les attentes sont élevées, notamment sur l’intelligence artificielle, facteur clé d’anticipation de croissance pour 2025, tandis que la récente baisse de l’inflation laisse espérer un assouplissement monétaire. Le rendement des obligations américaines à dix ans s’est légèrement détendu. Côté valeurs, Nokia a bondi après une prise de participation de Nvidia, PayPal a séduit grâce à de bons résultats et un accord avec OpenAI, et UPS a rassuré par la réussite de son repositionnement stratégique. Apple a franchi le cap symbolique des 4.000 milliards de dollars de capitalisation en séance.",
+      "content": "Washington - La Bourse de New York a terminé en forme mardi, abordant avec confiance les résultats d’entreprise des géants technologiques américains et la décision de politique monétaire de la banque centrale des Etats-Unis (Fed).\nPour la troisième s... [22332 chars]",
+      "url": "https://www.lopinion.fr/economie/wall-street-au-plus-haut-avant-la-decision-de-la-fed-et-les-resultats-de-la-tech",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/d9d8b09/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fda498ea745f94c1796110d9743f1bcc1f82e11af.jpeg",
+      "publishedAt": "2025-10-28T21:30:38Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "b3b82c9c59ea4bf13d25e188dbee0a69",
       "title": "La Bourse de Paris fléchit légèrement avant la décision de la Fed",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-fed-entame-son-avant-derniere-reunion-de-l-annee-detente-en-vue-ce7d5ddcdf88f025",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-09T025027Z_2_LYNXMPECA71NB_RTROPTP_2_GLOBAL-FOREX-INT.JPG",
       "publishedAt": "2025-10-28T14:04:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "fb1b0667684d85184b8c8d8536524d91",
-      "title": "Zone euro: Les consommateurs abaissent leurs anticipations d'inflation montre une enquête de la BCE",
-      "description": "Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est...\n-Le 28 octobre 2025 à 11:57\n- Zonebourse",
-      "content": "FRANCFORT (Reuters) - Les anticipations d'inflation des consommateurs en zone euro ont été revues à la baisse pour l'année prochaine et celles à plus long terme n'ont pas varié, signe que la croissance des prix n'est plus une préoccupation majeure, m... [1891 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/zone-euro-les-consommateurs-abaissent-leurs-anticipations-d-inflation-montre-une-enquete-de-la-bce-ce7d5ddcdb8ff624",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-30T083322Z_1_LYNXMPEL5T09F_RTROPTP_4_ECB-POLICY.JPG",
-      "publishedAt": "2025-10-28T10:57:46Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
