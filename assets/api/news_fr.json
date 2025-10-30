@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25393,
+  "totalArticles": 25394,
   "articles": [
+    {
+      "id": "1f411d836a77d00bc26d540956ad7b1b",
+      "title": "La banque centrale de Hong Kong abaisse son taux directeur, suivant la décision de la Fed",
+      "description": "La banque centrale de facto de Hong Kong a abaissé jeudi son taux d'intérêt de base de 25 points de base, le ramenant à 4,25 %, emboîtant le pas à la Réserve fédérale américaine.\nIl s'agit...",
+      "content": "La banque centrale de facto de Hong Kong a abaissé jeudi son taux d'intérêt de base de 25 points de base, le ramenant à 4,25 %, emboîtant le pas à la Réserve fédérale américaine.\nIl s'agit de la deuxième mesure d'assouplissement prise cette année par... [601 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-de-hong-kong-abaisse-son-taux-directeur-suivant-la-decision-de-la-fed-ce7d5dd2d180f021",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-09T034852Z_1_LYNXMPEL4802O_RTROPTP_4_HONGKONG-ECONOMY-RATES.JPG",
+      "publishedAt": "2025-10-29T23:10:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "ddfce39bf385d1b1055621327e9112e5",
       "title": "Wall Street termine en ordre dispersé après les déclarations de Powell",
@@ -131,22 +147,6 @@
         "id": "3cf85c8714154abe13a5cdac30752179",
         "name": "Actualités - Orange",
         "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8ab128eaf46a868246276fd162cd91fd",
-      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
-      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être a... - 29/10/2025 à 21:14 - Boursorama",
-      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.\nLe Dow Jones a perdu 0,16% et l'indice éla... [310 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-86ac96954cf5f23e77a14561b51de95f",
-      "image": "https://www.boursorama.com/static/i/content/images/6/7/8/678b2617103617c8792cc7ef7bb3a1ae-1200x800.jpg",
-      "publishedAt": "2025-10-29T20:14:39Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     },
