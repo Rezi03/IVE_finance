@@ -4,8 +4,88 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25400,
+  "totalArticles": 25405,
   "articles": [
+    {
+      "id": "81dc4d3dbbb29c82a61fa198daaedc52",
+      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Baisse des taux, bonne ou mauvaise nouvelle ? - 30/10",
+      "description": "Ce jeudi 30 octobre, une baisse des taux, et le rapport entre la banque central et les pouvoirs ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Sandra Gandoin, sur BFM Business. Retrouvez l'émission du lundi au...",
+      "content": "Ce jeudi 30 octobre, la rencontre entre Donald Trump et Xi Jinping en Corée du Sud, où les deux chefs d'État ont discuté de certains accords commerciaux, a été abordée par Annalisa Cappellini dans sa chronique, dans l'émission Good Morning Business, ... [2464 chars]",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-jean-marc-daniel-baisse-des-taux-bonne-ou-mauvaise-nouvelle-30-10_EN-202510300189.html",
+      "image": "https://images.bfmtv.com/mPC6Hjt5isVIaOtdLDiVe-sM-zk=/0x0:14000x14000/1400x0/podcast/podcasts/principale-56_3.jpg",
+      "publishedAt": "2025-10-30T06:25:45Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b92f8be76ac653d4971a52c496a26b56",
+      "title": "La BCE devrait prolonger la pause sur les taux",
+      "description": "La Banque centrale européenne devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en bonne position alors que l'inflation de la zone euro navigue...",
+      "content": "Florence (awp/afp) - La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.\n... [3638 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-devrait-prolonger-la-pause-sur-les-taux-ce7d5dd3d88bf322",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-30T05:56:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "bd9b4948e178be75c328b0d51e044649",
+      "title": "Japon: la banque centrale maintient ses taux et insiste sur les \"incertitudes\"",
+      "description": "La Banque du Japon a laissé jeudi ses taux inchangés et pointé les fortes incertitudes sur la conjoncture mondiale en raison des tensions douanières --et à l'heure où la nouvelle Première...",
+      "content": "Tokyo (awp/afp) - La Banque du Japon (BoJ) a laissé jeudi ses taux inchangés et pointé les \"fortes incertitudes\" sur la conjoncture mondiale en raison des tensions douanières --et à l'heure où la nouvelle Première ministre nippone Sanae Takaichi esqu... [4238 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/japon-la-banque-centrale-maintient-ses-taux-et-insiste-sur-les-incertitudes-ce7d5dd3d889ff2d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2018-06/2018-06-08T094031Z_1_LYNXNPEE570NT-OCABS_RTROPTP_3_CBUSINESS-US-STANCHART-COMPLIANCE.JPG",
+      "publishedAt": "2025-10-30T05:36:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "d6015f2603564d6799474fc8016ca21f",
+      "title": "Rencontre \" incroyable \" entre Trump et Xi : un apaisement des tensions salué par les marchés",
+      "description": "Un aperçu de la journée à venir sur les marchés européens et mondiaux, par Ankur Banerjee\nUne poignée de main entre Donald Trump et Xi Jinping, une probable pause sur les taux de la Banque du...",
+      "content": "Un aperçu de la journée à venir sur les marchés européens et mondiaux, par Ankur Banerjee\nUne poignée de main entre Donald Trump et Xi Jinping, une probable pause sur les taux de la Banque du Japon, ainsi que le ton prudent adopté par le président de... [2387 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/rencontre-incroyable-entre-trump-et-xi-un-apaisement-des-tensions-salue-par-les-marches-ce7d5dd3d889ff22",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T053435Z_1_LYNXMPEL9T05V_RTROPTP_4_USA-TRUMP-XI.JPG",
+      "publishedAt": "2025-10-30T05:35:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "055c6c38ddad3950a5e940dbce703016",
+      "title": "Rencontre \" incroyable \" entre Trump et Xi : l'apaisement des tensions profite aux marchés",
+      "description": "Analyse de la journée à venir sur les marchés européens et mondiaux par Ankur Banerjee\nUne poignée de main entre Donald Trump et Xi Jinping, la probable stabilité des taux de la Banque du...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/rencontre-incroyable-entre-trump-et-xi-l-apaisement-des-tensions-profite-aux-marches-ce7d5dd3d889f222",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-30T05:32:21Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "5fd5f75eb5bc247a85f30f4f247495c8",
       "title": "La BCE devrait prolonger la pause sur les taux",
@@ -78,86 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/les-investisseurs-reagissent-a-la-decision-de-la-banque-du-japon-de-maintenir-ses-taux-ce7d5dd3d98cf52d",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-15T051444Z_1_LYNXMPEL4E051_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
       "publishedAt": "2025-10-30T03:37:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f4e316d40311adae6f21bb4070af7297",
-      "title": "La BCE devrait prolonger la pause sur les taux",
-      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro n…",
-      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/la-bce-devrait-prolonger-la-pause-sur-les-taux",
-      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-30T02:50:19Z",
-      "lang": "fr",
-      "source": {
-        "id": "2c40603c04e5bd140ebf7a267c956542",
-        "name": "Mediapart",
-        "url": "https://www.mediapart.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "1f411d836a77d00bc26d540956ad7b1b",
-      "title": "La banque centrale de Hong Kong abaisse son taux directeur, suivant la décision de la Fed",
-      "description": "La banque centrale de facto de Hong Kong a abaissé jeudi son taux d'intérêt de base de 25 points de base, le ramenant à 4,25 %, emboîtant le pas à la Réserve fédérale américaine.\nIl s'agit...",
-      "content": "La banque centrale de facto de Hong Kong a abaissé jeudi son taux d'intérêt de base de 25 points de base, le ramenant à 4,25 %, emboîtant le pas à la Réserve fédérale américaine.\nIl s'agit de la deuxième mesure d'assouplissement prise cette année par... [601 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-de-hong-kong-abaisse-son-taux-directeur-suivant-la-decision-de-la-fed-ce7d5dd2d180f021",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-09T034852Z_1_LYNXMPEL4802O_RTROPTP_4_HONGKONG-ECONOMY-RATES.JPG",
-      "publishedAt": "2025-10-29T23:10:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ddfce39bf385d1b1055621327e9112e5",
-      "title": "Wall Street termine en ordre dispersé après les déclarations de Powell",
-      "description": "par Caroline Valetkevitch La Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine (Fed) Jerome Powell a déclaré qu'une nouvelle baisse des taux... - 29/10/2025 à 23:19 - Boursorama",
-      "content": "par Caroline Valetkevitch\nLa Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine (Fed) Jerome Powell a déclaré qu'une nouvelle baisse des taux en décembre était loin d'être certaine.\nL'indice ... [2081 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-en-ordre-disperse-apres-les-declarations-de-powell-1bcc6233193cb9283e9b4deb3a658ecf",
-      "image": "https://www.boursorama.com/static/i/content/images/9/a/c/9ac375f335b3d436de71f1cd2ae8a3f6-1200x800.jpg",
-      "publishedAt": "2025-10-29T22:19:32Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "de470d14e29421c971c152c2c9524243",
-      "title": "Wall Street termine en ordre dispersé après les déclarations de Powell",
-      "description": "La Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine Jerome Powell a déclaré qu'une nouvelle baisse des taux en décembre était...\n-Le 29 octobre 2025 à 23:19\n- Zonebourse",
-      "content": "(Reuters) - La Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine (Fed) Jerome Powell a déclaré qu'une nouvelle baisse des taux en décembre était loin d'être certaine.\nL'indice Dow Jones a cé... [2093 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-termine-en-ordre-disperse-apres-les-declarations-de-powell-ce7d5dd2d18cf221",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T105350Z_1_LYNXMPEL3F0FW_RTROPTP_4_USA-STOCKS-TARIFFS.JPG",
-      "publishedAt": "2025-10-29T22:19:17Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b7fbe8b15f446c479e5d6651c145d3cb",
-      "title": "La Banque du Japon devrait maintenir ses taux inchangés, la pression sur le yen persiste",
-      "description": "La Banque du Japon est largement attendue pour maintenir ses taux d'intérêt stables jeudi, tout en réaffirmant sa détermination à poursuivre la hausse progressive de coûts d'emprunt encore...",
-      "content": "La Banque du Japon (BOJ) est largement attendue pour maintenir ses taux d'intérêt stables jeudi, tout en réaffirmant sa détermination à poursuivre la hausse progressive de coûts d'emprunt encore faibles afin de contrer le risque de nouvelles chutes d... [4582 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-devrait-maintenir-ses-taux-inchanges-la-pression-sur-le-yen-persiste-ce7d5dd2d18dff20",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-15T051444Z_1_LYNXMPEL4E051_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
-      "publishedAt": "2025-10-29T22:01:15Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
