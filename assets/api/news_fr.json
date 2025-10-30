@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25373,
+  "totalArticles": 25375,
   "articles": [
+    {
+      "id": "232a8bb41356b58ad0791506a4f1aa4c",
+      "title": "1.200 milliards de dollars, le véritable prix de l'indépendance de la banque centrale américaine",
+      "description": "La Réserve fédérale américaine et son président Jerome Powell ont été malmenés par Donald Trump, qui leur reproche de ne pas avoir suffisamment baissé les taux. La fin possible de l'indépendance de la première banque centrale au monde est un enjeu pour Wall Street et la dette américaine.",
+      "content": "La Réserve fédérale (Fed) connaîtra-t-elle le même sort que l'aile Est de la Maison-Blanche, détruite et rebâtie au goût de Donald Trump ? Avant même sa victoire écrasante à la présidentielle, le républicain avait multiplié les attaques contre la ban... [507 chars]",
+      "url": "https://www.lesechos.fr/finance-marches/marches-financiers/1200-milliards-de-dollars-le-veritable-prix-de-lindependance-de-la-banque-centrale-americaine-2195456",
+      "image": "https://media.lesechos.com/api/v1/images/view/69023dda7b77a3c4a20b0e45/1280x720/01601937073585-web-tete.jpg",
+      "publishedAt": "2025-10-29T16:16:21Z",
+      "lang": "fr",
+      "source": {
+        "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
+        "name": "Les Échos",
+        "url": "https://www.lesechos.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "9cd1d60d3e8442465ecb5a598ae4aa33",
+      "title": "Canada: réduction du taux directeur dans un contexte d’affaiblissement économique",
+      "description": "La Banque du Canada a abaissé mercredi son principal taux directeur, le faisant passer de 2,5% à 2,25%, tel qu’anticipé par les analystes, dans un contexte où les effets de mesures commerciales amér…",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/291025/canada-reduction-du-taux-directeur-dans-un-contexte-d-affaiblissement-economique",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-29T16:08:49Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "98ed44cb85f804a4312be42a73284f59",
       "title": "La Banque centrale du Tadjikistan abaisse son taux directeur à 7,50 %",
@@ -131,38 +163,6 @@
         "id": "2c40603c04e5bd140ebf7a267c956542",
         "name": "Mediapart",
         "url": "https://www.mediapart.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "192984d0a6d0cf0e72b02f3dd5bb32d1",
-      "title": "La Fed sur le point de baisser les taux d'intérêt américains, sans s'engager pour la suite",
-      "description": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les Américains.",
-      "content": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les Américains.\nLe deuxi... [3127 chars]",
-      "url": "https://actu.orange.fr/economie/la-fed-sur-le-point-de-baisser-les-taux-d-interet-americains-sans-s-engager-pour-la-suite-CNT000002lszcL.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fe930e0e1-5612-40d6-8651-0dc6203a6230.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-29T14:15:21Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "4e38547cc349c2508ad90aad1d4a476c",
-      "title": "La Fed sur le point de baisser les taux d'intérêt américains, sans s'engager pour la suite",
-      "description": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflati... - 29/10/2025 à 15:15 - Boursorama",
-      "content": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les Américains.\nLe deuxi... [3127 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-fed-sur-le-point-de-baisser-les-taux-d-interet-americains-sans-s-engager-pour-la-suite-043bc5040b9f207c2c43c7f9376854d1",
-      "image": "https://www.boursorama.com/static/i/content/images/f/4/e/f4e86a5301c253d4a07697bddb5caa18-1200x800.jpg",
-      "publishedAt": "2025-10-29T14:15:21Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
