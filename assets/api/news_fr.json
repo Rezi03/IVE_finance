@@ -4,8 +4,88 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25385,
+  "totalArticles": 25390,
   "articles": [
+    {
+      "id": "f7cbf8ce30e07932ce9403516513b979",
+      "title": "Journée de Bourse : Nvidia explose, la Fed tempère l'espoir d'un assouplissement",
+      "description": "Wall Street a terminé en ordre dispersé mercredi après que la Réserve fédérale a abaissé ses taux directeurs, tout en signalant qu'une nouvelle baisse en décembre restait incertaine. Dans le...",
+      "content": "Wall Street a terminé en ordre dispersé mercredi après que la Réserve fédérale a abaissé ses taux directeurs, tout en signalant qu'une nouvelle baisse en décembre restait incertaine. Dans le même temps, Nvidia est devenue la première entreprise mondi... [9306 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/journee-de-bourse-nvidia-explose-la-fed-tempere-l-espoir-d-un-assouplissement-ce7d5dd2de81f424",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-29T210321Z_1_LYNXMPEL9S162_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2025-10-29T21:03:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "5c709afe5d533a4015e6e91f68378bf9",
+      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
+      "description": "La Bourse de New York a clôturé en ordre dispersé mercredi, impactée par les déclarations prudentes du président de la Fed sur une éventuelle baisse des taux en décembre. Tandis que le Dow Jones recule légèrement (-0,16%) et que le S&P 500 stagne, le Nasdaq s’offre une nouvelle progression (+0,55%) et établit un record de clôture pour la quatrième séance consécutive, notamment grâce à l’envolée de Nvidia, dont la capitalisation dépasse désormais les 5.000 milliards de dollars.",
+      "content": "Washington - La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est «loin» d'être acquise.\nLe Dow Jones a perdu 0,16% et... [15733 chars]",
+      "url": "https://www.lopinion.fr/economie/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/6dbfd21/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F3f6a80ac5853a712f64233c4949412bd2fbc9e21.jpeg",
+      "publishedAt": "2025-10-29T20:47:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "03b36fc105a425f85e24b865bf282c3c",
+      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
+      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être a... - 29/10/2025 à 21:40 - Boursorama",
+      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.\nLe Dow Jones a perdu 0,16% et l'indice éla... [3265 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-75d26f27fc7a4748cccf4eb7b2589603",
+      "image": "https://www.boursorama.com/static/i/content/images/b/1/6/b16de4d9729edc6964142df27916be0f-1200x800.jpg",
+      "publishedAt": "2025-10-29T20:40:47Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "7ba4788265407626ed6b497b511ef227",
+      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
+      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est « loin » d’être acquise.",
+      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est « loin » d’être acquise.\nLe Dow Jones a perdu 0,16% et l’indice é... [3278 chars]",
+      "url": "https://www.la-croix.com/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-20251029",
+      "image": "https://i.la-croix.com/1400x933/smart/2025/10/14/2227266-un-operateur-a-la-bourse-de-new-york-le-13-octobre.jpg",
+      "publishedAt": "2025-10-29T20:40:47Z",
+      "lang": "fr",
+      "source": {
+        "id": "1ddd96a24597c1e67024f4ad1851dbdd",
+        "name": "La Croix",
+        "url": "https://www.la-croix.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "3ec5a1cf6b97b2804f29dc388646a7a2",
+      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
+      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.",
+      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.\nLe Dow Jones a perdu 0,16% et l'indice éla... [3258 chars]",
+      "url": "https://actu.orange.fr/economie/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-CNT000002lt5Su.html",
+      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F5a443c5d-9652-4922-921f-8168e343c420.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-29T20:40:47Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "8ab128eaf46a868246276fd162cd91fd",
       "title": "Wall Street termine sans direction claire, mitigée après la Fed",
@@ -78,86 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/wall-street-se-retourne-plombee-par-les-commentaires-du-president-de-la-fed-ce7d5dd2df8afe22",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-24T161839Z_2_LYNXMPED0N0QO_RTROPTP_2_USA-STOCKS.JPG",
       "publishedAt": "2025-10-29T18:53:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "133ba25c6085605beaef8c0c20e0aefa",
-      "title": "La Banque centrale d'Oman abaisse son taux de repo de 25 points de base à 4,5 %",
-      "description": "La Banque centrale d'Oman a annoncé une réduction de son taux de repo de 25 points de base, le portant ainsi à 4,5 %, selon l'agence de presse officielle du pays ce mercredi.\n...\n-Le 29 octobre 2025 à 19:35\n- Zonebourse",
-      "content": "L'IA est tellement forte qu'elle fait monter Nokia\nPendant que les marchés européens marquent le pas, Wall Street poursuit son accélération en pariant que le super-cycle d'investissement dans l'intelligence artificielle va continuer à tout emporter s... [266 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-d-oman-abaisse-son-taux-de-repo-de-25-points-de-base-a-4-5--ce7d5dd2df8bfe26",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-29T18:35:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "d6c67123c7b922e69e3511234360161d",
-      "title": "Une Fed divisée baisse ses taux d'intérêt d'un quart de point",
-      "description": "La banque centrale des Etats-Unis a réduit sans surprise mercredi ses taux d'intérêt pour la deuxième fois d'affilée face aux risques pesant sur le marché du travail ces derniers mois, dans une...",
-      "content": "Washington (awp/afp) - La banque centrale des Etats-Unis a réduit sans surprise mercredi ses taux d'intérêt pour la deuxième fois d'affilée face aux risques pesant sur le marché du travail \"ces derniers mois\", dans une décision qui n'a pas fait l'una... [359 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/une-fed-divisee-baisse-ses-taux-d-interet-d-un-quart-de-point-ce7d5dd2df88f123",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-28T101606Z_1_LYNXMPECAR0F3_RTROPTP_2_GERMANY-BUSINESS.JPG",
-      "publishedAt": "2025-10-29T18:17:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "c950d06e1a8f4aa88e40fded7bbb00c1",
-      "title": "États-Unis: la Fed baisse sans surprise ses taux d’intérêt d’un quart de point",
-      "description": "Cette deuxième baisse de suite était attendue. Elle est destinée à donner de l’élan à l’économie américaine et à soutenir le marché du travail.",
-      "content": "À lire aussi\nTaxe Zucman : Arthur Mensch, le patron de Mistral, «ne pourrait pas payer» mais appelle à trouver des «solutions» pour «plus de justice fiscale»\nLe jeune patron explique que la récente levée de fonds de la licorne française spécialisée d... [405 chars]",
-      "url": "https://www.lefigaro.fr/conjoncture/etats-unis-la-fed-baisse-sans-surprise-ses-taux-d-interet-d-un-quart-de-point-20251029",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/29/7593329c9524f587e873edd348c490f61f6eb6842132e8fed2f33573f1bdea9c.jpg",
-      "publishedAt": "2025-10-29T18:10:35Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "a729fbaf306d09b6673cddd4dcca7a33",
-      "title": "La Banque centrale américaine baisse à nouveau \" le loyer de l’argent \", comme le souhaite Trump",
-      "description": "La Réserve fédérale américaine a annoncé ce mercredi 29 octobre qu’elle baissait de nouveau ses taux directeurs, ceux qui influent sur toute l’économie américaine. Ceux-ci sont désormais compris entre 3,75 et 4 %. Cette décision de la « Fed » fait suite à la baisse annoncée en septembre.",
-      "content": "C’est toujours un moment particulièrement attendu. La Réserve fédérale américaine, qui est l’équivalent de notre Banque centrale européenne, a dévoilé ce mercredi 29 octobre 2025 sa décision quant à l’évolution des taux directeurs aux États-Unis. En ... [3140 chars]",
-      "url": "https://www.ouest-france.fr/monde/etats-unis/la-fed-la-banque-centrale-americaine-baisse-a-nouveau-ses-taux-directeurs-comme-le-souhaite-trump-daf909e4-b342-11f0-a3b8-6cf5a651f4ac",
-      "image": "https://media.ouest-france.fr/v1/pictures/MjAyNTEwMmM4OGE4NmFmNjJhMmRhMGU1YmZhNDZiMmFlNDljZjg?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=549f61c1c8afd511414bef40b040581a1532ddcccf612796bc9c4ed65ea86a47",
-      "publishedAt": "2025-10-29T18:06:51Z",
-      "lang": "fr",
-      "source": {
-        "id": "20566da74a707c3ac0b4232a67df8211",
-        "name": "Ouest-France",
-        "url": "https://www.ouest-france.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7f7b477f2b1e0d268c6b4cbf9ea01574",
-      "title": "Bourse Zurich: accès de faiblesse du SMI avant la Fed",
-      "description": "La Bourse suisse a creusé ses pertes mercredi en fin de séance, à quelques heures des annonces sur les taux directeurs par la Réserve fédérale américaine . Après les chiffres d'UBS et...",
-      "content": "Zurich (awp) - La Bourse suisse a creusé ses pertes mercredi en fin de séance, à quelques heures des annonces sur les taux directeurs par la Réserve fédérale américaine (Fed). Après les chiffres d'UBS et Straumann en Suisse, la saison des résultats v... [2989 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/bourse-zurich-acces-de-faiblesse-du-smi-avant-la-fed-ce7d5dd2dc8cff27",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2015-08-20T072707Z_1007120001_LYNXNPEB7J09I_RTROPTP_2_OFRBS-MARCHES-SYNTHESE-2.JPG",
-      "publishedAt": "2025-10-29T17:16:40Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
