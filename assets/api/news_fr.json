@@ -4,8 +4,88 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25355,
+  "totalArticles": 25360,
   "articles": [
+    {
+      "id": "87d900aa0c1fb6be9e92f53de71eceb1",
+      "title": "La Banque du Canada abaisse son taux directeur et laisse entrevoir la fin des baisses",
+      "description": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, comme largement anticipé, tout en signalant que cela pourrait marquer la fin de son cycle de baisse,...\n-Le 29 octobre 2025 à 14:54\n- Zonebourse",
+      "content": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, comme largement anticipé, tout en signalant que cela pourrait marquer la fin de son cycle de baisse, à moins que les perspectives d'inflation et de croissanc... [2828 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-abaisse-son-taux-directeur-et-laisse-entrevoir-la-fin-des-baisses-ce7d5dd2db80f227",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-02T114650Z_1_LYNXNPEL510J6_RTROPTP_4_CANADA-CENBANK.JPG",
+      "publishedAt": "2025-10-29T13:54:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b509d7e2ac57ab2e909c9585bce115ef",
+      "title": "Les ETF et les contrats à terme sur actions progressent avant l'ouverture, portés par l'espoir d'une baisse des taux",
+      "description": "Le fonds indiciel large SPDR S&P 500 ETF Trust gagnait 0,3 % et l'Invesco QQQ Trust , très échangé, progressait de 0,5 % dans les échanges avant-bourse de ce mercredi, alors que les...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-etf-et-les-contrats-a-terme-sur-actions-progressent-avant-l-ouverture-portes-par-l-espoir-d-une-ce7d5dd2db8aff24",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-29T13:15:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "cc94088f1ddb726454004e545743991d",
+      "title": "L'unité de trading de Deutsche Bank peut gagner des parts de marché, selon le directeur financier",
+      "description": "James von Moltke, directeur financier de Deutsche Bank , affirme que l'unité de trading sur les taux fixes, les devises et les matières premières de la banque est bien positionnée pour gagner...",
+      "content": "James von Moltke, directeur financier de Deutsche Bank (DB), affirme que l'unité de trading sur les taux fixes, les devises et les matières premières (FICC) de la banque est bien positionnée pour gagner des parts de marché. Il a fait ces déclarations... [259 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/l-unite-de-trading-de-deutsche-bank-peut-gagner-des-parts-de-marche-selon-le-directeur-financier-ce7d5dd2d88cf221",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3487330.png",
+      "publishedAt": "2025-10-29T12:26:34Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "7555e9e27b51708e0189bdd5ae8731e5",
+      "title": "Emeis (ex-orpea) : Avec des taux d'occupation en hausse dans ses maisons de retraite, l'ex-Orpea Emeis poursuit son opération de reconquête de la Bourse",
+      "description": "(BFM Bourse) - L'exploitant de maisons de retraite a confirmé ses objectifs annuels après avoir livré son point d'activité au titre des neuf premiers mois …",
+      "content": "(BFM Bourse) - L'exploitant de maisons de retraite a confirmé ses objectifs annuels après avoir livré son point d'activité au titre des neuf premiers mois de 2025. L'action bondit à la Bourse de Paris.\nEmeis est sur le bon chemin pour tourner la page... [4506 chars]",
+      "url": "https://www.tradingsat.com/emeis-ex-orpea-FR001400NLM4/actualites/emeis-ex-orpea-avec-des-taux-d-occupation-en-hausse-dans-ses-maisons-de-retraite-l-ex-orpea-emeis-poursuit-son-operation-de-reconquete-de-la-bourse-1149410.html",
+      "image": "https://www.tradingsat.com/media/pictures/realsize/news/le-plongeon-boursier-d-orpea-n-en-finit-plus-671807.jpg",
+      "publishedAt": "2025-10-29T11:45:11Z",
+      "lang": "fr",
+      "source": {
+        "id": "2e8ae376e34f50a5cfc9cf58dc9db534",
+        "name": "BFM Bourse",
+        "url": "https://www.tradingsat.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "895df3d584a633c1f8b75eddfbf92e2f",
+      "title": "48 heures pour éprouver l'exubérance : les enjeux du jour sur les marchés américains et mondiaux",
+      "description": "Par Mike Dolan, Rédacteur en chef, Finance et Marchés\nPorté par une nouvelle vague de fusions dans l'IA, d'enthousiasme autour des résultats et alors que les taux d'intérêt s'apprêtent à...",
+      "content": "Par Mike Dolan, Rédacteur en chef, Finance et Marchés\nPorté par une nouvelle vague de fusions dans l'IA, d'enthousiasme autour des résultats et alors que les taux d'intérêt s'apprêtent à baisser de nouveau, Wall Street fait face à deux journées décis... [7098 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/48-heures-pour-eprouver-l-exuberance-les-enjeux-du-jour-sur-les-marches-americains-et-mondiaux-ce7d5dd2d98df422",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-29T112840Z_1_LYNXMPEL9S0LR_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2025-10-29T11:29:36Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "6afca11f8b9571c1e1db1c6f3f738289",
       "title": "Les contrats à terme du TSX stables dans l'attente des décisions de taux de la Banque du Canada et de la Fed",
@@ -83,86 +163,6 @@
         "id": "1775966eb8106b18adce505f85009b83",
         "name": "L'Opinion",
         "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "4ebbdaa5bf64c860b4415840eb65b91e",
-      "title": "Le taux de change n'est pas un outil politique contre les tarifs douaniers, selon la vice-gouverneure de la banque centrale indienne",
-      "description": "Le taux de change de la roupie indienne ne constitue pas un instrument de politique pour lutter contre les tarifs commerciaux, a déclaré mercredi une haute responsable de la banque centrale...",
-      "content": "Le taux de change de la roupie indienne ne constitue pas un instrument de politique pour lutter contre les tarifs commerciaux, a déclaré mercredi une haute responsable de la banque centrale indienne.\n« Le taux de change ne sert pas d'outil politique ... [509 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-taux-de-change-n-est-pas-un-outil-politique-contre-les-tarifs-douaniers-selon-la-vice-gouverneur-ce7d5dddde81f224",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-07/2025-07-07T071639Z_1_LYNXMPEL6607I_RTROPTP_4_BUSINESS-CURRENCY.JPG",
-      "publishedAt": "2025-10-29T08:44:30Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b3b82c9c59ea4bf13d25e188dbee0a69",
-      "title": "La Bourse de Paris fléchit légèrement avant la décision de la Fed",
-      "description": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux...",
-      "content": "La Bourse de Paris a terminé en baisse de 0,27% mardi, dans un marché prudent avant la décision de la Réserve fédérale américaine sur ses taux d'intérêt et la publication des résultats trimestriels des géants technologiques américains. L'indice vedet... [3444 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-flechit-legerement-avant-la-decision-de-la-fed-20251028",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/28/11c9950565fd9c8624ab0a02ed4e47d2c81f206fd7c877e05da1cb9595fed773.jpg",
-      "publishedAt": "2025-10-29T08:13:29Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3ba5f2b45eb10fa6d064de60e3ee392e",
-      "title": "RBC prévoit une croissance à deux chiffres soutenue pour EssilorLuxottica après un troisième trimestre \" impressionnant \"",
-      "description": "RBC Capital Markets anticipe qu'EssilorLuxottica maintiendra un taux de croissance annuel composé à deux chiffres de son chiffre d'affaires au cours des trois à quatre prochaines années, à la...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/rbc-prevoit-une-croissance-a-deux-chiffres-soutenue-pour-essilorluxottica-apres-un-troisieme-trimest-ce7d5dddde88f323",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-29T07:50:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8d29f740cee1ada340a291e3d89bdb1c",
-      "title": "La BCE reste dans une position confortable",
-      "description": "Par François Rimeu, stratégiste sénior chez Crédit Mutuel AM Grâce à une inflation restée proche de l'objectif de 2 % en septembre, la Banque centrale européenne (BCE) devrait maintenir sa politique m... - 29/10/2025 à 08:40 - Boursorama",
-      "content": "Par François Rimeu, stratégiste sénior chez Crédit Mutuel AM\nGrâce à une inflation restée proche de l'objectif de 2 % en septembre, la Banque centrale européenne (BCE) devrait maintenir sa politique monétaire inchangée lors de sa réunion de jeudi. Sa... [1518 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bce-reste-dans-une-position-confortable-3ecda5ca1d6610ff955718179c480c08",
-      "image": "https://www.boursorama.com/static/i/content/images/f/c/c/fcc1acd0e84239fa185c47afeb6e4b18-1280x854.jpg",
-      "publishedAt": "2025-10-29T07:40:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "e8433d179fa383bb842ae5e39f00f543",
-      "title": "Prudence attendue avant les décisions des banques centrales",
-      "description": "La Bourse de Milan s'annonce stable à l'ouverture des échanges ce mercredi, dans l'attente de la décision de la Réserve fédérale américaine sur les taux d'intérêt et à la veille de l'annonce...",
-      "content": "(Alliance News) - La Bourse de Milan s'annonce stable à l'ouverture des échanges ce mercredi, dans l'attente de la décision de la Réserve fédérale américaine sur les taux d'intérêt et à la veille de l'annonce de la Banque centrale européenne.\nLe FTSE... [5751 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/prudence-attendue-avant-les-decisions-des-banques-centrales-ce7d5ddddf80f620",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2019-11-05T095913Z_1_LYNXMPEFA40N5-OCABS_RTROPTP_3_CBUSINESS-US-GLOBAL-MARKETS.JPG",
-      "publishedAt": "2025-10-29T07:31:19Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
