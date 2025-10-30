@@ -4,16 +4,16 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25360,
+  "totalArticles": 25373,
   "articles": [
     {
-      "id": "87d900aa0c1fb6be9e92f53de71eceb1",
-      "title": "La Banque du Canada abaisse son taux directeur et laisse entrevoir la fin des baisses",
-      "description": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, comme largement anticipé, tout en signalant que cela pourrait marquer la fin de son cycle de baisse,...\n-Le 29 octobre 2025 à 14:54\n- Zonebourse",
-      "content": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, comme largement anticipé, tout en signalant que cela pourrait marquer la fin de son cycle de baisse, à moins que les perspectives d'inflation et de croissanc... [2828 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-abaisse-son-taux-directeur-et-laisse-entrevoir-la-fin-des-baisses-ce7d5dd2db80f227",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-02T114650Z_1_LYNXNPEL510J6_RTROPTP_4_CANADA-CENBANK.JPG",
-      "publishedAt": "2025-10-29T13:54:03Z",
+      "id": "98ed44cb85f804a4312be42a73284f59",
+      "title": "La Banque centrale du Tadjikistan abaisse son taux directeur à 7,50 %",
+      "description": "La Banque centrale du Tadjikistan a réduit mercredi son principal taux de refinancement à 7,50 %, contre 7,75 % précédemment.\n...\n-Le 29 octobre 2025 à 16:28\n- Zonebourse",
+      "content": "Picton Investments : La baisse de 25 points de base de la Banque du Canada conforme aux attentes, des taux en direction de 2 %\nL'IA est tellement forte qu'elle fait monter Nokia\nPendant que les marchés européens marquent le pas, Wall Street poursuit ... [393 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-du-tadjikistan-abaisse-son-taux-directeur-a-7-50--ce7d5dd2dd88fe21",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-29T15:28:24Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -23,13 +23,45 @@
       }
     },
     {
-      "id": "b509d7e2ac57ab2e909c9585bce115ef",
-      "title": "Les ETF et les contrats à terme sur actions progressent avant l'ouverture, portés par l'espoir d'une baisse des taux",
-      "description": "Le fonds indiciel large SPDR S&P 500 ETF Trust gagnait 0,3 % et l'Invesco QQQ Trust , très échangé, progressait de 0,5 % dans les échanges avant-bourse de ce mercredi, alors que les...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-etf-et-les-contrats-a-terme-sur-actions-progressent-avant-l-ouverture-portes-par-l-espoir-d-une-ce7d5dd2db8aff24",
+      "id": "2a30679204a651d45b82d38d07f2ac42",
+      "title": "Les Bourses mondiales guettent la Fed, Nvidia dépasse les 5000 milliards",
+      "description": "Les Bourses mondiales guettent mercredi une baisse attendue des taux de la banque centrale américaine tandis que Nvidia, le spécialiste des puces pour l'IA, a franchi à New York la barre des 5000...",
+      "content": "Paris (awp/afp) - Les Bourses mondiales guettent mercredi une baisse attendue des taux de la banque centrale américaine (Fed) tandis que Nvidia, le spécialiste des puces pour l'IA, a franchi à New York la barre des 5000 milliards de dollars de capita... [4070 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-bourses-mondiales-guettent-la-fed-nvidia-depasse-les-5000-milliards-ce7d5dd2da80ff27",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2024-08-29T155738Z_1_LYNXMPEK7S0NF_RTROPTP_3_USA-STOCKS-TRUMP.JPG",
+      "publishedAt": "2025-10-29T15:09:20Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b9d6151ba3ab5768c1a5227e4b4c2106",
+      "title": "La Fed sur le point de baisser les taux d'intérêt",
+      "description": "La banque centrale des Etats-Unis devrait réduire mercredi ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si...",
+      "content": "Washington (awp/afp) - La banque centrale des Etats-Unis devrait réduire mercredi ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les... [3151 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-fed-sur-le-point-de-baisser-les-taux-d-interet-ce7d5dd2da81f527",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-12-30T115658Z_1006950001_LYNXMPECBT0EX_RTROPTP_2_CBUSINESS-US-GLOBAL-FOREX.JPG",
+      "publishedAt": "2025-10-29T14:54:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "0a96f5d9061a5d3ef6fd7b0efaf3f2c8",
+      "title": "La Banque du Canada baisse son taux directeur de 0,25 point, à 2,25%",
+      "description": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines...",
+      "content": "Montréal (awp/afp) - La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'inflation sont \"un peu plus c... [270 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-baisse-son-taux-directeur-de-0-25-point-a-2-25-ce7d5dd2da8ef52c",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-29T13:15:16Z",
+      "publishedAt": "2025-10-29T14:47:19Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -39,93 +71,13 @@
       }
     },
     {
-      "id": "cc94088f1ddb726454004e545743991d",
-      "title": "L'unité de trading de Deutsche Bank peut gagner des parts de marché, selon le directeur financier",
-      "description": "James von Moltke, directeur financier de Deutsche Bank , affirme que l'unité de trading sur les taux fixes, les devises et les matières premières de la banque est bien positionnée pour gagner...",
-      "content": "James von Moltke, directeur financier de Deutsche Bank (DB), affirme que l'unité de trading sur les taux fixes, les devises et les matières premières (FICC) de la banque est bien positionnée pour gagner des parts de marché. Il a fait ces déclarations... [259 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/l-unite-de-trading-de-deutsche-bank-peut-gagner-des-parts-de-marche-selon-le-directeur-financier-ce7d5dd2d88cf221",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3487330.png",
-      "publishedAt": "2025-10-29T12:26:34Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7555e9e27b51708e0189bdd5ae8731e5",
-      "title": "Emeis (ex-orpea) : Avec des taux d'occupation en hausse dans ses maisons de retraite, l'ex-Orpea Emeis poursuit son opération de reconquête de la Bourse",
-      "description": "(BFM Bourse) - L'exploitant de maisons de retraite a confirmé ses objectifs annuels après avoir livré son point d'activité au titre des neuf premiers mois …",
-      "content": "(BFM Bourse) - L'exploitant de maisons de retraite a confirmé ses objectifs annuels après avoir livré son point d'activité au titre des neuf premiers mois de 2025. L'action bondit à la Bourse de Paris.\nEmeis est sur le bon chemin pour tourner la page... [4506 chars]",
-      "url": "https://www.tradingsat.com/emeis-ex-orpea-FR001400NLM4/actualites/emeis-ex-orpea-avec-des-taux-d-occupation-en-hausse-dans-ses-maisons-de-retraite-l-ex-orpea-emeis-poursuit-son-operation-de-reconquete-de-la-bourse-1149410.html",
-      "image": "https://www.tradingsat.com/media/pictures/realsize/news/le-plongeon-boursier-d-orpea-n-en-finit-plus-671807.jpg",
-      "publishedAt": "2025-10-29T11:45:11Z",
-      "lang": "fr",
-      "source": {
-        "id": "2e8ae376e34f50a5cfc9cf58dc9db534",
-        "name": "BFM Bourse",
-        "url": "https://www.tradingsat.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "895df3d584a633c1f8b75eddfbf92e2f",
-      "title": "48 heures pour éprouver l'exubérance : les enjeux du jour sur les marchés américains et mondiaux",
-      "description": "Par Mike Dolan, Rédacteur en chef, Finance et Marchés\nPorté par une nouvelle vague de fusions dans l'IA, d'enthousiasme autour des résultats et alors que les taux d'intérêt s'apprêtent à...",
-      "content": "Par Mike Dolan, Rédacteur en chef, Finance et Marchés\nPorté par une nouvelle vague de fusions dans l'IA, d'enthousiasme autour des résultats et alors que les taux d'intérêt s'apprêtent à baisser de nouveau, Wall Street fait face à deux journées décis... [7098 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/48-heures-pour-eprouver-l-exuberance-les-enjeux-du-jour-sur-les-marches-americains-et-mondiaux-ce7d5dd2d98df422",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-29T112840Z_1_LYNXMPEL9S0LR_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2025-10-29T11:29:36Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6afca11f8b9571c1e1db1c6f3f738289",
-      "title": "Les contrats à terme du TSX stables dans l'attente des décisions de taux de la Banque du Canada et de la Fed",
-      "description": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto sont restés inchangés mercredi, alors que la prudence s'installait avant les décisions sur les taux d'intérêt de la...",
-      "content": "Les contrats à terme liés à l'indice principal de la Bourse de Toronto sont restés inchangés mercredi, alors que la prudence s'installait avant les décisions sur les taux d'intérêt de la Banque du Canada (BdC) et de la Réserve fédérale américaine (Fe... [2510 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-contrats-a-terme-du-tsx-stables-dans-l-attente-des-decisions-de-taux-de-la-banque-du-canada-et-d-ce7d5dddd08ff72d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-17T103518Z_1_LYNXMPEL3G0E9_RTROPTP_4_CANADA-STOCKS.JPG",
-      "publishedAt": "2025-10-29T10:54:25Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "189c875f9c0a2bae3bf1d7f4589e403e",
-      "title": "La Fed à l'aube d'une nouvelle baisse des taux d'intérêt américains",
-      "description": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de presser les Américains.",
-      "content": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de presser les Américains.\nLa Réserve f... [3394 chars]",
-      "url": "https://actu.orange.fr/economie/la-fed-a-l-aube-d-une-nouvelle-baisse-des-taux-d-interet-americains-CNT000002lszcL.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F5bf0eaa1-c615-48bd-9bf5-e40e3dbd43db.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-29T10:15:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ceb567480cd04fb7e56f908b06e13687",
-      "title": "La Fed à l'aube d'une nouvelle baisse des taux d'intérêt américains",
-      "description": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflatio... - 29/10/2025 à 11:15 - Boursorama",
-      "content": "La banque centrale des Etats-Unis devrait mercredi réduire ses taux d'intérêt pour la deuxième fois consécutive, pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de presser les Américains.\nLa Réserve f... [3394 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-fed-a-l-aube-d-une-nouvelle-baisse-des-taux-d-interet-americains-043bc5040b9f207c2c43c7f9376854d1",
-      "image": "https://www.boursorama.com/static/i/content/images/f/4/e/f4e86a5301c253d4a07697bddb5caa18-1200x800.jpg",
-      "publishedAt": "2025-10-29T10:15:16Z",
+      "id": "1e8e168e711e2fc22ecfc9adec61ee8a",
+      "title": "La Banque du Canada baisse son taux directeur de 0,25 point, à 2,25%",
+      "description": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'... - 29/10/2025 à 15:43 - Boursorama",
+      "content": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'inflation sont \"un peu plus clairs\".\n\"Compte tenu ... [1962 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/la-banque-du-canada-baisse-son-taux-directeur-de-0-25-point-a-2-25-31dedf660635c7e1fe012c6e10c33390",
+      "image": "https://www.boursorama.com/static/i/content/images/4/c/7/4c7740eaca331c6d9bd7b1962ececd13-1200x800.jpg",
+      "publishedAt": "2025-10-29T14:43:37Z",
       "lang": "fr",
       "source": {
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
@@ -135,13 +87,29 @@
       }
     },
     {
-      "id": "c9aa6aaaafbe9126ade978f818b26749",
-      "title": "La Banque du Canada devrait abaisser ses taux face à la persistance de la guerre commerciale américaine",
-      "description": "La Banque du Canada devrait presque à coup sûr réduire son principal taux directeur à 2,25 % ce mercredi, alors que les dernières menaces du président Donald Trump d'imposer des droits de...",
-      "content": "La Banque du Canada devrait presque à coup sûr réduire son principal taux directeur à 2,25 % ce mercredi, alors que les dernières menaces du président Donald Trump d'imposer des droits de douane plus élevés renforcent les attentes d'une baisse des ta... [2215 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-devrait-abaisser-ses-taux-face-a-la-persistance-de-la-guerre-commerciale-america-ce7d5dddd18ef525",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-22T203239Z_1_LYNXMPEL4L13C_RTROPTP_4_CANADA-CENBANK.JPG",
-      "publishedAt": "2025-10-29T10:02:27Z",
+      "id": "1f5bf8101552a8f29b9f81f69caf631e",
+      "title": "La Banque du Canada baisse son taux directeur de 0,25 point, à 2,25%",
+      "description": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où...",
+      "content": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'inflation sont «un peu plus clairs».\n«Compte tenu ... [2009 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/la-banque-du-canada-baisse-son-taux-directeur-de-0-25-point-a-2-25-20251029",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/29/9b4c3392e465b84662a0d511409be9e0fdc56e07883bf3d430d5d7271c512722.jpg",
+      "publishedAt": "2025-10-29T14:42:14Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b8b91a6e46290338b727bde4e9b073ec",
+      "title": "La Banque du Canada abaisse son taux directeur à 2,25 %",
+      "description": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, conformément aux attentes générales du marché, et a laissé entendre qu'elle pourrait mettre fin...\n-Le 29 octobre 2025 à 15:20\n- Zonebourse",
+      "content": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, conformément aux attentes générales du marché, et a laissé entendre qu'elle pourrait mettre fin à son cycle de baisses de taux.\nRÉACTION DU MARCHÉ : [CAD/]\nL... [826 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-abaisse-son-taux-directeur-a-2-25--ce7d5dd2da8af32c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T141341Z_1_LYNXMPEL3F0OD_RTROPTP_4_CANADA-CENBANK.JPG",
+      "publishedAt": "2025-10-29T14:20:16Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -151,18 +119,50 @@
       }
     },
     {
-      "id": "fd83113ad5bdf50d86a1c8d262f12df5",
-      "title": "Espagne : la croissance du PIB a ralenti à 0,6% au troisième trimestre",
-      "description": "L'économie espagnole a progressé de 0,6 % au troisième trimestre, un rythme légèrement inférieur au trimestre précédent, mais bien supérieur aux attentes des analystes. Cette dynamique place l'Espagne sur la voie d'atteindre son objectif de 2,7 % de croissance pour 2023, portée par la consommation des ménages, l'investissement et un secteur touristique particulièrement florissant. Malgré une inflation modérée de 3 % et un chômage à 10,45 %, le pays s'éloigne nettement des difficultés économiques du passé, affichant de meilleures performances que nombre de ses voisins européens.",
-      "content": "Madrid - La croissance économique espagnole a atteint 0,6% au troisième trimestre, en léger ralentissement par rapport au trois mois précédents, selon une première estimation publiée mercredi par l’Institut national des statistiques (INE).\nCe chiffre... [26767 chars]",
-      "url": "https://www.lopinion.fr/economie/espagne-la-croissance-du-pib-a-ralenti-a-0-6-au-troisieme-trimestre",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/51bdb1a/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2Fc4b6e222f66f2067591bef161aca1401da684b82.jpeg",
-      "publishedAt": "2025-10-29T08:53:29Z",
+      "id": "762cb6efe859dbceb4fac1c1ad8687fa",
+      "title": "La Fed sur le point de baisser les taux d’intérêt américains, sans s’engager pour la suite",
+      "description": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d’intérêt pour la deuxième fois consécutive pour donner de l’élan à l’économie et soutenir le marché du travail, même si l’infla…",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/291025/la-fed-sur-le-point-de-baisser-les-taux-d-interet-americains-sans-s-engager-pour-la-suite",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-29T14:15:29Z",
       "lang": "fr",
       "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "192984d0a6d0cf0e72b02f3dd5bb32d1",
+      "title": "La Fed sur le point de baisser les taux d'intérêt américains, sans s'engager pour la suite",
+      "description": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les Américains.",
+      "content": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les Américains.\nLe deuxi... [3127 chars]",
+      "url": "https://actu.orange.fr/economie/la-fed-sur-le-point-de-baisser-les-taux-d-interet-americains-sans-s-engager-pour-la-suite-CNT000002lszcL.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fe930e0e1-5612-40d6-8651-0dc6203a6230.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-29T14:15:21Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "4e38547cc349c2508ad90aad1d4a476c",
+      "title": "La Fed sur le point de baisser les taux d'intérêt américains, sans s'engager pour la suite",
+      "description": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflati... - 29/10/2025 à 15:15 - Boursorama",
+      "content": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les Américains.\nLe deuxi... [3127 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-fed-sur-le-point-de-baisser-les-taux-d-interet-americains-sans-s-engager-pour-la-suite-043bc5040b9f207c2c43c7f9376854d1",
+      "image": "https://www.boursorama.com/static/i/content/images/f/4/e/f4e86a5301c253d4a07697bddb5caa18-1200x800.jpg",
+      "publishedAt": "2025-10-29T14:15:21Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
