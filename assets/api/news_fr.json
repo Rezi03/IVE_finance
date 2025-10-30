@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25405,
+  "totalArticles": 25407,
   "articles": [
+    {
+      "id": "afae7cc3183d3c18a315ef682f2888bc",
+      "title": "Le gouverneur de la Banque du Japon, Kazuo Ueda, s'exprime après le maintien des taux directeurs",
+      "description": "La Banque du Japon a maintenu ses taux d'intérêt inchangés jeudi, tout en réaffirmant son engagement à poursuivre la hausse progressive du coût de l'emprunt si l'économie évolue conformément...\n-Le 30 octobre 2025 à 07:51\n- Zonebourse",
+      "content": "La Banque du Japon (BOJ) a maintenu ses taux d'intérêt inchangés jeudi, tout en réaffirmant son engagement à poursuivre la hausse progressive du coût de l'emprunt si l'économie évolue conformément à ses prévisions. Cette position recentre l'attention... [1895 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-gouverneur-de-la-banque-du-japon-kazuo-ueda-s-exprime-apres-le-maintien-des-taux-directeurs-ce7d5dd3db88fe23",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-03T090249Z_1_LYNXNPEL520BP_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
+      "publishedAt": "2025-10-30T06:51:22Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "5c4855952f09bfd49360ad4ce35e22ae",
+      "title": "Pourquoi la Banque centrale européenne devrait maintenir ses taux face à l'inflation",
+      "description": "Après huit baisses consécutives, la Banque centrale européenne s’apprête à entériner une troisième pause dans son cycle de resserrement, confirmant que le taux de dépôt de référence reste à 2,0 % malgré une inflation annuelle de la zone euro à 2,2 % en septembre. Ce statu quo est l’unique réponse possible à l’heure où le PIB réel trimestriel de la zone n’a progressé que de 0,12 % au deuxième trimestre.",
+      "content": "À l’approche de la réunion de politique monétaire de la BCE du jeudi 30 octobre 2025, le message est unanime pour les marchés : attendez-vous à un maintien des taux directeurs. Ce sera la troisième fois consécutive que la Banque centrale européenne c... [1180 chars]",
+      "url": "https://www.latribune.fr/article/economie/vos-finances/37339914835044/pourquoi-la-banque-centrale-europeenne-devrait-maintenir-ses-taux-face-a-linflation",
+      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/27/la-presidente-de-la-bce-ferme-un-cycle-monetaire-et-doit-preparer-la-prochaine-etape-monetaire-1761561848_cffc6f87f7c86e30d6f87f7c8d70d6v_.jpg",
+      "publishedAt": "2025-10-30T06:45:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "a475e4eb8a88f44bec788830464aef42",
+        "name": "La Tribune",
+        "url": "https://www.latribune.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "81dc4d3dbbb29c82a61fa198daaedc52",
       "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Baisse des taux, bonne ou mauvaise nouvelle ? - 30/10",
@@ -131,38 +163,6 @@
         "id": "1ddd96a24597c1e67024f4ad1851dbdd",
         "name": "La Croix",
         "url": "https://www.la-croix.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3859a70fa373668ed8132fe5fc959a66",
-      "title": "La Banque centrale saoudienne abaisse ses taux directeurs de 25 points de base",
-      "description": "La Banque centrale d'Arabie saoudite a annoncé mercredi une réduction de ses principaux taux d'intérêt de 25 points de base afin de préserver la stabilité monétaire.\nSAMA a abaissé le taux...\n-Le 30 octobre 2025 à 05:19\n- Zonebourse",
-      "content": "Les agriculteurs néo-zélandais approuvent la vente de la branche grand public de Fonterra pour 2,42 milliards de dollars\nLe 29 octobre 2025 à 23:58\nPrudential renforce sa stratégie en Asie du Sud-Est après une hausse de 13 % de son bénéfice trimestri... [1088 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-saoudienne-abaisse-ses-taux-directeurs-de-25-points-de-base-ce7d5dd3d98ff320",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-30T04:19:26Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "1479ccec051dfcef9ba1e53aefd20d06",
-      "title": "Les investisseurs réagissent à la décision de la Banque du Japon de maintenir ses taux",
-      "description": "La Banque du Japon a décidé jeudi de maintenir ses taux d'intérêt inchangés, tout en réitérant son engagement à poursuivre une hausse progressive des coûts d'emprunt si l'économie évolue...\n-Le 30 octobre 2025 à 04:37\n- Zonebourse",
-      "content": "La Banque du Japon (BOJ) a décidé jeudi de maintenir ses taux d'intérêt inchangés, tout en réitérant son engagement à poursuivre une hausse progressive des coûts d'emprunt si l'économie évolue conformément à ses prévisions.\nComme largement anticipé, ... [2329 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-investisseurs-reagissent-a-la-decision-de-la-banque-du-japon-de-maintenir-ses-taux-ce7d5dd3d98cf52d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-15T051444Z_1_LYNXMPEL4E051_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
-      "publishedAt": "2025-10-30T03:37:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
