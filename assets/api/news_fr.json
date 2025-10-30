@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25376,
+  "totalArticles": 25380,
   "articles": [
+    {
+      "id": "133ba25c6085605beaef8c0c20e0aefa",
+      "title": "La Banque centrale d'Oman abaisse son taux de repo de 25 points de base à 4,5 %",
+      "description": "La Banque centrale d'Oman a annoncé une réduction de son taux de repo de 25 points de base, le portant ainsi à 4,5 %, selon l'agence de presse officielle du pays ce mercredi.\n...\n-Le 29 octobre 2025 à 19:35\n- Zonebourse",
+      "content": "L'IA est tellement forte qu'elle fait monter Nokia\nPendant que les marchés européens marquent le pas, Wall Street poursuit son accélération en pariant que le super-cycle d'investissement dans l'intelligence artificielle va continuer à tout emporter s... [266 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-d-oman-abaisse-son-taux-de-repo-de-25-points-de-base-a-4-5--ce7d5dd2df8bfe26",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-29T18:35:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "d6c67123c7b922e69e3511234360161d",
+      "title": "Une Fed divisée baisse ses taux d'intérêt d'un quart de point",
+      "description": "La banque centrale des Etats-Unis a réduit sans surprise mercredi ses taux d'intérêt pour la deuxième fois d'affilée face aux risques pesant sur le marché du travail ces derniers mois, dans une...",
+      "content": "Washington (awp/afp) - La banque centrale des Etats-Unis a réduit sans surprise mercredi ses taux d'intérêt pour la deuxième fois d'affilée face aux risques pesant sur le marché du travail \"ces derniers mois\", dans une décision qui n'a pas fait l'una... [359 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/une-fed-divisee-baisse-ses-taux-d-interet-d-un-quart-de-point-ce7d5dd2df88f123",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-28T101606Z_1_LYNXMPECAR0F3_RTROPTP_2_GERMANY-BUSINESS.JPG",
+      "publishedAt": "2025-10-29T18:17:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "c950d06e1a8f4aa88e40fded7bbb00c1",
+      "title": "États-Unis: la Fed baisse sans surprise ses taux d’intérêt d’un quart de point",
+      "description": "Cette deuxième baisse de suite était attendue. Elle est destinée à donner de l’élan à l’économie américaine et à soutenir le marché du travail.",
+      "content": "À lire aussi\nTaxe Zucman : Arthur Mensch, le patron de Mistral, «ne pourrait pas payer» mais appelle à trouver des «solutions» pour «plus de justice fiscale»\nLe jeune patron explique que la récente levée de fonds de la licorne française spécialisée d... [405 chars]",
+      "url": "https://www.lefigaro.fr/conjoncture/etats-unis-la-fed-baisse-sans-surprise-ses-taux-d-interet-d-un-quart-de-point-20251029",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/29/7593329c9524f587e873edd348c490f61f6eb6842132e8fed2f33573f1bdea9c.jpg",
+      "publishedAt": "2025-10-29T18:10:35Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "a729fbaf306d09b6673cddd4dcca7a33",
+      "title": "La Banque centrale américaine baisse à nouveau \" le loyer de l’argent \", comme le souhaite Trump",
+      "description": "La Réserve fédérale américaine a annoncé ce mercredi 29 octobre qu’elle baissait de nouveau ses taux directeurs, ceux qui influent sur toute l’économie américaine. Ceux-ci sont désormais compris entre 3,75 et 4 %. Cette décision de la « Fed » fait suite à la baisse annoncée en septembre.",
+      "content": "C’est toujours un moment particulièrement attendu. La Réserve fédérale américaine, qui est l’équivalent de notre Banque centrale européenne, a dévoilé ce mercredi 29 octobre 2025 sa décision quant à l’évolution des taux directeurs aux États-Unis. En ... [3140 chars]",
+      "url": "https://www.ouest-france.fr/monde/etats-unis/la-fed-la-banque-centrale-americaine-baisse-a-nouveau-ses-taux-directeurs-comme-le-souhaite-trump-daf909e4-b342-11f0-a3b8-6cf5a651f4ac",
+      "image": "https://media.ouest-france.fr/v1/pictures/MjAyNTEwMmM4OGE4NmFmNjJhMmRhMGU1YmZhNDZiMmFlNDljZjg?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=549f61c1c8afd511414bef40b040581a1532ddcccf612796bc9c4ed65ea86a47",
+      "publishedAt": "2025-10-29T18:06:51Z",
+      "lang": "fr",
+      "source": {
+        "id": "20566da74a707c3ac0b4232a67df8211",
+        "name": "Ouest-France",
+        "url": "https://www.ouest-france.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "7f7b477f2b1e0d268c6b4cbf9ea01574",
       "title": "Bourse Zurich: accès de faiblesse du SMI avant la Fed",
@@ -94,70 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-fed-sur-le-point-de-baisser-les-taux-d-interet-ce7d5dd2da81f527",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-12-30T115658Z_1006950001_LYNXMPECBT0EX_RTROPTP_2_CBUSINESS-US-GLOBAL-FOREX.JPG",
       "publishedAt": "2025-10-29T14:54:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0a96f5d9061a5d3ef6fd7b0efaf3f2c8",
-      "title": "La Banque du Canada baisse son taux directeur de 0,25 point, à 2,25%",
-      "description": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines...",
-      "content": "Montréal (awp/afp) - La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'inflation sont \"un peu plus c... [270 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-baisse-son-taux-directeur-de-0-25-point-a-2-25-ce7d5dd2da8ef52c",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-29T14:47:19Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "1e8e168e711e2fc22ecfc9adec61ee8a",
-      "title": "La Banque du Canada baisse son taux directeur de 0,25 point, à 2,25%",
-      "description": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'... - 29/10/2025 à 15:43 - Boursorama",
-      "content": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'inflation sont \"un peu plus clairs\".\n\"Compte tenu ... [1962 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/la-banque-du-canada-baisse-son-taux-directeur-de-0-25-point-a-2-25-31dedf660635c7e1fe012c6e10c33390",
-      "image": "https://www.boursorama.com/static/i/content/images/4/c/7/4c7740eaca331c6d9bd7b1962ececd13-1200x800.jpg",
-      "publishedAt": "2025-10-29T14:43:37Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "1f5bf8101552a8f29b9f81f69caf631e",
-      "title": "La Banque du Canada baisse son taux directeur de 0,25 point, à 2,25%",
-      "description": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où...",
-      "content": "La Banque du Canada a abaissé mercredi son taux directeur le faisant passer de 2,5% à 2,25%, tel qu'anticipé par les analystes, dans un contexte où les effets de mesures commerciales américaines et l'inflation sont «un peu plus clairs».\n«Compte tenu ... [2009 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/la-banque-du-canada-baisse-son-taux-directeur-de-0-25-point-a-2-25-20251029",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/29/9b4c3392e465b84662a0d511409be9e0fdc56e07883bf3d430d5d7271c512722.jpg",
-      "publishedAt": "2025-10-29T14:42:14Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b8b91a6e46290338b727bde4e9b073ec",
-      "title": "La Banque du Canada abaisse son taux directeur à 2,25 %",
-      "description": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, conformément aux attentes générales du marché, et a laissé entendre qu'elle pourrait mettre fin...\n-Le 29 octobre 2025 à 15:20\n- Zonebourse",
-      "content": "La Banque du Canada a réduit mercredi son principal taux d'intérêt au jour le jour à 2,25 %, conformément aux attentes générales du marché, et a laissé entendre qu'elle pourrait mettre fin à son cycle de baisses de taux.\nRÉACTION DU MARCHÉ : [CAD/]\nL... [826 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-canada-abaisse-son-taux-directeur-a-2-25--ce7d5dd2da8af32c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T141341Z_1_LYNXMPEL3F0OD_RTROPTP_4_CANADA-CENBANK.JPG",
-      "publishedAt": "2025-10-29T14:20:16Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
