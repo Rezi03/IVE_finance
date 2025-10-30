@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25397,
+  "totalArticles": 25400,
   "articles": [
+    {
+      "id": "5fd5f75eb5bc247a85f30f4f247495c8",
+      "title": "La BCE devrait prolonger la pause sur les taux",
+      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navig... - 30/10/2025 à 05:55 - Boursorama",
+      "content": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.\nLe taux de dépôt, réf... [3619 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bce-devrait-prolonger-la-pause-sur-les-taux-d6987a99d43c5422f127e06a99f439f9",
+      "image": "https://www.boursorama.com/static/i/content/images/2/d/8/2d8b5dc407e562e8e81af1e87ab0b3b0-1200x800.jpg",
+      "publishedAt": "2025-10-30T04:55:46Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "80bc8f45ab65d79fb5b1b1b72685da67",
+      "title": "La BCE devrait prolonger la pause sur les taux",
+      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.",
+      "content": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.\nLe taux de dépôt, réf... [3618 chars]",
+      "url": "https://actu.orange.fr/economie/la-bce-devrait-prolonger-la-pause-sur-les-taux-CNT000002ltB8o.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Ff189f299-abfc-476f-9a1c-bf44ecb0f4c1.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-30T04:55:46Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "327d51fa4dcb6fcf98aba6e93540355b",
+      "title": "La BCE devrait prolonger la pause sur les taux",
+      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro navigue autour de la cible de 2%.",
+      "content": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro navigue autour de la cible de 2%.\nLe taux de dépôt, r... [3448 chars]",
+      "url": "https://www.la-croix.com/la-bce-devrait-prolonger-la-pause-sur-les-taux-20251030",
+      "image": "https://i.la-croix.com/1400x933/smart/2025/07/24/2152703-un-employe-marche-dans-le-centre-des-visiteurs-de-.jpg",
+      "publishedAt": "2025-10-30T04:55:46Z",
+      "lang": "fr",
+      "source": {
+        "id": "1ddd96a24597c1e67024f4ad1851dbdd",
+        "name": "La Croix",
+        "url": "https://www.la-croix.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "3859a70fa373668ed8132fe5fc959a66",
       "title": "La Banque centrale saoudienne abaisse ses taux directeurs de 25 points de base",
@@ -115,54 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f7cbf8ce30e07932ce9403516513b979",
-      "title": "Journée de Bourse : Nvidia explose, la Fed tempère l'espoir d'un assouplissement",
-      "description": "Wall Street a terminé en ordre dispersé mercredi après que la Réserve fédérale a abaissé ses taux directeurs, tout en signalant qu'une nouvelle baisse en décembre restait incertaine. Dans le...",
-      "content": "Wall Street a terminé en ordre dispersé mercredi après que la Réserve fédérale a abaissé ses taux directeurs, tout en signalant qu'une nouvelle baisse en décembre restait incertaine. Dans le même temps, Nvidia est devenue la première entreprise mondi... [9306 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/journee-de-bourse-nvidia-explose-la-fed-tempere-l-espoir-d-un-assouplissement-ce7d5dd2de81f424",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-29T210321Z_1_LYNXMPEL9S162_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2025-10-29T21:03:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5c709afe5d533a4015e6e91f68378bf9",
-      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
-      "description": "La Bourse de New York a clôturé en ordre dispersé mercredi, impactée par les déclarations prudentes du président de la Fed sur une éventuelle baisse des taux en décembre. Tandis que le Dow Jones recule légèrement (-0,16%) et que le S&P 500 stagne, le Nasdaq s’offre une nouvelle progression (+0,55%) et établit un record de clôture pour la quatrième séance consécutive, notamment grâce à l’envolée de Nvidia, dont la capitalisation dépasse désormais les 5.000 milliards de dollars.",
-      "content": "Washington - La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est «loin» d'être acquise.\nLe Dow Jones a perdu 0,16% et... [15733 chars]",
-      "url": "https://www.lopinion.fr/economie/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/6dbfd21/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F3f6a80ac5853a712f64233c4949412bd2fbc9e21.jpeg",
-      "publishedAt": "2025-10-29T20:47:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3ec5a1cf6b97b2804f29dc388646a7a2",
-      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
-      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.",
-      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.\nLe Dow Jones a perdu 0,16% et l'indice éla... [3258 chars]",
-      "url": "https://actu.orange.fr/economie/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-CNT000002lt5Su.html",
-      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F5a443c5d-9652-4922-921f-8168e343c420.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-29T20:40:47Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
         "country": "fr"
       }
     }
