@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25409,
+  "totalArticles": 25410,
   "articles": [
+    {
+      "id": "fcde1726d7885d59382680e09b088ed4",
+      "title": "\" Nous sommes bien préparés pour faire face aux chocs futurs \" : la BCE devrait prolonger la pause sur les taux",
+      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro navigue autour de la cible de 2%.",
+      "content": "Le taux de dépôt, référence de la politique monétaire, sera maintenu à 2%, comme depuis juillet, selon les attentes.\n« À ce stade, nous sommes dans une bonne position et bien préparés pour faire face aux chocs futurs », a déclaré la présidente de l’i... [3398 chars]",
+      "url": "https://www.nicematin.com/economie/nous-sommes-bien-prepares-pour-faire-face-aux-chocs-futurs-la-bce-devrait-prolonger-la-pause-sur-les-taux-10654628",
+      "image": "https://nicematin-focus.sirius.press/2025/10/30/0/0/0/0/1128/752/75/0/078c5a2_ftp-import-images-1-xnhonc2kbasz-20251029xzafxa110x054.jpg",
+      "publishedAt": "2025-10-30T10:23:54Z",
+      "lang": "fr",
+      "source": {
+        "id": "620d5e7977c16e6c72b0710361d935ca",
+        "name": "Nice-Matin",
+        "url": "https://www.nicematin.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "7c93a773564cc6d5434d8f7aa7dedae5",
       "title": "Japon: la banque centrale maintient ses taux et insiste sur les \" incertitudes \" persistantes",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "80bc8f45ab65d79fb5b1b1b72685da67",
-      "title": "La BCE devrait prolonger la pause sur les taux",
-      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.",
-      "content": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.\nLe taux de dépôt, réf... [3618 chars]",
-      "url": "https://actu.orange.fr/economie/la-bce-devrait-prolonger-la-pause-sur-les-taux-CNT000002ltB8o.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Ff189f299-abfc-476f-9a1c-bf44ecb0f4c1.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-30T04:55:46Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
         "country": "fr"
       }
     }
