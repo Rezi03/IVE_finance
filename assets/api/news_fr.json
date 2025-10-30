@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25394,
+  "totalArticles": 25395,
   "articles": [
+    {
+      "id": "f4e316d40311adae6f21bb4070af7297",
+      "title": "La BCE devrait prolonger la pause sur les taux",
+      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro n…",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/la-bce-devrait-prolonger-la-pause-sur-les-taux",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-30T02:50:19Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "1f411d836a77d00bc26d540956ad7b1b",
       "title": "La banque centrale de Hong Kong abaisse son taux directeur, suivant la décision de la Fed",
@@ -142,22 +158,6 @@
       "url": "https://actu.orange.fr/economie/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-CNT000002lt5Su.html",
       "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F5a443c5d-9652-4922-921f-8168e343c420.jpg?format=1200x630&facedetect=1&quality=85",
       "publishedAt": "2025-10-29T20:40:47Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6faa16746820af4d90e12b50f54588a6",
-      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
-      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.",
-      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.\nLe Dow Jones a perdu 0,16% et l'indice éla... [303 chars]",
-      "url": "https://actu.orange.fr/economie/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-CNT000002lt5fZ.html",
-      "image": "https://media3.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F47486875-17fd-474d-bc1b-0ee67f00adbd.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-29T20:14:39Z",
       "lang": "fr",
       "source": {
         "id": "3cf85c8714154abe13a5cdac30752179",
