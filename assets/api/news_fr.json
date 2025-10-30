@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25390,
+  "totalArticles": 25393,
   "articles": [
+    {
+      "id": "ddfce39bf385d1b1055621327e9112e5",
+      "title": "Wall Street termine en ordre dispersé après les déclarations de Powell",
+      "description": "par Caroline Valetkevitch La Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine (Fed) Jerome Powell a déclaré qu'une nouvelle baisse des taux... - 29/10/2025 à 23:19 - Boursorama",
+      "content": "par Caroline Valetkevitch\nLa Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine (Fed) Jerome Powell a déclaré qu'une nouvelle baisse des taux en décembre était loin d'être certaine.\nL'indice ... [2081 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-en-ordre-disperse-apres-les-declarations-de-powell-1bcc6233193cb9283e9b4deb3a658ecf",
+      "image": "https://www.boursorama.com/static/i/content/images/9/a/c/9ac375f335b3d436de71f1cd2ae8a3f6-1200x800.jpg",
+      "publishedAt": "2025-10-29T22:19:32Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "de470d14e29421c971c152c2c9524243",
+      "title": "Wall Street termine en ordre dispersé après les déclarations de Powell",
+      "description": "La Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine Jerome Powell a déclaré qu'une nouvelle baisse des taux en décembre était...\n-Le 29 octobre 2025 à 23:19\n- Zonebourse",
+      "content": "(Reuters) - La Bourse de New York a fini en ordre dispersé mercredi après que le président de la Réserve fédérale américaine (Fed) Jerome Powell a déclaré qu'une nouvelle baisse des taux en décembre était loin d'être certaine.\nL'indice Dow Jones a cé... [2093 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-termine-en-ordre-disperse-apres-les-declarations-de-powell-ce7d5dd2d18cf221",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T105350Z_1_LYNXMPEL3F0FW_RTROPTP_4_USA-STOCKS-TARIFFS.JPG",
+      "publishedAt": "2025-10-29T22:19:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b7fbe8b15f446c479e5d6651c145d3cb",
+      "title": "La Banque du Japon devrait maintenir ses taux inchangés, la pression sur le yen persiste",
+      "description": "La Banque du Japon est largement attendue pour maintenir ses taux d'intérêt stables jeudi, tout en réaffirmant sa détermination à poursuivre la hausse progressive de coûts d'emprunt encore...",
+      "content": "La Banque du Japon (BOJ) est largement attendue pour maintenir ses taux d'intérêt stables jeudi, tout en réaffirmant sa détermination à poursuivre la hausse progressive de coûts d'emprunt encore faibles afin de contrer le risque de nouvelles chutes d... [4582 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-devrait-maintenir-ses-taux-inchanges-la-pression-sur-le-yen-persiste-ce7d5dd2d18dff20",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-15T051444Z_1_LYNXMPEL4E051_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
+      "publishedAt": "2025-10-29T22:01:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "f7cbf8ce30e07932ce9403516513b979",
       "title": "Journée de Bourse : Nvidia explose, la Fed tempère l'espoir d'un assouplissement",
@@ -115,54 +163,6 @@
         "id": "3cf85c8714154abe13a5cdac30752179",
         "name": "Actualités - Orange",
         "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5b41bcccd9e907dfed2b00443b83c0fa",
-      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
-      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale selon lequel une nouvelle baisse de taux en décembre est loin d'être...",
-      "content": "Washington (awp/afp) - La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.\nLe Dow Jones a perd... [333 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-ce7d5dd2df80fe23",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-12-22T143506Z_2_LYNXMPECBL0OH_RTROPTP_2_USA-STOCKS.JPG",
-      "publishedAt": "2025-10-29T20:13:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "c5e45f5fba5a4dc56d900c785b1f34c5",
-      "title": "Aux Etats-Unis, la Fed abaisse ses taux d’intérêt d’un quart de point",
-      "description": "Cette détente, largement anticipée par les marchés financiers, ramène les taux directeurs dans une fourchette comprise entre 3,75 % et 4 %, mais n’a pas fait l’unanimité au sein de la banque centrale américaine.",
-      "content": "La banque centrale des Etats-Unis a réduit sans surprise, mercredi 29 octobre, ses taux d’intérêt pour la deuxième fois d’affilée compte tenu des risques pesant sur le marché du travail « ces derniers mois ». Cette décision, largement anticipée par l... [1527 chars]",
-      "url": "https://www.lemonde.fr/international/article/2025/10/29/aux-etats-unis-la-fed-abaisse-ses-taux-d-interet-d-un-quart-de-point_6650209_3210.html",
-      "image": "https://img.lemde.fr/2025/10/29/0/0/8256/5504/1440/960/60/0/6a072b6_ftp-import-images-1-umqvs7dmytvz-5300341-01-06.jpg",
-      "publishedAt": "2025-10-29T18:54:43Z",
-      "lang": "fr",
-      "source": {
-        "id": "d72db178501ee94d88ea59fe10ef8079",
-        "name": "Le Monde.fr",
-        "url": "https://www.lemonde.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "1a7f94c80b9130729f2dae221f0f5435",
-      "title": "Wall Street se retourne, plombée par les commentaires du président de la Fed",
-      "description": "La Bourse de New York a été stoppée mercredi dans son élan haussier par des commentaires du président de la banque centrale des Etats-Unis Jerome Powell, assurant qu'une nouvelle baisse de taux...",
-      "content": "Washington (awp/afp) - La Bourse de New York a été stoppée mercredi dans son élan haussier par des commentaires du président de la banque centrale des Etats-Unis (Fed) Jerome Powell, assurant qu'une nouvelle baisse de taux en décembre était \"loin\" d'... [268 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-se-retourne-plombee-par-les-commentaires-du-president-de-la-fed-ce7d5dd2df8afe22",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-24T161839Z_2_LYNXMPED0N0QO_RTROPTP_2_USA-STOCKS.JPG",
-      "publishedAt": "2025-10-29T18:53:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
