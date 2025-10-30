@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25395,
+  "totalArticles": 25397,
   "articles": [
+    {
+      "id": "3859a70fa373668ed8132fe5fc959a66",
+      "title": "La Banque centrale saoudienne abaisse ses taux directeurs de 25 points de base",
+      "description": "La Banque centrale d'Arabie saoudite a annoncé mercredi une réduction de ses principaux taux d'intérêt de 25 points de base afin de préserver la stabilité monétaire.\nSAMA a abaissé le taux...\n-Le 30 octobre 2025 à 05:19\n- Zonebourse",
+      "content": "Les agriculteurs néo-zélandais approuvent la vente de la branche grand public de Fonterra pour 2,42 milliards de dollars\nLe 29 octobre 2025 à 23:58\nPrudential renforce sa stratégie en Asie du Sud-Est après une hausse de 13 % de son bénéfice trimestri... [1088 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-saoudienne-abaisse-ses-taux-directeurs-de-25-points-de-base-ce7d5dd3d98ff320",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-30T04:19:26Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "1479ccec051dfcef9ba1e53aefd20d06",
+      "title": "Les investisseurs réagissent à la décision de la Banque du Japon de maintenir ses taux",
+      "description": "La Banque du Japon a décidé jeudi de maintenir ses taux d'intérêt inchangés, tout en réitérant son engagement à poursuivre une hausse progressive des coûts d'emprunt si l'économie évolue...\n-Le 30 octobre 2025 à 04:37\n- Zonebourse",
+      "content": "La Banque du Japon (BOJ) a décidé jeudi de maintenir ses taux d'intérêt inchangés, tout en réitérant son engagement à poursuivre une hausse progressive des coûts d'emprunt si l'économie évolue conformément à ses prévisions.\nComme largement anticipé, ... [2329 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-investisseurs-reagissent-a-la-decision-de-la-banque-du-japon-de-maintenir-ses-taux-ce7d5dd3d98cf52d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-15T051444Z_1_LYNXMPEL4E051_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
+      "publishedAt": "2025-10-30T03:37:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "f4e316d40311adae6f21bb4070af7297",
       "title": "La BCE devrait prolonger la pause sur les taux",
@@ -115,38 +147,6 @@
         "id": "1775966eb8106b18adce505f85009b83",
         "name": "L'Opinion",
         "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "03b36fc105a425f85e24b865bf282c3c",
-      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
-      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être a... - 29/10/2025 à 21:40 - Boursorama",
-      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est \"loin\" d'être acquise.\nLe Dow Jones a perdu 0,16% et l'indice éla... [3265 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-75d26f27fc7a4748cccf4eb7b2589603",
-      "image": "https://www.boursorama.com/static/i/content/images/b/1/6/b16de4d9729edc6964142df27916be0f-1200x800.jpg",
-      "publishedAt": "2025-10-29T20:40:47Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7ba4788265407626ed6b497b511ef227",
-      "title": "Wall Street termine sans direction claire, mitigée après la Fed",
-      "description": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est « loin » d’être acquise.",
-      "content": "La Bourse de New York a terminé en ordre dispersé mercredi, digérant les commentaires du président de la Réserve fédérale (Fed) selon lequel une nouvelle baisse de taux en décembre est « loin » d’être acquise.\nLe Dow Jones a perdu 0,16% et l’indice é... [3278 chars]",
-      "url": "https://www.la-croix.com/wall-street-termine-sans-direction-claire-mitigee-apres-la-fed-20251029",
-      "image": "https://i.la-croix.com/1400x933/smart/2025/10/14/2227266-un-operateur-a-la-bourse-de-new-york-le-13-octobre.jpg",
-      "publishedAt": "2025-10-29T20:40:47Z",
-      "lang": "fr",
-      "source": {
-        "id": "1ddd96a24597c1e67024f4ad1851dbdd",
-        "name": "La Croix",
-        "url": "https://www.la-croix.com",
         "country": "fr"
       }
     },
