@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25407,
+  "totalArticles": 25409,
   "articles": [
+    {
+      "id": "7c93a773564cc6d5434d8f7aa7dedae5",
+      "title": "Japon: la banque centrale maintient ses taux et insiste sur les \" incertitudes \" persistantes",
+      "description": "La Banque du Japon (BoJ) a laissé jeudi ses taux inchangés et pointé les « fortes incertitudes » sur la conjoncture mondiale en raison des tensions douanières --et à l’heure où la nouvelle Première …",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/japon-la-banque-centrale-maintient-ses-taux-et-insiste-sur-les-incertitudes-persistantes",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-30T07:37:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "689e1a9b7a224b7afb753d9d94812e3b",
+      "title": "SIG prévoit une croissance de son chiffre d'affaires de 0 à 2 % en 2026 à taux de change constant",
+      "description": "SIG Group AG :\nPrésente une réinitialisation de sa performance afin d'optimiser la création de valeur lors de sa mise à jour destinée aux investisseurs\nAnticipe, pour 2026, une croissance...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/sig-prevoit-une-croissance-de-son-chiffre-d-affaires-de-0-a-2-en-2026-a-taux-de-change-constant-ce7d5dd3dd8aff25",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-30T07:25:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "afae7cc3183d3c18a315ef682f2888bc",
       "title": "Le gouverneur de la Banque du Japon, Kazuo Ueda, s'exprime après le maintien des taux directeurs",
@@ -119,22 +151,6 @@
       }
     },
     {
-      "id": "5fd5f75eb5bc247a85f30f4f247495c8",
-      "title": "La BCE devrait prolonger la pause sur les taux",
-      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navig... - 30/10/2025 à 05:55 - Boursorama",
-      "content": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.\nLe taux de dépôt, réf... [3619 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bce-devrait-prolonger-la-pause-sur-les-taux-d6987a99d43c5422f127e06a99f439f9",
-      "image": "https://www.boursorama.com/static/i/content/images/2/d/8/2d8b5dc407e562e8e81af1e87ab0b3b0-1200x800.jpg",
-      "publishedAt": "2025-10-30T04:55:46Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
       "id": "80bc8f45ab65d79fb5b1b1b72685da67",
       "title": "La BCE devrait prolonger la pause sur les taux",
       "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.",
@@ -147,22 +163,6 @@
         "id": "3cf85c8714154abe13a5cdac30752179",
         "name": "Actualités - Orange",
         "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "327d51fa4dcb6fcf98aba6e93540355b",
-      "title": "La BCE devrait prolonger la pause sur les taux",
-      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro navigue autour de la cible de 2%.",
-      "content": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro navigue autour de la cible de 2%.\nLe taux de dépôt, r... [3448 chars]",
-      "url": "https://www.la-croix.com/la-bce-devrait-prolonger-la-pause-sur-les-taux-20251030",
-      "image": "https://i.la-croix.com/1400x933/smart/2025/07/24/2152703-un-employe-marche-dans-le-centre-des-visiteurs-de-.jpg",
-      "publishedAt": "2025-10-30T04:55:46Z",
-      "lang": "fr",
-      "source": {
-        "id": "1ddd96a24597c1e67024f4ad1851dbdd",
-        "name": "La Croix",
-        "url": "https://www.la-croix.com",
         "country": "fr"
       }
     }
