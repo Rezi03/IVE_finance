@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25375,
+  "totalArticles": 25376,
   "articles": [
+    {
+      "id": "7f7b477f2b1e0d268c6b4cbf9ea01574",
+      "title": "Bourse Zurich: accès de faiblesse du SMI avant la Fed",
+      "description": "La Bourse suisse a creusé ses pertes mercredi en fin de séance, à quelques heures des annonces sur les taux directeurs par la Réserve fédérale américaine . Après les chiffres d'UBS et...",
+      "content": "Zurich (awp) - La Bourse suisse a creusé ses pertes mercredi en fin de séance, à quelques heures des annonces sur les taux directeurs par la Réserve fédérale américaine (Fed). Après les chiffres d'UBS et Straumann en Suisse, la saison des résultats v... [2989 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/bourse-zurich-acces-de-faiblesse-du-smi-avant-la-fed-ce7d5dd2dc8cff27",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2015-08-20T072707Z_1007120001_LYNXNPEB7J09I_RTROPTP_2_OFRBS-MARCHES-SYNTHESE-2.JPG",
+      "publishedAt": "2025-10-29T17:16:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "232a8bb41356b58ad0791506a4f1aa4c",
       "title": "1.200 milliards de dollars, le véritable prix de l'indépendance de la banque centrale américaine",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "762cb6efe859dbceb4fac1c1ad8687fa",
-      "title": "La Fed sur le point de baisser les taux d’intérêt américains, sans s’engager pour la suite",
-      "description": "La banque centrale des Etats-Unis devrait réduire, mercredi, ses taux d’intérêt pour la deuxième fois consécutive pour donner de l’élan à l’économie et soutenir le marché du travail, même si l’infla…",
-      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/291025/la-fed-sur-le-point-de-baisser-les-taux-d-interet-americains-sans-s-engager-pour-la-suite",
-      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-29T14:15:29Z",
-      "lang": "fr",
-      "source": {
-        "id": "2c40603c04e5bd140ebf7a267c956542",
-        "name": "Mediapart",
-        "url": "https://www.mediapart.fr",
         "country": "fr"
       }
     }
