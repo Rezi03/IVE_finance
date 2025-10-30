@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25410,
+  "totalArticles": 25411,
   "articles": [
+    {
+      "id": "d787ef2dc64919729f77b188b311554d",
+      "title": "Le yen souffre du statu quo monétaire de la Banque du Japon",
+      "description": "Le yen dérape jeudi, essuyant les retombées de la décision de la Banque du Japon de ne pas rehausser ses taux, au cours d'une semaine rythmée par les décisions monétaires de plusieurs banques...",
+      "content": "Londres (awp/afp) - Le yen dérape jeudi, essuyant les retombées de la décision de la Banque du Japon (BoJ) de ne pas rehausser ses taux, au cours d'une semaine rythmée par les décisions monétaires de plusieurs banques centrales.\nLa BoJ a laissé jeudi... [2504 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-yen-souffre-du-statu-quo-monetaire-de-la-banque-du-japon-ce7d5dd3d189ff2c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-21T062028Z_1_LYNXNPEC8K0B8_RTROPTP_2_JAPAN-ECONOMY-BOJ.JPG",
+      "publishedAt": "2025-10-30T11:02:32Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "fcde1726d7885d59382680e09b088ed4",
       "title": "\" Nous sommes bien préparés pour faire face aux chocs futurs \" : la BCE devrait prolonger la pause sur les taux",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/rencontre-incroyable-entre-trump-et-xi-un-apaisement-des-tensions-salue-par-les-marches-ce7d5dd3d889ff22",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T053435Z_1_LYNXMPEL9T05V_RTROPTP_4_USA-TRUMP-XI.JPG",
       "publishedAt": "2025-10-30T05:35:40Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "055c6c38ddad3950a5e940dbce703016",
-      "title": "Rencontre \" incroyable \" entre Trump et Xi : l'apaisement des tensions profite aux marchés",
-      "description": "Analyse de la journée à venir sur les marchés européens et mondiaux par Ankur Banerjee\nUne poignée de main entre Donald Trump et Xi Jinping, la probable stabilité des taux de la Banque du...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/rencontre-incroyable-entre-trump-et-xi-l-apaisement-des-tensions-profite-aux-marches-ce7d5dd3d889f222",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-30T05:32:21Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
