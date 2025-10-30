@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25380,
+  "totalArticles": 25382,
   "articles": [
+    {
+      "id": "c5e45f5fba5a4dc56d900c785b1f34c5",
+      "title": "Aux Etats-Unis, la Fed abaisse ses taux d’intérêt d’un quart de point",
+      "description": "Cette détente, largement anticipée par les marchés financiers, ramène les taux directeurs dans une fourchette comprise entre 3,75 % et 4 %, mais n’a pas fait l’unanimité au sein de la banque centrale américaine.",
+      "content": "La banque centrale des Etats-Unis a réduit sans surprise, mercredi 29 octobre, ses taux d’intérêt pour la deuxième fois d’affilée compte tenu des risques pesant sur le marché du travail « ces derniers mois ». Cette décision, largement anticipée par l... [1527 chars]",
+      "url": "https://www.lemonde.fr/international/article/2025/10/29/aux-etats-unis-la-fed-abaisse-ses-taux-d-interet-d-un-quart-de-point_6650209_3210.html",
+      "image": "https://img.lemde.fr/2025/10/29/0/0/8256/5504/1440/960/60/0/6a072b6_ftp-import-images-1-umqvs7dmytvz-5300341-01-06.jpg",
+      "publishedAt": "2025-10-29T18:54:43Z",
+      "lang": "fr",
+      "source": {
+        "id": "d72db178501ee94d88ea59fe10ef8079",
+        "name": "Le Monde.fr",
+        "url": "https://www.lemonde.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "1a7f94c80b9130729f2dae221f0f5435",
+      "title": "Wall Street se retourne, plombée par les commentaires du président de la Fed",
+      "description": "La Bourse de New York a été stoppée mercredi dans son élan haussier par des commentaires du président de la banque centrale des Etats-Unis Jerome Powell, assurant qu'une nouvelle baisse de taux...",
+      "content": "Washington (awp/afp) - La Bourse de New York a été stoppée mercredi dans son élan haussier par des commentaires du président de la banque centrale des Etats-Unis (Fed) Jerome Powell, assurant qu'une nouvelle baisse de taux en décembre était \"loin\" d'... [268 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/wall-street-se-retourne-plombee-par-les-commentaires-du-president-de-la-fed-ce7d5dd2df8afe22",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-24T161839Z_2_LYNXMPED0N0QO_RTROPTP_2_USA-STOCKS.JPG",
+      "publishedAt": "2025-10-29T18:53:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "133ba25c6085605beaef8c0c20e0aefa",
       "title": "La Banque centrale d'Oman abaisse son taux de repo de 25 points de base à 4,5 %",
@@ -126,38 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-du-tadjikistan-abaisse-son-taux-directeur-a-7-50--ce7d5dd2dd88fe21",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-29T15:28:24Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "2a30679204a651d45b82d38d07f2ac42",
-      "title": "Les Bourses mondiales guettent la Fed, Nvidia dépasse les 5000 milliards",
-      "description": "Les Bourses mondiales guettent mercredi une baisse attendue des taux de la banque centrale américaine tandis que Nvidia, le spécialiste des puces pour l'IA, a franchi à New York la barre des 5000...",
-      "content": "Paris (awp/afp) - Les Bourses mondiales guettent mercredi une baisse attendue des taux de la banque centrale américaine (Fed) tandis que Nvidia, le spécialiste des puces pour l'IA, a franchi à New York la barre des 5000 milliards de dollars de capita... [4070 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-bourses-mondiales-guettent-la-fed-nvidia-depasse-les-5000-milliards-ce7d5dd2da80ff27",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2024-08-29T155738Z_1_LYNXMPEK7S0NF_RTROPTP_3_USA-STOCKS-TRUMP.JPG",
-      "publishedAt": "2025-10-29T15:09:20Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b9d6151ba3ab5768c1a5227e4b4c2106",
-      "title": "La Fed sur le point de baisser les taux d'intérêt",
-      "description": "La banque centrale des Etats-Unis devrait réduire mercredi ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si...",
-      "content": "Washington (awp/afp) - La banque centrale des Etats-Unis devrait réduire mercredi ses taux d'intérêt pour la deuxième fois consécutive pour donner de l'élan à l'économie et soutenir le marché du travail, même si l'inflation continue de tourmenter les... [3151 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-fed-sur-le-point-de-baisser-les-taux-d-interet-ce7d5dd2da81f527",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-12-30T115658Z_1006950001_LYNXMPECBT0EX_RTROPTP_2_CBUSINESS-US-GLOBAL-FOREX.JPG",
-      "publishedAt": "2025-10-29T14:54:23Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
