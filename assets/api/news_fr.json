@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25456,
+  "totalArticles": 25458,
   "articles": [
+    {
+      "id": "bd288bd5cfabef9f085483f7da9ee424",
+      "title": "Caixabank annonce un rachat d'actions de €500 mlns après la compression des taux au T3",
+      "description": "Les revenus des prêts de Caixabank sont restés sous pression au troisième trimestre en raison de la baisse des taux d'intérêt, a déclaré vendredi la banque espagnole, dévoilant également un programme ... - 31/10/2025 à 09:13 - Boursorama",
+      "content": "Les revenus des prêts de Caixabank sont restés sous pression au troisième trimestre en raison de la baisse des taux d'intérêt, a déclaré vendredi la banque espagnole, dévoilant également un programme de rachat d'actions de 500 millions d'euros.\nLe re... [1738 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/caixabank-annonce-un-rachat-d-actions-de-500-mlns-apres-la-compression-des-taux-au-t3-ed1db59ba1c1e8b79e5b08856c9ce769",
+      "image": "https://www.boursorama.com/static/i/content/images/9/f/0/9f0b916c89408cb4a52978bb610f8ce3-1200x800.jpg",
+      "publishedAt": "2025-10-31T08:13:43Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "96378eeec5f95c61f784090b988585b4",
+      "title": "La baisse de la natalité risque de dégrader encore les prévisions de déficit du système de retraite",
+      "description": "[VIDÉO] ▶️ Le Conseil d'orientation des retraites (COR) prévoit de réviser à la baisse le taux de fécondité pris en compte dans le calcul de ses prévisions, a indiqué son président. Ce taux est actuellement de 1,6 enfant par femme en France, contre 1,8 dans les dernières prévisions. Une révision qui pourrait dégrader de 60% le déficit du système estimé à l'horizon 2070, estime la Cnav. - La baisse de la natalité risque de dégrader encore les prévisions de déficit du système de retraite (Économie).",
+      "content": "Le Conseil d'orientation des retraites (COR) prévoit de réviser à la baisse le taux de fécondité pris en compte dans le calcul de ses prévisions, a indiqué son président.\nCe taux est actuellement de 1,6 enfant par femme en France, contre 1,8 dans les... [2121 chars]",
+      "url": "https://www.tf1info.fr/economie/la-baisse-de-la-natalite-risque-de-degrader-encore-les-previsions-de-deficit-du-systeme-de-retraite-2403838.html",
+      "image": "https://photos.tf1info.fr/images/1280/720/illus-retraite-pension-8ccdc3-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
+      "publishedAt": "2025-10-31T08:09:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
+        "name": "TF1 INFO",
+        "url": "https://www.tf1info.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "f57e5836f8db5c358d71fee67fa67a5a",
       "title": "Les bourses en direct | Nissan chute, Amazon et Apple grimpent en après-bourse, l'inflation PCE au programme du jour",
@@ -131,38 +163,6 @@
         "id": "0041043f44c4c90a16732eaaf05c73ca",
         "name": "Libération",
         "url": "https://www.liberation.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "49719108d583b78516f0f92a87bc64c9",
-      "title": "L'intégrale de BFM Bourse du jeudi 30 octobre",
-      "description": "Ce jeudi 30 octobre, John Plassard, associé, responsable de la stratégie d'investissement de Cité Gestion, Aude Kersulec, journaliste BFM Business, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, Yannick Lopez, directeur des gestions Taux et Solutions de Trésorerie chez...",
-      "content": "Ce jeudi 30 octobre, Aude Kersulec, journaliste BFM Business, John Plassard, associé, responsable de la stratégie d’investissement de Cité Gestion, Michel Martinez, chef économiste Europe chez Société Générale CIB, Romain Daubry, consultant pour Bour... [2908 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-jeudi-30-octobre_EN-202510300744.html",
-      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
-      "publishedAt": "2025-10-30T17:26:35Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "38c0650b807f1f625678ca7ec8928187",
-      "title": "BFM Bourse - Jeudi 30 octobre",
-      "description": "VIDÉO - Ce jeudi 30 octobre, John Plassard, associé, responsable de la stratégie d'investissement de Cité Gestion, Aude Kersulec, journaliste BFM Business, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, Yannick Lopez, directeur des gestions Taux et Solutions de Trésorerie chez...",
-      "content": "Ce jeudi 30 octobre, John Plassard, associé, responsable de la stratégie d'investissement de Cité Gestion, Aude Kersulec, journaliste BFM Business, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, Yannick Lopez, directeur ... [652 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/video-bfm-bourse-jeudi-30-octobre_VN-202510300782.html",
-      "image": "https://images.bfmtv.com/pXc1xxQuRpOy5RATqsnHIjPoiME=/0x0:1280x720/1280x0/images/BFM-Bourse-Jeudi-30-octobre-2164099.jpg",
-      "publishedAt": "2025-10-30T17:22:32Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
         "country": "fr"
       }
     }
