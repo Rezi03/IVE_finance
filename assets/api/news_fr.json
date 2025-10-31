@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25454,
+  "totalArticles": 25455,
   "articles": [
+    {
+      "id": "6cafbd7525b21adcc37ac53da7d2dc9d",
+      "title": "La Banque du Japon prépare une hausse des taux à court terme, le yen pourrait influencer le calendrier",
+      "description": "Le gouverneur prudent de la Banque du Japon a laissé entendre, de manière inhabituellement agressive, qu'une hausse des taux d'intérêt pourrait intervenir en décembre ou en janvier prochain, le...",
+      "content": "Le gouverneur prudent de la Banque du Japon (BOJ) a laissé entendre, de manière inhabituellement agressive, qu'une hausse des taux d'intérêt pourrait intervenir en décembre ou en janvier prochain, le calendrier étant susceptible d'être influencé non ... [5325 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-prepare-une-hausse-des-taux-a-court-terme-le-yen-pourrait-influencer-le-calendri-ce7d5cdbd98dff27",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T072300Z_1_LYNXMPEL9T0AA_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
+      "publishedAt": "2025-10-31T05:09:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "b4d37cc0c0ac4a491e35390e985c0f12",
       "title": "La Banque de réserve d'Australie maintient ses taux face à la poussée de l'inflation, un assouplissement repoussé à 2026",
@@ -147,22 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "9d0b5a93b9b38d27c633409aab73bc31",
-      "title": "BCE : Les risques pesant sur la croissance se sont atténués, dit Lagarde",
-      "description": "(Reuters) - La Banque centrale européenne (BCE) a de nouveau laissé jeudi ses taux directeurs inchangés à 2%, comme prévu, et n'a donné aucune indication …",
-      "content": "(Reuters) - La Banque centrale européenne (BCE) a de nouveau laissé jeudi ses taux directeurs inchangés à 2%, comme prévu, et n'a donné aucune indication sur ses futures décisions, profitant d'une période de faible inflation et de croissance stable, ... [5097 chars]",
-      "url": "https://www.tradingsat.com/actualites/marches-financiers/marche-bce-les-risques-pesant-sur-la-croissance-se-sont-attenues-dit-lagarde-1149564.html",
-      "image": "https://www.tradingsat.com/media/pictures/realsize/news/reuters/2025/2025-10-30T163708Z_1_LYNXMPEL9T0ZK_RTROPTP_2_ECB-POLICY.JPG",
-      "publishedAt": "2025-10-30T16:37:08Z",
-      "lang": "fr",
-      "source": {
-        "id": "2e8ae376e34f50a5cfc9cf58dc9db534",
-        "name": "BFM Bourse",
-        "url": "https://www.tradingsat.com",
         "country": "fr"
       }
     }
