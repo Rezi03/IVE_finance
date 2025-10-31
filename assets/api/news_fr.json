@@ -4,8 +4,120 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25437,
+  "totalArticles": 25444,
   "articles": [
+    {
+      "id": "869785e1706dc25809334cd3802ac8b5",
+      "title": "Crédit Agricole : les négociations salariales dans l'impasse",
+      "description": "La banque propose pour les collaborateurs des caisses régionales une augmentation collective de 0,44 % en moyenne, en baisse par rapport à 2025. Les syndicats dénoncent une perte de pouvoir d'achat face à l'inflation. Ils souhaitent une prolongation des négociations fixant la politique salariale pour l'an prochain.",
+      "content": "C'est la soupe à la grimace dans les rangs syndicaux du Crédit Agricole. Cette année, les négociations sur les salaires (NAO) pour 2026 concernant les quelque 78.000 collaborateurs des caisses régionales avaient été avancées dans le temps, pour s'ali... [2400 chars]",
+      "url": "https://www.lesechos.fr/finance-marches/banque-assurances/credit-agricole-les-negociations-salariales-dans-limpasse-2195746",
+      "image": "https://media.lesechos.com/api/v1/images/view/690391d1868d766c180bc686/1280x720/01602029983227-web-tete.jpg",
+      "publishedAt": "2025-10-30T16:26:52Z",
+      "lang": "fr",
+      "source": {
+        "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
+        "name": "Les Échos",
+        "url": "https://www.lesechos.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "97e69713ef5f13fbf87a269a6706e674",
+      "title": "CAC40 : figé depuis plus de 8H autour de 8.150, record du Dow Jones à 48.000",
+      "description": "Le CAC40 reste figé vers 8.150Pts ucune réaction à l'annonce du maintien des taux directeurs de la BCE (à 2%) et la Bourse de Paris s'enfonce de -0,6% à -0,7% vers 8.150 mais dans des volumes toujours... - 30/10/2025 à 17:22 - Boursorama",
+      "content": "information fournie par Zonebourse•30/10/2025 à 17:22\nLe CAC40 reste figé vers 8.150Pts ucune réaction à l'annonce du maintien des taux directeurs de la BCE (à 2%) et la Bourse de Paris s'enfonce de -0,6% à -0,7% vers 8.150 mais dans des volumes touj... [7098 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/cac40-fige-depuis-plus-de-8h-autour-de-8-150-record-du-dow-jones-a-48-000-646344308305fe2e9b0a49d4a6679b33",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-1.jpg",
+      "publishedAt": "2025-10-30T16:22:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f254916a8c9229a27b8d9ec38f705988",
+      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
+      "description": "Inflation maitrisée, risques pour la croissance « atténués »: la BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s’avèrera nécessaire.",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-30T15:56:50Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "3b63992c7e9c5cb03becea27422c7af1",
+      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
+      "description": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire.",
+      "content": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire.\nLe taux de dépôt, référence de la politique monétaire, a é... [3698 chars]",
+      "url": "https://actu.orange.fr/economie/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo-CNT000002ltB8o.html",
+      "image": "https://media2.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F1dd4ef93-9ddf-4493-b147-e03d1d39cf50.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-30T15:56:42Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "c4ee057b747e9514b6d2aaf00fcf9d40",
+      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
+      "description": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire. Le taux ... - 30/10/2025 à 16:56 - Boursorama",
+      "content": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire.\nLe taux de dépôt, référence de la politique monétaire, a é... [3698 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo-d6987a99d43c5422f127e06a99f439f9",
+      "image": "https://www.boursorama.com/static/i/content/images/4/0/5/40506b7f590682ed344b0db7a81e42dd-1200x800.jpg",
+      "publishedAt": "2025-10-30T15:56:42Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "3b5f9570055fd27791dd7415fa8d60bb",
+      "title": "L'éco du monde : La FED et la BCE vivent sur deux planètes différentes - 30/10",
+      "description": "Ce jeudi 30 octobre, Gille s Moëc, chef économiste du Groupe AXA, a abordé le maintien des taux de la BCE à 2%, les raisons de ce statu quo de la BCE, la baisse de taux aux accents restrictif par la FED, ainsi que la trêve provisoire entre la Chine et les États-Unis, dans l'émission BFM Bourse...",
+      "content": "Ce jeudi 30 octobre, Joffrey Ouafqa, directeur des gestions chez Auris Gestion, s'est penché sur l'absence de rachats d'actions prime par Société Générale, le chiffre d'affaires de Schneider Electric, les résultats d'Airbus à la hauteur des attentes,... [4212 chars]",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-la-fed-et-la-bce-vivent-sur-deux-planetes-differentes-30-10_EN-202510300655.html",
+      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
+      "publishedAt": "2025-10-30T15:45:03Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "766e45fb6fc60d5be439eb08678d02ae",
+      "title": "CAC40 : recule vers 8.150 malgré PIB à +0,5%, Meta dévisse de -12%",
+      "description": "Aucune réaction à l'annonce du maintien des taux directeurs de la BCE (à 2%) et la Bourse de Paris s'enfonce de -0,6% à -0,7% vers 8.150 mais dans des volumes toujours faibles (20% plus étoffés que la... - 30/10/2025 à 16:36 - Boursorama",
+      "content": "information fournie par Zonebourse•30/10/2025 à 16:36\nAucune réaction à l'annonce du maintien des taux directeurs de la BCE (à 2%) et la Bourse de Paris s'enfonce de -0,6% à -0,7% vers 8.150 mais dans des volumes toujours faibles (20% plus étoffés qu... [6974 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/cac40-recule-vers-8-150-malgre-pib-a-0-5-meta-devisse-de-12-bc57787510e307fc787fc89e6b6422d8",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-4.jpg",
+      "publishedAt": "2025-10-30T15:36:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "73cd683d13e4512d16716a874a863f32",
       "title": "Le yen s'enfonce après du statu quo monétaire de la Banque du Japon",
@@ -51,118 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "4b6bae95f9eb5fd7a76657b390fc5566",
-      "title": "L’Allemagne évite de justesse la récession au troisième trimestre",
-      "description": "L’Allemagne esquive de peu la récession au troisième semestre avec une PIB qui stagne. Pendant ce temps, l’inflation continue d’être encore haut malgré une légère baisse L’économie allemande a échappé",
-      "content": "Entre juillet et septembre, le Produit intérieur brut de la première économie européenne a connu une croissance nulle (0,0 %), selon l’office statistique Destatis, tandis que les analystes de la plateforme Factset s’attendaient à un timide rebond de ... [2700 chars]",
-      "url": "https://www.sudouest.fr/economie/inflation/l-allemagne-evite-de-justesse-la-recession-au-troisieme-trimestre-26535340.php",
-      "image": "https://media.sudouest.fr/26535340/1200x-1/20251016095908-72277612.jpg",
-      "publishedAt": "2025-10-30T14:45:13Z",
-      "lang": "fr",
-      "source": {
-        "id": "ed6d10736e1d2f4796b06cb6c5feb7b7",
-        "name": "Sud Ouest",
-        "url": "https://www.sudouest.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "63049881548b7dccb5a31e996de120a3",
-      "title": "La BCE opte pour le statu quo et maintient son principal taux à 2 %",
-      "description": "L'institution juge qu'elle est dans une position confortable car l'évolution des prix est sous contrôle. Quant à la croissance, elle reste modérée mais elle résiste. La publication de la première estimation du PIB de la zone euro jeudi matin en témoigne.",
-      "content": "A la différence de la Réserve fédérale américaine qui vient de baisser ses taux pour la deuxième fois de l'année, la Banque centrale européenne (BCE) a, elle, opté pour le statu quo, ce jeudi. Le Conseil des Gouverneurs qui se réunissait exceptionnel... [339 chars]",
-      "url": "https://www.lesechos.fr/finance-marches/marches-financiers/la-bce-opte-pour-le-statu-quo-et-maintient-son-principal-taux-a-2-2195694",
-      "image": "https://media.lesechos.com/api/v1/images/view/69037588eb5180437409a091/1280x720/01602038221507-web-tete.jpg",
-      "publishedAt": "2025-10-30T14:26:02Z",
-      "lang": "fr",
-      "source": {
-        "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
-        "name": "Les Échos",
-        "url": "https://www.lesechos.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "22af07d1043607c1d92197f750a3bcf3",
-      "title": "La BCE prolonge la pause sur les taux, sans s'engager pour la suite",
-      "description": "La Banque centrale européenne a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la...",
-      "content": "Florence (awp/afp) - La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la politique monétaire, a été maintenu ... [3663 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite-ce7d5cdadb89f025",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-09T025027Z_2_LYNXMPECA71NB_RTROPTP_2_GLOBAL-FOREX-INT.JPG",
-      "publishedAt": "2025-10-30T14:20:25Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "16b3069dca9a2d358264c0a66a0ce6dc",
-      "title": "Wall Street recule, Meta et Microsoft chutent malgré la percée d'Alphabet",
-      "description": "La Bourse de New York évoluait en ordre dispersé, pénalisée par les résultats financiers contrastés des géants technologiques : Meta et Microsoft baissaient fortement, tandis qu'Alphabet progressait grâce au dynamisme du cloud. Les marchés restent marqués par les investissements massifs en intelligence artificielle, suscitant à la fois espoirs et craintes de bulles. Parallèlement, Donald Trump et Xi Jinping ont affiché un apaisement commercial avec des accords sur les terres rares et le soja, mais la prudence reste de mise chez les investisseurs. Côté politique monétaire, la Fed a abaissé ses taux, signalant une approche encore hésitante. Des entreprises comme Starbucks, Estée Lauder ou Merck ont publié des résultats divers, tandis que la biotech Metsera bondissait après une offre de rachat majeure.",
-      "content": "Washington - La Bourse de New York hésitait jeudi, après les performances financières mitigées de quelques mastodontes du secteur technologique, les actions Meta et Microsoft chutant tandis qu’Alphabet montait.\nVers 13H50 GMT, le Dow Jones prenait 0,... [3517 chars]",
-      "url": "https://www.lopinion.fr/economie/wall-street-hesite-entre-resultats-de-la-tech-et-negociations-commerciales",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/02c6c65/2147483647/strip/true/crop/1024x498+0+67/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F67f5afb3ff572913612d3311b8eea45ba8c22bad.jpeg",
-      "publishedAt": "2025-10-30T14:10:38Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b1808ded316b6f9ee5c934cd72147675",
-      "title": "Kganyago : aucune raison de retarder l'objectif de 3 % d'inflation en Afrique du Sud",
-      "description": "Le gouverneur de la Banque centrale sud-africaine, Lesetja Kganyago, a affirmé jeudi qu'il n'y avait aucune raison de repousser la fixation d'un objectif d'inflation plus bas à 3 %, malgré la...\n-Le 30 octobre 2025 à 15:09\n- Zonebourse",
-      "content": "Le gouverneur de la Banque centrale sud-africaine, Lesetja Kganyago, a affirmé jeudi qu'il n'y avait aucune raison de repousser la fixation d'un objectif d'inflation plus bas à 3 %, malgré la persistance de poches de pressions inflationnistes liées a... [2455 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/kganyago-aucune-raison-de-retarder-l-objectif-de-3-d-inflation-en-afrique-du-sud-ce7d5cdad880f324",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-16T185130Z_1_LYNXNPEL9F0Z8_RTROPTP_4_IMF-WORLDBANK.JPG",
-      "publishedAt": "2025-10-30T14:09:12Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "d1e4438582840c8e61c7a35d82c883d2",
-      "title": "Stabilité des marchés de la zone euro après une réunion sans surprise de la BCE",
-      "description": "Les marchés européens, les obligations d'État et l'euro sont restés stables jeudi, après que la Banque centrale européenne a maintenu son taux directeur inchangé à 2 %, conformément aux...\n-Le 30 octobre 2025 à 15:00\n- Zonebourse",
-      "content": "Les marchés européens, les obligations d'État et l'euro sont restés stables jeudi, après que la Banque centrale européenne (BCE) a maintenu son taux directeur inchangé à 2 %, conformément aux attentes, profitant d'une période rare de faible inflation... [2286 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/stabilite-des-marches-de-la-zone-euro-apres-une-reunion-sans-surprise-de-la-bce-ce7d5cdad881f626",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-28T083045Z_1_LYNXMPEL9R0CH_RTROPTP_4_EUROPE-STOCKS.JPG",
-      "publishedAt": "2025-10-30T14:00:35Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f3034576ad7fca3794938dd363400c11",
-      "title": "La BCE maintient pour la troisième fois d’affilée son principal taux directeur inchangé, à 2%",
-      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés ce jeudi 30 octobre, l'inflation étant revenue autour de la cible de 2% et...",
-      "content": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés ce jeudi 30 octobre, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente. Le taux de dépôt, référence de la politique monétaire, a été maintenu à 2%, c... [1301 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/la-bce-maintient-pour-la-troisieme-fois-d-affilee-son-principal-taux-directeur-inchange-a-2-20251030",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/30/9270dc3d89c22ea8cc7ae722b550a48bd3c1cb8947d7643873f4117c73a0140b.jpg",
-      "publishedAt": "2025-10-30T13:59:18Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
         "country": "fr"
       }
     }
