@@ -4,16 +4,16 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25426,
+  "totalArticles": 25437,
   "articles": [
     {
-      "id": "3de59114717c24b8112f04db24160717",
-      "title": "Wall Street ouvre dans le rouge après la Fed et les résultats de la \"tech\"",
-      "description": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux... - 30/10/2025 à 14:49 - Boursorama",
-      "content": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux en décembre, ainsi que des résultats mitigés dans... [2510 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-dans-le-rouge-apres-la-fed-et-les-resultats-de-la-tech-973c6e36e6241d956d326a30cefb4c2c",
-      "image": "https://www.boursorama.com/static/i/content/images/2/a/d/2ad0af7894c8f145edef65648a962b89-1200x800.jpg",
-      "publishedAt": "2025-10-30T13:49:55Z",
+      "id": "73cd683d13e4512d16716a874a863f32",
+      "title": "Le yen s'enfonce après du statu quo monétaire de la Banque du Japon",
+      "description": "Le yen accélère sa chute jeudi, essuyant les retombées de la décision de la Banque du Japon (BoJ) de ne pas rehausser ses taux, au cours d'une semaine rythmée par les décisions monétaires de plusieurs... - 30/10/2025 à 16:08 - Boursorama",
+      "content": "Le yen accélère sa chute jeudi, essuyant les retombées de la décision de la Banque du Japon (BoJ) de ne pas rehausser ses taux, au cours d'une semaine rythmée par les décisions monétaires de plusieurs banques centrales.\nLa BoJ a laissé jeudi son taux... [2559 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/le-yen-s-enfonce-apres-du-statu-quo-monetaire-de-la-banque-du-japon-6550e437c681ea8cf462752bc00c1e38",
+      "image": "https://www.boursorama.com/static/i/content/images/1/c/8/1c80426af8dce996450478fbbab379f0-1200x800.jpg",
+      "publishedAt": "2025-10-30T15:08:12Z",
       "lang": "fr",
       "source": {
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
@@ -23,61 +23,77 @@
       }
     },
     {
-      "id": "8ac732e115b81854f85f4d63dfc911f7",
-      "title": "La BCE prolonge la pause sur les taux, sans s’engager pour la suite",
-      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l’inflation étant revenue autour de la cible de 2% et l’économie semblant résiliente.",
-      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite",
-      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-30T13:46:05Z",
+      "id": "254d12f61e805135fd0290d03392f7ff",
+      "title": "L'Allemagne évite la récession pendant que l'inflation résiste",
+      "description": "L'économie allemande a échappé d'un cheveu au troisième trimestre à la récession, avec une stagnation du PIB faisant suite à un recul au trimestre précédent, selon une première estimation publiée jeud... - 30/10/2025 à 16:03 - Boursorama",
+      "content": "L'économie allemande a échappé d'un cheveu au troisième trimestre à la récession, avec une stagnation du PIB faisant suite à un recul au trimestre précédent, selon une première estimation publiée jeudi, tandis que l'inflation a moins ralenti en octob... [3051 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/l-allemagne-evite-la-recession-pendant-que-l-inflation-resiste-ac2c774524d47b03423360a8fb66579b",
+      "image": "https://www.boursorama.com/static/i/content/images/4/1/f/41f4a6fd0f4c9da9791354a6a7d92a06-1200x800.jpg",
+      "publishedAt": "2025-10-30T15:03:48Z",
       "lang": "fr",
       "source": {
-        "id": "2c40603c04e5bd140ebf7a267c956542",
-        "name": "Mediapart",
-        "url": "https://www.mediapart.fr",
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     },
     {
-      "id": "50f76cd15edba2bcc97d93b3ae42bd03",
+      "id": "4bce09998def20ddae6dc59659fdf1c8",
+      "title": "Mastercard : Croissance soutenue auprès des consommateurs aisés et grand public",
+      "description": "Mastercard Inc :\nLe PDG de Mastercard, Michael Miebach, indique que les niveaux d'inflation sont restés relativement stables et que les marchés du travail demeurent bien équilibrés - lors...",
+      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/mastercard-croissance-soutenue-aupres-des-consommateurs-aises-et-grand-public-ce7d5cdadb8df22d",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-30T14:48:04Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "4b6bae95f9eb5fd7a76657b390fc5566",
+      "title": "L’Allemagne évite de justesse la récession au troisième trimestre",
+      "description": "L’Allemagne esquive de peu la récession au troisième semestre avec une PIB qui stagne. Pendant ce temps, l’inflation continue d’être encore haut malgré une légère baisse L’économie allemande a échappé",
+      "content": "Entre juillet et septembre, le Produit intérieur brut de la première économie européenne a connu une croissance nulle (0,0 %), selon l’office statistique Destatis, tandis que les analystes de la plateforme Factset s’attendaient à un timide rebond de ... [2700 chars]",
+      "url": "https://www.sudouest.fr/economie/inflation/l-allemagne-evite-de-justesse-la-recession-au-troisieme-trimestre-26535340.php",
+      "image": "https://media.sudouest.fr/26535340/1200x-1/20251016095908-72277612.jpg",
+      "publishedAt": "2025-10-30T14:45:13Z",
+      "lang": "fr",
+      "source": {
+        "id": "ed6d10736e1d2f4796b06cb6c5feb7b7",
+        "name": "Sud Ouest",
+        "url": "https://www.sudouest.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "63049881548b7dccb5a31e996de120a3",
+      "title": "La BCE opte pour le statu quo et maintient son principal taux à 2 %",
+      "description": "L'institution juge qu'elle est dans une position confortable car l'évolution des prix est sous contrôle. Quant à la croissance, elle reste modérée mais elle résiste. La publication de la première estimation du PIB de la zone euro jeudi matin en témoigne.",
+      "content": "A la différence de la Réserve fédérale américaine qui vient de baisser ses taux pour la deuxième fois de l'année, la Banque centrale européenne (BCE) a, elle, opté pour le statu quo, ce jeudi. Le Conseil des Gouverneurs qui se réunissait exceptionnel... [339 chars]",
+      "url": "https://www.lesechos.fr/finance-marches/marches-financiers/la-bce-opte-pour-le-statu-quo-et-maintient-son-principal-taux-a-2-2195694",
+      "image": "https://media.lesechos.com/api/v1/images/view/69037588eb5180437409a091/1280x720/01602038221507-web-tete.jpg",
+      "publishedAt": "2025-10-30T14:26:02Z",
+      "lang": "fr",
+      "source": {
+        "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
+        "name": "Les Échos",
+        "url": "https://www.lesechos.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "22af07d1043607c1d92197f750a3bcf3",
       "title": "La BCE prolonge la pause sur les taux, sans s'engager pour la suite",
-      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.",
-      "content": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la politique monétaire, a été maintenu à 2%, comme depuis ju... [3643 chars]",
-      "url": "https://actu.orange.fr/economie/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite-CNT000002ltB8o.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fa59c3e12-6ecd-489a-ac46-ad1db1ce4bd3.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-30T13:45:58Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "fe0efd1fe9232a715a46c5691dd0c911",
-      "title": "La BCE prolonge la pause sur les taux, sans s'engager pour la suite",
-      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente. Le taux de dépôt, référence de la politiq... - 30/10/2025 à 14:45 - Boursorama",
-      "content": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la politique monétaire, a été maintenu à 2%, comme depuis ju... [3644 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite-d6987a99d43c5422f127e06a99f439f9",
-      "image": "https://www.boursorama.com/static/i/content/images/2/d/8/2d8b5dc407e562e8e81af1e87ab0b3b0-1200x800.jpg",
-      "publishedAt": "2025-10-30T13:45:58Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5ba3359ee7a2f53b6553747f23037971",
-      "title": "La BCE maintient ses taux, soutenue par des signaux économiques plus favorables",
-      "description": "La Banque centrale européenne a décidé jeudi de laisser inchangés ses taux directeurs, confirmant une pause monétaire entamée en juin. Le taux de la facilité de dépôt reste fixé à 2%,...",
-      "content": "La Banque centrale européenne a décidé jeudi de laisser inchangés ses taux directeurs, confirmant une pause monétaire entamée en juin. Le taux de la facilité de dépôt reste fixé à 2%, niveau maintenu pour la troisième réunion consécutive. Cette décis... [1144 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-maintient-ses-taux-soutenue-par-des-signaux-economiques-plus-favorables-ce7d5cdad88cf724",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-10-22T105107Z_1_LYNXMPEL9L0IB_RTROPTP_3_EUROZONE-ECONOMY-POLL.JPG",
-      "publishedAt": "2025-10-30T13:40:29Z",
+      "description": "La Banque centrale européenne a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la...",
+      "content": "Florence (awp/afp) - La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la politique monétaire, a été maintenu ... [3663 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite-ce7d5cdadb89f025",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-11-09T025027Z_2_LYNXMPECA71NB_RTROPTP_2_GLOBAL-FOREX-INT.JPG",
+      "publishedAt": "2025-10-30T14:20:25Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -87,45 +103,29 @@
       }
     },
     {
-      "id": "19c1e8051507d11b6cc6fb7665627ff8",
-      "title": "Wall Street ouvre dans le rouge après la Fed et les résultats de la \"tech\"",
-      "description": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux... - 30/10/2025 à 14:40 - Boursorama",
-      "content": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux en décembre, ainsi que des résultats mitigés dans... [2725 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-dans-le-rouge-apres-la-fed-et-les-resultats-de-la-tech-df84f3eb271c9dba2d02c0dcbc24a308",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-4.jpg",
-      "publishedAt": "2025-10-30T13:40:00Z",
+      "id": "16b3069dca9a2d358264c0a66a0ce6dc",
+      "title": "Wall Street recule, Meta et Microsoft chutent malgré la percée d'Alphabet",
+      "description": "La Bourse de New York évoluait en ordre dispersé, pénalisée par les résultats financiers contrastés des géants technologiques : Meta et Microsoft baissaient fortement, tandis qu'Alphabet progressait grâce au dynamisme du cloud. Les marchés restent marqués par les investissements massifs en intelligence artificielle, suscitant à la fois espoirs et craintes de bulles. Parallèlement, Donald Trump et Xi Jinping ont affiché un apaisement commercial avec des accords sur les terres rares et le soja, mais la prudence reste de mise chez les investisseurs. Côté politique monétaire, la Fed a abaissé ses taux, signalant une approche encore hésitante. Des entreprises comme Starbucks, Estée Lauder ou Merck ont publié des résultats divers, tandis que la biotech Metsera bondissait après une offre de rachat majeure.",
+      "content": "Washington - La Bourse de New York hésitait jeudi, après les performances financières mitigées de quelques mastodontes du secteur technologique, les actions Meta et Microsoft chutant tandis qu’Alphabet montait.\nVers 13H50 GMT, le Dow Jones prenait 0,... [3517 chars]",
+      "url": "https://www.lopinion.fr/economie/wall-street-hesite-entre-resultats-de-la-tech-et-negociations-commerciales",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/02c6c65/2147483647/strip/true/crop/1024x498+0+67/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F67f5afb3ff572913612d3311b8eea45ba8c22bad.jpeg",
+      "publishedAt": "2025-10-30T14:10:38Z",
       "lang": "fr",
       "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
         "country": "fr"
       }
     },
     {
-      "id": "35870d673ddfe3e03d4dfb897106663f",
-      "title": "La BCE maintient ses taux directeurs inchangés, l'économie reste solide malgré les tensions commerciales",
-      "description": "La Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que les investisseurs continu... - 30/10/2025 à 14:36 - Boursorama",
-      "content": "La Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que les investisseurs continuent de parier sur une dernière réduction dans les ... [2167 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bce-maintient-ses-taux-directeurs-inchanges-l-economie-reste-solide-malgre-les-tensions-commerciales-125b02179b1add606d286eec2be51533",
-      "image": "https://www.boursorama.com/static/i/content/images/e/8/1/e8153865dbd7337d5eab8178000b67be-1200x800.jpg",
-      "publishedAt": "2025-10-30T13:36:45Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3d7cf869c473f1b6b5fd3b124526bd21",
-      "title": "La BCE maintient ses taux inchangés et ne donne aucun indice sur sa prochaine décision",
-      "description": "La Banque centrale européenne a décidé jeudi, comme largement anticipé, de maintenir ses taux d'intérêt à 2 %, sans fournir d'indications sur ses intentions futures, alors que les...\n-Le 30 octobre 2025 à 14:32\n- Zonebourse",
-      "content": "La Banque centrale européenne (BCE) a décidé jeudi, comme largement anticipé, de maintenir ses taux d'intérêt à 2 %, sans fournir d'indications sur ses intentions futures, alors que les investisseurs continuent de parier sur la possibilité d'une dern... [3315 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-maintient-ses-taux-inchanges-et-reste-silencieuse-sur-ses-prochaines-decisions-ce7d5cdad88af220",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-17T135138Z_1_LYNXNPEL9G0P2_RTROPTP_4_IMF-WORLDBANK.JPG",
-      "publishedAt": "2025-10-30T13:32:19Z",
+      "id": "b1808ded316b6f9ee5c934cd72147675",
+      "title": "Kganyago : aucune raison de retarder l'objectif de 3 % d'inflation en Afrique du Sud",
+      "description": "Le gouverneur de la Banque centrale sud-africaine, Lesetja Kganyago, a affirmé jeudi qu'il n'y avait aucune raison de repousser la fixation d'un objectif d'inflation plus bas à 3 %, malgré la...\n-Le 30 octobre 2025 à 15:09\n- Zonebourse",
+      "content": "Le gouverneur de la Banque centrale sud-africaine, Lesetja Kganyago, a affirmé jeudi qu'il n'y avait aucune raison de repousser la fixation d'un objectif d'inflation plus bas à 3 %, malgré la persistance de poches de pressions inflationnistes liées a... [2455 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/kganyago-aucune-raison-de-retarder-l-objectif-de-3-d-inflation-en-afrique-du-sud-ce7d5cdad880f324",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-16T185130Z_1_LYNXNPEL9F0Z8_RTROPTP_4_IMF-WORLDBANK.JPG",
+      "publishedAt": "2025-10-30T14:09:12Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -135,34 +135,34 @@
       }
     },
     {
-      "id": "90535d3b94df1e7808dd6d060ffdd470",
-      "title": "La BCE maintient ses taux directeurs inchangés, l'économie reste solide malgré les tensions commerciales",
-      "description": "(Actualisé avec détails) La Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que ... - 30/10/2025 à 14:29 - Boursorama",
-      "content": "(Actualisé avec détails)\nLa Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que les investisseurs continuent de parier sur une der... [2192 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/la-bce-maintient-ses-taux-directeurs-inchanges-l-economie-reste-solide-malgre-les-tensions-commerciales-31b08f325adf73e808ea9e5a9423abb3",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-1.jpg",
-      "publishedAt": "2025-10-30T13:29:37Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7a8d44e04dfb59312c1ca672290309df",
-      "title": "La BCE maintient ses taux inchangés alors que l'économie européenne résiste malgré les tensions commerciales",
-      "description": "La Banque centrale européenne a maintenu jeudi ses taux d'intérêt inchangés à 2 % lors d'une décision largement anticipée, sans donner d'indications sur sa prochaine orientation, alors que...\n-Le 30 octobre 2025 à 14:24\n- Zonebourse",
-      "content": "La Banque centrale européenne (BCE) a maintenu jeudi ses taux d'intérêt inchangés à 2 % lors d'une décision largement anticipée, sans donner d'indications sur sa prochaine orientation, alors que les investisseurs continuent de parier sur une possible... [2673 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-maintient-ses-taux-inchanges-alors-que-l-economie-europeenne-resiste-malgre-les-tensions-comm-ce7d5cdad88bf720",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T123620Z_1_LYNXMPEL3E0JQ_RTROPTP_4_ECB-DANISH-COMPROMISE.JPG",
-      "publishedAt": "2025-10-30T13:24:09Z",
+      "id": "d1e4438582840c8e61c7a35d82c883d2",
+      "title": "Stabilité des marchés de la zone euro après une réunion sans surprise de la BCE",
+      "description": "Les marchés européens, les obligations d'État et l'euro sont restés stables jeudi, après que la Banque centrale européenne a maintenu son taux directeur inchangé à 2 %, conformément aux...\n-Le 30 octobre 2025 à 15:00\n- Zonebourse",
+      "content": "Les marchés européens, les obligations d'État et l'euro sont restés stables jeudi, après que la Banque centrale européenne (BCE) a maintenu son taux directeur inchangé à 2 %, conformément aux attentes, profitant d'une période rare de faible inflation... [2286 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/stabilite-des-marches-de-la-zone-euro-apres-une-reunion-sans-surprise-de-la-bce-ce7d5cdad881f626",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-28T083045Z_1_LYNXMPEL9R0CH_RTROPTP_4_EUROPE-STOCKS.JPG",
+      "publishedAt": "2025-10-30T14:00:35Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f3034576ad7fca3794938dd363400c11",
+      "title": "La BCE maintient pour la troisième fois d’affilée son principal taux directeur inchangé, à 2%",
+      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés ce jeudi 30 octobre, l'inflation étant revenue autour de la cible de 2% et...",
+      "content": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés ce jeudi 30 octobre, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente. Le taux de dépôt, référence de la politique monétaire, a été maintenu à 2%, c... [1301 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/la-bce-maintient-pour-la-troisieme-fois-d-affilee-son-principal-taux-directeur-inchange-a-2-20251030",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/30/9270dc3d89c22ea8cc7ae722b550a48bd3c1cb8947d7643873f4117c73a0140b.jpg",
+      "publishedAt": "2025-10-30T13:59:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
         "country": "fr"
       }
     }
