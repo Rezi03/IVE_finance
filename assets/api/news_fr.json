@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25466,
+  "totalArticles": 25470,
   "articles": [
+    {
+      "id": "801883696591c1f2be4bc52aad4897f6",
+      "title": "La Banque centrale turque constate une hausse des anticipations d'inflation en octobre",
+      "description": "La Banque centrale de Turquie a déclaré vendredi que les risques liés à l'évolution récente des prix, notamment ceux des denrées alimentaires, se sont accentués et que les anticipations...\n-Le 31 octobre 2025 à 12:18\n- Zonebourse",
+      "content": "Le marché joue à se faire peur pour Halloween\nHier, probablement pour fêter la veille d'Halloween, les marchés américains ont joué à se faire peur avec une baisse assez marquée des valeurs technologiques. En soirée, les résultats d'Apple et Amazon on... [313 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-turque-constate-une-hausse-des-anticipations-d-inflation-en-octobre-ce7d5cdbdf81f521",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-31T11:18:15Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "bf92eab428c65977682f79cbc027446f",
+      "title": "Zone euro: L'inflation ralentit à 2,1% en octobre, conformément aux attentes",
+      "description": "L'inflation dans la zone euro a légèrement ralenti en octobre, conformément aux attentes, ce qui devrait atténuer la pression sur la Banque centrale européenne (BCE) pour qu'elle réduise davantage ses... - 31/10/2025 à 12:17 - Boursorama",
+      "content": "L'inflation dans la zone euro a légèrement ralenti en octobre, conformément aux attentes, ce qui devrait atténuer la pression sur la Banque centrale européenne (BCE) pour qu'elle réduise davantage ses taux d'intérêt.\nL'indice des prix à la consommati... [1862 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/zone-euro-l-inflation-ralentit-a-2-1-en-octobre-conformement-aux-attentes-fd54cf553cd9a649f9abffd52d347363",
+      "image": "https://www.boursorama.com/static/i/content/images/e/b/d/ebd84dcb8b08c0fb89c5df3a82a00628-1200x800.jpg",
+      "publishedAt": "2025-10-31T11:17:27Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "18e02755d88a8ed8c48a867dfaa03349",
+      "title": "Zone euro : l'inflation ralentit en octobre à 2,1% sur un an",
+      "description": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE). La hausse des...",
+      "content": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE). La hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d'Eurostat publié ve... [1129 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/zone-euro-l-inflation-ralentit-en-octobre-a-2-1-sur-un-an-20251031",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/31/510d362c83ea33a7bc16c37a52379b96faa2b56797bc99fdb7e0b27f9e6e2c31.jpg",
+      "publishedAt": "2025-10-31T10:58:22Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "6fa99a13f98a17a85d76d55b98f2a459",
+      "title": "Zone euro : l’inflation ralentit en octobre à 2,1% sur un an",
+      "description": "L'inflation annuelle dans la zone euro a légèrement ralenti en octobre, atteignant 2,1% contre 2,2% en septembre, se rapprochant ainsi de l'objectif fixé par la Banque centrale européenne (BCE). L'inflation sous-jacente est restée stable à 2,4%. Ce ralentissement intervient après une période de forte hausse des prix due notamment à la crise énergétique liée à la guerre en Ukraine. Malgré une inflation globalement maîtrisée, la BCE a maintenu son principal taux directeur inchangé, sa présidente Christine Lagarde mettant en avant les incertitudes persistantes liées au contexte économique mondial et aux risques de nouvelles perturbations sur les chaînes d’approvisionnement, l’export et la consommation.",
+      "content": "Bruxelles - L’inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l’objectif de la Banque centrale européenne (BCE).\nLa hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d’Eurost... [12857 chars]",
+      "url": "https://www.lopinion.fr/economie/zone-euro-linflation-ralentit-en-octobre-a-2-1-sur-un-an",
+      "image": "https://beymedias.brightspotcdn.com/dims4/default/3c55315/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F0504011c7419828a74f256b0b92c8ef1c9f3d60c.jpeg",
+      "publishedAt": "2025-10-31T10:29:58Z",
+      "lang": "fr",
+      "source": {
+        "id": "1775966eb8106b18adce505f85009b83",
+        "name": "L'Opinion",
+        "url": "https://www.lopinion.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "28890ead5f47e1ad33b0e31531b8b957",
       "title": "Zone euro: l’inflation ralentit en octobre à 2,1% sur un an",
@@ -99,70 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "e34b4ff42316afa716849f1658d27322",
-      "title": "Pour Michel-Edouard Leclerc, “la France n’est pas en faillite” malgré des incertitudes politiques",
-      "description": "Alors que la croissance repart et que l’épargne des ménages atteint des niveaux records, Michel-Edouard Leclerc estime, vendredi 31 octobre, que \"la France n’est pas en faillite\". Il dénonce cependant \"un front commun pour ne pas parler des salaires\".\nÀ l’occasion d’une interview sur BFM Business, vendredi 31 octobre, Michel-Edouard Leclerc s’est montré optimiste concernant l’état de l’économie française. Et pour cause, la croissance française a progressé de 0,5 % au dernier trimestre, tout comme la consommation qui a augmenté de 0,3 %. \"La France n’est pas en faillite. Elle a un très gros taux d’épargne et des industriels et des distributeurs qui en ont sous le pied\" a-t-il expliqué, tout en reconnaissant \"un climat d’attentisme\" lié aux incertitudes politiques. Toutefois, le dirigeant voit une \"résilience du tissu économique\".\nPar ailleurs, selon les chiffres de la Banque de France, les Français détiennent en effet le taux d’épargne le plus élevé en Europe. Il s’élève à 10,5 % et surpasse celui des Allemands. Une occurrence inédite depuis la fin des années 2000.\nUn problème de salaires et de pouvoir d’achat\nMais l’épargne ne profite pas à tout le monde. Pour Michel-Edouard Leclerc, le vrai problème des Français réside dans la baisse du pouvoir d’achat. \"Il y a vraiment des Français qui rament\" explique-t-il sur BFM Business, en évoquant le nouveau million de Français en dessous du seuil de pauvreté depuis 2020. Et cette augmentation a des effets délétères sur la consommation.\nDe ce fait, le dirigeant regrette que les discours politiques ne placent pas le pouvoir d’achat au sommet de leurs priorités. \"Dans le discours patronal, on parle beaucoup des charges mais assez peu des salaires\" indique-t-il sur la chaîne. Selon des données de l’OCDE datant de juillet, les salaires français connaissent une augmentation faible de 0,7 %, bien inférieure à la moyenne d’augmentation des pays développés, d’environ 2,5 %.",
-      "content": "Alors que la croissance repart et que l’épargne des ménages atteint des niveaux records, Michel-Edouard Leclerc estime, vendredi 31 octobre, que \"la France n’est pas en faillite\". Il dénonce cependant \"un front commun pour ne pas parler des salaires\"... [1690 chars]",
-      "url": "https://actu.orange.fr/france/pour-michel-edouard-leclerc-la-france-n-est-pas-en-faillite-malgre-des-incertitudes-politiques-magic-CNT000002lv1UF.html",
-      "image": "https://media2.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2F01c%2F955%2F113ea6ae3b7ef3d8ed30250fc4%2F01c955113ea6ae3b7ef3d8ed30250fc4.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-31T09:00:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "0ea7e3258b9ba8a43ebbba35a2520d9c",
-      "title": "L'inflation diminue à 1% sur un an après une baisse des prix de l'énergie",
-      "description": "[VIDÉO] ▶️ D'après l'Insee, les prix à la consommation sont en hausse de 1% sur un an en octobre. L'inflation a ainsi légèrement ralenti sur un mois, notamment en raison d'une baisse des prix de l'énergie. - L'inflation diminue à 1% sur un an après une baisse des prix de l'énergie (Économie).",
-      "content": "D'après l'Insee, les prix à la consommation sont en hausse de 1% sur un an en octobre.\nL'inflation a ainsi légèrement ralenti sur un mois, notamment en raison d'une baisse des prix de l'énergie.\nL'inflation toujours stabilisée. Les prix à la consomma... [1325 chars]",
-      "url": "https://www.tf1info.fr/economie/l-inflation-diminue-a-1-sur-un-an-octobre-2025-apres-une-baisse-des-prix-de-l-energie-2403856.html",
-      "image": "https://photos.tf1info.fr/images/1280/720/ticket-inflation-courses-alimentation-f4bd1e-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
-      "publishedAt": "2025-10-31T08:39:10Z",
-      "lang": "fr",
-      "source": {
-        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
-        "name": "TF1 INFO",
-        "url": "https://www.tf1info.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "bd288bd5cfabef9f085483f7da9ee424",
-      "title": "Caixabank annonce un rachat d'actions de €500 mlns après la compression des taux au T3",
-      "description": "Les revenus des prêts de Caixabank sont restés sous pression au troisième trimestre en raison de la baisse des taux d'intérêt, a déclaré vendredi la banque espagnole, dévoilant également un programme ... - 31/10/2025 à 09:13 - Boursorama",
-      "content": "Les revenus des prêts de Caixabank sont restés sous pression au troisième trimestre en raison de la baisse des taux d'intérêt, a déclaré vendredi la banque espagnole, dévoilant également un programme de rachat d'actions de 500 millions d'euros.\nLe re... [1738 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/caixabank-annonce-un-rachat-d-actions-de-500-mlns-apres-la-compression-des-taux-au-t3-ed1db59ba1c1e8b79e5b08856c9ce769",
-      "image": "https://www.boursorama.com/static/i/content/images/9/f/0/9f0b916c89408cb4a52978bb610f8ce3-1200x800.jpg",
-      "publishedAt": "2025-10-31T08:13:43Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "96378eeec5f95c61f784090b988585b4",
-      "title": "La baisse de la natalité risque de dégrader encore les prévisions de déficit du système de retraite",
-      "description": "[VIDÉO] ▶️ Le Conseil d'orientation des retraites (COR) prévoit de réviser à la baisse le taux de fécondité pris en compte dans le calcul de ses prévisions, a indiqué son président. Ce taux est actuellement de 1,6 enfant par femme en France, contre 1,8 dans les dernières prévisions. Une révision qui pourrait dégrader de 60% le déficit du système estimé à l'horizon 2070, estime la Cnav. - La baisse de la natalité risque de dégrader encore les prévisions de déficit du système de retraite (Économie).",
-      "content": "Le Conseil d'orientation des retraites (COR) prévoit de réviser à la baisse le taux de fécondité pris en compte dans le calcul de ses prévisions, a indiqué son président.\nCe taux est actuellement de 1,6 enfant par femme en France, contre 1,8 dans les... [2121 chars]",
-      "url": "https://www.tf1info.fr/economie/la-baisse-de-la-natalite-risque-de-degrader-encore-les-previsions-de-deficit-du-systeme-de-retraite-2403838.html",
-      "image": "https://photos.tf1info.fr/images/1280/720/illus-retraite-pension-8ccdc3-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
-      "publishedAt": "2025-10-31T08:09:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
-        "name": "TF1 INFO",
-        "url": "https://www.tf1info.fr",
         "country": "fr"
       }
     }
