@@ -4,8 +4,88 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25461,
+  "totalArticles": 25466,
   "articles": [
+    {
+      "id": "28890ead5f47e1ad33b0e31531b8b957",
+      "title": "Zone euro: l’inflation ralentit en octobre à 2,1% sur un an",
+      "description": "L’inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l’objectif de la Banque centrale européenne (BCE).",
+      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/311025/zone-euro-l-inflation-ralentit-en-octobre-21-sur-un",
+      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
+      "publishedAt": "2025-10-31T10:18:49Z",
+      "lang": "fr",
+      "source": {
+        "id": "2c40603c04e5bd140ebf7a267c956542",
+        "name": "Mediapart",
+        "url": "https://www.mediapart.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "1c77e899ab326f96d608dd195146e32e",
+      "title": "Zone euro: l'inflation ralentit en octobre à 2,1% sur un an",
+      "description": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE). La hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en s... - 31/10/2025 à 11:18 - Boursorama",
+      "content": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE).\nLa hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d'Eurostat publié ve... [1129 chars]",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/zone-euro-l-inflation-ralentit-en-octobre-a-2-1-sur-un-an-50ae28c6efad1b063f2c1149b29e97ea",
+      "image": "https://www.boursorama.com/static/i/content/images/2/d/8/2d8b5dc407e562e8e81af1e87ab0b3b0-1200x800.jpg",
+      "publishedAt": "2025-10-31T10:18:42Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "f473e35dfbbe42a630c2d31f26c124d8",
+      "title": "Zone euro: l'inflation ralentit en octobre à 2,1% sur un an",
+      "description": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE).",
+      "content": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE).\nLa hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d'Eurostat publié ve... [1129 chars]",
+      "url": "https://actu.orange.fr/economie/zone-euro-l-inflation-ralentit-en-octobre-a-2-1-sur-un-an-CNT000002lv8mf.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F76e3c500-76f7-4f0f-bea3-fd5d83e1be83.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-31T10:18:42Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b2211a73ef936443552180d34b485a6a",
+      "title": "Légère accalmie de l'inflation en zone euro en octobre, mais le noyau reste stable",
+      "description": "L'inflation en zone euro a légèrement ralenti en octobre, demeurant proche de l'objectif de 2 % fixé par la Banque centrale européenne , confirmant ainsi le message de l'institution selon lequel...",
+      "content": "L'inflation en zone euro a légèrement ralenti en octobre, demeurant proche de l'objectif de 2 % fixé par la Banque centrale européenne (BCE), confirmant ainsi le message de l'institution selon lequel l'économie suit une trajectoire relativement bénig... [2526 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/legere-accalmie-de-l-inflation-en-zone-euro-en-octobre-mais-le-noyau-reste-stable-ce7d5cdbdc8ff221",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-10/2025-10-31T101221Z_1_LYNXMPEL9U0GU_RTROPTP_4_FRANCE-ECONOMY-INFLATION.JPG",
+      "publishedAt": "2025-10-31T10:08:44Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "535250d2427b9075eb43399f244f6b41",
+      "title": "Retraites : un rapport alerte sur une augmentation du déficit avec la baisse de la natalité",
+      "description": "Le Conseil d’orientation des retraites (COR) a prévenu, jeudi 30 octobre, devant la mission d’information de l’Assemblée, que la baisse de la natalité va davantage dégrader le système de retraites. Le déficit pourrait être de 60 milliards d’euros à l’horizon 2070, soit le budget alloué à la Défense.\nUn constat inquiétant. Le Conseil d’orientation des retraites a dressé un rapport effarant, jeudi 30 octobre, face à la mission d'information de l'Assemblée : avec la baisse de la natalité en cours, le système de pension des retraites va se dégrader rapidement. Des estimations qui pourraient être encore plus pessimistes puisque les experts se sont basés sur un taux de natalité de 1,8, alors que ce dernier \"est à 1,6\" actuellement, indique son président, Gilbert Cette, qui assure que son équipe “va revenir sans doute sur cette hypothèse dans notre prochain rapport”, selon TF1 Info.\nRésultat : avec cette nouvelle hypothèse, cette baisse de la natalité va entraîner une baisse de la croissance économique de 0,15 point par an, jusqu’à atteindre “60 milliards d'euros de recettes publiques” en moins, à l'horizon 2070, soit le \"budget du ministère de la Défense\".\n\"Si on dégrade de 1,8 à 1,6 le taux de fécondité, on dégrade le déficit du système des retraites de 60% à l'horizon 2070\", a à son tour prévenu Nathanaël Grave, un responsable de la prospective à la\nCaisse nationale d'assurance vieillesse (Cnav).\nLes solutions pour freiner la dégradation\nPour tenter de stopper l’hémorragie, les spécialistes indiquent que plusieurs solutions existent, dont l'immigration qui permettrait d'augmenter très rapidement le nombre de cotisants : \"En général, les migrants sont plutôt de jeunes adultes en âge de travailler\", a précisé le directeur général de la Cnav, Renaud Villard. Et l'augmentation du taux d'emploi de la population pourrait permettre une \"atténuation temporaire\" du phénomène, a affirmé, de son côté, Gilbert Cette.\nMais inverser la tendance risque d’être très difficile. En effet, même avec un taux de fécondité à 1,8 jusqu’en 2070, il y aurait un cotisant pour un retraité pour le régime général, contre 1,5 aujourd'hui.",
+      "content": "Le Conseil d’orientation des retraites (COR) a prévenu, jeudi 30 octobre, devant la mission d’information de l’Assemblée, que la baisse de la natalité va davantage dégrader le système de retraites. Le déficit pourrait être de 60 milliards d’euros à l... [1891 chars]",
+      "url": "https://actu.orange.fr/france/retraites-un-rapport-alerte-sur-une-augmentation-du-deficit-avec-la-baisse-de-la-natalite-magic-CNT000002lv89X.html",
+      "image": "https://media2.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fc8e%2Fa57%2Fde3c0faecdd72bc2027b176c74%2Fc8ea57de3c0faecdd72bc2027b176c74.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-31T10:05:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "ff4a8558ca4f94c513de28cddbeb9152",
       "title": "Une enquête clé de la BCE prévoit une inflation maîtrisée autour de l'objectif",
@@ -83,86 +163,6 @@
         "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
         "name": "TF1 INFO",
         "url": "https://www.tf1info.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f57e5836f8db5c358d71fee67fa67a5a",
-      "title": "Les bourses en direct | Nissan chute, Amazon et Apple grimpent en après-bourse, l'inflation PCE au programme du jour",
-      "description": "Les marchés européens se dirigent vers une ouverture en baisse, avant des indicateurs d'inflation de part et d'autre de l'Atlantique.",
-      "content": "Avec son Grand musée, l'Égypte s'offre une quatrième pyramide\nTraque des sociétés fantômes, fin du monopole d'Eurostar, quand des ados s’entretuent sur fond de narcotrafic... Votre podcast matinal est prêt\nSens des affaires | L'autre réalité des aide... [392 chars]",
-      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-nissan-chute-amazon-et-apple-grimpent-en-apres-bourse-l-inflation-pce-au-programme-du-jour/10633813.html",
-      "image": "https://www.lecho.be/echo/favicon-16x16.png",
-      "publishedAt": "2025-10-31T06:18:43Z",
-      "lang": "fr",
-      "source": {
-        "id": "5eca54a281f8fb040f8089593c1ae8bc",
-        "name": "L'Echo",
-        "url": "https://www.lecho.be",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6cafbd7525b21adcc37ac53da7d2dc9d",
-      "title": "La Banque du Japon prépare une hausse des taux à court terme, le yen pourrait influencer le calendrier",
-      "description": "Le gouverneur prudent de la Banque du Japon a laissé entendre, de manière inhabituellement agressive, qu'une hausse des taux d'intérêt pourrait intervenir en décembre ou en janvier prochain, le...",
-      "content": "Le gouverneur prudent de la Banque du Japon (BOJ) a laissé entendre, de manière inhabituellement agressive, qu'une hausse des taux d'intérêt pourrait intervenir en décembre ou en janvier prochain, le calendrier étant susceptible d'être influencé non ... [5325 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-du-japon-prepare-une-hausse-des-taux-a-court-terme-le-yen-pourrait-influencer-le-calendri-ce7d5cdbd98dff27",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T072300Z_1_LYNXMPEL9T0AA_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
-      "publishedAt": "2025-10-31T05:09:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b4d37cc0c0ac4a491e35390e985c0f12",
-      "title": "La Banque de réserve d'Australie maintient ses taux face à la poussée de l'inflation, un assouplissement repoussé à 2026",
-      "description": "La Banque de réserve d'Australie devrait laisser son principal taux directeur inchangé à 3,60 % mardi, alors qu'une nouvelle flambée de l'inflation retarde toute perspective d'assouplissement...\n-Le 31 octobre 2025 à 01:15\n- Zonebourse",
-      "content": "La Banque de réserve d'Australie (RBA) devrait laisser son principal taux directeur inchangé à 3,60 % mardi, alors qu'une nouvelle flambée de l'inflation retarde toute perspective d'assouplissement monétaire. Selon un sondage Reuters, les économistes... [3663 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-de-reserve-d-australie-maintient-ses-taux-face-a-la-poussee-de-l-inflation-un-assouplisse-ce7d5cdad089f226",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-12T043234Z_1_LYNXMPEL7B04K_RTROPTP_4_AUSTRALIA-ECONOMY-RATES.JPG",
-      "publishedAt": "2025-10-31T00:15:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "accab918e45f90bc5ce9a69c6a093661",
-      "title": "Les prix à la consommation de base s'accélèrent à Tokyo, la Banque du Japon sous pression",
-      "description": "L'inflation de base à Tokyo a accéléré en octobre, demeurant au-dessus de l'objectif de 2 % fixé par la Banque du Japon , selon des données publiées vendredi, alimentant les attentes du...",
-      "content": "L'inflation de base à Tokyo a accéléré en octobre, demeurant au-dessus de l'objectif de 2 % fixé par la Banque du Japon (BOJ), selon des données publiées vendredi, alimentant les attentes du marché concernant une hausse prochaine des taux d'intérêt.\n... [3149 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-prix-a-la-consommation-de-base-s-accelerent-a-tokyo-la-banque-du-japon-sous-pression-ce7d5cdad181f22d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T233837Z_1_LYNXMPEL9T19T_RTROPTP_4_JAPAN-DAILYLIFE.JPG",
-      "publishedAt": "2025-10-30T23:38:14Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5e1dc4fe9f50b514fa8238e55af7d1c6",
-      "title": "Le statu quo de la BCE, confiante sur la trajectoire de l’inflation, suscite la critique",
-      "description": "DÉCRYPTAGE - Christine Lagarde met en avant une hausse maîtrisée des prix et une certaine résilience de l’économie. Plusieurs économistes plaident au contraire pour un coup de pouce monétaire.",
-      "content": "À lire aussi\n41 milliards d’euros, rééquilibrage du système... Le gouvernement joue la transparence sur les retraites des fonctionnaires\nANALYSE - Chaque année, l’État doit injecter de l’argent pour remettre d’équerre les régimes de retraites de ses ... [340 chars]",
-      "url": "https://www.lefigaro.fr/conjoncture/le-statu-quo-de-la-bce-confiante-sur-la-trajectoire-de-l-inflation-suscite-la-critique-20251030",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/30/aa567ac1b94c13948fd9240908cc145cf1e208bdaf8fd7f4b7590eea89841a92.jpg",
-      "publishedAt": "2025-10-30T18:50:45Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
         "country": "fr"
       }
     }
