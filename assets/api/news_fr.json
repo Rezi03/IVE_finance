@@ -4,48 +4,32 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25411,
+  "totalArticles": 25426,
   "articles": [
     {
-      "id": "d787ef2dc64919729f77b188b311554d",
-      "title": "Le yen souffre du statu quo monétaire de la Banque du Japon",
-      "description": "Le yen dérape jeudi, essuyant les retombées de la décision de la Banque du Japon de ne pas rehausser ses taux, au cours d'une semaine rythmée par les décisions monétaires de plusieurs banques...",
-      "content": "Londres (awp/afp) - Le yen dérape jeudi, essuyant les retombées de la décision de la Banque du Japon (BoJ) de ne pas rehausser ses taux, au cours d'une semaine rythmée par les décisions monétaires de plusieurs banques centrales.\nLa BoJ a laissé jeudi... [2504 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-yen-souffre-du-statu-quo-monetaire-de-la-banque-du-japon-ce7d5dd3d189ff2c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-21T062028Z_1_LYNXNPEC8K0B8_RTROPTP_2_JAPAN-ECONOMY-BOJ.JPG",
-      "publishedAt": "2025-10-30T11:02:32Z",
+      "id": "3de59114717c24b8112f04db24160717",
+      "title": "Wall Street ouvre dans le rouge après la Fed et les résultats de la \"tech\"",
+      "description": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux... - 30/10/2025 à 14:49 - Boursorama",
+      "content": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux en décembre, ainsi que des résultats mitigés dans... [2510 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-dans-le-rouge-apres-la-fed-et-les-resultats-de-la-tech-973c6e36e6241d956d326a30cefb4c2c",
+      "image": "https://www.boursorama.com/static/i/content/images/2/a/d/2ad0af7894c8f145edef65648a962b89-1200x800.jpg",
+      "publishedAt": "2025-10-30T13:49:55Z",
       "lang": "fr",
       "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     },
     {
-      "id": "fcde1726d7885d59382680e09b088ed4",
-      "title": "\" Nous sommes bien préparés pour faire face aux chocs futurs \" : la BCE devrait prolonger la pause sur les taux",
-      "description": "La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d’une réunion attendue sans surprise, estimant être en « bonne position » alors que l’inflation de la zone euro navigue autour de la cible de 2%.",
-      "content": "Le taux de dépôt, référence de la politique monétaire, sera maintenu à 2%, comme depuis juillet, selon les attentes.\n« À ce stade, nous sommes dans une bonne position et bien préparés pour faire face aux chocs futurs », a déclaré la présidente de l’i... [3398 chars]",
-      "url": "https://www.nicematin.com/economie/nous-sommes-bien-prepares-pour-faire-face-aux-chocs-futurs-la-bce-devrait-prolonger-la-pause-sur-les-taux-10654628",
-      "image": "https://nicematin-focus.sirius.press/2025/10/30/0/0/0/0/1128/752/75/0/078c5a2_ftp-import-images-1-xnhonc2kbasz-20251029xzafxa110x054.jpg",
-      "publishedAt": "2025-10-30T10:23:54Z",
-      "lang": "fr",
-      "source": {
-        "id": "620d5e7977c16e6c72b0710361d935ca",
-        "name": "Nice-Matin",
-        "url": "https://www.nicematin.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "7c93a773564cc6d5434d8f7aa7dedae5",
-      "title": "Japon: la banque centrale maintient ses taux et insiste sur les \" incertitudes \" persistantes",
-      "description": "La Banque du Japon (BoJ) a laissé jeudi ses taux inchangés et pointé les « fortes incertitudes » sur la conjoncture mondiale en raison des tensions douanières --et à l’heure où la nouvelle Première …",
+      "id": "8ac732e115b81854f85f4d63dfc911f7",
+      "title": "La BCE prolonge la pause sur les taux, sans s’engager pour la suite",
+      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l’inflation étant revenue autour de la cible de 2% et l’économie semblant résiliente.",
       "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/japon-la-banque-centrale-maintient-ses-taux-et-insiste-sur-les-incertitudes-persistantes",
+      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite",
       "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-30T07:37:18Z",
+      "publishedAt": "2025-10-30T13:46:05Z",
       "lang": "fr",
       "source": {
         "id": "2c40603c04e5bd140ebf7a267c956542",
@@ -55,13 +39,45 @@
       }
     },
     {
-      "id": "689e1a9b7a224b7afb753d9d94812e3b",
-      "title": "SIG prévoit une croissance de son chiffre d'affaires de 0 à 2 % en 2026 à taux de change constant",
-      "description": "SIG Group AG :\nPrésente une réinitialisation de sa performance afin d'optimiser la création de valeur lors de sa mise à jour destinée aux investisseurs\nAnticipe, pour 2026, une croissance...",
-      "content": "Trader\nCe super rating est le résultat d'une moyenne pondérée des classements selon les ratings Valorisation (Composite), Révisions BNA 4 mois et Visibilité (Composite). Nous vous recommandons de lire attentivement les descriptions associées.\nInvesti... [1022 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/sig-prevoit-une-croissance-de-son-chiffre-d-affaires-de-0-a-2-en-2026-a-taux-de-change-constant-ce7d5dd3dd8aff25",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-30T07:25:18Z",
+      "id": "50f76cd15edba2bcc97d93b3ae42bd03",
+      "title": "La BCE prolonge la pause sur les taux, sans s'engager pour la suite",
+      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.",
+      "content": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la politique monétaire, a été maintenu à 2%, comme depuis ju... [3643 chars]",
+      "url": "https://actu.orange.fr/economie/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite-CNT000002ltB8o.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2Fa59c3e12-6ecd-489a-ac46-ad1db1ce4bd3.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-30T13:45:58Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "fe0efd1fe9232a715a46c5691dd0c911",
+      "title": "La BCE prolonge la pause sur les taux, sans s'engager pour la suite",
+      "description": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente. Le taux de dépôt, référence de la politiq... - 30/10/2025 à 14:45 - Boursorama",
+      "content": "La Banque centrale européenne (BCE) a maintenu ses taux inchangés jeudi, l'inflation étant revenue autour de la cible de 2% et l'économie semblant résiliente.\nLe taux de dépôt, référence de la politique monétaire, a été maintenu à 2%, comme depuis ju... [3644 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bce-prolonge-la-pause-sur-les-taux-sans-s-engager-pour-la-suite-d6987a99d43c5422f127e06a99f439f9",
+      "image": "https://www.boursorama.com/static/i/content/images/2/d/8/2d8b5dc407e562e8e81af1e87ab0b3b0-1200x800.jpg",
+      "publishedAt": "2025-10-30T13:45:58Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "5ba3359ee7a2f53b6553747f23037971",
+      "title": "La BCE maintient ses taux, soutenue par des signaux économiques plus favorables",
+      "description": "La Banque centrale européenne a décidé jeudi de laisser inchangés ses taux directeurs, confirmant une pause monétaire entamée en juin. Le taux de la facilité de dépôt reste fixé à 2%,...",
+      "content": "La Banque centrale européenne a décidé jeudi de laisser inchangés ses taux directeurs, confirmant une pause monétaire entamée en juin. Le taux de la facilité de dépôt reste fixé à 2%, niveau maintenu pour la troisième réunion consécutive. Cette décis... [1144 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-maintient-ses-taux-soutenue-par-des-signaux-economiques-plus-favorables-ce7d5cdad88cf724",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-10-22T105107Z_1_LYNXMPEL9L0IB_RTROPTP_3_EUROZONE-ECONOMY-POLL.JPG",
+      "publishedAt": "2025-10-30T13:40:29Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -71,13 +87,45 @@
       }
     },
     {
-      "id": "afae7cc3183d3c18a315ef682f2888bc",
-      "title": "Le gouverneur de la Banque du Japon, Kazuo Ueda, s'exprime après le maintien des taux directeurs",
-      "description": "La Banque du Japon a maintenu ses taux d'intérêt inchangés jeudi, tout en réaffirmant son engagement à poursuivre la hausse progressive du coût de l'emprunt si l'économie évolue conformément...\n-Le 30 octobre 2025 à 07:51\n- Zonebourse",
-      "content": "La Banque du Japon (BOJ) a maintenu ses taux d'intérêt inchangés jeudi, tout en réaffirmant son engagement à poursuivre la hausse progressive du coût de l'emprunt si l'économie évolue conformément à ses prévisions. Cette position recentre l'attention... [1895 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-gouverneur-de-la-banque-du-japon-kazuo-ueda-s-exprime-apres-le-maintien-des-taux-directeurs-ce7d5dd3db88fe23",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-03T090249Z_1_LYNXNPEL520BP_RTROPTP_4_JAPAN-ECONOMY-BOJ.JPG",
-      "publishedAt": "2025-10-30T06:51:22Z",
+      "id": "19c1e8051507d11b6cc6fb7665627ff8",
+      "title": "Wall Street ouvre dans le rouge après la Fed et les résultats de la \"tech\"",
+      "description": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux... - 30/10/2025 à 14:40 - Boursorama",
+      "content": "La Bourse de New York a ouvert en baisse jeudi, les dernières déclarations du président de la Réserve fédérale américaine (Fed) mercredi, qui ont refroidi les espoirs d'une nouvelle baisse de ses taux en décembre, ainsi que des résultats mitigés dans... [2725 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/wall-street-ouvre-dans-le-rouge-apres-la-fed-et-les-resultats-de-la-tech-df84f3eb271c9dba2d02c0dcbc24a308",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-4.jpg",
+      "publishedAt": "2025-10-30T13:40:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "35870d673ddfe3e03d4dfb897106663f",
+      "title": "La BCE maintient ses taux directeurs inchangés, l'économie reste solide malgré les tensions commerciales",
+      "description": "La Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que les investisseurs continu... - 30/10/2025 à 14:36 - Boursorama",
+      "content": "La Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que les investisseurs continuent de parier sur une dernière réduction dans les ... [2167 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bce-maintient-ses-taux-directeurs-inchanges-l-economie-reste-solide-malgre-les-tensions-commerciales-125b02179b1add606d286eec2be51533",
+      "image": "https://www.boursorama.com/static/i/content/images/e/8/1/e8153865dbd7337d5eab8178000b67be-1200x800.jpg",
+      "publishedAt": "2025-10-30T13:36:45Z",
+      "lang": "fr",
+      "source": {
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "3d7cf869c473f1b6b5fd3b124526bd21",
+      "title": "La BCE maintient ses taux inchangés et ne donne aucun indice sur sa prochaine décision",
+      "description": "La Banque centrale européenne a décidé jeudi, comme largement anticipé, de maintenir ses taux d'intérêt à 2 %, sans fournir d'indications sur ses intentions futures, alors que les...\n-Le 30 octobre 2025 à 14:32\n- Zonebourse",
+      "content": "La Banque centrale européenne (BCE) a décidé jeudi, comme largement anticipé, de maintenir ses taux d'intérêt à 2 %, sans fournir d'indications sur ses intentions futures, alors que les investisseurs continuent de parier sur la possibilité d'une dern... [3315 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-maintient-ses-taux-inchanges-et-reste-silencieuse-sur-ses-prochaines-decisions-ce7d5cdad88af220",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-17T135138Z_1_LYNXNPEL9G0P2_RTROPTP_4_IMF-WORLDBANK.JPG",
+      "publishedAt": "2025-10-30T13:32:19Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
@@ -87,77 +135,29 @@
       }
     },
     {
-      "id": "5c4855952f09bfd49360ad4ce35e22ae",
-      "title": "Pourquoi la Banque centrale européenne devrait maintenir ses taux face à l'inflation",
-      "description": "Après huit baisses consécutives, la Banque centrale européenne s’apprête à entériner une troisième pause dans son cycle de resserrement, confirmant que le taux de dépôt de référence reste à 2,0 % malgré une inflation annuelle de la zone euro à 2,2 % en septembre. Ce statu quo est l’unique réponse possible à l’heure où le PIB réel trimestriel de la zone n’a progressé que de 0,12 % au deuxième trimestre.",
-      "content": "À l’approche de la réunion de politique monétaire de la BCE du jeudi 30 octobre 2025, le message est unanime pour les marchés : attendez-vous à un maintien des taux directeurs. Ce sera la troisième fois consécutive que la Banque centrale européenne c... [1180 chars]",
-      "url": "https://www.latribune.fr/article/economie/vos-finances/37339914835044/pourquoi-la-banque-centrale-europeenne-devrait-maintenir-ses-taux-face-a-linflation",
-      "image": "https://pictures.latribune.fr/cdn-cgi/image/format=auto,width=1200,height=675/media/melody/2025/10/27/la-presidente-de-la-bce-ferme-un-cycle-monetaire-et-doit-preparer-la-prochaine-etape-monetaire-1761561848_cffc6f87f7c86e30d6f87f7c8d70d6v_.jpg",
-      "publishedAt": "2025-10-30T06:45:03Z",
+      "id": "90535d3b94df1e7808dd6d060ffdd470",
+      "title": "La BCE maintient ses taux directeurs inchangés, l'économie reste solide malgré les tensions commerciales",
+      "description": "(Actualisé avec détails) La Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que ... - 30/10/2025 à 14:29 - Boursorama",
+      "content": "(Actualisé avec détails)\nLa Banque centrale européenne (BCE) a, comme prévu, laissé jeudi ses taux directeurs à leur niveau actuel, sans donner d'indications sur sa prochaine décision, alors même que les investisseurs continuent de parier sur une der... [2192 chars]",
+      "url": "https://www.boursorama.com/bourse/actualites/la-bce-maintient-ses-taux-directeurs-inchanges-l-economie-reste-solide-malgre-les-tensions-commerciales-31b08f325adf73e808ea9e5a9423abb3",
+      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-1.jpg",
+      "publishedAt": "2025-10-30T13:29:37Z",
       "lang": "fr",
       "source": {
-        "id": "a475e4eb8a88f44bec788830464aef42",
-        "name": "La Tribune",
-        "url": "https://www.latribune.fr",
+        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
+        "name": "Boursorama",
+        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     },
     {
-      "id": "81dc4d3dbbb29c82a61fa198daaedc52",
-      "title": "Emmanuel Lechypre face à Jean-Marc Daniel : Baisse des taux, bonne ou mauvaise nouvelle ? - 30/10",
-      "description": "Ce jeudi 30 octobre, une baisse des taux, et le rapport entre la banque central et les pouvoirs ont été abordés par Jean-Marc Daniel et Emmanuel Lechypre dans leur chronique, dans l'émission Good Morning Business, présentée par Sandra Gandoin, sur BFM Business. Retrouvez l'émission du lundi au...",
-      "content": "Ce jeudi 30 octobre, la rencontre entre Donald Trump et Xi Jinping en Corée du Sud, où les deux chefs d'État ont discuté de certains accords commerciaux, a été abordée par Annalisa Cappellini dans sa chronique, dans l'émission Good Morning Business, ... [2464 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/good-morning-business/emmanuel-lechypre-face-a-jean-marc-daniel-baisse-des-taux-bonne-ou-mauvaise-nouvelle-30-10_EN-202510300189.html",
-      "image": "https://images.bfmtv.com/mPC6Hjt5isVIaOtdLDiVe-sM-zk=/0x0:14000x14000/1400x0/podcast/podcasts/principale-56_3.jpg",
-      "publishedAt": "2025-10-30T06:25:45Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b92f8be76ac653d4971a52c496a26b56",
-      "title": "La BCE devrait prolonger la pause sur les taux",
-      "description": "La Banque centrale européenne devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en bonne position alors que l'inflation de la zone euro navigue...",
-      "content": "Florence (awp/afp) - La Banque centrale européenne (BCE) devrait maintenir ses taux inchangés jeudi, lors d'une réunion attendue sans surprise, estimant être en \"bonne position\" alors que l'inflation de la zone euro navigue autour de la cible de 2%.\n... [3638 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-devrait-prolonger-la-pause-sur-les-taux-ce7d5dd3d88bf322",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-30T05:56:18Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "bd9b4948e178be75c328b0d51e044649",
-      "title": "Japon: la banque centrale maintient ses taux et insiste sur les \"incertitudes\"",
-      "description": "La Banque du Japon a laissé jeudi ses taux inchangés et pointé les fortes incertitudes sur la conjoncture mondiale en raison des tensions douanières --et à l'heure où la nouvelle Première...",
-      "content": "Tokyo (awp/afp) - La Banque du Japon (BoJ) a laissé jeudi ses taux inchangés et pointé les \"fortes incertitudes\" sur la conjoncture mondiale en raison des tensions douanières --et à l'heure où la nouvelle Première ministre nippone Sanae Takaichi esqu... [4238 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/japon-la-banque-centrale-maintient-ses-taux-et-insiste-sur-les-incertitudes-ce7d5dd3d889ff2d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2018-06/2018-06-08T094031Z_1_LYNXNPEE570NT-OCABS_RTROPTP_3_CBUSINESS-US-STANCHART-COMPLIANCE.JPG",
-      "publishedAt": "2025-10-30T05:36:23Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "d6015f2603564d6799474fc8016ca21f",
-      "title": "Rencontre \" incroyable \" entre Trump et Xi : un apaisement des tensions salué par les marchés",
-      "description": "Un aperçu de la journée à venir sur les marchés européens et mondiaux, par Ankur Banerjee\nUne poignée de main entre Donald Trump et Xi Jinping, une probable pause sur les taux de la Banque du...",
-      "content": "Un aperçu de la journée à venir sur les marchés européens et mondiaux, par Ankur Banerjee\nUne poignée de main entre Donald Trump et Xi Jinping, une probable pause sur les taux de la Banque du Japon, ainsi que le ton prudent adopté par le président de... [2387 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/rencontre-incroyable-entre-trump-et-xi-un-apaisement-des-tensions-salue-par-les-marches-ce7d5dd3d889ff22",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T053435Z_1_LYNXMPEL9T05V_RTROPTP_4_USA-TRUMP-XI.JPG",
-      "publishedAt": "2025-10-30T05:35:40Z",
+      "id": "7a8d44e04dfb59312c1ca672290309df",
+      "title": "La BCE maintient ses taux inchangés alors que l'économie européenne résiste malgré les tensions commerciales",
+      "description": "La Banque centrale européenne a maintenu jeudi ses taux d'intérêt inchangés à 2 % lors d'une décision largement anticipée, sans donner d'indications sur sa prochaine orientation, alors que...\n-Le 30 octobre 2025 à 14:24\n- Zonebourse",
+      "content": "La Banque centrale européenne (BCE) a maintenu jeudi ses taux d'intérêt inchangés à 2 % lors d'une décision largement anticipée, sans donner d'indications sur sa prochaine orientation, alors que les investisseurs continuent de parier sur une possible... [2673 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-bce-maintient-ses-taux-inchanges-alors-que-l-economie-europeenne-resiste-malgre-les-tensions-comm-ce7d5cdad88bf720",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T123620Z_1_LYNXMPEL3E0JQ_RTROPTP_4_ECB-DANISH-COMPROMISE.JPG",
+      "publishedAt": "2025-10-30T13:24:09Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
