@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25452,
+  "totalArticles": 25453,
   "articles": [
+    {
+      "id": "5e1dc4fe9f50b514fa8238e55af7d1c6",
+      "title": "Le statu quo de la BCE, confiante sur la trajectoire de l’inflation, suscite la critique",
+      "description": "DÉCRYPTAGE - Christine Lagarde met en avant une hausse maîtrisée des prix et une certaine résilience de l’économie. Plusieurs économistes plaident au contraire pour un coup de pouce monétaire.",
+      "content": "À lire aussi\n41 milliards d’euros, rééquilibrage du système... Le gouvernement joue la transparence sur les retraites des fonctionnaires\nANALYSE - Chaque année, l’État doit injecter de l’argent pour remettre d’équerre les régimes de retraites de ses ... [340 chars]",
+      "url": "https://www.lefigaro.fr/conjoncture/le-statu-quo-de-la-bce-confiante-sur-la-trajectoire-de-l-inflation-suscite-la-critique-20251030",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/30/aa567ac1b94c13948fd9240908cc145cf1e208bdaf8fd7f4b7590eea89841a92.jpg",
+      "publishedAt": "2025-10-30T18:50:45Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "ed0ee6e9d0ff2087ba4033a95fab5064",
       "title": "TraWell dévoile son nouveau plan industriel 2025-2029",
@@ -147,22 +163,6 @@
         "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
         "name": "Les Échos",
         "url": "https://www.lesechos.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "97e69713ef5f13fbf87a269a6706e674",
-      "title": "CAC40 : figé depuis plus de 8H autour de 8.150, record du Dow Jones à 48.000",
-      "description": "Le CAC40 reste figé vers 8.150Pts ucune réaction à l'annonce du maintien des taux directeurs de la BCE (à 2%) et la Bourse de Paris s'enfonce de -0,6% à -0,7% vers 8.150 mais dans des volumes toujours... - 30/10/2025 à 17:22 - Boursorama",
-      "content": "information fournie par Zonebourse•30/10/2025 à 17:22\nLe CAC40 reste figé vers 8.150Pts ucune réaction à l'annonce du maintien des taux directeurs de la BCE (à 2%) et la Bourse de Paris s'enfonce de -0,6% à -0,7% vers 8.150 mais dans des volumes touj... [7098 chars]",
-      "url": "https://www.boursorama.com/bourse/actualites/cac40-fige-depuis-plus-de-8h-autour-de-8-150-record-du-dow-jones-a-48-000-646344308305fe2e9b0a49d4a6679b33",
-      "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-1.jpg",
-      "publishedAt": "2025-10-30T16:22:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
