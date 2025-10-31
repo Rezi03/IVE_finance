@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25448,
+  "totalArticles": 25452,
   "articles": [
+    {
+      "id": "ed0ee6e9d0ff2087ba4033a95fab5064",
+      "title": "TraWell dévoile son nouveau plan industriel 2025-2029",
+      "description": "TraWell Co Spa a approuvé jeudi son nouveau plan industriel 2025-2029, qui prévoit une croissance du chiffre d'affaires à 34,7 millions EUR avec un taux de croissance annuel composé de 3 % et...",
+      "content": "(Alliance News) - TraWell Co Spa a approuvé jeudi son nouveau plan industriel 2025-2029, qui prévoit une croissance du chiffre d'affaires à 34,7 millions EUR avec un taux de croissance annuel composé de 3 % et une marge Ebitda de 35 %.\nLe bénéfice ne... [1750 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/trawell-devoile-son-nouveau-plan-industriel-2025-2029-ce7d5cdadd80f622",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-30T17:58:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "b7747b5f511629fbd4194337809b9d64",
+      "title": "Les responsables de la BCE préparent une confrontation décisive en décembre sur l'inflation et les taux",
+      "description": "Les responsables de la Banque centrale européenne se préparent à une véritable confrontation lors de leur prochaine réunion en décembre, moment où de nouvelles projections sur trois ans...",
+      "content": "Les responsables de la Banque centrale européenne (BCE) se préparent à une véritable confrontation lors de leur prochaine réunion en décembre, moment où de nouvelles projections sur trois ans devraient éclairer la question de savoir s'ils risquent de... [2319 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-responsables-de-la-bce-preparent-une-confrontation-decisive-en-decembre-sur-l-inflation-et-les-t-ce7d5cdadd8efe23",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-14T043955Z_1_LYNXMPEL7D03P_RTROPTP_4_EUROZONE-RATES-ECB.JPG",
+      "publishedAt": "2025-10-30T17:48:32Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "3edbad5070559ab269e29d4470b7762a",
+      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
+      "description": "La Banque centrale européenne a conservé le cap monétaire pris au mois de juillet, en maintenant ses taux directeurs à 2%.",
+      "content": "Au lendemain de l’annonce d’une seconde détente monétaire d’affilée pour la Fed, la banque centrale des Etats-Unis, son homologue européenne, la BCE, a annoncé maintenir ses taux directeurs inchangés, ce jeudi 30 octobre.\nComme depuis juillet, le tau... [1897 chars]",
+      "url": "https://www.liberation.fr/economie/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo-20251030_GRTOGU5IDZCTZF6ISR2VNU32FM/",
+      "image": "https://www.liberation.fr/resizer/v2/5KB7FL622BDL3JXZRHANYIAC3I.jpg?auth=0c12a51bbe60472222f40e10ce79043ed7b3e01d0a18e47408167359ac0a8b77&quality=70&width=1200&height=630&focal=3482%2C3520",
+      "publishedAt": "2025-10-30T17:40:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "0041043f44c4c90a16732eaaf05c73ca",
+        "name": "Libération",
+        "url": "https://www.liberation.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "49719108d583b78516f0f92a87bc64c9",
+      "title": "L'intégrale de BFM Bourse du jeudi 30 octobre",
+      "description": "Ce jeudi 30 octobre, John Plassard, associé, responsable de la stratégie d'investissement de Cité Gestion, Aude Kersulec, journaliste BFM Business, Frédéric Rozier, co-responsable de la gestion de portefeuille chez Mirabaud, Yannick Lopez, directeur des gestions Taux et Solutions de Trésorerie chez...",
+      "content": "Ce jeudi 30 octobre, Aude Kersulec, journaliste BFM Business, John Plassard, associé, responsable de la stratégie d’investissement de Cité Gestion, Michel Martinez, chef économiste Europe chez Société Générale CIB, Romain Daubry, consultant pour Bour... [2908 chars]",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-integrale-de-bfm-bourse-du-jeudi-30-octobre_EN-202510300744.html",
+      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
+      "publishedAt": "2025-10-30T17:26:35Z",
+      "lang": "fr",
+      "source": {
+        "id": "3515cd464703185ce797899332fb9c81",
+        "name": "BFMTV",
+        "url": "https://www.bfmtv.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "38c0650b807f1f625678ca7ec8928187",
       "title": "BFM Bourse - Jeudi 30 octobre",
@@ -99,70 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f254916a8c9229a27b8d9ec38f705988",
-      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
-      "description": "Inflation maitrisée, risques pour la croissance « atténués »: la BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s’avèrera nécessaire.",
-      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/301025/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo",
-      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-30T15:56:50Z",
-      "lang": "fr",
-      "source": {
-        "id": "2c40603c04e5bd140ebf7a267c956542",
-        "name": "Mediapart",
-        "url": "https://www.mediapart.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3b63992c7e9c5cb03becea27422c7af1",
-      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
-      "description": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire.",
-      "content": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire.\nLe taux de dépôt, référence de la politique monétaire, a é... [3698 chars]",
-      "url": "https://actu.orange.fr/economie/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo-CNT000002ltB8o.html",
-      "image": "https://media2.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F1dd4ef93-9ddf-4493-b147-e03d1d39cf50.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-30T15:56:42Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "c4ee057b747e9514b6d2aaf00fcf9d40",
-      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
-      "description": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire. Le taux ... - 30/10/2025 à 16:56 - Boursorama",
-      "content": "Inflation maitrisée, risques pour la croissance \"atténuées\": La BCE a de nouveau maintenu ses taux inchangés jeudi, soulignant que le cap monétaire changera lorsque cela s'avèrera nécessaire.\nLe taux de dépôt, référence de la politique monétaire, a é... [3698 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo-d6987a99d43c5422f127e06a99f439f9",
-      "image": "https://www.boursorama.com/static/i/content/images/4/0/5/40506b7f590682ed344b0db7a81e42dd-1200x800.jpg",
-      "publishedAt": "2025-10-30T15:56:42Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3b5f9570055fd27791dd7415fa8d60bb",
-      "title": "L'éco du monde : La FED et la BCE vivent sur deux planètes différentes - 30/10",
-      "description": "Ce jeudi 30 octobre, Gille s Moëc, chef économiste du Groupe AXA, a abordé le maintien des taux de la BCE à 2%, les raisons de ce statu quo de la BCE, la baisse de taux aux accents restrictif par la FED, ainsi que la trêve provisoire entre la Chine et les États-Unis, dans l'émission BFM Bourse...",
-      "content": "Ce jeudi 30 octobre, Joffrey Ouafqa, directeur des gestions chez Auris Gestion, s'est penché sur l'absence de rachats d'actions prime par Société Générale, le chiffre d'affaires de Schneider Electric, les résultats d'Airbus à la hauteur des attentes,... [4212 chars]",
-      "url": "https://www.bfmtv.com/economie/replay-emissions/bfm-bourse/l-eco-du-monde-la-fed-et-la-bce-vivent-sur-deux-planetes-differentes-30-10_EN-202510300655.html",
-      "image": "https://images.bfmtv.com/c-_Kce7t0bEBILbQRBJnER7x6ME=/0x0:14000x14000/1400x0/podcast/podcasts/principale-68_1.jpg",
-      "publishedAt": "2025-10-30T15:45:03Z",
-      "lang": "fr",
-      "source": {
-        "id": "3515cd464703185ce797899332fb9c81",
-        "name": "BFMTV",
-        "url": "https://www.bfmtv.com",
         "country": "fr"
       }
     }
