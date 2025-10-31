@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25455,
+  "totalArticles": 25456,
   "articles": [
+    {
+      "id": "f57e5836f8db5c358d71fee67fa67a5a",
+      "title": "Les bourses en direct | Nissan chute, Amazon et Apple grimpent en après-bourse, l'inflation PCE au programme du jour",
+      "description": "Les marchés européens se dirigent vers une ouverture en baisse, avant des indicateurs d'inflation de part et d'autre de l'Atlantique.",
+      "content": "Avec son Grand musée, l'Égypte s'offre une quatrième pyramide\nTraque des sociétés fantômes, fin du monopole d'Eurostar, quand des ados s’entretuent sur fond de narcotrafic... Votre podcast matinal est prêt\nSens des affaires | L'autre réalité des aide... [392 chars]",
+      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-nissan-chute-amazon-et-apple-grimpent-en-apres-bourse-l-inflation-pce-au-programme-du-jour/10633813.html",
+      "image": "https://www.lecho.be/echo/favicon-16x16.png",
+      "publishedAt": "2025-10-31T06:18:43Z",
+      "lang": "fr",
+      "source": {
+        "id": "5eca54a281f8fb040f8089593c1ae8bc",
+        "name": "L'Echo",
+        "url": "https://www.lecho.be",
+        "country": "fr"
+      }
+    },
     {
       "id": "6cafbd7525b21adcc37ac53da7d2dc9d",
       "title": "La Banque du Japon prépare une hausse des taux à court terme, le yen pourrait influencer le calendrier",
@@ -147,22 +163,6 @@
         "id": "3515cd464703185ce797899332fb9c81",
         "name": "BFMTV",
         "url": "https://www.bfmtv.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6fc14a98541190175845fd074ed48781",
-      "title": "BCE: Les risques pesant sur la croissance se sont atténués, dit Lagarde",
-      "description": "La Banque centrale européenne (BCE) a de nouveau laissé jeudi ses taux directeurs inchangés à 2%, comme prévu, et n'a donné aucune indication sur ses futures décisions, profitant d'une période de faib... - 30/10/2025 à 17:37 - Boursorama",
-      "content": "La Banque centrale européenne (BCE) a de nouveau laissé jeudi ses taux directeurs inchangés à 2%, comme prévu, et n'a donné aucune indication sur ses futures décisions, profitant d'une période de faible inflation et de croissance stable, malgré les t... [5052 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/bce-les-risques-pesant-sur-la-croissance-se-sont-attenues-dit-lagarde-710bde828917a249a392fba0344af645",
-      "image": "https://www.boursorama.com/static/i/content/images/d/4/4/d444ef6adb7f6bc3f5940b6cb4ae8fc3-1200x800.jpg",
-      "publishedAt": "2025-10-30T16:37:57Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
