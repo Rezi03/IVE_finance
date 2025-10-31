@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 840,
+  "totalArticles": 841,
   "articles": [
+    {
+      "id": "5953c23736da39ae4249a619df57d08d",
+      "title": "This burrito is everything you need to know about America’s economy",
+      "description": "America’s economy and stock market keep growing, buoyed by robust consumer spending and AI mega-growth. But hiring is at a standstill, inflation is rising, loan defaults are abundant and Americans give this economy a near-record-low rating.",
+      "content": "Fact 1: America’s economy and stock market keep growing, buoyed by robust consumer spending and AI mega-growth.\nFact 2: Hiring is at a standstill, inflation is rising, loan defaults are abundant and Americans give this economy a near-record-low ratin... [5046 chars]",
+      "url": "https://edition.cnn.com/2025/10/31/business/k-shaped-economy",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-865483676.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-10-31T09:00:03Z",
+      "lang": "en",
+      "source": {
+        "id": "26269dbc42635df9af8c24f3cdab8e37",
+        "name": "Cable News Network",
+        "url": "https://edition.cnn.com",
+        "country": "us"
+      }
+    },
     {
       "id": "068d877f30acd430cae2c1a7fec5df71",
       "title": "See the Oct. 29, 1925, front page: $700,000 from stock taken on debt of $2,700",
@@ -147,22 +163,6 @@
         "id": "da5c26287bdd02563a2c32b55cb12051",
         "name": "Reuters",
         "url": "https://www.reuters.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "42cd1739358d3ab478e78d1df1ab4917",
-      "title": "Timber companies PotlatchDeltic and Rayonier announce merger",
-      "description": "PotlatchDeltic and Florida-based timberland real estate investment trust Rayonier said Tuesday they will merge in an all-stock deal valued around $8.2 billion including debt, creating the second-largest publicly traded timber company in North America.",
-      "content": "PotlatchDeltic and Florida-based timberland real estate investment trust Rayonier said Tuesday they will merge in an all-stock deal valued around $8.2 billion including debt, creating the second-largest publicly traded timber company in North America... [4000 chars]",
-      "url": "https://www.arkansasonline.com/news/2025/oct/14/timber-companies-potlatchdeltic-and-rayonier/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/img/photos/2025/10/14/AP25072805922019_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "publishedAt": "2025-10-14T18:01:00Z",
-      "lang": "en",
-      "source": {
-        "id": "69a24b80e5bce5a07f808f5ea84c434b",
-        "name": "Arkansas Online",
-        "url": "https://www.arkansasonline.com",
         "country": "us"
       }
     }

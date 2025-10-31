@@ -4,8 +4,56 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25458,
+  "totalArticles": 25461,
   "articles": [
+    {
+      "id": "ff4a8558ca4f94c513de28cddbeb9152",
+      "title": "Une enquête clé de la BCE prévoit une inflation maîtrisée autour de l'objectif",
+      "description": "L'inflation dans la zone euro devrait rester à ou proche de l'objectif de 2 % fixé par la Banque centrale européenne au cours des prochaines années, tandis que la croissance devrait...",
+      "content": "L'inflation dans la zone euro devrait rester à ou proche de l'objectif de 2 % fixé par la Banque centrale européenne (BCE) au cours des prochaines années, tandis que la croissance devrait progressivement se rapprocher de son potentiel, selon une enqu... [1468 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/une-enquete-cle-de-la-bce-prevoit-une-inflation-maitrisee-autour-de-l-objectif-ce7d5cdbdd81f02c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T123620Z_1_LYNXMPEL3E0JQ_RTROPTP_4_ECB-DANISH-COMPROMISE.JPG",
+      "publishedAt": "2025-10-31T09:02:46Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "e34b4ff42316afa716849f1658d27322",
+      "title": "Pour Michel-Edouard Leclerc, “la France n’est pas en faillite” malgré des incertitudes politiques",
+      "description": "Alors que la croissance repart et que l’épargne des ménages atteint des niveaux records, Michel-Edouard Leclerc estime, vendredi 31 octobre, que \"la France n’est pas en faillite\". Il dénonce cependant \"un front commun pour ne pas parler des salaires\".\nÀ l’occasion d’une interview sur BFM Business, vendredi 31 octobre, Michel-Edouard Leclerc s’est montré optimiste concernant l’état de l’économie française. Et pour cause, la croissance française a progressé de 0,5 % au dernier trimestre, tout comme la consommation qui a augmenté de 0,3 %. \"La France n’est pas en faillite. Elle a un très gros taux d’épargne et des industriels et des distributeurs qui en ont sous le pied\" a-t-il expliqué, tout en reconnaissant \"un climat d’attentisme\" lié aux incertitudes politiques. Toutefois, le dirigeant voit une \"résilience du tissu économique\".\nPar ailleurs, selon les chiffres de la Banque de France, les Français détiennent en effet le taux d’épargne le plus élevé en Europe. Il s’élève à 10,5 % et surpasse celui des Allemands. Une occurrence inédite depuis la fin des années 2000.\nUn problème de salaires et de pouvoir d’achat\nMais l’épargne ne profite pas à tout le monde. Pour Michel-Edouard Leclerc, le vrai problème des Français réside dans la baisse du pouvoir d’achat. \"Il y a vraiment des Français qui rament\" explique-t-il sur BFM Business, en évoquant le nouveau million de Français en dessous du seuil de pauvreté depuis 2020. Et cette augmentation a des effets délétères sur la consommation.\nDe ce fait, le dirigeant regrette que les discours politiques ne placent pas le pouvoir d’achat au sommet de leurs priorités. \"Dans le discours patronal, on parle beaucoup des charges mais assez peu des salaires\" indique-t-il sur la chaîne. Selon des données de l’OCDE datant de juillet, les salaires français connaissent une augmentation faible de 0,7 %, bien inférieure à la moyenne d’augmentation des pays développés, d’environ 2,5 %.",
+      "content": "Alors que la croissance repart et que l’épargne des ménages atteint des niveaux records, Michel-Edouard Leclerc estime, vendredi 31 octobre, que \"la France n’est pas en faillite\". Il dénonce cependant \"un front commun pour ne pas parler des salaires\"... [1690 chars]",
+      "url": "https://actu.orange.fr/france/pour-michel-edouard-leclerc-la-france-n-est-pas-en-faillite-malgre-des-incertitudes-politiques-magic-CNT000002lv1UF.html",
+      "image": "https://media2.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2F01c%2F955%2F113ea6ae3b7ef3d8ed30250fc4%2F01c955113ea6ae3b7ef3d8ed30250fc4.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-10-31T09:00:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "0ea7e3258b9ba8a43ebbba35a2520d9c",
+      "title": "L'inflation diminue à 1% sur un an après une baisse des prix de l'énergie",
+      "description": "[VIDÉO] ▶️ D'après l'Insee, les prix à la consommation sont en hausse de 1% sur un an en octobre. L'inflation a ainsi légèrement ralenti sur un mois, notamment en raison d'une baisse des prix de l'énergie. - L'inflation diminue à 1% sur un an après une baisse des prix de l'énergie (Économie).",
+      "content": "D'après l'Insee, les prix à la consommation sont en hausse de 1% sur un an en octobre.\nL'inflation a ainsi légèrement ralenti sur un mois, notamment en raison d'une baisse des prix de l'énergie.\nL'inflation toujours stabilisée. Les prix à la consomma... [1325 chars]",
+      "url": "https://www.tf1info.fr/economie/l-inflation-diminue-a-1-sur-un-an-octobre-2025-apres-une-baisse-des-prix-de-l-energie-2403856.html",
+      "image": "https://photos.tf1info.fr/images/1280/720/ticket-inflation-courses-alimentation-f4bd1e-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLWRlZmF1bHQucG5n&overlayWidth=18&overlayGravity=northwest&s=78c802",
+      "publishedAt": "2025-10-31T08:39:10Z",
+      "lang": "fr",
+      "source": {
+        "id": "7e0f17e3b42a5d8191ca7effd9e6ecd8",
+        "name": "TF1 INFO",
+        "url": "https://www.tf1info.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "bd288bd5cfabef9f085483f7da9ee424",
       "title": "Caixabank annonce un rachat d'actions de €500 mlns après la compression des taux au T3",
@@ -115,54 +163,6 @@
         "id": "f401cf643d772233735406ba09ca0d0b",
         "name": "Le Figaro",
         "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ed0ee6e9d0ff2087ba4033a95fab5064",
-      "title": "TraWell dévoile son nouveau plan industriel 2025-2029",
-      "description": "TraWell Co Spa a approuvé jeudi son nouveau plan industriel 2025-2029, qui prévoit une croissance du chiffre d'affaires à 34,7 millions EUR avec un taux de croissance annuel composé de 3 % et...",
-      "content": "(Alliance News) - TraWell Co Spa a approuvé jeudi son nouveau plan industriel 2025-2029, qui prévoit une croissance du chiffre d'affaires à 34,7 millions EUR avec un taux de croissance annuel composé de 3 % et une marge Ebitda de 35 %.\nLe bénéfice ne... [1750 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/trawell-devoile-son-nouveau-plan-industriel-2025-2029-ce7d5cdadd80f622",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-30T17:58:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b7747b5f511629fbd4194337809b9d64",
-      "title": "Les responsables de la BCE préparent une confrontation décisive en décembre sur l'inflation et les taux",
-      "description": "Les responsables de la Banque centrale européenne se préparent à une véritable confrontation lors de leur prochaine réunion en décembre, moment où de nouvelles projections sur trois ans...",
-      "content": "Les responsables de la Banque centrale européenne (BCE) se préparent à une véritable confrontation lors de leur prochaine réunion en décembre, moment où de nouvelles projections sur trois ans devraient éclairer la question de savoir s'ils risquent de... [2319 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/les-responsables-de-la-bce-preparent-une-confrontation-decisive-en-decembre-sur-l-inflation-et-les-t-ce7d5cdadd8efe23",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-14T043955Z_1_LYNXMPEL7D03P_RTROPTP_4_EUROZONE-RATES-ECB.JPG",
-      "publishedAt": "2025-10-30T17:48:32Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "3edbad5070559ab269e29d4470b7762a",
-      "title": "Inflation maîtrisée mais horizon flou : la BCE conserve le statu quo",
-      "description": "La Banque centrale européenne a conservé le cap monétaire pris au mois de juillet, en maintenant ses taux directeurs à 2%.",
-      "content": "Au lendemain de l’annonce d’une seconde détente monétaire d’affilée pour la Fed, la banque centrale des Etats-Unis, son homologue européenne, la BCE, a annoncé maintenir ses taux directeurs inchangés, ce jeudi 30 octobre.\nComme depuis juillet, le tau... [1897 chars]",
-      "url": "https://www.liberation.fr/economie/inflation-maitrisee-mais-horizon-flou-la-bce-conserve-le-statu-quo-20251030_GRTOGU5IDZCTZF6ISR2VNU32FM/",
-      "image": "https://www.liberation.fr/resizer/v2/5KB7FL622BDL3JXZRHANYIAC3I.jpg?auth=0c12a51bbe60472222f40e10ce79043ed7b3e01d0a18e47408167359ac0a8b77&quality=70&width=1200&height=630&focal=3482%2C3520",
-      "publishedAt": "2025-10-30T17:40:40Z",
-      "lang": "fr",
-      "source": {
-        "id": "0041043f44c4c90a16732eaaf05c73ca",
-        "name": "Libération",
-        "url": "https://www.liberation.fr",
         "country": "fr"
       }
     }
