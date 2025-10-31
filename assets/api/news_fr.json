@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25453,
+  "totalArticles": 25455,
   "articles": [
+    {
+      "id": "b4d37cc0c0ac4a491e35390e985c0f12",
+      "title": "La Banque de réserve d'Australie maintient ses taux face à la poussée de l'inflation, un assouplissement repoussé à 2026",
+      "description": "La Banque de réserve d'Australie devrait laisser son principal taux directeur inchangé à 3,60 % mardi, alors qu'une nouvelle flambée de l'inflation retarde toute perspective d'assouplissement...\n-Le 31 octobre 2025 à 01:15\n- Zonebourse",
+      "content": "La Banque de réserve d'Australie (RBA) devrait laisser son principal taux directeur inchangé à 3,60 % mardi, alors qu'une nouvelle flambée de l'inflation retarde toute perspective d'assouplissement monétaire. Selon un sondage Reuters, les économistes... [3663 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-de-reserve-d-australie-maintient-ses-taux-face-a-la-poussee-de-l-inflation-un-assouplisse-ce7d5cdad089f226",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-12T043234Z_1_LYNXMPEL7B04K_RTROPTP_4_AUSTRALIA-ECONOMY-RATES.JPG",
+      "publishedAt": "2025-10-31T00:15:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "accab918e45f90bc5ce9a69c6a093661",
+      "title": "Les prix à la consommation de base s'accélèrent à Tokyo, la Banque du Japon sous pression",
+      "description": "L'inflation de base à Tokyo a accéléré en octobre, demeurant au-dessus de l'objectif de 2 % fixé par la Banque du Japon , selon des données publiées vendredi, alimentant les attentes du...",
+      "content": "L'inflation de base à Tokyo a accéléré en octobre, demeurant au-dessus de l'objectif de 2 % fixé par la Banque du Japon (BOJ), selon des données publiées vendredi, alimentant les attentes du marché concernant une hausse prochaine des taux d'intérêt.\n... [3149 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-prix-a-la-consommation-de-base-s-accelerent-a-tokyo-la-banque-du-japon-sous-pression-ce7d5cdad181f22d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-30T233837Z_1_LYNXMPEL9T19T_RTROPTP_4_JAPAN-DAILYLIFE.JPG",
+      "publishedAt": "2025-10-30T23:38:14Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "5e1dc4fe9f50b514fa8238e55af7d1c6",
       "title": "Le statu quo de la BCE, confiante sur la trajectoire de l’inflation, suscite la critique",
@@ -131,38 +163,6 @@
         "id": "2e8ae376e34f50a5cfc9cf58dc9db534",
         "name": "BFM Bourse",
         "url": "https://www.tradingsat.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "2d2408d4295565d84c4bc23459ae19f1",
-      "title": "Inflation maîtrisée mais horizon flou : la BCE choisit le statu quo",
-      "description": "Inflation maitrisée, risques pour la croissance atténuées: la Banque centrale européenne a de nouveau maintenu ses taux inchangés jeudi. L'institut de Francfort a souligné que le cap monétaire...",
-      "content": "Florence (awp/afp) - Inflation maitrisée, risques pour la croissance \"atténuées\": la Banque centrale européenne (BCE) a de nouveau maintenu ses taux inchangés jeudi. L'institut de Francfort a souligné que le cap monétaire changera lorsque cela s'avèr... [3799 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/inflation-maitrisee-mais-horizon-flou-la-bce-choisit-le-statu-quo-ce7d5cdada8ef52d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-03-24T105203Z_1_LYNXMPED2N0QQ_RTROPTP_2_AUSTRIA-BUSINESS.JPG",
-      "publishedAt": "2025-10-30T16:35:31Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "869785e1706dc25809334cd3802ac8b5",
-      "title": "Crédit Agricole : les négociations salariales dans l'impasse",
-      "description": "La banque propose pour les collaborateurs des caisses régionales une augmentation collective de 0,44 % en moyenne, en baisse par rapport à 2025. Les syndicats dénoncent une perte de pouvoir d'achat face à l'inflation. Ils souhaitent une prolongation des négociations fixant la politique salariale pour l'an prochain.",
-      "content": "C'est la soupe à la grimace dans les rangs syndicaux du Crédit Agricole. Cette année, les négociations sur les salaires (NAO) pour 2026 concernant les quelque 78.000 collaborateurs des caisses régionales avaient été avancées dans le temps, pour s'ali... [2400 chars]",
-      "url": "https://www.lesechos.fr/finance-marches/banque-assurances/credit-agricole-les-negociations-salariales-dans-limpasse-2195746",
-      "image": "https://media.lesechos.com/api/v1/images/view/690391d1868d766c180bc686/1280x720/01602029983227-web-tete.jpg",
-      "publishedAt": "2025-10-30T16:26:52Z",
-      "lang": "fr",
-      "source": {
-        "id": "7bc2d0f6cf41a3aabd620204c9c8258a",
-        "name": "Les Échos",
-        "url": "https://www.lesechos.fr",
         "country": "fr"
       }
     }
