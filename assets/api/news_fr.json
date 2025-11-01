@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25486,
+  "totalArticles": 25487,
   "articles": [
+    {
+      "id": "42fc9d51dd2cd1e9abcb036c67726a3a",
+      "title": "La Fed divisée sur une nouvelle baisse des taux en décembre, les partisans d'une pause s'opposent aux colombes",
+      "description": "Plusieurs présidents de banques régionales de la Réserve fédérale américaine ont exprimé vendredi leur malaise face à la décision de la banque centrale de baisser les taux d'intérêt cette...",
+      "content": "Plusieurs présidents de banques régionales de la Réserve fédérale américaine ont exprimé vendredi leur malaise face à la décision de la banque centrale de baisser les taux d'intérêt cette semaine, alors même que l'influent gouverneur Christopher Wall... [6496 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-fed-divisee-sur-une-nouvelle-baisse-des-taux-en-decembre-les-partisans-d-une-pause-s-opposent-au-ce7d5cd8d989f124",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-15T182724Z_1_LYNXNPEL9E0ZN_RTROPTP_4_USA-FED-POWELL-JOBS.JPG",
+      "publishedAt": "2025-10-31T22:03:20Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "a6bec7e67824922825b525ed8f65d07c",
       "title": "\"La taxe Zucman, c'était pour pouvoir faire passer ensuite réduire la croissance des prestations sociales françaises\", estime le dirigeant d'entreprise Nicolas Dufourcq",
@@ -147,22 +163,6 @@
         "id": "f401cf643d772233735406ba09ca0d0b",
         "name": "Le Figaro",
         "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "47cc56063232fa4758f65bbfaee99188",
-      "title": "Avec un montant de 30 milliards de dollars, Meta signe une levée de dette record sur les marchés pour financer ses investissements dans l'IA",
-      "description": "(BFM Bourse) - La maison-mère de Facebook et d'Instagram a attiré une demande record sur le marché alors que la société compte investir massivement dans …",
-      "content": "(BFM Bourse) - La maison-mère de Facebook et d'Instagram a attiré une demande record sur le marché alors que la société compte investir massivement dans l'IA.\nL'essor de l'intelligence artificielle aux États-Unis continue d'alimenter les spéculations... [3040 chars]",
-      "url": "https://www.tradingsat.com/actualites/informations-societes/avec-un-montant-de-30-milliards-de-dollars-meta-signe-une-levee-de-dette-record-sur-les-marches-pour-financer-ses-investissements-dans-l-ia-1149665.html",
-      "image": "https://www.tradingsat.com/media/pictures/realsize/news/meta-681171.jpg",
-      "publishedAt": "2025-10-31T15:20:33Z",
-      "lang": "fr",
-      "source": {
-        "id": "2e8ae376e34f50a5cfc9cf58dc9db534",
-        "name": "BFM Bourse",
-        "url": "https://www.tradingsat.com",
         "country": "fr"
       }
     }
