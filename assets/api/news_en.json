@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 842,
+  "totalArticles": 843,
   "articles": [
+    {
+      "id": "bf1c824ebdcdb113bcdef1a7af699b26",
+      "title": "Scary Inflation Measure Stories to Tell in the Dark",
+      "description": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd Lots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing you our thoughts on the most recent developments in markets, finance and the economy. And sometimes it's contributions from our network of expert guests and sources. Whatever it is, we promise it will always be interesting.",
+      "content": "Hello and welcome to the newsletter, a grab bag of daily content from the Odd Lots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing you our thoughts on the most recent developments in markets, finance and the economy. And somet... [261 chars]",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-10-31/scary-inflation-measure-stories-to-tell-in-the-dark",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ita6MmZt652s/v0/1200x800.jpg",
+      "publishedAt": "2025-10-31T16:59:54Z",
+      "lang": "en",
+      "source": {
+        "id": "7006f2c40c7cc01195608dbfd60259b3",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com",
+        "country": "us"
+      }
+    },
     {
       "id": "cc0fc1dfa16fd5b47a3f34e42b85e309",
       "title": "More retirees opting for 'good enough' stock strategy to protect money",
@@ -147,22 +163,6 @@
         "id": "d889fcdc98f3dab0a934bbe252002562",
         "name": "Morningstar",
         "url": "https://www.morningstar.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "eb9dff5b33d969771a6a933343f0862b",
-      "title": "Can LVMUY Stock Sustain Gains Amid Tariffs and Inflation?",
-      "description": "Affluent households continue to do the bulk of the spending in the U.S. economy, which is boosting the profits of premier luxury brands like Louis Vuitton.",
-      "content": "The market’s infatuation with all that shimmers continued in earnest last week, with gold and silver making new all-time highs. But precious metals aren’t the only shiny assets spurring investors into action. High-end luxury brands have also been rac... [5356 chars]",
-      "url": "https://www.marketbeat.com/originals/louis-vuitton-earnings-show-luxury-bull-market-isnt-done-yet/",
-      "image": "https://www.marketbeat.com/logos/articles/med_20251020162939_louis-vuitton-earnings-show-luxury-bull-market-isn.png",
-      "publishedAt": "2025-10-20T21:37:00Z",
-      "lang": "en",
-      "source": {
-        "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
-        "name": "MarketBeat",
-        "url": "https://www.marketbeat.com",
         "country": "us"
       }
     }

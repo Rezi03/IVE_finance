@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25480,
+  "totalArticles": 25482,
   "articles": [
+    {
+      "id": "c588116672149620c431963e9e0c91bc",
+      "title": "Bourse Zurich: vague rouge attendue sur le SMI",
+      "description": "La Bourse suisse est attendue en repli vendredi, dans le sillage de sa clôture la veille où les investisseurs sont restés prudents, après une Fed moins accommodante que prévu et une BCE au taux...",
+      "content": "Zurich (awp) - La Bourse suisse est attendue en repli vendredi, dans le sillage de sa clôture la veille où les investisseurs sont restés prudents, après une Fed moins accommodante que prévu et une BCE au taux inchangé. Les chiffres de l'emploi améric... [2423 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/bourse-zurich-vague-rouge-attendue-sur-le-smi-ce7d5cd8d88fff25",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2020-11-25T172159Z_1_LYNXMPEGAO1G9_RTROPTP_3_SWISS-BUSINESS.JPG",
+      "publishedAt": "2025-10-31T17:16:46Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "40daa07029baeaf436efffba30b0bcd5",
+      "title": "Jeff Schmid de la Fed s'oppose à la baisse des taux en raison de l'inquiétude liée à l'inflation",
+      "description": "Le président de la Réserve fédérale de Kansas City, Jeff Schmid, a voté contre la décision de la banque centrale américaine de baisser les taux d'intérêt cette semaine.\n« Je ne pense pas...",
+      "content": "Le président de la Réserve fédérale de Kansas City, Jeff Schmid, a voté contre la décision de la banque centrale américaine de baisser les taux d'intérêt cette semaine.\n« Je ne pense pas qu'une réduction de 25 points de base du taux directeur apporte... [447 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/jeff-schmid-de-la-fed-s-oppose-a-la-baisse-des-taux-en-raison-de-l-inquietude-liee-a-l-inflation-ce7d5cd8d88bfe22",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/mtnewswires/A3492246.png",
+      "publishedAt": "2025-10-31T16:46:40Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "651104d754dd5fc92b57bf40bcd817f0",
       "title": "La présidente de la Fed de Cleveland, Beth Hammack, s'oppose à la baisse des taux en raison des inquiétudes persistantes sur l'inflation",
@@ -126,38 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/le-president-de-la-fed-de-kansas-city-alerte-sur-les-risques-persistants-d-inflation-et-la-vigueur-d-ce7d5cdbd188f223",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-31T12:31:18Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "8261ef042a4bf80d27bf822146ed4db5",
-      "title": "Wall Street vue en hausse, l'Europe recule avec l'inflation et les résultats d'entreprise",
-      "description": "Wall Street est attendue en hausse et les bourses européennes reculent après une série de résultats mitigés d'entreprises. L'inflation dans la zone euro conforte l'idée d'un statu quo de la Banque centrale européenne (BCE).",
-      "content": "13:05\n12:44\n11:42\n11:05\nPublicité\n10:56\n10:38\n09:49\n09:38\nPublicité\n09:11\n09:05\nLes marchés à l'ouverture\nAmsterdam: -0,31%; Bruxelles: +0,50%; Paris: -0,01%. Argenx: +2,6%. Biotalys: +19%. Syensqo: +0,23%.\n08:57\n08:45\nPublicité\n08:12\nBriefing d'avan... [1922 chars]",
-      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-vue-en-hausse-l-europe-recule-avec-l-inflation-et-les-resultats-d-entreprise/10633813.html",
-      "image": "https://www.lecho.be/echo/favicon-16x16.png",
-      "publishedAt": "2025-10-31T12:08:58Z",
-      "lang": "fr",
-      "source": {
-        "id": "5eca54a281f8fb040f8089593c1ae8bc",
-        "name": "L'Echo",
-        "url": "https://www.lecho.be",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "01576e7588c4dbee778be0f876087914",
-      "title": "Barclays et BofA n'anticipent plus de baisse des taux de la BCE en 2025",
-      "description": "Barclays et BofA Global Research ont révisé leurs prévisions et n'attendent plus de baisse des taux d'intérêt de la Banque centrale européenne lors de la réunion de décembre, après que la...",
-      "content": "Barclays et BofA Global Research ont révisé leurs prévisions et n'attendent plus de baisse des taux d'intérêt de la Banque centrale européenne (BCE) lors de la réunion de décembre, après que la BCE a maintenu ses taux inchangés ce jeudi.\nLa BCE a lai... [1141 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/barclays-et-bofa-n-anticipent-plus-de-baisse-des-taux-de-la-bce-en-2025-ce7d5cdbde89f322",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-15T123313Z_1_LYNXMPEL4E0O1_RTROPTP_4_ECB-POLICY.JPG",
-      "publishedAt": "2025-10-31T11:30:23Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
