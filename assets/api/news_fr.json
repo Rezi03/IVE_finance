@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25484,
+  "totalArticles": 25485,
   "articles": [
+    {
+      "id": "5d5db03c310394520522c566894b003e",
+      "title": "Les \" faucons \" de la Fed s'opposent à de nouvelles baisses de taux, tant cette semaine qu'en décembre",
+      "description": "Plusieurs présidents de banques régionales de la Réserve fédérale américaine ont exprimé vendredi leur malaise face à la décision de la banque centrale de baisser ses taux d'intérêt cette...",
+      "content": "Plusieurs présidents de banques régionales de la Réserve fédérale américaine ont exprimé vendredi leur malaise face à la décision de la banque centrale de baisser ses taux d'intérêt cette semaine. Selon eux, le marché du travail n'a pas besoin du sou... [6085 chars]",
+      "url": "https://www.zonebourse.com/cours/devise/EURO-US-DOLLAR-EUR-USD-4591/actualite/Les-faucons-de-la-Fed-s-opposent-a-de-nouvelles-baisses-de-taux-tant-cette-semaine-qu-en-de-9210472/",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-15T182724Z_1_LYNXNPEL9E0ZN_RTROPTP_4_USA-FED-POWELL-JOBS.JPG",
+      "publishedAt": "2025-10-31T19:05:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "b5358759851df1055f987123d55d32f2",
       "title": "La Banque centrale de Colombie maintient son taux directeur à 9,25 %, conformément aux prévisions du marché",
@@ -142,22 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/la-mtr-de-hong-kong-lance-un-programme-d-emission-de-dette-de-25-milliards-de-dollars-ce7d5cd8d98bf724",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
       "publishedAt": "2025-10-31T15:10:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "beab930e892230bf3c651efb0d146574",
-      "title": "L'Italie demande à la BCE un euro plus faible pour mieux exporter",
-      "description": "Le chef de la diplomatie italienne Antonio Tajani a demandé vendredi à la Banque centrale européenne d'abaisser ses taux pour réduire la force de l'euro afin de faciliter les exportations.\nUn...\n-Le 31 octobre 2025 à 15:12\n- Zonebourse",
-      "content": "Rome (awp/afp) - Le chef de la diplomatie italienne Antonio Tajani a demandé vendredi à la Banque centrale européenne (BCE) d'abaisser ses taux pour \"réduire la force de l'euro\" afin de faciliter les exportations.\n\"Un dollar de plus en plus faible et... [1323 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/l-italie-demande-a-la-bce-un-euro-plus-faible-pour-mieux-exporter-ce7d5cdbd08ff025",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-31T14:12:12Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
