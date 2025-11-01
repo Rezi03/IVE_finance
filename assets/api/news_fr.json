@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25470,
+  "totalArticles": 25474,
   "articles": [
+    {
+      "id": "ed9042dd8f006b91c181544013985098",
+      "title": "\" Il faut donner une nouvelle jeunesse à la protection maternelle et infantile \"",
+      "description": "TRIBUNE. Ce service public de prévention, en déshérence, faute notamment d’un investissement politique et financier suffisant par les pouvoirs publics, doit être revitalisé pour lutter contre la hausse inquiétante du taux de mortalité infantile en France et contre les inégalités de santé, alerte un collectif de professionnels dans une tribune au « Monde ».",
+      "content": "Il y a juste 80 ans, dans la foulée de la Sécurité sociale, étaient créées la santé scolaire et la protection maternelle et infantile (PMI), deux services publics de prévention universelle à destination des bébés, des enfants et des jeunes. L’ordonna... [1986 chars]",
+      "url": "https://www.lemonde.fr/idees/article/2025/10/31/il-faut-donner-une-nouvelle-jeunesse-a-la-protection-maternelle-et-infantile_6650604_3232.html",
+      "image": "https://img.lemde.fr/2025/10/03/0/0/1500/1000/1440/960/60/0/ebe8cbe_upload-1-mx6xhdqhfb76-frame-1400.jpg",
+      "publishedAt": "2025-10-31T13:00:06Z",
+      "lang": "fr",
+      "source": {
+        "id": "d72db178501ee94d88ea59fe10ef8079",
+        "name": "Le Monde.fr",
+        "url": "https://www.lemonde.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "e4bcf145cae29df31478555d1f09e8bf",
+      "title": "Le président de la Fed de Kansas City alerte sur les risques persistants d'inflation et la vigueur de l'économie",
+      "description": "Le président de la Réserve fédérale de Kansas City, Jeffrey Schmid, a déclaré vendredi avoir voté contre la baisse des taux d'intérêt cette semaine, exprimant ses inquiétudes face à une...\n-Le 31 octobre 2025 à 13:31\n- Zonebourse",
+      "content": "Le marché joue à se faire peur pour Halloween\nHier, probablement pour fêter la veille d'Halloween, les marchés américains ont joué à se faire peur avec une baisse assez marquée des valeurs technologiques. En soirée, les résultats d'Apple et Amazon on... [313 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-president-de-la-fed-de-kansas-city-alerte-sur-les-risques-persistants-d-inflation-et-la-vigueur-d-ce7d5cdbd188f223",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-31T12:31:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "8261ef042a4bf80d27bf822146ed4db5",
+      "title": "Wall Street vue en hausse, l'Europe recule avec l'inflation et les résultats d'entreprise",
+      "description": "Wall Street est attendue en hausse et les bourses européennes reculent après une série de résultats mitigés d'entreprises. L'inflation dans la zone euro conforte l'idée d'un statu quo de la Banque centrale européenne (BCE).",
+      "content": "13:05\n12:44\n11:42\n11:05\nPublicité\n10:56\n10:38\n09:49\n09:38\nPublicité\n09:11\n09:05\nLes marchés à l'ouverture\nAmsterdam: -0,31%; Bruxelles: +0,50%; Paris: -0,01%. Argenx: +2,6%. Biotalys: +19%. Syensqo: +0,23%.\n08:57\n08:45\nPublicité\n08:12\nBriefing d'avan... [1922 chars]",
+      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-wall-street-vue-en-hausse-l-europe-recule-avec-l-inflation-et-les-resultats-d-entreprise/10633813.html",
+      "image": "https://www.lecho.be/echo/favicon-16x16.png",
+      "publishedAt": "2025-10-31T12:08:58Z",
+      "lang": "fr",
+      "source": {
+        "id": "5eca54a281f8fb040f8089593c1ae8bc",
+        "name": "L'Echo",
+        "url": "https://www.lecho.be",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "01576e7588c4dbee778be0f876087914",
+      "title": "Barclays et BofA n'anticipent plus de baisse des taux de la BCE en 2025",
+      "description": "Barclays et BofA Global Research ont révisé leurs prévisions et n'attendent plus de baisse des taux d'intérêt de la Banque centrale européenne lors de la réunion de décembre, après que la...",
+      "content": "Barclays et BofA Global Research ont révisé leurs prévisions et n'attendent plus de baisse des taux d'intérêt de la Banque centrale européenne (BCE) lors de la réunion de décembre, après que la BCE a maintenu ses taux inchangés ce jeudi.\nLa BCE a lai... [1141 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/barclays-et-bofa-n-anticipent-plus-de-baisse-des-taux-de-la-bce-en-2025-ce7d5cdbde89f322",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-15T123313Z_1_LYNXMPEL4E0O1_RTROPTP_4_ECB-POLICY.JPG",
+      "publishedAt": "2025-10-31T11:30:23Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "801883696591c1f2be4bc52aad4897f6",
       "title": "La Banque centrale turque constate une hausse des anticipations d'inflation en octobre",
@@ -99,70 +163,6 @@
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
         "name": "Boursorama",
         "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "f473e35dfbbe42a630c2d31f26c124d8",
-      "title": "Zone euro: l'inflation ralentit en octobre à 2,1% sur un an",
-      "description": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE).",
-      "content": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE).\nLa hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d'Eurostat publié ve... [1129 chars]",
-      "url": "https://actu.orange.fr/economie/zone-euro-l-inflation-ralentit-en-octobre-a-2-1-sur-un-an-CNT000002lv8mf.html",
-      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fafp-news%2F76e3c500-76f7-4f0f-bea3-fd5d83e1be83.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-31T10:18:42Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "b2211a73ef936443552180d34b485a6a",
-      "title": "Légère accalmie de l'inflation en zone euro en octobre, mais le noyau reste stable",
-      "description": "L'inflation en zone euro a légèrement ralenti en octobre, demeurant proche de l'objectif de 2 % fixé par la Banque centrale européenne , confirmant ainsi le message de l'institution selon lequel...",
-      "content": "L'inflation en zone euro a légèrement ralenti en octobre, demeurant proche de l'objectif de 2 % fixé par la Banque centrale européenne (BCE), confirmant ainsi le message de l'institution selon lequel l'économie suit une trajectoire relativement bénig... [2526 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/legere-accalmie-de-l-inflation-en-zone-euro-en-octobre-mais-le-noyau-reste-stable-ce7d5cdbdc8ff221",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-10/2025-10-31T101221Z_1_LYNXMPEL9U0GU_RTROPTP_4_FRANCE-ECONOMY-INFLATION.JPG",
-      "publishedAt": "2025-10-31T10:08:44Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "535250d2427b9075eb43399f244f6b41",
-      "title": "Retraites : un rapport alerte sur une augmentation du déficit avec la baisse de la natalité",
-      "description": "Le Conseil d’orientation des retraites (COR) a prévenu, jeudi 30 octobre, devant la mission d’information de l’Assemblée, que la baisse de la natalité va davantage dégrader le système de retraites. Le déficit pourrait être de 60 milliards d’euros à l’horizon 2070, soit le budget alloué à la Défense.\nUn constat inquiétant. Le Conseil d’orientation des retraites a dressé un rapport effarant, jeudi 30 octobre, face à la mission d'information de l'Assemblée : avec la baisse de la natalité en cours, le système de pension des retraites va se dégrader rapidement. Des estimations qui pourraient être encore plus pessimistes puisque les experts se sont basés sur un taux de natalité de 1,8, alors que ce dernier \"est à 1,6\" actuellement, indique son président, Gilbert Cette, qui assure que son équipe “va revenir sans doute sur cette hypothèse dans notre prochain rapport”, selon TF1 Info.\nRésultat : avec cette nouvelle hypothèse, cette baisse de la natalité va entraîner une baisse de la croissance économique de 0,15 point par an, jusqu’à atteindre “60 milliards d'euros de recettes publiques” en moins, à l'horizon 2070, soit le \"budget du ministère de la Défense\".\n\"Si on dégrade de 1,8 à 1,6 le taux de fécondité, on dégrade le déficit du système des retraites de 60% à l'horizon 2070\", a à son tour prévenu Nathanaël Grave, un responsable de la prospective à la\nCaisse nationale d'assurance vieillesse (Cnav).\nLes solutions pour freiner la dégradation\nPour tenter de stopper l’hémorragie, les spécialistes indiquent que plusieurs solutions existent, dont l'immigration qui permettrait d'augmenter très rapidement le nombre de cotisants : \"En général, les migrants sont plutôt de jeunes adultes en âge de travailler\", a précisé le directeur général de la Cnav, Renaud Villard. Et l'augmentation du taux d'emploi de la population pourrait permettre une \"atténuation temporaire\" du phénomène, a affirmé, de son côté, Gilbert Cette.\nMais inverser la tendance risque d’être très difficile. En effet, même avec un taux de fécondité à 1,8 jusqu’en 2070, il y aurait un cotisant pour un retraité pour le régime général, contre 1,5 aujourd'hui.",
-      "content": "Le Conseil d’orientation des retraites (COR) a prévenu, jeudi 30 octobre, devant la mission d’information de l’Assemblée, que la baisse de la natalité va davantage dégrader le système de retraites. Le déficit pourrait être de 60 milliards d’euros à l... [1891 chars]",
-      "url": "https://actu.orange.fr/france/retraites-un-rapport-alerte-sur-une-augmentation-du-deficit-avec-la-baisse-de-la-natalite-magic-CNT000002lv89X.html",
-      "image": "https://media2.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fc8e%2Fa57%2Fde3c0faecdd72bc2027b176c74%2Fc8ea57de3c0faecdd72bc2027b176c74.jpg?format=1200x630&facedetect=1&quality=85",
-      "publishedAt": "2025-10-31T10:05:00Z",
-      "lang": "fr",
-      "source": {
-        "id": "3cf85c8714154abe13a5cdac30752179",
-        "name": "Actualités - Orange",
-        "url": "https://actu.orange.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ff4a8558ca4f94c513de28cddbeb9152",
-      "title": "Une enquête clé de la BCE prévoit une inflation maîtrisée autour de l'objectif",
-      "description": "L'inflation dans la zone euro devrait rester à ou proche de l'objectif de 2 % fixé par la Banque centrale européenne au cours des prochaines années, tandis que la croissance devrait...",
-      "content": "L'inflation dans la zone euro devrait rester à ou proche de l'objectif de 2 % fixé par la Banque centrale européenne (BCE) au cours des prochaines années, tandis que la croissance devrait progressivement se rapprocher de son potentiel, selon une enqu... [1468 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/une-enquete-cle-de-la-bce-prevoit-une-inflation-maitrisee-autour-de-l-objectif-ce7d5cdbdd81f02c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T123620Z_1_LYNXMPEL3E0JQ_RTROPTP_4_ECB-DANISH-COMPROMISE.JPG",
-      "publishedAt": "2025-10-31T09:02:46Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }

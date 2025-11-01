@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 841,
+  "totalArticles": 842,
   "articles": [
+    {
+      "id": "cc0fc1dfa16fd5b47a3f34e42b85e309",
+      "title": "More retirees opting for 'good enough' stock strategy to protect money",
+      "description": "Retirees are in a tough spot needing stock market growth to fight inflation, but their personal finance plans can't stomach a major market correction.",
+      "content": "Retirees and investors near retirement are in a tough spot. They need growth from their stock market portfolio to fight inflation and rising health care costs, but another major market drop could leave stocks in a \"lost period\" which they don't have ... [3497 chars]",
+      "url": "https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106790381-1605030237440-gettyimages-1283629372-pi-2094384.jpeg?v=1761840062&w=1920&h=1080",
+      "publishedAt": "2025-10-31T12:30:01Z",
+      "lang": "en",
+      "source": {
+        "id": "29e94cdd2d4f6a3ca7108bb0293087c6",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com",
+        "country": "us"
+      }
+    },
     {
       "id": "5953c23736da39ae4249a619df57d08d",
       "title": "This burrito is everything you need to know about America’s economy",
@@ -147,22 +163,6 @@
         "id": "ac7b96be74f81cabb4e02b818a3ff6d7",
         "name": "MarketBeat",
         "url": "https://www.marketbeat.com",
-        "country": "us"
-      }
-    },
-    {
-      "id": "37a92b0b241432dbd0fc5ead1607337a",
-      "title": "Morgan Stanley's profit beats estimates on boost from dealmaking, stock trading",
-      "description": "Morgan Stanley's third-quarter profit beat market expectations as investment bankers brought in more fees from advising on deals and by underwriting stock and debt sales, lifting revenue to a record.",
-      "content": "Shares of the bank rose 3.6% in premarket trading on Wednesday. They have gained 23.6% this year as of the last closing price.\nSign up here.\nA string of large deals pushed global mergers and acquisitions activity past the $3 trillion mark this year. ... [2903 chars]",
-      "url": "https://www.reuters.com/business/finance/morgan-stanley-profit-jumps-investment-banking-revival-2025-10-15/",
-      "image": "https://www.reuters.com/resizer/v2/MB5LSD4NBBMW3NYYJEKO4S5OCY.jpg?auth=27cc7c36f2e4b72e70559311c67e3e08bac8b79698e4ba45e65ee3aff36358c3&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2025-10-15T11:32:11Z",
-      "lang": "en",
-      "source": {
-        "id": "da5c26287bdd02563a2c32b55cb12051",
-        "name": "Reuters",
-        "url": "https://www.reuters.com",
         "country": "us"
       }
     }
