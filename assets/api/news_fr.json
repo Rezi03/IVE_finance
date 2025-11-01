@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25487,
+  "totalArticles": 25488,
   "articles": [
+    {
+      "id": "1804e1c16aa028b15a5e1dc6173aa3a2",
+      "title": "ce que l'\"Impôt sur la fortune improductive\", voté à l'Assemblée ? : Actualités",
+      "description": "Vendredi 31 octobre, les députés ont validé un \"impôt sur la fortune improductive\" lors d'un vote à l'Assemblée nationale. Les parlementaires PS, Rassemblement national, MoDem et Liot l'ont approuvé. Quelle est cette nouvelle mesure saluée par les socialistes ?\nAprès le rejet de la taxe Zucman à l'Assemblée, ce nouvel amendement pourrait-il être enfin une des victoires du Parti socialiste ? Adoptée vendredi 31 octobre dans l'hémicycle par les députés du MoDem, du Rassemblement national, du groupe LIOT et du PS, qu'est-ce que cet \"impôt sur la fortune improductive\" ? Issu d'une transformation de \"l'impôt sur la fortune immobilière\", l'amendement a été accepté par 163 voix contre 150, rapporte TF1.\nUn retour de l'ISF ?\nSignifiant pour certains le retour de l'impôt sur la fortune, et ce alors que l'ensemble de la gauche hors PS n'a pas voté le texte, l'amendement déposé par Jean-Paul Mattei prévoit d'inclure dans l'impôt \"les actifs improductifs\". Parmi ces derniers : les \"biens immobiliers non productifs, biens meubles corporels [objets précieux, voitures, yachts, avions...], actifs numériques, assurance-vie pour les fonds non alloués à l'investissement productif\", selon le parlementaire du centre.\nEn revanche, ne seront pas taxés par cet impôt les biens loués pour une durée de plus d'un an répondant à des critères environnementaux. Le barème progressif est d'ailleurs remplacé par un taux unique à 1 %. Un sous-amendement déposé par le député du PS Philippe Brun a permis d'exclure de l'assiette un bien par foyer fiscal dans la limite d'un abattement d'un million d'euros.",
+      "content": "Vendredi 31 octobre, les députés ont validé un \"impôt sur la fortune improductive\" lors d'un vote à l'Assemblée nationale. Les parlementaires PS, Rassemblement national, MoDem et Liot l'ont approuvé. Quelle est cette nouvelle mesure saluée par les so... [1344 chars]",
+      "url": "https://actu.orange.fr/politique/budget-2026-qu-est-ce-que-l-impot-sur-la-fortune-improductive-vote-a-l-assemblee-magic-CNT000002lwgH5.html",
+      "image": "https://media1.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2F5fc%2Fa89%2F319fed94bc8fbef175e6bfcdfa%2F5fca89319fed94bc8fbef175e6bfcdfa.jpg?format=1200x630&facedetect=1&quality=85",
+      "publishedAt": "2025-11-01T08:54:00Z",
+      "lang": "fr",
+      "source": {
+        "id": "3cf85c8714154abe13a5cdac30752179",
+        "name": "Actualités - Orange",
+        "url": "https://actu.orange.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "42fc9d51dd2cd1e9abcb036c67726a3a",
       "title": "La Fed divisée sur une nouvelle baisse des taux en décembre, les partisans d'une pause s'opposent aux colombes",
@@ -147,22 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "5d11ea72d2d58b65858844948ddd3632",
-      "title": "Aux États-Unis, l’inflation jugée \"trop élevée\" pour baisser les taux, selon un membre de la Fed",
-      "description": "Un responsable de la banque centrale américaine (Fed) a déclaré vendredi qu'il avait voté contre une baisse des taux directeurs plus tôt dans la...",
-      "content": "Un responsable de la banque centrale américaine (Fed) a déclaré vendredi qu'il avait voté contre une baisse des taux directeurs plus tôt dans la semaine, estimant que l'inflation était «trop élevée». Le président de la Fed de Kansas City, Jeff Schmid... [2574 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/aux-etats-unis-l-inflation-jugee-trop-elevee-pour-baisser-les-taux-selon-un-membre-de-la-fed-20251031",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/31/59b86f8214b341ae7cddd78322f284b4864541f5c4351d3f1d2b5f87f7f64cf1.jpg",
-      "publishedAt": "2025-10-31T15:32:21Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
         "country": "fr"
       }
     }
