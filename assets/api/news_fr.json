@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25482,
+  "totalArticles": 25484,
   "articles": [
+    {
+      "id": "b5358759851df1055f987123d55d32f2",
+      "title": "La Banque centrale de Colombie maintient son taux directeur à 9,25 %, conformément aux prévisions du marché",
+      "description": "La Banque centrale de Colombie a maintenu vendredi son taux d'intérêt directeur à 9,25 %, conformément aux attentes du marché, alors qu'elle cherche à équilibrer l'incertitude liée à...\n-Le 31 octobre 2025 à 19:26\n- Zonebourse",
+      "content": "Le marché joue à se faire peur pour Halloween\nHier, probablement pour fêter la veille d'Halloween, les marchés américains ont joué à se faire peur avec une baisse assez marquée des valeurs technologiques. En soirée, les résultats d'Apple et Amazon on... [313 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-de-colombie-maintient-son-taux-directeur-a-9-25-conformement-aux-previsions-du-ce7d5cd8db89f127",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-31T18:26:36Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "64212d7efe4241ae293521e2e4d5961b",
+      "title": "Les bourses en direct | L'Europe termine dans le rouge après une série de résultats mitigés, UCB lanterne rouge du Bel 20",
+      "description": "Les bourses européennes ont clôturé en baisse après une série de résultats mitigés des entreprises et alors que les chiffres de l'inflation dans la zone euro devraient conforter le statu quo de la Banque centrale européenne (BCE) en matière de taux d'intérêt. Wall Street en ordre dispersé.",
+      "content": "18:57\n18:44\n18:32\nQuelques valeurs dans l'actu\nL'action AXA a fini en baisse de 4,35%, lanterne rouge du CAC 40, après la publication des résultats financiers à fin septembre de l'assureur français, les chiffres supérieurs aux attentes ayant été obsc... [3094 chars]",
+      "url": "https://www.lecho.be/les-marches/live-blog/les-bourses-en-direct-l-europe-termine-dans-le-rouge-apres-une-serie-de-resultats-mitiges-ucb-lanterne-rouge-du-bel-20/10633813.html",
+      "image": "https://www.lecho.be/echo/favicon-16x16.png",
+      "publishedAt": "2025-10-31T18:16:18Z",
+      "lang": "fr",
+      "source": {
+        "id": "5eca54a281f8fb040f8089593c1ae8bc",
+        "name": "L'Echo",
+        "url": "https://www.lecho.be",
+        "country": "fr"
+      }
+    },
     {
       "id": "c588116672149620c431963e9e0c91bc",
       "title": "Bourse Zurich: vague rouge attendue sur le SMI",
@@ -126,38 +158,6 @@
       "url": "https://www.zonebourse.com/actualite-bourse/l-italie-demande-a-la-bce-un-euro-plus-faible-pour-mieux-exporter-ce7d5cdbd08ff025",
       "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
       "publishedAt": "2025-10-31T14:12:12Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "ed9042dd8f006b91c181544013985098",
-      "title": "\" Il faut donner une nouvelle jeunesse à la protection maternelle et infantile \"",
-      "description": "TRIBUNE. Ce service public de prévention, en déshérence, faute notamment d’un investissement politique et financier suffisant par les pouvoirs publics, doit être revitalisé pour lutter contre la hausse inquiétante du taux de mortalité infantile en France et contre les inégalités de santé, alerte un collectif de professionnels dans une tribune au « Monde ».",
-      "content": "Il y a juste 80 ans, dans la foulée de la Sécurité sociale, étaient créées la santé scolaire et la protection maternelle et infantile (PMI), deux services publics de prévention universelle à destination des bébés, des enfants et des jeunes. L’ordonna... [1986 chars]",
-      "url": "https://www.lemonde.fr/idees/article/2025/10/31/il-faut-donner-une-nouvelle-jeunesse-a-la-protection-maternelle-et-infantile_6650604_3232.html",
-      "image": "https://img.lemde.fr/2025/10/03/0/0/1500/1000/1440/960/60/0/ebe8cbe_upload-1-mx6xhdqhfb76-frame-1400.jpg",
-      "publishedAt": "2025-10-31T13:00:06Z",
-      "lang": "fr",
-      "source": {
-        "id": "d72db178501ee94d88ea59fe10ef8079",
-        "name": "Le Monde.fr",
-        "url": "https://www.lemonde.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "e4bcf145cae29df31478555d1f09e8bf",
-      "title": "Le président de la Fed de Kansas City alerte sur les risques persistants d'inflation et la vigueur de l'économie",
-      "description": "Le président de la Réserve fédérale de Kansas City, Jeffrey Schmid, a déclaré vendredi avoir voté contre la baisse des taux d'intérêt cette semaine, exprimant ses inquiétudes face à une...\n-Le 31 octobre 2025 à 13:31\n- Zonebourse",
-      "content": "Le marché joue à se faire peur pour Halloween\nHier, probablement pour fêter la veille d'Halloween, les marchés américains ont joué à se faire peur avec une baisse assez marquée des valeurs technologiques. En soirée, les résultats d'Apple et Amazon on... [313 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/le-president-de-la-fed-de-kansas-city-alerte-sur-les-risques-persistants-d-inflation-et-la-vigueur-d-ce7d5cdbd188f223",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-31T12:31:18Z",
       "lang": "fr",
       "source": {
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
