@@ -4,8 +4,72 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25474,
+  "totalArticles": 25478,
   "articles": [
+    {
+      "id": "5d11ea72d2d58b65858844948ddd3632",
+      "title": "Aux États-Unis, l’inflation jugée \"trop élevée\" pour baisser les taux, selon un membre de la Fed",
+      "description": "Un responsable de la banque centrale américaine (Fed) a déclaré vendredi qu'il avait voté contre une baisse des taux directeurs plus tôt dans la...",
+      "content": "Un responsable de la banque centrale américaine (Fed) a déclaré vendredi qu'il avait voté contre une baisse des taux directeurs plus tôt dans la semaine, estimant que l'inflation était «trop élevée». Le président de la Fed de Kansas City, Jeff Schmid... [2574 chars]",
+      "url": "https://www.lefigaro.fr/flash-eco/aux-etats-unis-l-inflation-jugee-trop-elevee-pour-baisser-les-taux-selon-un-membre-de-la-fed-20251031",
+      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/31/59b86f8214b341ae7cddd78322f284b4864541f5c4351d3f1d2b5f87f7f64cf1.jpg",
+      "publishedAt": "2025-10-31T15:32:21Z",
+      "lang": "fr",
+      "source": {
+        "id": "f401cf643d772233735406ba09ca0d0b",
+        "name": "Le Figaro",
+        "url": "https://www.lefigaro.fr",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "47cc56063232fa4758f65bbfaee99188",
+      "title": "Avec un montant de 30 milliards de dollars, Meta signe une levée de dette record sur les marchés pour financer ses investissements dans l'IA",
+      "description": "(BFM Bourse) - La maison-mère de Facebook et d'Instagram a attiré une demande record sur le marché alors que la société compte investir massivement dans …",
+      "content": "(BFM Bourse) - La maison-mère de Facebook et d'Instagram a attiré une demande record sur le marché alors que la société compte investir massivement dans l'IA.\nL'essor de l'intelligence artificielle aux États-Unis continue d'alimenter les spéculations... [3040 chars]",
+      "url": "https://www.tradingsat.com/actualites/informations-societes/avec-un-montant-de-30-milliards-de-dollars-meta-signe-une-levee-de-dette-record-sur-les-marches-pour-financer-ses-investissements-dans-l-ia-1149665.html",
+      "image": "https://www.tradingsat.com/media/pictures/realsize/news/meta-681171.jpg",
+      "publishedAt": "2025-10-31T15:20:33Z",
+      "lang": "fr",
+      "source": {
+        "id": "2e8ae376e34f50a5cfc9cf58dc9db534",
+        "name": "BFM Bourse",
+        "url": "https://www.tradingsat.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "c6cb3e4f09005b314a3a042406bdc260",
+      "title": "La MTR de Hong Kong lance un programme d'émission de dette de 25 milliards de dollars",
+      "description": "La société MTR de Hong Kong a lancé un programme d'émission de dette d'un montant de 25 milliards de dollars, a annoncé l'entreprise dans un dépôt à la Bourse vendredi.\nL'opérateur...",
+      "content": "La société MTR de Hong Kong a lancé un programme d'émission de dette d'un montant de 25 milliards de dollars, a annoncé l'entreprise dans un dépôt à la Bourse vendredi.\nL'opérateur ferroviaire a déposé une demande auprès de la Bourse de Hong Kong pou... [306 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-mtr-de-hong-kong-lance-un-programme-d-emission-de-dette-de-25-milliards-de-dollars-ce7d5cd8d98bf724",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-31T15:10:16Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "beab930e892230bf3c651efb0d146574",
+      "title": "L'Italie demande à la BCE un euro plus faible pour mieux exporter",
+      "description": "Le chef de la diplomatie italienne Antonio Tajani a demandé vendredi à la Banque centrale européenne d'abaisser ses taux pour réduire la force de l'euro afin de faciliter les exportations.\nUn...\n-Le 31 octobre 2025 à 15:12\n- Zonebourse",
+      "content": "Rome (awp/afp) - Le chef de la diplomatie italienne Antonio Tajani a demandé vendredi à la Banque centrale européenne (BCE) d'abaisser ses taux pour \"réduire la force de l'euro\" afin de faciliter les exportations.\n\"Un dollar de plus en plus faible et... [1323 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/l-italie-demande-a-la-bce-un-euro-plus-faible-pour-mieux-exporter-ce7d5cdbd08ff025",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
+      "publishedAt": "2025-10-31T14:12:12Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "ed9042dd8f006b91c181544013985098",
       "title": "\" Il faut donner une nouvelle jeunesse à la protection maternelle et infantile \"",
@@ -94,70 +158,6 @@
       "url": "https://www.boursorama.com/actualite-economique/actualites/zone-euro-l-inflation-ralentit-a-2-1-en-octobre-conformement-aux-attentes-fd54cf553cd9a649f9abffd52d347363",
       "image": "https://www.boursorama.com/static/i/content/images/e/b/d/ebd84dcb8b08c0fb89c5df3a82a00628-1200x800.jpg",
       "publishedAt": "2025-10-31T11:17:27Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "18e02755d88a8ed8c48a867dfaa03349",
-      "title": "Zone euro : l'inflation ralentit en octobre à 2,1% sur un an",
-      "description": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE). La hausse des...",
-      "content": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE). La hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d'Eurostat publié ve... [1129 chars]",
-      "url": "https://www.lefigaro.fr/flash-eco/zone-euro-l-inflation-ralentit-en-octobre-a-2-1-sur-un-an-20251031",
-      "image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/10/31/510d362c83ea33a7bc16c37a52379b96faa2b56797bc99fdb7e0b27f9e6e2c31.jpg",
-      "publishedAt": "2025-10-31T10:58:22Z",
-      "lang": "fr",
-      "source": {
-        "id": "f401cf643d772233735406ba09ca0d0b",
-        "name": "Le Figaro",
-        "url": "https://www.lefigaro.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "6fa99a13f98a17a85d76d55b98f2a459",
-      "title": "Zone euro : l’inflation ralentit en octobre à 2,1% sur un an",
-      "description": "L'inflation annuelle dans la zone euro a légèrement ralenti en octobre, atteignant 2,1% contre 2,2% en septembre, se rapprochant ainsi de l'objectif fixé par la Banque centrale européenne (BCE). L'inflation sous-jacente est restée stable à 2,4%. Ce ralentissement intervient après une période de forte hausse des prix due notamment à la crise énergétique liée à la guerre en Ukraine. Malgré une inflation globalement maîtrisée, la BCE a maintenu son principal taux directeur inchangé, sa présidente Christine Lagarde mettant en avant les incertitudes persistantes liées au contexte économique mondial et aux risques de nouvelles perturbations sur les chaînes d’approvisionnement, l’export et la consommation.",
-      "content": "Bruxelles - L’inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l’objectif de la Banque centrale européenne (BCE).\nLa hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d’Eurost... [12857 chars]",
-      "url": "https://www.lopinion.fr/economie/zone-euro-linflation-ralentit-en-octobre-a-2-1-sur-un-an",
-      "image": "https://beymedias.brightspotcdn.com/dims4/default/3c55315/2147483647/strip/true/crop/1024x498+0+92/resize/1440x700!/quality/90/?url=https%3A%2F%2Fassets.beymedias.fr%2Fafp%2F0504011c7419828a74f256b0b92c8ef1c9f3d60c.jpeg",
-      "publishedAt": "2025-10-31T10:29:58Z",
-      "lang": "fr",
-      "source": {
-        "id": "1775966eb8106b18adce505f85009b83",
-        "name": "L'Opinion",
-        "url": "https://www.lopinion.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "28890ead5f47e1ad33b0e31531b8b957",
-      "title": "Zone euro: l’inflation ralentit en octobre à 2,1% sur un an",
-      "description": "L’inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l’objectif de la Banque centrale européenne (BCE).",
-      "content": "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.\nCertains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez... [447 chars]",
-      "url": "https://www.mediapart.fr/journal/fil-dactualites/311025/zone-euro-l-inflation-ralentit-en-octobre-21-sur-un",
-      "image": "https://www.mediapart.fr/assets/front/images/social/og_image/journal.png",
-      "publishedAt": "2025-10-31T10:18:49Z",
-      "lang": "fr",
-      "source": {
-        "id": "2c40603c04e5bd140ebf7a267c956542",
-        "name": "Mediapart",
-        "url": "https://www.mediapart.fr",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "1c77e899ab326f96d608dd195146e32e",
-      "title": "Zone euro: l'inflation ralentit en octobre à 2,1% sur un an",
-      "description": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE). La hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en s... - 31/10/2025 à 11:18 - Boursorama",
-      "content": "L'inflation a très légèrement ralenti en octobre dans la zone euro, en ligne avec l'objectif de la Banque centrale européenne (BCE).\nLa hausse des prix est ressortie à 2,1% sur un an, contre 2,2% en septembre, selon un communiqué d'Eurostat publié ve... [1129 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/zone-euro-l-inflation-ralentit-en-octobre-a-2-1-sur-un-an-50ae28c6efad1b063f2c1149b29e97ea",
-      "image": "https://www.boursorama.com/static/i/content/images/2/d/8/2d8b5dc407e562e8e81af1e87ab0b3b0-1200x800.jpg",
-      "publishedAt": "2025-10-31T10:18:42Z",
       "lang": "fr",
       "source": {
         "id": "2a840f1ace1f26acd93dcd1d0c7628de",
