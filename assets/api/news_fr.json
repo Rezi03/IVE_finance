@@ -4,8 +4,24 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25485,
+  "totalArticles": 25486,
   "articles": [
+    {
+      "id": "a6bec7e67824922825b525ed8f65d07c",
+      "title": "\"La taxe Zucman, c'était pour pouvoir faire passer ensuite réduire la croissance des prestations sociales françaises\", estime le dirigeant d'entreprise Nicolas Dufourcq",
+      "description": "Nicolas Dufourcq, directeur général de la Banque publique d’investissement, est l’invité du grand entretien de 19h30 sur Franceinfo, vendredi 31 octobre. Après un ouvrage sans concession sur la désindustrialisation, il s’attaque cette fois à un autre mal français : la dette sociale. Dans son nouveau livre \"La dette sociale (1974-2024) : diagnostic historique d’un déni collectif\", il revient sur cinquante ans d’erreurs politiques et de choix budgétaires qui ont plongé la France dans la spirale de l’endettement.",
+      "content": "Ce texte correspond à une partie de la retranscription de l’interview ci-dessus. Cliquez sur la vidéo pour la regarder en intégralité.\nMyriam Encaoua : Ce vendredi 31 octobre fut une journée très particulière avec des concessions lâchées par le Premi... [3423 chars]",
+      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/la-taxe-zucman-c-etait-pour-pouvoir-faire-passer-ensuite-reduire-la-croissance-des-prestations-sociales-francaises-estime-le-dirigeant-d-entreprise-nicolas-dufourcq_7587560.html",
+      "image": "https://www.franceinfo.fr/pictures/GuRngYt0_QqF-H5J6x_QjejmmyA/0x0:1920x1080/1500x843/2025/10/31/nicolas-dufourcq-690526a003f34774823396.jpg",
+      "publishedAt": "2025-10-31T21:14:12Z",
+      "lang": "fr",
+      "source": {
+        "id": "ff6fd13b5fe3aaad7b8577a8c2e82503",
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr",
+        "country": "fr"
+      }
+    },
     {
       "id": "5d5db03c310394520522c566894b003e",
       "title": "Les \" faucons \" de la Fed s'opposent à de nouvelles baisses de taux, tant cette semaine qu'en décembre",
@@ -147,22 +163,6 @@
         "id": "2e8ae376e34f50a5cfc9cf58dc9db534",
         "name": "BFM Bourse",
         "url": "https://www.tradingsat.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "c6cb3e4f09005b314a3a042406bdc260",
-      "title": "La MTR de Hong Kong lance un programme d'émission de dette de 25 milliards de dollars",
-      "description": "La société MTR de Hong Kong a lancé un programme d'émission de dette d'un montant de 25 milliards de dollars, a annoncé l'entreprise dans un dépôt à la Bourse vendredi.\nL'opérateur...",
-      "content": "La société MTR de Hong Kong a lancé un programme d'émission de dette d'un montant de 25 milliards de dollars, a annoncé l'entreprise dans un dépôt à la Bourse vendredi.\nL'opérateur ferroviaire a déposé une demande auprès de la Bourse de Hong Kong pou... [306 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-mtr-de-hong-kong-lance-un-programme-d-emission-de-dette-de-25-milliards-de-dollars-ce7d5cd8d98bf724",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
-      "publishedAt": "2025-10-31T15:10:16Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
         "country": "fr"
       }
     }
