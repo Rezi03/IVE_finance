@@ -4,8 +4,40 @@
       "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
     }
   },
-  "totalArticles": 25478,
+  "totalArticles": 25480,
   "articles": [
+    {
+      "id": "651104d754dd5fc92b57bf40bcd817f0",
+      "title": "La présidente de la Fed de Cleveland, Beth Hammack, s'oppose à la baisse des taux en raison des inquiétudes persistantes sur l'inflation",
+      "description": "La présidente de la Federal Reserve Bank de Cleveland, Beth Hammack, a déclaré vendredi qu'elle s'était opposée à une réduction des taux d'intérêt par la banque centrale cette semaine.\n«...\n-Le 31 octobre 2025 à 17:15\n- Zonebourse",
+      "content": "Le marché joue à se faire peur pour Halloween\nHier, probablement pour fêter la veille d'Halloween, les marchés américains ont joué à se faire peur avec une baisse assez marquée des valeurs technologiques. En soirée, les résultats d'Apple et Amazon on... [313 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/la-presidente-de-la-fed-de-cleveland-beth-hammack-s-oppose-a-la-baisse-des-taux-en-raison-des-inqu-ce7d5cd8d980f620",
+      "image": "https://www.zonebourse.com/images/twitter_ZB_fdblanc.png",
+      "publishedAt": "2025-10-31T16:15:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
+    {
+      "id": "741e2bb4143586f04fd7316df93ee83b",
+      "title": "USA: l\"inflation \"trop élevée\" pour baisser les taux",
+      "description": "Un responsable de la banque centrale américaine a déclaré vendredi qu'il avait voté contre une baisse des taux directeurs plus tôt dans la semaine, estimant que l'inflation était trop...",
+      "content": "Washington (awp/afp) - Un responsable de la banque centrale américaine (Fed) a déclaré vendredi qu'il avait voté contre une baisse des taux directeurs plus tôt dans la semaine, estimant que l'inflation était \"trop élevée\".\nLe président de la Fed de K... [2503 chars]",
+      "url": "https://www.zonebourse.com/actualite-bourse/usa-l-inflation-trop-elevee-pour-baisser-les-taux-ce7d5cd8d98ff224",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-09-07T133739Z_1_LYNXNPEC860SQ_RTROPTP_2_BRITAIN-EU.JPG",
+      "publishedAt": "2025-10-31T15:46:17Z",
+      "lang": "fr",
+      "source": {
+        "id": "751f3c368b1f812b6dcd550e65c6dd79",
+        "name": "Zonebourse.com",
+        "url": "https://www.zonebourse.com",
+        "country": "fr"
+      }
+    },
     {
       "id": "5d11ea72d2d58b65858844948ddd3632",
       "title": "Aux États-Unis, l’inflation jugée \"trop élevée\" pour baisser les taux, selon un membre de la Fed",
@@ -131,38 +163,6 @@
         "id": "751f3c368b1f812b6dcd550e65c6dd79",
         "name": "Zonebourse.com",
         "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "801883696591c1f2be4bc52aad4897f6",
-      "title": "La Banque centrale turque constate une hausse des anticipations d'inflation en octobre",
-      "description": "La Banque centrale de Turquie a déclaré vendredi que les risques liés à l'évolution récente des prix, notamment ceux des denrées alimentaires, se sont accentués et que les anticipations...\n-Le 31 octobre 2025 à 12:18\n- Zonebourse",
-      "content": "Le marché joue à se faire peur pour Halloween\nHier, probablement pour fêter la veille d'Halloween, les marchés américains ont joué à se faire peur avec une baisse assez marquée des valeurs technologiques. En soirée, les résultats d'Apple et Amazon on... [313 chars]",
-      "url": "https://www.zonebourse.com/actualite-bourse/la-banque-centrale-turque-constate-une-hausse-des-anticipations-d-inflation-en-octobre-ce7d5cdbdf81f521",
-      "image": "https://www.zonebourse.com/images/twitter_ZB_fdnoir.png",
-      "publishedAt": "2025-10-31T11:18:15Z",
-      "lang": "fr",
-      "source": {
-        "id": "751f3c368b1f812b6dcd550e65c6dd79",
-        "name": "Zonebourse.com",
-        "url": "https://www.zonebourse.com",
-        "country": "fr"
-      }
-    },
-    {
-      "id": "bf92eab428c65977682f79cbc027446f",
-      "title": "Zone euro: L'inflation ralentit à 2,1% en octobre, conformément aux attentes",
-      "description": "L'inflation dans la zone euro a légèrement ralenti en octobre, conformément aux attentes, ce qui devrait atténuer la pression sur la Banque centrale européenne (BCE) pour qu'elle réduise davantage ses... - 31/10/2025 à 12:17 - Boursorama",
-      "content": "L'inflation dans la zone euro a légèrement ralenti en octobre, conformément aux attentes, ce qui devrait atténuer la pression sur la Banque centrale européenne (BCE) pour qu'elle réduise davantage ses taux d'intérêt.\nL'indice des prix à la consommati... [1862 chars]",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/zone-euro-l-inflation-ralentit-a-2-1-en-octobre-conformement-aux-attentes-fd54cf553cd9a649f9abffd52d347363",
-      "image": "https://www.boursorama.com/static/i/content/images/e/b/d/ebd84dcb8b08c0fb89c5df3a82a00628-1200x800.jpg",
-      "publishedAt": "2025-10-31T11:17:27Z",
-      "lang": "fr",
-      "source": {
-        "id": "2a840f1ace1f26acd93dcd1d0c7628de",
-        "name": "Boursorama",
-        "url": "https://www.boursorama.com",
         "country": "fr"
       }
     }
